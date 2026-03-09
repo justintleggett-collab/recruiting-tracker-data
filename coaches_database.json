@@ -70,12 +70,6 @@
         "phone": ""
       },
       {
-        "name": "Christian Olea",
-        "title": "Student Assistant",
-        "email": "",
-        "phone": ""
-      },
-      {
         "name": "Dave Dawson",
         "title": "Dave Dawson Head Baseball Coach",
         "email": "",
@@ -1392,55 +1386,6 @@
         "email": "",
         "phone": "",
         "twitter": ""
-      },
-      {
-        "name": "Mike Bischoff, MS, LAT, ATC",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Ryan Marks",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Lateef Maddox",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jackson Frank",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Charles Kindred",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Olivia Zak",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Emily Restaino",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
       }
     ]
   },
@@ -1487,13 +1432,6 @@
     "schoolID": "FL-010",
     "schoolName": "University of Florida",
     "coaches": [
-      {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
       {
         "name": "Kevin O'Sullivan",
         "title": "",
@@ -1545,48 +1483,6 @@
       },
       {
         "name": "Buddy Munroe",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Edmund Boyd",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Ann Hughes",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Zach Cronin",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jarrett Schweim",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Orlando Prescott",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Brolin VanHuss",
         "title": "",
         "email": "",
         "phone": "",
@@ -2740,13 +2636,6 @@
     "schoolName": "Ball State University",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Rich Maloney",
         "title": "",
         "email": "",
@@ -3876,21 +3765,7 @@
         "twitter": ""
       },
       {
-        "name": "BASEBALL, M/W TRI",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Britney Woodhull-Smith",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "MBB, BASE, M/W GOLF, MSOC, MVB",
         "title": "",
         "email": "",
         "phone": "",
@@ -4085,14 +3960,7 @@
   {
     "schoolID": "LA-613515",
     "schoolName": "Louisiana State University (LSU)",
-    "coaches": [
-      {
-        "name": "LSU Football",
-        "title": "Head Coach",
-        "email": "",
-        "phone": ""
-      }
-    ]
+    "coaches": []
   },
   {
     "schoolID": "LA-657014",
@@ -4154,69 +4022,6 @@
       },
       {
         "name": "Drew Parsley",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Chris Watson",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Dan Takata",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "David Szymanski",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Garrett Belding",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jake Slaughter",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Ryan Harland",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Kellum Clark",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Drew Blaylock",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Evan Teer",
         "title": "",
         "email": "",
         "phone": "",
@@ -4289,13 +4094,6 @@
     "schoolName": "University of Louisiana at Lafayette",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Matt Deggs",
         "title": "",
         "email": "",
@@ -4346,48 +4144,6 @@
       },
       {
         "name": "Chris Domingue",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Terry Latiolais",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Brian Davis",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "James Lang",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Carter Munchrath",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Trey LaFleur",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Dylan Auzenne",
         "title": "",
         "email": "",
         "phone": "",
@@ -5340,13 +5096,6 @@
     "schoolName": "Eastern Michigan University",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Trevor Beerman",
         "title": "",
         "email": "",
@@ -5726,13 +5475,6 @@
       },
       {
         "name": "Zach Putnam",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Josh Rebandt",
         "title": "",
         "email": "",
         "phone": "",
@@ -6866,12 +6608,6 @@
     "schoolID": "NC-001",
     "schoolName": "Appalachian State University",
     "coaches": [
-      {
-        "name": "Contracts (Director",
-        "title": "Head Coach",
-        "email": "",
-        "phone": ""
-      },
       {
         "name": "Kermit Smith",
         "title": "Head Coach",
@@ -10954,13 +10690,6 @@
     "schoolName": "Kent State University",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Jeff Duncan",
         "title": "",
         "email": "",
@@ -11889,13 +11618,6 @@
     "schoolName": "University of Oklahoma",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Skip Johnson",
         "title": "",
         "email": "",
@@ -11946,55 +11668,6 @@
       },
       {
         "name": "Tyler Schwalbach",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Tim Overman",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Vince Rinaldi",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Coriann MacNeill",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jaye Rideaux",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Grant Stevens",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Bryce Madron",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Scott Mudler",
         "title": "",
         "email": "",
         "phone": "",
@@ -12930,42 +12603,6 @@
         "name": "Derek DeMaria",
         "title": "Director of Operations",
         "email": "deemer10@upenn.edu",
-        "phone": ""
-      },
-      {
-        "name": "Anthony Braun",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Cody Spence",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Danika Hoffman",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Kevin Bonner",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Rachel H. Kuperinsky",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Zack Zoller",
-        "title": "",
-        "email": "",
         "phone": ""
       }
     ]
@@ -14375,13 +14012,6 @@
     "schoolName": "Middle Tennessee State University",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Jerry Meyers",
         "title": "",
         "email": "",
@@ -14726,12 +14356,6 @@
       {
         "name": "Vanderbilt women's",
         "title": "Head Coach",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Men's Golf",
-        "title": "",
         "email": "",
         "phone": ""
       }
@@ -15131,13 +14755,6 @@
     "schoolName": "Texas A&M University",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Michael Earley",
         "title": "",
         "email": "",
@@ -15297,13 +14914,6 @@
         "email": "",
         "phone": "",
         "twitter": ""
-      },
-      {
-        "name": "Andrew Nilo",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
       }
     ]
   },
@@ -15372,13 +14982,6 @@
     "schoolName": "University of Houston",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Todd Whitting",
         "title": "",
         "email": "",
@@ -15429,41 +15032,6 @@
       },
       {
         "name": "Jason Burger",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Lance Perkins, MS, LAT, AT",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Cory Houston",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Tatum Gallenberger",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Averie Moes",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Hayden McLaughlin",
         "title": "",
         "email": "",
         "phone": "",
@@ -15523,13 +15091,6 @@
     "schoolID": "TX-492920",
     "schoolName": "University of Texas",
     "coaches": [
-      {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
       {
         "name": "Jim Schlossnagle",
         "title": "",
@@ -15893,13 +15454,6 @@
     "schoolName": "James Madison University",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Marlin Ikenberry",
         "title": "",
         "email": "",
@@ -15950,97 +15504,6 @@
       },
       {
         "name": "Carter Vaughn",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Logan Fitzgerald",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Sophie Hill",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Terrence Apted",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Dr. Robert Harmison",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Christian Howe",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Pete\t Johnson",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jonathan Leonard",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Alex Marinelli",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Matthew Mitcheroney",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Lindsay Orebaugh",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Kevin White",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Chat Terry",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Evan Rubinstein",
         "title": "",
         "email": "",
         "phone": "",
@@ -18432,13 +17895,6 @@
     "schoolName": "USC",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Andy Stankiewicz",
         "title": "",
         "email": "",
@@ -18587,13 +18043,6 @@
         "name": "Anthony Gilich",
         "title": "Assistant Coach (Infield/Recruiting)",
         "email": "agilich@berkeley.edu",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Andrew Evans",
-        "title": "Director of Camps / Video Coordinator",
-        "email": "andrewevans@berkeley.edu",
         "phone": "",
         "twitter": ""
       },
@@ -18773,13 +18222,6 @@
     "schoolName": "Long Beach State",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "TJ Bruce",
         "title": "",
         "email": "",
@@ -18942,13 +18384,6 @@
     "schoolName": "Saint Mary's",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Eric Valenzuela",
         "title": "",
         "email": "",
@@ -18999,41 +18434,6 @@
       },
       {
         "name": "Alex Greiner",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Anthony Orlando",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Angelina Gorini-Ramirez",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Kaylen Shimamoto",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Catalina Valenzuela",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jannelle Cervantes",
         "title": "",
         "email": "",
         "phone": "",
@@ -20554,13 +19954,6 @@
     "schoolName": "The George Washington University",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Gregg Ritchie",
         "title": "",
         "email": "",
@@ -20611,62 +20004,6 @@
       },
       {
         "name": "Charlie White",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jacob Reed",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "James Hellekjaer",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Ryan Gordon",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Mark Rappaport",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Evan Gibson",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Michael Sawula",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Connor Mayr",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jonah Digiacomo",
         "title": "",
         "email": "",
         "phone": "",
@@ -20725,13 +20062,6 @@
     "schoolID": "CT-100001",
     "schoolName": "University of Connecticut",
     "coaches": [
-      {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
       {
         "name": "Jim Penders",
         "title": "",
@@ -20934,13 +20264,6 @@
     "schoolName": "University of Georgia",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Wes Johnson",
         "title": "",
         "email": "",
@@ -20995,13 +20318,6 @@
     "schoolID": "GA-100003",
     "schoolName": "Mercer University",
     "coaches": [
-      {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
       {
         "name": "Craig Gibson",
         "title": "",
@@ -21079,13 +20395,6 @@
     "schoolName": "Georgia Southern University",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Rodney Hennon",
         "title": "",
         "email": "",
@@ -21136,55 +20445,6 @@
       },
       {
         "name": "Bradley Johnson",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Samantha Monaco",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Rebekah Leger",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Dr. Megan Byrd",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jace Aymond",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jack Kyle",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Hunter Lakey",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Charlie Ludwick",
         "title": "",
         "email": "",
         "phone": "",
@@ -21302,48 +20562,6 @@
       },
       {
         "name": "Nate Anderson",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jackson Abernathy",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Luke Treadway",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Thomas Bourne",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Oliver Courdin",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Luke Crisp",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Grant  Foree",
         "title": "",
         "email": "",
         "phone": "",
@@ -22034,13 +21252,6 @@
     "schoolID": "MA-100001",
     "schoolName": "Boston College",
     "coaches": [
-      {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
       {
         "name": "Todd Interdonato",
         "title": "",
@@ -23494,13 +22705,6 @@
     "schoolName": "Mississippi State University",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Brian O'Connor",
         "title": "",
         "email": "",
@@ -23576,13 +22780,6 @@
     "schoolID": "MS-100002",
     "schoolName": "University of Mississippi (Ole Miss)",
     "coaches": [
-      {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
       {
         "name": "Mike Bianco",
         "title": "",
@@ -23666,13 +22863,6 @@
     "schoolID": "MS-100003",
     "schoolName": "University of Southern Mississippi",
     "coaches": [
-      {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
       {
         "name": "Christian Ostrander",
         "title": "",
@@ -23982,13 +23172,6 @@
     "schoolID": "NH-100001",
     "schoolName": "Dartmouth College",
     "coaches": [
-      {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
       {
         "name": "Blake McFadden",
         "title": "",
@@ -24346,41 +23529,6 @@
         "email": "",
         "phone": "",
         "twitter": ""
-      },
-      {
-        "name": "Cameron Hougham",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jax Core",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Maddox Gerson",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Manolo Ordonez",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Ramsey Drake",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
       }
     ]
   },
@@ -24424,13 +23572,6 @@
     "schoolID": "OR-100001",
     "schoolName": "Oregon State University",
     "coaches": [
-      {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
       {
         "name": "Mitch Canham",
         "title": "",
@@ -24522,13 +23663,6 @@
     "schoolName": "University of Oregon",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Mark Wasikowski",
         "title": "",
         "email": "",
@@ -24579,48 +23713,6 @@
       },
       {
         "name": "Dan Straily",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Gavin Grant",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Cody Peterman",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "John Mitchell",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Janice Beck",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Lindsey Bingham",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Lisa  Perrett",
         "title": "",
         "email": "",
         "phone": "",
@@ -24935,13 +24027,6 @@
     "schoolName": "Brown University",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Frank Holbrook",
         "title": "",
         "email": "",
@@ -25225,13 +24310,6 @@
     "schoolName": "University of Utah",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Gary Henderson",
         "title": "",
         "email": "",
@@ -25286,104 +24364,6 @@
         "email": "",
         "phone": "",
         "twitter": ""
-      },
-      {
-        "name": "Anna Cruse",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Riley Welch",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Ryan Gallant",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Marlena Adams",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Miles Gage",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Austin Cook",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Ty Bates",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Tyler Miller",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jason Greco",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Emma Jentz",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Gavin Davis",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Ella Haas",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Marcus Matias",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jojo Rouvas",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
       }
     ]
   },
@@ -25392,1116 +24372,31 @@
     "schoolName": "Brigham Young University",
     "coaches": [
       {
-        "name": "MEN'S TEAMS",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Schedulefor Baseball",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Rosterfor Baseball",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Newsfor Baseball",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Tickets for Baseball",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "facebook for BaseballOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "twitter for BaseballOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "instagram for BaseballOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Schedulefor Basketball",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Rosterfor Basketball",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Newsfor Basketball",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Tickets for Basketball",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "facebook for BasketballOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "twitter for BasketballOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "instagram for BasketballOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Cross Country",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Schedulefor Cross Country",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Rosterfor Cross Country",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Newsfor Cross Country",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "facebook for Cross CountryOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "twitter for Cross CountryOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "instagram for Cross CountryOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Schedulefor Football",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Rosterfor Football",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Newsfor Football",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Tickets for Football",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "facebook for FootballOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "twitter for FootballOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "instagram for FootballOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Schedulefor Golf",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Rosterfor Golf",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Newsfor Golf",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "facebook for GolfOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "twitter for GolfOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "instagram for GolfOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Swimming & Diving",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Schedulefor Swimming & Diving",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Rosterfor Swimming & Diving",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Newsfor Swimming & Diving",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "facebook for Swimming & DivingOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "twitter for Swimming & DivingOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "instagram for Swimming & DivingOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Schedulefor Tennis",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Rosterfor Tennis",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Newsfor Tennis",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "facebook for TennisOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "twitter for TennisOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "instagram for TennisOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Track & Field",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Schedulefor Track & Field",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Rosterfor Track & Field",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Newsfor Track & Field",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "facebook for Track & FieldOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "twitter for Track & FieldOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "instagram for Track & FieldOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Schedulefor Volleyball",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Rosterfor Volleyball",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Newsfor Volleyball",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Tickets for Volleyball",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "facebook for VolleyballOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "twitter for VolleyballOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "instagram for VolleyballOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "WOMEN'S TEAMS",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Schedulefor Gymnastics",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Rosterfor Gymnastics",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Newsfor Gymnastics",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Tickets for Gymnastics",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "facebook for GymnasticsOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "twitter for GymnasticsOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "instagram for GymnasticsOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Schedulefor Soccer",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Rosterfor Soccer",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Newsfor Soccer",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Tickets for Soccer",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "facebook for SoccerOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "twitter for SoccerOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "instagram for SoccerOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Schedulefor Softball",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Rosterfor Softball",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Newsfor Softball",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Tickets for Softball",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "facebook for SoftballOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "twitter for SoftballOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "instagram for SoftballOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Cheer Squad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Rosterfor Cheer Squad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Newsfor Cheer Squad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "facebook for Cheer SquadOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "twitter for Cheer SquadOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "instagram for Cheer SquadOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Rosterfor Cougarettes",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Newsfor Cougarettes",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "facebook for CougarettesOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "twitter for CougarettesOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "instagram for CougarettesOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Newsfor Cosmo",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "facebook for CosmoOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "twitter for CosmoOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "instagram for CosmoOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "BUY & MANAGE TICKETS",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Buy Tickets",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Ticket Management",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "ROC PassOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Request Ticket Info",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "SeatGeek: Buy & Sell Tickets",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Football Seating Map (LES)Opens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "TICKET INFORMATION",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Ticket Central",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Mobile Ticket Guide",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "ParkingOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "PoliciesOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "MEN'S TICKETED SPORTS",
-        "title": "BaseballBasketballFootballVolleyball",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "WOMEN'S TICKETED SPORTS",
-        "title": "GymnasticsBasketballSoccerSoftballVolleyball",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "ABOUT BYU ATHLETICS",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Mission Statement",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "History and Traditions",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "BYU and Missionary Service",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "BYU and the Olympic Games",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Media Services",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Brand GuideOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "STAFF & COMPLIANCE",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Staff Directory",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Media Partners",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Policy on Nondiscrimination",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "BYU LicensingOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "STUDENT-ATHLETE SUPPORT",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Diversity, Inclusion & Belonging",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Academic Services",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Sport Psychology Services",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Sports Medicine",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Title IX",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "NIL & REVENUE SHARING",
-        "title": "BYU Athletics & NILHouse v. NCAA Settlement",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "BYU Athletics & NIL",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "House v. NCAA Settlement",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "STAY CONNECTED",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "BYU Cougars App",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Emails & NewslettersOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Social MediaOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "WATCH & LISTEN",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "How to Watch",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Fox Sports Live",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "BYUtv Sports",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Sirius XM Big 12 Radio",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "ATTENDING GAMES & EVENTS",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Visitors Guide",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Fan Code of Conduct",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Sports Camps & Clinics",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jr. Cougs",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "POSTER REQUEST",
-        "title": "Poster Request",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "COUGAR CLUB",
-        "title": "MembershipEvents",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "CORPORATE SPONSORS",
-        "title": "Corporate SponsorshipRequest Information",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Corporate Sponsorship",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Request Information",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "LIFE AT BYU",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Royal Blue Collective",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Strength & Condtioning",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "name": "Trent Pratt",
+        "title": "Head Coach",
+        "email": "trent_pratt@byu.edu",
+        "phone": "801-422-2584",
+        "twitter": "@tp_pratt"
       },
       {
-        "name": "MEN'S SPORTS QUESTIONAIRE",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "name": "Nate Rasmussen",
+        "title": "Associate Head Coach / Recruiting Coordinator",
+        "email": "nate_rasmussen@byu.edu",
+        "phone": "801-422-2584",
         "twitter": ""
       },
       {
-        "name": "WOMEN'S SPORTS QUESTIONAIRE",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "name": "Mike Littlewood",
+        "title": "Director of Baseball Operations",
+        "email": "mike_littlewood@byu.edu",
+        "phone": "801-422-2584",
         "twitter": ""
       },
       {
-        "name": "ShopOpens in a new window",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "name": "Kellen Chaffin",
+        "title": "Assistant Coach",
+        "email": "kellen_chaffin@byu.edu",
+        "phone": "801-422-2584",
         "twitter": ""
       }
     ]
@@ -26565,83 +24460,6 @@
         "email": "",
         "phone": "",
         "twitter": ""
-      },
-      {
-        "name": "Andrew Cherrington",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Michael Forgione",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Ryan Pickens",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Brittni Whitesides",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Dr. Clint Norseth",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Kaylee Wasco",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Kenedee Goulding",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Nate Mathis",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Milo Miller",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Maxton  Peck",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Shaw Smith",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
       }
     ]
   },
@@ -26700,55 +24518,6 @@
       },
       {
         "name": "Mike Corbett",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Dom Fassio",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Kaleb Newby",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Liz Towers",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jake Vuoso",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Ron  Chamberlain",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Lucy Sorenson",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Christian S. Millward",
         "title": "",
         "email": "",
         "phone": "",
@@ -26878,13 +24647,6 @@
     "schoolName": "University of Washington",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Eddie Smith",
         "title": "",
         "email": "",
@@ -26947,22 +24709,8 @@
     "schoolName": "Washington State University",
     "coaches": [
       {
-        "name": "Skip Ad",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Grand Canyon",
         "title": "Mar 20(Fri)",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Buy From$6+",
-        "title": "",
         "email": "",
         "phone": "",
         "twitter": ""
@@ -27011,69 +24759,6 @@
       },
       {
         "name": "Jace Puckett, MSAT, LAT, ATC",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jake Needham",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Nate Weber",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Avery Anderson",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Owen Leigh",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Elias Viera",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Natalia Nayes",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Preston James",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Billy MacCulloch",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Kyle White",
         "title": "",
         "email": "",
         "phone": "",

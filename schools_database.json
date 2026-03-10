@@ -221,7 +221,8 @@
     "acceptanceRate": 96.5,
     "enrollment": 5468,
     "retentionRate": 77.8,
-    "graduationRate": 53.1
+    "graduationRate": 53.1,
+    "twitterURL": "@UNA_Baseball"
   },
   {
     "schoolID": "AL-university-of-south-alabama",
@@ -320,7 +321,8 @@
     "acceptanceRate": 57.7,
     "enrollment": 4740,
     "retentionRate": 71.5,
-    "graduationRate": 41.7
+    "graduationRate": 41.7,
+    "twitterURL": "@LittleRockBSB"
   },
   {
     "schoolID": "AR-university-of-central-arkansas",
@@ -344,7 +346,8 @@
     "acceptanceRate": 90.5,
     "enrollment": 7426,
     "retentionRate": 73.4,
-    "graduationRate": 51.7
+    "graduationRate": 51.7,
+    "twitterURL": "@UCABaseball"
   },
   {
     "schoolID": "AZ-arizona-state-university",
@@ -393,7 +396,8 @@
     "acceptanceRate": 60.4,
     "enrollment": 68619,
     "retentionRate": 68.4,
-    "graduationRate": 44.0
+    "graduationRate": 44.0,
+    "twitterURL": "@GCU_Baseball"
   },
   {
     "schoolID": "AZ-university-of-arizona",
@@ -505,7 +509,8 @@
     "acceptanceRate": 73.6,
     "enrollment": 7914,
     "retentionRate": 74.2,
-    "graduationRate": 61.2
+    "graduationRate": 61.2,
+    "twitterURL": "@CBUbaseball"
   },
   {
     "schoolID": "CA-cal-poly-slo",
@@ -542,7 +547,8 @@
     "acceptanceRate": 96.4,
     "enrollment": 21070,
     "retentionRate": 77.8,
-    "graduationRate": 55.5
+    "graduationRate": 55.5,
+    "twitterURL": "@FresnoStateBSB"
   },
   {
     "schoolID": "CA-lmu",
@@ -629,7 +635,8 @@
     "acceptanceRate": 93.6,
     "enrollment": 27867,
     "retentionRate": 81.1,
-    "graduationRate": 55.1
+    "graduationRate": 55.1,
+    "twitterURL": "@SacStBaseball"
   },
   {
     "schoolID": "CA-saint-mary-s",
@@ -678,7 +685,8 @@
     "acceptanceRate": 34.4,
     "enrollment": 33654,
     "retentionRate": 90.3,
-    "graduationRate": 78.1
+    "graduationRate": 78.1,
+    "twitterURL": "@AztecBaseball"
   },
   {
     "schoolID": "CA-san-jose-state",
@@ -702,7 +710,8 @@
     "acceptanceRate": 80.2,
     "enrollment": 26757,
     "retentionRate": 86.4,
-    "graduationRate": 66.2
+    "graduationRate": 66.2,
+    "twitterURL": "@SanJoseStateBSB"
   },
   {
     "schoolID": "CA-santa-clara",
@@ -762,7 +771,7 @@
     "division": "D1",
     "conference": "ACC",
     "website": "https://www.calbears.com",
-    "teamPageURL": "https://www.calbears.com",
+    "teamPageURL": "calbears.com/sports/baseball",
     "campURL": "https://www.calbaseballcamps.com",
     "aliases": "Cal, UC Berkeley, Berkeley, Golden Bears, Bears",
     "inStateTuition": 14850,
@@ -876,7 +885,8 @@
     "acceptanceRate": 24.5,
     "enrollment": 33787,
     "retentionRate": 93.9,
-    "graduationRate": 87.7
+    "graduationRate": 87.7,
+    "twitterURL": "@UCSDbsb"
   },
   {
     "schoolID": "CA-uc-santa-barbara",
@@ -1000,7 +1010,8 @@
     "acceptanceRate": 50.8,
     "enrollment": 5697,
     "retentionRate": 80.1,
-    "graduationRate": 72.8
+    "graduationRate": 72.8,
+    "twitterURL": "@USFDonsBSB"
   },
   {
     "schoolID": "CA-university-of-the-pacific",
@@ -1024,7 +1035,8 @@
     "acceptanceRate": 94.9,
     "enrollment": 3247,
     "retentionRate": 88.6,
-    "graduationRate": 70.5
+    "graduationRate": 70.5,
+    "twitterURL": "@PacificBaseball"
   },
   {
     "schoolName": "United States Air Force Academy",
@@ -1048,7 +1060,8 @@
     "acceptanceRate": 13.9,
     "enrollment": 4124,
     "retentionRate": 95.5,
-    "graduationRate": 93.8
+    "graduationRate": 93.8,
+    "twitterURL": "@AF_Baseball"
   },
   {
     "schoolID": "CO-university-of-northern-colorado",
@@ -1072,7 +1085,8 @@
     "acceptanceRate": 86.4,
     "enrollment": 5693,
     "retentionRate": 74.4,
-    "graduationRate": 51.6
+    "graduationRate": 51.6,
+    "twitterURL": "@UNC_BearsBSB"
   },
   {
     "schoolName": "Central Connecticut State University",
@@ -1096,7 +1110,8 @@
     "acceptanceRate": 75.5,
     "enrollment": 7670,
     "retentionRate": 78.6,
-    "graduationRate": 51.3
+    "graduationRate": 51.3,
+    "twitterURL": "@CCSU_Baseball"
   },
   {
     "schoolName": "Fairfield University",
@@ -1170,7 +1185,8 @@
     "acceptanceRate": 67.7,
     "enrollment": 6904,
     "retentionRate": 84.8,
-    "graduationRate": 73.7
+    "graduationRate": 73.7,
+    "twitterURL": "@SHU_Baseball"
   },
   {
     "schoolID": "CT-university-of-connecticut",
@@ -1532,7 +1548,8 @@
     "acceptanceRate": 86.4,
     "enrollment": 2292,
     "retentionRate": 72.8,
-    "graduationRate": 63.2
+    "graduationRate": 63.2,
+    "twitterURL": "@StetsonBaseball"
   },
   {
     "schoolID": "FL-university-of-central-florida",
@@ -1631,7 +1648,8 @@
     "acceptanceRate": 62.3,
     "enrollment": 13915,
     "retentionRate": 81.2,
-    "graduationRate": 68.0
+    "graduationRate": 68.0,
+    "twitterURL": "@OspreyBSB"
   },
   {
     "schoolID": "FL-university-of-south-florida",
@@ -1816,9 +1834,9 @@
     "division": "D1",
     "conference": "Big West",
     "website": "",
-    "teamPageURL": "https://hawaiiathletics.com/sports/baseball",
+    "teamPageURL": "hawaiiathletics.com/sports/baseball",
     "campURL": "https://rainbowwarriorbaseballcamps.totalcamps.com/",
-    "aliases": "Hawai'i Manoa, Hawai'i at Manoa, UHM",
+    "aliases": "Hawai'i Manoa, Hawai'i at Manoa, UHM, University of Hawaii",
     "twitterURL": "@HawaiiBaseball"
   },
   {
@@ -1893,7 +1911,8 @@
     "acceptanceRate": 67.8,
     "enrollment": 4398,
     "retentionRate": 70.0,
-    "graduationRate": 50.2
+    "graduationRate": 50.2,
+    "twitterURL": "@EIU_Baseball"
   },
   {
     "schoolID": "IL-illinois-state-university",
@@ -1917,7 +1936,8 @@
     "acceptanceRate": 89.0,
     "enrollment": 18414,
     "retentionRate": 81.3,
-    "graduationRate": 66.7
+    "graduationRate": 66.7,
+    "twitterURL": "@RedbirdBaseball"
   },
   {
     "schoolID": "IL-northern-illinois-university",
@@ -1991,7 +2011,8 @@
     "acceptanceRate": 90.4,
     "enrollment": 8116,
     "retentionRate": 68.7,
-    "graduationRate": 52.5
+    "graduationRate": 52.5,
+    "twitterURL": "@SIU_Baseball"
   },
   {
     "schoolID": "IL-southern-illinois-university-edwardsville",
@@ -2328,7 +2349,8 @@
     "acceptanceRate": 94.7,
     "enrollment": 5344,
     "retentionRate": 69.5,
-    "graduationRate": 51.5
+    "graduationRate": 51.5,
+    "twitterURL": "@USI_Baseball"
   },
   {
     "schoolID": "IN-valparaiso-university",
@@ -2452,7 +2474,8 @@
     "acceptanceRate": 93.6,
     "enrollment": 2286,
     "retentionRate": 75.1,
-    "graduationRate": 63.9
+    "graduationRate": 63.9,
+    "twitterURL": "@BUKnightsBSB"
   },
   {
     "schoolID": "KY-eastern-kentucky-university",
@@ -2476,7 +2499,8 @@
     "acceptanceRate": 78.1,
     "enrollment": 11674,
     "retentionRate": 79.6,
-    "graduationRate": 49.5
+    "graduationRate": 49.5,
+    "twitterURL": "@EKUBaseball"
   },
   {
     "schoolID": "KY-morehead-state-university",
@@ -2500,7 +2524,8 @@
     "acceptanceRate": 82.1,
     "enrollment": 4689,
     "retentionRate": 69.5,
-    "graduationRate": 47.5
+    "graduationRate": 47.5,
+    "twitterURL": "@MSUEaglesBsB"
   },
   {
     "schoolID": "KY-murray-state-university",
@@ -2524,7 +2549,8 @@
     "acceptanceRate": 86.2,
     "enrollment": 6646,
     "retentionRate": 76.1,
-    "graduationRate": 59.0
+    "graduationRate": 59.0,
+    "twitterURL": "@RacersBaseball"
   },
   {
     "schoolID": "KY-northern-kentucky-university",
@@ -3448,7 +3474,8 @@
     "acceptanceRate": null,
     "enrollment": null,
     "retentionRate": null,
-    "graduationRate": null
+    "graduationRate": null,
+    "twitterURL": "@WMUBaseball"
   },
   {
     "schoolID": "MN-university-of-minnesota",
@@ -3547,7 +3574,8 @@
     "acceptanceRate": 81.5,
     "enrollment": 7324,
     "retentionRate": 88.7,
-    "graduationRate": 80.5
+    "graduationRate": 80.5,
+    "twitterURL": "@SLUBaseball"
   },
   {
     "schoolID": "MO-southeast-missouri-state-university",
@@ -3571,7 +3599,8 @@
     "acceptanceRate": 78.5,
     "enrollment": 6588,
     "retentionRate": 75.8,
-    "graduationRate": 56.0
+    "graduationRate": 56.0,
+    "twitterURL": "@SEMObaseball"
   },
   {
     "schoolID": "MO-university-of-missouri",
@@ -4008,7 +4037,8 @@
     "acceptanceRate": 67.7,
     "enrollment": 1362,
     "retentionRate": 75.8,
-    "graduationRate": 67.0
+    "graduationRate": 67.0,
+    "twitterURL": "@QueensBaseball"
   },
   {
     "schoolID": "NC-unc-asheville",
@@ -4032,7 +4062,8 @@
     "acceptanceRate": 93.9,
     "enrollment": 2790,
     "retentionRate": 73.4,
-    "graduationRate": 56.8
+    "graduationRate": 56.8,
+    "twitterURL": "@UNCABaseball"
   },
   {
     "schoolID": "NC-unc-charlotte",
@@ -4285,19 +4316,6 @@
     "graduationRate": 48.3
   },
   {
-    "schoolID": "NE-university-of-nebraskaalincoln",
-    "schoolName": "University of Nebraskaâ€“Lincoln",
-    "city": "Lincoln",
-    "state": "NE",
-    "division": "D1",
-    "conference": "Big Ten",
-    "website": "",
-    "teamPageURL": "https://www.huskers.com/sports/baseball",
-    "campURL": "https://www.huskers.com/sports/baseball/camps",
-    "aliases": "Nebraskaâ€“Lincoln, U of Nebraskaâ€“Lincoln",
-    "twitterURL": "@HuskerBaseball"
-  },
-  {
     "schoolID": "NH-dartmouth-college",
     "schoolName": "Dartmouth College",
     "city": "Hanover",
@@ -4369,7 +4387,8 @@
     "acceptanceRate": 95.9,
     "enrollment": 2578,
     "retentionRate": 75.8,
-    "graduationRate": 57.3
+    "graduationRate": 57.3,
+    "twitterURL": "@FDUKnightsBSB"
   },
   {
     "schoolID": "NJ-monmouth-university",
@@ -4520,19 +4539,6 @@
     "enrollment": 1939,
     "retentionRate": 71.6,
     "graduationRate": 61.7
-  },
-  {
-    "schoolID": "NJ-saint-peteratms-university",
-    "schoolName": "Saint Peterâ€™s University",
-    "city": "Jersey City",
-    "state": "NJ",
-    "division": "D1",
-    "conference": "MAAC",
-    "website": "",
-    "teamPageURL": "https://www.saintpeterspeacocks.com/sports/baseball",
-    "campURL": "https://www.saintpeterspeacocks.com/sports/baseball/camps",
-    "aliases": "Saint",
-    "twitterURL": "@PeacocksBSB"
   },
   {
     "schoolID": "NJ-seton-hall-university",
@@ -4756,7 +4762,8 @@
     "acceptanceRate": null,
     "enrollment": null,
     "retentionRate": null,
-    "graduationRate": null
+    "graduationRate": null,
+    "twitterURL": "@CornellBaseball"
   },
   {
     "schoolID": "NY-fordham-university",
@@ -5005,7 +5012,8 @@
     "acceptanceRate": 79.7,
     "enrollment": 9742,
     "retentionRate": 79.9,
-    "graduationRate": 68.9
+    "graduationRate": 68.9,
+    "twitterURL": "@StJohnsBaseball"
   },
   {
     "schoolID": "NY-stony-brook-university",
@@ -5104,7 +5112,8 @@
     "acceptanceRate": 83.5,
     "enrollment": 1579,
     "retentionRate": 81.7,
-    "graduationRate": 64.9
+    "graduationRate": 64.9,
+    "twitterURL": "@WagnerBaseball"
   },
   {
     "schoolID": "OH-bowling-green-state-university",
@@ -5128,7 +5137,8 @@
     "acceptanceRate": null,
     "enrollment": 1134,
     "retentionRate": 56.2,
-    "graduationRate": 11.0
+    "graduationRate": 11.0,
+    "twitterURL": "@BGSU_Baseball"
   },
   {
     "schoolID": "OH-kent-state-university",
@@ -5152,7 +5162,8 @@
     "acceptanceRate": 86.7,
     "enrollment": 19134,
     "retentionRate": 78.8,
-    "graduationRate": 65.1
+    "graduationRate": 65.1,
+    "twitterURL": "@KentStBaseball"
   },
   {
     "schoolID": "OH-miami-university-ohio",
@@ -5176,7 +5187,8 @@
     "acceptanceRate": 82.1,
     "enrollment": 16361,
     "retentionRate": 89.5,
-    "graduationRate": 81.3
+    "graduationRate": 81.3,
+    "twitterURL": "@MiamiOH_Baseball"
   },
   {
     "schoolID": "OH-ohio-university",
@@ -5200,7 +5212,8 @@
     "acceptanceRate": 56.5,
     "enrollment": 1100,
     "retentionRate": 76.0,
-    "graduationRate": 52.9
+    "graduationRate": 52.9,
+    "twitterURL": "@Ohio_Baseball"
   },
   {
     "schoolID": "OH-the-ohio-state-university",
@@ -5237,7 +5250,8 @@
     "acceptanceRate": 70.9,
     "enrollment": 10011,
     "retentionRate": 73.0,
-    "graduationRate": 48.0
+    "graduationRate": 48.0,
+    "twitterURL": "@ZipsBSB"
   },
   {
     "schoolID": "OH-university-of-cincinnati",
@@ -5311,7 +5325,8 @@
     "acceptanceRate": 94.8,
     "enrollment": 10244,
     "retentionRate": 75.9,
-    "graduationRate": 55.2
+    "graduationRate": 55.2,
+    "twitterURL": "@ToledoBaseball"
   },
   {
     "schoolID": "OH-wright-state-university",
@@ -5360,7 +5375,8 @@
     "acceptanceRate": 87.7,
     "enrollment": 4723,
     "retentionRate": 82.8,
-    "graduationRate": 72.0
+    "graduationRate": 72.0,
+    "twitterURL": "@XavierBASE"
   },
   {
     "schoolID": "OH-youngstown-state-university",
@@ -5659,7 +5675,8 @@
     "acceptanceRate": 76.9,
     "enrollment": 1525,
     "retentionRate": 88.4,
-    "graduationRate": 72.2
+    "graduationRate": 72.2,
+    "twitterURL": "@SFUFlashBSB"
   },
   {
     "schoolID": "PA-saint-joseph-s-university",
@@ -5708,7 +5725,8 @@
     "acceptanceRate": 5.9,
     "enrollment": 10768,
     "retentionRate": 98.1,
-    "graduationRate": 96.5
+    "graduationRate": 96.5,
+    "twitterURL": "@PennBaseball"
   },
   {
     "schoolID": "PA-university-of-pittsburgh",
@@ -5782,7 +5800,8 @@
     "acceptanceRate": 5.2,
     "enrollment": 7273,
     "retentionRate": 98.7,
-    "graduationRate": 95.5
+    "graduationRate": 95.5,
+    "twitterURL": "@BrownU_Baseball"
   },
   {
     "schoolID": "RI-bryant-university",
@@ -5831,7 +5850,8 @@
     "acceptanceRate": 48.7,
     "enrollment": 4170,
     "retentionRate": 91.2,
-    "graduationRate": 86.7
+    "graduationRate": 86.7,
+    "twitterURL": "@FriarsBSB"
   },
   {
     "schoolID": "RI-university-of-rhode-island",
@@ -5980,7 +6000,8 @@
     "acceptanceRate": 72.3,
     "enrollment": 862,
     "retentionRate": 74.0,
-    "graduationRate": 62.7
+    "graduationRate": 62.7,
+    "twitterURL": "@PresbyterianBSB"
   },
   {
     "schoolID": "SC-the-citadel",
@@ -6993,7 +7014,8 @@
     "acceptanceRate": null,
     "enrollment": 15619,
     "retentionRate": 66.6,
-    "graduationRate": 42.6
+    "graduationRate": 42.6,
+    "twitterURL": "@WeberStateBSB"
   },
   {
     "schoolID": "VA-george-mason-university",
@@ -7067,7 +7089,8 @@
     "acceptanceRate": 99.3,
     "enrollment": 50059,
     "retentionRate": 78.8,
-    "graduationRate": 64.5
+    "graduationRate": 64.5,
+    "twitterURL": "@LibertyBaseball"
   },
   {
     "schoolID": "VA-longwood-university",
@@ -7468,19 +7491,6 @@
     "enrollment": 16762,
     "retentionRate": 72.1,
     "graduationRate": 49.6
-  },
-  {
-    "schoolID": "WI-university-of-wisconsinamilwaukee",
-    "schoolName": "University of Wisconsinâ€“Milwaukee",
-    "city": "Milwaukee",
-    "state": "WI",
-    "division": "D1",
-    "conference": "Horizon League",
-    "website": "",
-    "teamPageURL": "https://www.mkepanthers.com/sports/baseball",
-    "campURL": "https://www.mkepanthers.com/sports/baseball/camps",
-    "aliases": "Wisconsinâ€“Milwaukee, U of Wisconsinâ€“Milwaukee",
-    "twitterURL": "@mkepanthers"
   },
   {
     "schoolID": "WV-marshall-university",
@@ -10797,18 +10807,6 @@
     "graduationRate": 55.0
   },
   {
-    "schoolID": "NY-datmyouville-university",
-    "schoolName": "Dâ€™Youville University",
-    "city": "Buffalo",
-    "state": "NY",
-    "division": "D2",
-    "conference": "ECC",
-    "website": "",
-    "teamPageURL": "https://www.athletics.dyu.edu/sports/baseball",
-    "campURL": "https://www.athletics.dyu.edu/sports/baseball/camps",
-    "aliases": "Dâ€™Youville"
-  },
-  {
     "schoolID": "NY-le-moyne-college",
     "schoolName": "Le Moyne College",
     "city": "Syracuse",
@@ -10830,7 +10828,8 @@
     "acceptanceRate": 75.3,
     "enrollment": 2434,
     "retentionRate": 84.2,
-    "graduationRate": 71.8
+    "graduationRate": 71.8,
+    "twitterURL": "@LeMoyneBaseball"
   },
   {
     "schoolID": "NY-mercy-university",
@@ -11925,18 +11924,6 @@
     "graduationRate": 57.0
   },
   {
-    "schoolID": "TN-carsonanewman-university",
-    "schoolName": "Carsonâ€“Newman University",
-    "city": "Jefferson City",
-    "state": "TN",
-    "division": "D2",
-    "conference": "South Atlantic Conference (SAC)",
-    "website": "",
-    "teamPageURL": "https://www.cneagles.com/sports/baseball",
-    "campURL": "https://www.cneagles.com/sports/baseball/camps",
-    "aliases": "Carsonâ€“Newman"
-  },
-  {
     "schoolID": "TN-christian-brothers-university",
     "schoolName": "Christian Brothers University",
     "city": "Memphis",
@@ -12355,18 +12342,6 @@
     "enrollment": 1254,
     "retentionRate": 73.3,
     "graduationRate": 58.5
-  },
-  {
-    "schoolID": "WI-university-of-wisconsinaparkside",
-    "schoolName": "University of Wisconsinâ€“Parkside",
-    "city": "Kenosha",
-    "state": "WI",
-    "division": "D2",
-    "conference": "GLIAC",
-    "website": "",
-    "teamPageURL": "https://www.parksiderangers.com/sports/baseball",
-    "campURL": "https://www.parksiderangers.com/sports/baseball/camps",
-    "aliases": "Wisconsinâ€“Parkside, U of Wisconsinâ€“Parkside"
   },
   {
     "schoolID": "WV-concord-university",
@@ -15537,18 +15512,6 @@
     "graduationRate": 65.0
   },
   {
-    "schoolID": "MN-concordia-collegeamoorhead",
-    "schoolName": "Concordia Collegeâ€“Moorhead",
-    "city": "Moorhead",
-    "state": "MN",
-    "division": "D3",
-    "conference": "Minnesota Intercollegiate Athletic Conference (MIAC)",
-    "website": "",
-    "teamPageURL": "https://www.concordiamn.prestosports.com/sports/baseball",
-    "campURL": "https://www.concordiamn.prestosports.com/sports/baseball/camps",
-    "aliases": "Concordia"
-  },
-  {
     "schoolID": "MN-crown-college-mn",
     "schoolName": "Crown College (MN)",
     "city": "St. Bonifacius",
@@ -16435,30 +16398,6 @@
     "enrollment": 14647,
     "retentionRate": 81.6,
     "graduationRate": 68.2
-  },
-  {
-    "schoolID": "NJ-rutgers-universityacamden",
-    "schoolName": "Rutgers Universityâ€“Camden",
-    "city": "Camden",
-    "state": "NJ",
-    "division": "D3",
-    "conference": "NJAC",
-    "website": "",
-    "teamPageURL": "https://www.scarletraptors.com/sports/baseball",
-    "campURL": "https://www.scarletraptors.com/sports/baseball/camps",
-    "aliases": "Rutgers"
-  },
-  {
-    "schoolID": "NJ-rutgers-universityanewark",
-    "schoolName": "Rutgers Universityâ€“Newark",
-    "city": "Newark",
-    "state": "NJ",
-    "division": "D3",
-    "conference": "NJAC",
-    "website": "",
-    "teamPageURL": "https://www.rutgersnewarkathletics.com/sports/baseball",
-    "campURL": "https://www.rutgersnewarkathletics.com/sports/baseball/camps",
-    "aliases": "Rutgers"
   },
   {
     "schoolID": "NJ-stevens-institute-of-technology",
@@ -17666,7 +17605,7 @@
     "city": "Washington",
     "state": "PA",
     "division": "D3",
-    "conference": "Presidentsâ€™ Athletic Conference (PAC)",
+    "conference": "Presidents' Athletic Conference (PAC)",
     "website": "",
     "teamPageURL": "https://www.gopresidents.com/sports/baseball",
     "campURL": "https://www.gopresidents.com/sports/baseball/camps",
@@ -18703,102 +18642,6 @@
     "enrollment": 2607,
     "retentionRate": 83.2,
     "graduationRate": 71.3
-  },
-  {
-    "schoolID": "WI-university-of-wisconsinaeau-claire",
-    "schoolName": "University of Wisconsinâ€“Eau Claire",
-    "city": "Eau Claire",
-    "state": "WI",
-    "division": "D3",
-    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
-    "website": "",
-    "teamPageURL": "https://www.blugolds.com/sports/baseball",
-    "campURL": "https://www.blugolds.com/sports/baseball/camps",
-    "aliases": "WC, Wisconsinâ€“Eau Claire, U of Wisconsinâ€“Eau Claire"
-  },
-  {
-    "schoolID": "WI-university-of-wisconsinala-crosse",
-    "schoolName": "University of Wisconsinâ€“La Crosse",
-    "city": "La Crosse",
-    "state": "WI",
-    "division": "D3",
-    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
-    "website": "",
-    "teamPageURL": "https://www.uwlathletics.com/sports/baseball",
-    "campURL": "https://www.uwlathletics.com/sports/baseball/camps",
-    "aliases": "WC, Wisconsinâ€“La Crosse, U of Wisconsinâ€“La Crosse"
-  },
-  {
-    "schoolID": "WI-university-of-wisconsinaoshkosh",
-    "schoolName": "University of Wisconsinâ€“Oshkosh",
-    "city": "Oshkosh",
-    "state": "WI",
-    "division": "D3",
-    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
-    "website": "",
-    "teamPageURL": "https://www.uwoshkoshtitans.com/sports/baseball",
-    "campURL": "https://www.uwoshkoshtitans.com/sports/baseball/camps",
-    "aliases": "Wisconsinâ€“Oshkosh, U of Wisconsinâ€“Oshkosh"
-  },
-  {
-    "schoolID": "WI-university-of-wisconsinaplatteville",
-    "schoolName": "University of Wisconsinâ€“Platteville",
-    "city": "Platteville",
-    "state": "WI",
-    "division": "D3",
-    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
-    "website": "",
-    "teamPageURL": "https://www.letsgopioneers.com/sports/baseball",
-    "campURL": "https://www.letsgopioneers.com/sports/baseball/camps",
-    "aliases": "Wisconsinâ€“Platteville, U of Wisconsinâ€“Platteville"
-  },
-  {
-    "schoolID": "WI-university-of-wisconsinariver-falls",
-    "schoolName": "University of Wisconsinâ€“River Falls",
-    "city": "River Falls",
-    "state": "WI",
-    "division": "D3",
-    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
-    "website": "",
-    "teamPageURL": "https://www.uwrfsports.com/sports/baseball",
-    "campURL": "https://www.uwrfsports.com/sports/baseball/camps",
-    "aliases": "WF, Wisconsinâ€“River Falls, U of Wisconsinâ€“River Falls"
-  },
-  {
-    "schoolID": "WI-university-of-wisconsinastevens-point",
-    "schoolName": "University of Wisconsinâ€“Stevens Point",
-    "city": "Stevens Point",
-    "state": "WI",
-    "division": "D3",
-    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
-    "website": "",
-    "teamPageURL": "https://www.athletics.uwsp.edu/sports/baseball",
-    "campURL": "https://www.athletics.uwsp.edu/sports/baseball/camps",
-    "aliases": "WP, Wisconsinâ€“Stevens Point, U of Wisconsinâ€“Stevens Point"
-  },
-  {
-    "schoolID": "WI-university-of-wisconsinastout",
-    "schoolName": "University of Wisconsinâ€“Stout",
-    "city": "Menomonie",
-    "state": "WI",
-    "division": "D3",
-    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
-    "website": "",
-    "teamPageURL": "https://www.stoutbluedevils.com/sports/baseball",
-    "campURL": "https://www.stoutbluedevils.com/sports/baseball/camps",
-    "aliases": "Wisconsinâ€“Stout, U of Wisconsinâ€“Stout"
-  },
-  {
-    "schoolID": "WI-university-of-wisconsinawhitewater",
-    "schoolName": "University of Wisconsinâ€“Whitewater",
-    "city": "Whitewater",
-    "state": "WI",
-    "division": "D3",
-    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
-    "website": "",
-    "teamPageURL": "https://www.uwwsports.com/sports/baseball",
-    "campURL": "https://www.uwwsports.com/sports/baseball/camps",
-    "aliases": "Wisconsinâ€“Whitewater, U of Wisconsinâ€“Whitewater"
   },
   {
     "schoolID": "AL-bevill-state-community-college",
@@ -21835,54 +21678,6 @@
     "enrollment": 1281,
     "retentionRate": null,
     "graduationRate": 38.5
-  },
-  {
-    "schoolID": "WA-centralia-college",
-    "schoolName": "Centralia College",
-    "city": "Centralia",
-    "state": "WA",
-    "division": "JUCO D1",
-    "conference": "NWAC",
-    "website": "",
-    "teamPageURL": "https://www.centralia.edu/athletics/baseball.aspx",
-    "campURL": "https://www.centralia.edu/sports/baseball/camps",
-    "aliases": "Centralia, Blazers",
-    "inStateTuition": 5109,
-    "outOfStateTuition": 5643,
-    "schoolType": "Public",
-    "totalCostOfAttendance": 17550,
-    "roomAndBoard": 17865,
-    "booksAndSupplies": 762,
-    "medianDebt": null,
-    "pellGrantRate": 20.9,
-    "acceptanceRate": null,
-    "enrollment": 1476,
-    "retentionRate": null,
-    "graduationRate": 44.9
-  },
-  {
-    "schoolID": "WA-columbia-basin-college",
-    "schoolName": "Columbia Basin College",
-    "city": "Pasco",
-    "state": "WA",
-    "division": "JUCO D1",
-    "conference": "NWAC",
-    "website": "",
-    "teamPageURL": "https://www.cbcbusters.com/sports/bsb",
-    "campURL": "https://www.cbcbusters.com/sports/baseball/camps",
-    "aliases": "CBC, Columbia Basin, Hawks",
-    "inStateTuition": 6194,
-    "outOfStateTuition": 8239,
-    "schoolType": "Public",
-    "totalCostOfAttendance": 17357,
-    "roomAndBoard": 10450,
-    "booksAndSupplies": 702,
-    "medianDebt": 14829,
-    "pellGrantRate": 24.1,
-    "acceptanceRate": null,
-    "enrollment": 4226,
-    "retentionRate": null,
-    "graduationRate": 28.0
   },
   {
     "schoolID": "WA-edmonds-college",
@@ -25946,29 +25741,8 @@
     "acceptanceRate": 0.0,
     "graduationRate": 0.0,
     "aliases": "",
-    "notes": ""
-  },
-  {
-    "schoolID": "HI-university-of-hawaii",
-    "schoolName": "University of Hawaii",
-    "city": "Honolulu",
-    "state": "HI",
-    "division": "D1",
-    "conference": "Big West Conference",
-    "teamPageURL": "",
-    "rosterURL": "",
-    "campsURL": "",
-    "schoolWebsite": "",
-    "schoolType": "",
-    "enrollment": 0,
-    "inStateTuition": 0,
-    "outOfStateTuition": 0,
-    "roomAndBoard": 0,
-    "totalCostOfAttendance": 0,
-    "acceptanceRate": 0.0,
-    "graduationRate": 0.0,
-    "aliases": "",
-    "notes": ""
+    "notes": "",
+    "twitterURL": "@HartfordBASE"
   },
   {
     "schoolID": "PA-la-salle-university",
@@ -25977,7 +25751,7 @@
     "state": "PA",
     "division": "D1",
     "conference": "Atlantic 10 Conference",
-    "teamPageURL": "",
+    "teamPageURL": "goexplorers.com/sports/baseball",
     "rosterURL": "",
     "campsURL": "",
     "schoolWebsite": "",
@@ -26036,7 +25810,8 @@
     "acceptanceRate": 0.0,
     "graduationRate": 0.0,
     "aliases": "",
-    "notes": ""
+    "notes": "",
+    "twitterURL": "@TempleBase"
   },
   {
     "schoolID": "TX-texas-southern-university",
@@ -26045,7 +25820,7 @@
     "state": "TX",
     "division": "D1",
     "conference": "Southwestern Athletic Conference",
-    "teamPageURL": "",
+    "teamPageURL": "tsusports.com/sports/baseball",
     "rosterURL": "",
     "campsURL": "",
     "schoolWebsite": "",
@@ -26060,50 +25835,6 @@
     "aliases": "",
     "notes": "",
     "twitterURL": "@TXSOBaseball"
-  },
-  {
-    "schoolID": "CA-university-of-california-berkeley",
-    "schoolName": "University of California, Berkeley",
-    "city": "Berkeley",
-    "state": "CA",
-    "division": "D1",
-    "conference": "Pac-12 Conference",
-    "teamPageURL": "",
-    "rosterURL": "",
-    "campsURL": "",
-    "schoolWebsite": "",
-    "schoolType": "",
-    "enrollment": 0,
-    "inStateTuition": 0,
-    "outOfStateTuition": 0,
-    "roomAndBoard": 0,
-    "totalCostOfAttendance": 0,
-    "acceptanceRate": 0.0,
-    "graduationRate": 0.0,
-    "aliases": "",
-    "notes": ""
-  },
-  {
-    "schoolID": "test_baseball_recruiting",
-    "schoolName": "Baseball Recruiting Test School",
-    "city": "Denver",
-    "state": "CO",
-    "division": "D1",
-    "conference": "Test Conference",
-    "teamPageURL": "",
-    "rosterURL": "",
-    "campsURL": "",
-    "schoolWebsite": "",
-    "schoolType": "Test",
-    "enrollment": 0,
-    "inStateTuition": 0,
-    "outOfStateTuition": 0,
-    "roomAndBoard": 0,
-    "totalCostOfAttendance": 0,
-    "acceptanceRate": 0.0,
-    "graduationRate": 0.0,
-    "aliases": "Test School",
-    "notes": "Test entry for beta testing — justintleggett@gmail.com"
   },
   {
     "schoolID": "TN-university-of-tennessee-at-chattanooga",
@@ -26135,7 +25866,7 @@
     "state": "TX",
     "division": "D1",
     "conference": "Southland Conference",
-    "teamPageURL": "",
+    "teamPageURL": "goislanders.com/sports/baseball",
     "rosterURL": "",
     "campsURL": "",
     "schoolWebsite": "",
@@ -26158,7 +25889,7 @@
     "state": "TX",
     "division": "D1",
     "conference": "Western Athletic Conference",
-    "teamPageURL": "",
+    "teamPageURL": "utamavs.com/sports/baseball",
     "rosterURL": "",
     "campsURL": "",
     "schoolWebsite": "",
@@ -26171,7 +25902,8 @@
     "acceptanceRate": 0.0,
     "graduationRate": 0.0,
     "aliases": "UTA, UT Arlington, Mavericks",
-    "notes": ""
+    "notes": "",
+    "twitterURL": "@UTAMavsBSB"
   },
   {
     "schoolID": "TX-university-of-texas-rio-grande-valley",
@@ -26180,7 +25912,7 @@
     "state": "TX",
     "division": "D1",
     "conference": "Western Athletic Conference",
-    "teamPageURL": "",
+    "teamPageURL": "goutrgv.com/sports/baseball",
     "rosterURL": "",
     "campsURL": "",
     "schoolWebsite": "",
@@ -26203,7 +25935,7 @@
     "state": "AR",
     "division": "D1",
     "conference": "Southwestern Athletic Conference",
-    "teamPageURL": "",
+    "teamPageURL": "uapblionsroar.com/sports/baseball",
     "rosterURL": "",
     "campsURL": "",
     "schoolWebsite": "",
@@ -26218,5 +25950,221 @@
     "aliases": "UAPB, Arkansas-Pine Bluff, Pine Bluff",
     "notes": "",
     "twitterURL": "@UAPB_Baseball"
+  },
+  {
+    "schoolID": "NY-datmyouville-university",
+    "schoolName": "D'Youville University",
+    "city": "Buffalo",
+    "state": "NY",
+    "division": "D2",
+    "conference": "ECC",
+    "website": "",
+    "teamPageURL": "https://www.athletics.dyu.edu/sports/baseball",
+    "campURL": "https://www.athletics.dyu.edu/sports/baseball/camps",
+    "aliases": "D'Youville"
+  },
+  {
+    "schoolID": "TN-carsonanewman-university",
+    "schoolName": "Carson-Newman University",
+    "city": "Jefferson City",
+    "state": "TN",
+    "division": "D2",
+    "conference": "South Atlantic Conference (SAC)",
+    "website": "",
+    "teamPageURL": "https://www.cneagles.com/sports/baseball",
+    "campURL": "https://www.cneagles.com/sports/baseball/camps",
+    "aliases": "Carson-Newman"
+  },
+  {
+    "schoolID": "WI-university-of-wisconsinaparkside",
+    "schoolName": "University of Wisconsin-Parkside",
+    "city": "Kenosha",
+    "state": "WI",
+    "division": "D2",
+    "conference": "GLIAC",
+    "website": "",
+    "teamPageURL": "https://www.parksiderangers.com/sports/baseball",
+    "campURL": "https://www.parksiderangers.com/sports/baseball/camps",
+    "aliases": "Wisconsin-Parkside, U of Wisconsin-Parkside"
+  },
+  {
+    "schoolID": "MN-concordia-collegeamoorhead",
+    "schoolName": "Concordia College-Moorhead",
+    "city": "Moorhead",
+    "state": "MN",
+    "division": "D3",
+    "conference": "Minnesota Intercollegiate Athletic Conference (MIAC)",
+    "website": "",
+    "teamPageURL": "https://www.concordiamn.prestosports.com/sports/baseball",
+    "campURL": "https://www.concordiamn.prestosports.com/sports/baseball/camps",
+    "aliases": "Concordia"
+  },
+  {
+    "schoolID": "NJ-rutgers-universityacamden",
+    "schoolName": "Rutgers University-Camden",
+    "city": "Camden",
+    "state": "NJ",
+    "division": "D3",
+    "conference": "NJAC",
+    "website": "",
+    "teamPageURL": "https://www.scarletraptors.com/sports/baseball",
+    "campURL": "https://www.scarletraptors.com/sports/baseball/camps",
+    "aliases": "Rutgers"
+  },
+  {
+    "schoolID": "NJ-rutgers-universityanewark",
+    "schoolName": "Rutgers University-Newark",
+    "city": "Newark",
+    "state": "NJ",
+    "division": "D3",
+    "conference": "NJAC",
+    "website": "",
+    "teamPageURL": "https://www.rutgersnewarkathletics.com/sports/baseball",
+    "campURL": "https://www.rutgersnewarkathletics.com/sports/baseball/camps",
+    "aliases": "Rutgers"
+  },
+  {
+    "schoolID": "WI-university-of-wisconsinaeau-claire",
+    "schoolName": "University of Wisconsin-Eau Claire",
+    "city": "Eau Claire",
+    "state": "WI",
+    "division": "D3",
+    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
+    "website": "",
+    "teamPageURL": "https://www.blugolds.com/sports/baseball",
+    "campURL": "https://www.blugolds.com/sports/baseball/camps",
+    "aliases": "WC, Wisconsin-Eau Claire, U of Wisconsin-Eau Claire"
+  },
+  {
+    "schoolID": "WI-university-of-wisconsinala-crosse",
+    "schoolName": "University of Wisconsin-La Crosse",
+    "city": "La Crosse",
+    "state": "WI",
+    "division": "D3",
+    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
+    "website": "",
+    "teamPageURL": "https://www.uwlathletics.com/sports/baseball",
+    "campURL": "https://www.uwlathletics.com/sports/baseball/camps",
+    "aliases": "WC, Wisconsin-La Crosse, U of Wisconsin-La Crosse"
+  },
+  {
+    "schoolID": "WI-university-of-wisconsinaoshkosh",
+    "schoolName": "University of Wisconsin-Oshkosh",
+    "city": "Oshkosh",
+    "state": "WI",
+    "division": "D3",
+    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
+    "website": "",
+    "teamPageURL": "https://www.uwoshkoshtitans.com/sports/baseball",
+    "campURL": "https://www.uwoshkoshtitans.com/sports/baseball/camps",
+    "aliases": "Wisconsin-Oshkosh, U of Wisconsin-Oshkosh"
+  },
+  {
+    "schoolID": "WI-university-of-wisconsinaplatteville",
+    "schoolName": "University of Wisconsin-Platteville",
+    "city": "Platteville",
+    "state": "WI",
+    "division": "D3",
+    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
+    "website": "",
+    "teamPageURL": "https://www.letsgopioneers.com/sports/baseball",
+    "campURL": "https://www.letsgopioneers.com/sports/baseball/camps",
+    "aliases": "Wisconsin-Platteville, U of Wisconsin-Platteville"
+  },
+  {
+    "schoolID": "WI-university-of-wisconsinariver-falls",
+    "schoolName": "University of Wisconsin-River Falls",
+    "city": "River Falls",
+    "state": "WI",
+    "division": "D3",
+    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
+    "website": "",
+    "teamPageURL": "https://www.uwrfsports.com/sports/baseball",
+    "campURL": "https://www.uwrfsports.com/sports/baseball/camps",
+    "aliases": "WF, Wisconsin-River Falls, U of Wisconsin-River Falls"
+  },
+  {
+    "schoolID": "WI-university-of-wisconsinastevens-point",
+    "schoolName": "University of Wisconsin-Stevens Point",
+    "city": "Stevens Point",
+    "state": "WI",
+    "division": "D3",
+    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
+    "website": "",
+    "teamPageURL": "https://www.athletics.uwsp.edu/sports/baseball",
+    "campURL": "https://www.athletics.uwsp.edu/sports/baseball/camps",
+    "aliases": "WP, Wisconsin-Stevens Point, U of Wisconsin-Stevens Point"
+  },
+  {
+    "schoolID": "WI-university-of-wisconsinastout",
+    "schoolName": "University of Wisconsin-Stout",
+    "city": "Menomonie",
+    "state": "WI",
+    "division": "D3",
+    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
+    "website": "",
+    "teamPageURL": "https://www.stoutbluedevils.com/sports/baseball",
+    "campURL": "https://www.stoutbluedevils.com/sports/baseball/camps",
+    "aliases": "Wisconsin-Stout, U of Wisconsin-Stout"
+  },
+  {
+    "schoolID": "WI-university-of-wisconsinawhitewater",
+    "schoolName": "University of Wisconsin-Whitewater",
+    "city": "Whitewater",
+    "state": "WI",
+    "division": "D3",
+    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
+    "website": "",
+    "teamPageURL": "https://www.uwwsports.com/sports/baseball",
+    "campURL": "https://www.uwwsports.com/sports/baseball/camps",
+    "aliases": "Wisconsin-Whitewater, U of Wisconsin-Whitewater"
+  },
+  {
+    "schoolID": "WA-centralia-college",
+    "schoolName": "Centralia College",
+    "city": "Centralia",
+    "state": "WA",
+    "division": "JUCO D1",
+    "conference": "NWAC",
+    "website": "",
+    "teamPageURL": "https://www.centralia.edu/athletics/baseball.aspx",
+    "campURL": "https://www.centralia.edu/sports/baseball/camps",
+    "aliases": "Centralia, Blazers",
+    "inStateTuition": 5109,
+    "outOfStateTuition": 5643,
+    "schoolType": "Public",
+    "totalCostOfAttendance": 17550,
+    "roomAndBoard": 17865,
+    "booksAndSupplies": 762,
+    "medianDebt": null,
+    "pellGrantRate": 20.9,
+    "acceptanceRate": null,
+    "enrollment": 1476,
+    "retentionRate": null,
+    "graduationRate": 44.9
+  },
+  {
+    "schoolID": "WA-columbia-basin-college",
+    "schoolName": "Columbia Basin College",
+    "city": "Pasco",
+    "state": "WA",
+    "division": "JUCO D1",
+    "conference": "NWAC",
+    "website": "",
+    "teamPageURL": "https://www.cbcbusters.com/sports/bsb",
+    "campURL": "https://www.cbcbusters.com/sports/baseball/camps",
+    "aliases": "CBC, Columbia Basin, Hawks",
+    "inStateTuition": 6194,
+    "outOfStateTuition": 8239,
+    "schoolType": "Public",
+    "totalCostOfAttendance": 17357,
+    "roomAndBoard": 10450,
+    "booksAndSupplies": 702,
+    "medianDebt": 14829,
+    "pellGrantRate": 24.1,
+    "acceptanceRate": null,
+    "enrollment": 4226,
+    "retentionRate": null,
+    "graduationRate": 28.0
   }
 ]

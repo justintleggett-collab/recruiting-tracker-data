@@ -7564,7 +7564,8 @@
     "acceptanceRate": 92.6,
     "enrollment": 2693,
     "retentionRate": 65.8,
-    "graduationRate": 35.8
+    "graduationRate": 35.8,
+    "twitterURL": "@AUMWarhawksBSB"
   },
   {
     "schoolID": "AL-miles-college",
@@ -7588,7 +7589,8 @@
     "acceptanceRate": null,
     "enrollment": 1151,
     "retentionRate": 55.6,
-    "graduationRate": 26.1
+    "graduationRate": 26.1,
+    "twitterURL": "@milescollegebsb"
   },
   {
     "schoolID": "AL-spring-hill-college",
@@ -7612,7 +7614,8 @@
     "acceptanceRate": 59.1,
     "enrollment": 850,
     "retentionRate": 65.8,
-    "graduationRate": 58.8
+    "graduationRate": 58.8,
+    "twitterURL": "@SHC_Baseball"
   },
   {
     "schoolID": "AL-tuskegee-university",
@@ -7636,7 +7639,8 @@
     "acceptanceRate": 31.4,
     "enrollment": 2367,
     "retentionRate": 73.0,
-    "graduationRate": 61.8
+    "graduationRate": 61.8,
+    "twitterURL": "@Skegeebaseball"
   },
   {
     "schoolID": "AL-university-of-alabama-in-huntsville-uah",
@@ -7660,7 +7664,8 @@
     "acceptanceRate": 74.2,
     "enrollment": 6650,
     "retentionRate": 80.5,
-    "graduationRate": 62.4
+    "graduationRate": 62.4,
+    "twitterURL": "@UAH_BSB"
   },
   {
     "schoolID": "AL-university-of-montevallo",
@@ -7684,7 +7689,8 @@
     "acceptanceRate": 53.9,
     "enrollment": 2087,
     "retentionRate": 73.2,
-    "graduationRate": 52.0
+    "graduationRate": 52.0,
+    "twitterURL": "@UMoTownBaseball"
   },
   {
     "schoolID": "AL-university-of-west-alabama",
@@ -7708,7 +7714,8 @@
     "acceptanceRate": 87.1,
     "enrollment": 2666,
     "retentionRate": 60.8,
-    "graduationRate": 38.2
+    "graduationRate": 38.2,
+    "twitterURL": "@UWABaseball1"
   },
   {
     "schoolID": "AR-arkansas-tech-university",
@@ -7732,7 +7739,8 @@
     "acceptanceRate": 96.3,
     "enrollment": 5993,
     "retentionRate": 71.1,
-    "graduationRate": 48.8
+    "graduationRate": 48.8,
+    "twitterURL": "@ATUBaseball"
   },
   {
     "schoolID": "AR-henderson-state-university",
@@ -7756,7 +7764,8 @@
     "acceptanceRate": 81.9,
     "enrollment": 1491,
     "retentionRate": 59.4,
-    "graduationRate": 38.7
+    "graduationRate": 38.7,
+    "twitterURL": "@ReddieBaseball"
   },
   {
     "schoolID": "AR-southern-arkansas-university",
@@ -7780,7 +7789,8 @@
     "acceptanceRate": 66.6,
     "enrollment": 2865,
     "retentionRate": 69.1,
-    "graduationRate": 45.5
+    "graduationRate": 45.5,
+    "twitterURL": "@SAUBaseball"
   },
   {
     "schoolID": "CA-academy-of-art",
@@ -7804,7 +7814,8 @@
     "acceptanceRate": null,
     "enrollment": 4131,
     "retentionRate": 67.2,
-    "graduationRate": 42.4
+    "graduationRate": 42.4,
+    "twitterURL": "@ARTUBaseball"
   },
   {
     "schoolID": "CA-azusa-pacific",
@@ -7828,7 +7839,8 @@
     "acceptanceRate": 79.5,
     "enrollment": 2977,
     "retentionRate": 83.7,
-    "graduationRate": 62.8
+    "graduationRate": 62.8,
+    "twitterURL": "@APUBaseball"
   },
   {
     "schoolID": "CA-biola-university",
@@ -7852,7 +7864,8 @@
     "acceptanceRate": 60.1,
     "enrollment": 3390,
     "retentionRate": 85.3,
-    "graduationRate": 70.4
+    "graduationRate": 70.4,
+    "twitterURL": "@biolabaseball"
   },
   {
     "schoolID": "CA-csu-monterey-bay",
@@ -7876,7 +7889,8 @@
     "acceptanceRate": 94.8,
     "enrollment": 5811,
     "retentionRate": 79.1,
-    "graduationRate": 62.4
+    "graduationRate": 62.4,
+    "twitterURL": "@CSUMBbaseball"
   },
   {
     "schoolID": "CA-csu-san-bernardino",
@@ -7888,7 +7902,8 @@
     "website": "https://www.csusbathletics.com",
     "teamPageURL": "https://www.csusbathletics.com",
     "campURL": "https://www.csusbbaseballcamps.com",
-    "aliases": "CSUSB, Cal State San Bernardino, Coyotes"
+    "aliases": "CSUSB, Cal State San Bernardino, Coyotes",
+    "twitterURL": "@CSUSB_Baseball"
   },
   {
     "schoolID": "CA-csu-san-marcos",
@@ -7900,7 +7915,8 @@
     "website": "https://www.csusmcougars.com",
     "teamPageURL": "https://www.csusmcougars.com",
     "campURL": "https://www.csusmbaseballcamps.com",
-    "aliases": "CSUSM, Cal State San Marcos, Cougars"
+    "aliases": "CSUSM, Cal State San Marcos, Cougars",
+    "twitterURL": "@CSUSMBaseball"
   },
   {
     "schoolID": "CA-csu-stanislaus",
@@ -7912,7 +7928,8 @@
     "website": "https://www.warriorathletics.com",
     "teamPageURL": "https://www.warriorathletics.com",
     "campURL": "https://www.stanislausbaseballcamps.com",
-    "aliases": "Stan State, CSUS, Cal State Stanislaus, Warriors"
+    "aliases": "Stan State, CSUS, Cal State Stanislaus, Warriors",
+    "twitterURL": "@StanStBaseball"
   },
   {
     "schoolID": "CA-cal-poly-pomona",
@@ -7936,7 +7953,8 @@
     "acceptanceRate": 73.7,
     "enrollment": 24271,
     "retentionRate": 88.1,
-    "graduationRate": 66.5
+    "graduationRate": 66.5,
+    "twitterURL": "@BaseballCPP"
   },
   {
     "schoolID": "CA-cal-state-dominguez-hills",
@@ -7960,7 +7978,8 @@
     "acceptanceRate": 91.3,
     "enrollment": 12642,
     "retentionRate": 65.6,
-    "graduationRate": 46.7
+    "graduationRate": 46.7,
+    "twitterURL": "@CSUDHbaseball"
   },
   {
     "schoolID": "CA-cal-state-east-bay",
@@ -7984,7 +8003,8 @@
     "acceptanceRate": 96.8,
     "enrollment": 10422,
     "retentionRate": 78.6,
-    "graduationRate": 45.5
+    "graduationRate": 45.5,
+    "twitterURL": "@CSUEB_Baseball"
   },
   {
     "schoolID": "CA-cal-state-la",
@@ -8008,7 +8028,8 @@
     "acceptanceRate": 98.7,
     "enrollment": 761,
     "retentionRate": 75.9,
-    "graduationRate": 64.9
+    "graduationRate": 64.9,
+    "twitterURL": "@CalStateLABB"
   },
   {
     "schoolID": "CA-chico-state",
@@ -8032,7 +8053,8 @@
     "acceptanceRate": 93.7,
     "enrollment": 13057,
     "retentionRate": 83.7,
-    "graduationRate": 63.9
+    "graduationRate": 63.9,
+    "twitterURL": "@Chicostbaseball"
   },
   {
     "schoolID": "CA-concordia-irvine",
@@ -8056,7 +8078,8 @@
     "acceptanceRate": 59.9,
     "enrollment": 1456,
     "retentionRate": 75.6,
-    "graduationRate": 62.8
+    "graduationRate": 62.8,
+    "twitterURL": "@CUIBASEBALL"
   },
   {
     "schoolID": "CA-point-loma",
@@ -8080,7 +8103,8 @@
     "acceptanceRate": 81.8,
     "enrollment": 3132,
     "retentionRate": 86.1,
-    "graduationRate": 74.8
+    "graduationRate": 74.8,
+    "twitterURL": "@PLNUBaseball"
   },
   {
     "schoolID": "CA-sf-state",
@@ -8104,7 +8128,8 @@
     "acceptanceRate": 47.1,
     "enrollment": 34131,
     "retentionRate": 85.3,
-    "graduationRate": 71.3
+    "graduationRate": 71.3,
+    "twitterURL": "@SFStateBaseball"
   },
   {
     "schoolID": "CA-westmont-college",
@@ -8128,7 +8153,8 @@
     "acceptanceRate": 79.9,
     "enrollment": 1310,
     "retentionRate": 86.8,
-    "graduationRate": 71.8
+    "graduationRate": 71.8,
+    "twitterURL": "@Westmont_BB"
   },
   {
     "schoolID": "CO-adams-state-university",
@@ -8152,7 +8178,8 @@
     "acceptanceRate": null,
     "enrollment": 1239,
     "retentionRate": 55.5,
-    "graduationRate": 29.7
+    "graduationRate": 29.7,
+    "twitterURL": "@AState_baseball"
   },
   {
     "schoolID": "CO-colorado-christian-university",
@@ -8176,7 +8203,8 @@
     "acceptanceRate": null,
     "enrollment": 5363,
     "retentionRate": 78.9,
-    "graduationRate": 58.1
+    "graduationRate": 58.1,
+    "twitterURL": "@baseball_ccu"
   },
   {
     "schoolID": "CO-colorado-mesa-university",
@@ -8200,7 +8228,8 @@
     "acceptanceRate": 81.4,
     "enrollment": 7604,
     "retentionRate": 75.2,
-    "graduationRate": 40.3
+    "graduationRate": 40.3,
+    "twitterURL": "@CMUMavsBaseball"
   },
   {
     "schoolID": "CO-metropolitan-state-university-of-denver",
@@ -8224,7 +8253,8 @@
     "acceptanceRate": 99.1,
     "enrollment": 14932,
     "retentionRate": 70.4,
-    "graduationRate": 29.5
+    "graduationRate": 29.5,
+    "twitterURL": "@MSUDenverBSB"
   },
   {
     "schoolID": "CO-regis-university",
@@ -8248,7 +8278,8 @@
     "acceptanceRate": 87.3,
     "enrollment": 2599,
     "retentionRate": 75.2,
-    "graduationRate": 63.8
+    "graduationRate": 63.8,
+    "twitterURL": "@RegisUBaseball"
   },
   {
     "schoolID": "CO-university-of-colorado-colorado-springs",
@@ -8272,7 +8303,8 @@
     "acceptanceRate": 96.6,
     "enrollment": 8870,
     "retentionRate": 67.1,
-    "graduationRate": 43.9
+    "graduationRate": 43.9,
+    "twitterURL": "@UCCSBaseball"
   },
   {
     "schoolID": "CT-post-university",
@@ -8296,7 +8328,8 @@
     "acceptanceRate": null,
     "enrollment": 18975,
     "retentionRate": 32.4,
-    "graduationRate": 33.8
+    "graduationRate": 33.8,
+    "twitterURL": "@PostUBaseball"
   },
   {
     "schoolID": "CT-southern-connecticut-state-university",
@@ -8320,7 +8353,8 @@
     "acceptanceRate": 81.1,
     "enrollment": 6180,
     "retentionRate": 75.8,
-    "graduationRate": 50.5
+    "graduationRate": 50.5,
+    "twitterURL": "@SCSU_BASE"
   },
   {
     "schoolID": "CT-university-of-bridgeport",
@@ -8344,7 +8378,8 @@
     "acceptanceRate": 64.3,
     "enrollment": 1450,
     "retentionRate": 62.9,
-    "graduationRate": 47.5
+    "graduationRate": 47.5,
+    "twitterURL": "@ub_baseball"
   },
   {
     "schoolID": "CT-university-of-new-haven",
@@ -8368,7 +8403,8 @@
     "acceptanceRate": 80.5,
     "enrollment": 4799,
     "retentionRate": 77.2,
-    "graduationRate": 60.5
+    "graduationRate": 60.5,
+    "twitterURL": "@UNewHavenBASE"
   },
   {
     "schoolID": "DE-goldey-beacom-college",
@@ -8392,7 +8428,8 @@
     "acceptanceRate": 76.5,
     "enrollment": 634,
     "retentionRate": 76.8,
-    "graduationRate": 63.0
+    "graduationRate": 63.0,
+    "twitterURL": "@GBCLightning"
   },
   {
     "schoolID": "DE-wilmington-university",
@@ -8416,7 +8453,8 @@
     "acceptanceRate": null,
     "enrollment": 8497,
     "retentionRate": 53.8,
-    "graduationRate": 21.0
+    "graduationRate": 21.0,
+    "twitterURL": "@WilmU_Baseball"
   },
   {
     "schoolID": "FL-barry-university",
@@ -8440,7 +8478,8 @@
     "acceptanceRate": 59.1,
     "enrollment": 2245,
     "retentionRate": 57.7,
-    "graduationRate": 37.7
+    "graduationRate": 37.7,
+    "twitterURL": "@BarryUBaseball"
   },
   {
     "schoolID": "FL-eckerd-college",
@@ -8464,7 +8503,8 @@
     "acceptanceRate": 78.7,
     "enrollment": 1984,
     "retentionRate": 77.3,
-    "graduationRate": 67.5
+    "graduationRate": 67.5,
+    "twitterURL": "@EckerdBaseball"
   },
   {
     "schoolID": "FL-edward-waters-university",
@@ -8488,7 +8528,8 @@
     "acceptanceRate": 84.8,
     "enrollment": 1113,
     "retentionRate": 53.4,
-    "graduationRate": 29.1
+    "graduationRate": 29.1,
+    "twitterURL": "@EWUBaseball"
   },
   {
     "schoolID": "FL-embry-riddle-aeronautical-university",
@@ -8512,7 +8553,8 @@
     "acceptanceRate": 66.3,
     "enrollment": 7535,
     "retentionRate": 85.5,
-    "graduationRate": 65.5
+    "graduationRate": 65.5,
+    "twitterURL": "@ERAUBaseball"
   },
   {
     "schoolID": "FL-flagler-college",
@@ -8536,7 +8578,8 @@
     "acceptanceRate": 78.1,
     "enrollment": 2404,
     "retentionRate": 67.7,
-    "graduationRate": 56.5
+    "graduationRate": 56.5,
+    "twitterURL": "@Flagler_BSB"
   },
   {
     "schoolID": "FL-florida-southern-college",
@@ -8560,7 +8603,8 @@
     "acceptanceRate": 59.1,
     "enrollment": 2607,
     "retentionRate": 77.8,
-    "graduationRate": 68.8
+    "graduationRate": 68.8,
+    "twitterURL": "@MocsBaseball"
   },
   {
     "schoolID": "FL-florida-tech",
@@ -8584,7 +8628,8 @@
     "acceptanceRate": null,
     "enrollment": 1157,
     "retentionRate": null,
-    "graduationRate": 51.3
+    "graduationRate": 51.3,
+    "twitterURL": "@FloridaTechBB"
   },
   {
     "schoolID": "FL-lynn-university",
@@ -8608,7 +8653,8 @@
     "acceptanceRate": 74.0,
     "enrollment": 2820,
     "retentionRate": 71.5,
-    "graduationRate": 52.4
+    "graduationRate": 52.4,
+    "twitterURL": "@LynnUBaseball"
   },
   {
     "schoolID": "FL-nova-southeastern-university",
@@ -8632,7 +8678,8 @@
     "acceptanceRate": 72.7,
     "enrollment": 7171,
     "retentionRate": 76.4,
-    "graduationRate": 63.4
+    "graduationRate": 63.4,
+    "twitterURL": "@NSU_Baseball"
   },
   {
     "schoolID": "FL-palm-beach-atlantic-university",
@@ -8656,7 +8703,8 @@
     "acceptanceRate": 88.3,
     "enrollment": 2427,
     "retentionRate": 67.0,
-    "graduationRate": 57.7
+    "graduationRate": 57.7,
+    "twitterURL": "@SailfishBB"
   },
   {
     "schoolID": "FL-rollins-college",
@@ -8680,7 +8728,8 @@
     "acceptanceRate": 40.6,
     "enrollment": 2582,
     "retentionRate": 84.7,
-    "graduationRate": 77.3
+    "graduationRate": 77.3,
+    "twitterURL": "@RollinsBaseball"
   },
   {
     "schoolID": "FL-saint-leo-university",
@@ -8704,7 +8753,8 @@
     "acceptanceRate": 72.1,
     "enrollment": 6999,
     "retentionRate": 57.8,
-    "graduationRate": 49.1
+    "graduationRate": 49.1,
+    "twitterURL": "@SaintLeoBSB"
   },
   {
     "schoolID": "FL-university-of-west-florida",
@@ -8728,7 +8778,8 @@
     "acceptanceRate": 56.9,
     "enrollment": 9042,
     "retentionRate": 87.6,
-    "graduationRate": 57.0
+    "graduationRate": 57.0,
+    "twitterURL": "@UWF_Baseball"
   },
   {
     "schoolID": "GA-albany-state-university",
@@ -8752,7 +8803,8 @@
     "acceptanceRate": null,
     "enrollment": 5829,
     "retentionRate": 78.4,
-    "graduationRate": 24.7
+    "graduationRate": 24.7,
+    "twitterURL": "@ASUGoldenRamsBS"
   },
   {
     "schoolID": "GA-augusta-university",
@@ -8776,7 +8828,8 @@
     "acceptanceRate": 89.3,
     "enrollment": 5282,
     "retentionRate": 73.5,
-    "graduationRate": 49.4
+    "graduationRate": 49.4,
+    "twitterURL": "@AUG_Baseball"
   },
   {
     "schoolID": "GA-clark-atlanta-university",
@@ -8800,7 +8853,8 @@
     "acceptanceRate": 64.6,
     "enrollment": 3482,
     "retentionRate": 69.2,
-    "graduationRate": 47.0
+    "graduationRate": 47.0,
+    "twitterURL": "@ClarkAtlantaBB"
   },
   {
     "schoolID": "GA-columbus-state-university",
@@ -8824,7 +8878,8 @@
     "acceptanceRate": 99.2,
     "enrollment": 5537,
     "retentionRate": 72.7,
-    "graduationRate": 42.6
+    "graduationRate": 42.6,
+    "twitterURL": "@CSUCougarsBSB"
   },
   {
     "schoolID": "GA-emmanuel-university",
@@ -8848,7 +8903,8 @@
     "acceptanceRate": 53.4,
     "enrollment": 719,
     "retentionRate": 57.5,
-    "graduationRate": 35.9
+    "graduationRate": 35.9,
+    "twitterURL": "@Emmanuel_BSB"
   },
   {
     "schoolID": "GA-georgia-college-state-university",
@@ -8872,7 +8928,8 @@
     "acceptanceRate": 87.8,
     "enrollment": 5599,
     "retentionRate": 84.5,
-    "graduationRate": 62.0
+    "graduationRate": 62.0,
+    "twitterURL": "@GCSUBaseball31"
   },
   {
     "schoolID": "GA-georgia-southwestern-state-university",
@@ -8896,7 +8953,8 @@
     "acceptanceRate": 77.2,
     "enrollment": 2291,
     "retentionRate": 63.9,
-    "graduationRate": 34.1
+    "graduationRate": 34.1,
+    "twitterURL": "@GSW_Baseball"
   },
   {
     "schoolID": "GA-morehouse-college",
@@ -8920,7 +8978,8 @@
     "acceptanceRate": 51.4,
     "enrollment": 2736,
     "retentionRate": 85.8,
-    "graduationRate": 55.8
+    "graduationRate": 55.8,
+    "twitterURL": "@MTigersBaseball"
   },
   {
     "schoolID": "GA-savannah-state-university",
@@ -8944,7 +9003,8 @@
     "acceptanceRate": null,
     "enrollment": 2727,
     "retentionRate": 70.0,
-    "graduationRate": 27.0
+    "graduationRate": 27.0,
+    "twitterURL": "@savstatebsb"
   },
   {
     "schoolID": "GA-shorter-university",
@@ -8968,7 +9028,8 @@
     "acceptanceRate": 96.9,
     "enrollment": 1091,
     "retentionRate": 67.2,
-    "graduationRate": 34.2
+    "graduationRate": 34.2,
+    "twitterURL": "@HawksBaseballSU"
   },
   {
     "schoolID": "GA-university-of-north-georgia",
@@ -8992,7 +9053,8 @@
     "acceptanceRate": 72.2,
     "enrollment": 15542,
     "retentionRate": 72.7,
-    "graduationRate": 37.7
+    "graduationRate": 37.7,
+    "twitterURL": "@UNGBaseball"
   },
   {
     "schoolID": "GA-university-of-west-georgia",
@@ -9016,7 +9078,8 @@
     "acceptanceRate": 49.4,
     "enrollment": 7485,
     "retentionRate": 76.0,
-    "graduationRate": 43.0
+    "graduationRate": 43.0,
+    "twitterURL": "@UWGBaseball"
   },
   {
     "schoolID": "GA-valdosta-state-university",
@@ -9040,7 +9103,8 @@
     "acceptanceRate": 83.5,
     "enrollment": 6858,
     "retentionRate": 67.5,
-    "graduationRate": 41.1
+    "graduationRate": 41.1,
+    "twitterURL": "@VState_Baseball"
   },
   {
     "schoolID": "GA-young-harris-college",
@@ -9064,7 +9128,8 @@
     "acceptanceRate": 64.0,
     "enrollment": 810,
     "retentionRate": 66.8,
-    "graduationRate": 47.6
+    "graduationRate": 47.6,
+    "twitterURL": "@YHCBaseball"
   },
   {
     "schoolID": "HI-chaminade-university-of-honolulu",
@@ -9088,7 +9153,8 @@
     "acceptanceRate": 92.6,
     "enrollment": 1648,
     "retentionRate": 74.0,
-    "graduationRate": 62.3
+    "graduationRate": 62.3,
+    "twitterURL": "@GoSwords"
   },
   {
     "schoolID": "HI-hawai-i-pacific-university",
@@ -9100,7 +9166,8 @@
     "website": "",
     "teamPageURL": "https://hpusharks.com/sports/baseball",
     "campURL": "https://www.hpusharkscamps.com/",
-    "aliases": "HPU, Hawai'i Pacific"
+    "aliases": "HPU, Hawai'i Pacific",
+    "twitterURL": "@HPU_BSB"
   },
   {
     "schoolID": "HI-university-of-hawai-i-at-hilo",
@@ -9112,7 +9179,8 @@
     "website": "",
     "teamPageURL": "https://hiloathletics.com/sports/baseball",
     "campURL": "https://hiloathletics.com/sports/baseball/camps",
-    "aliases": "Hawai'i Hilo, Hawai'i at Hilo, UHH"
+    "aliases": "Hawai'i Hilo, Hawai'i at Hilo, UHH",
+    "twitterURL": "@Uhhilobaseball"
   },
   {
     "schoolID": "ID-northwest-nazarene-university",
@@ -9136,7 +9204,8 @@
     "acceptanceRate": 62.9,
     "enrollment": 1138,
     "retentionRate": 78.7,
-    "graduationRate": 59.1
+    "graduationRate": 59.1,
+    "twitterURL": "@NNUBaseball"
   },
   {
     "schoolID": "IL-lewis-university",
@@ -9160,7 +9229,8 @@
     "acceptanceRate": 72.7,
     "enrollment": 3665,
     "retentionRate": 83.6,
-    "graduationRate": 62.4
+    "graduationRate": 62.4,
+    "twitterURL": "@LewisBaseball"
   },
   {
     "schoolID": "IL-mckendree-university",
@@ -9184,7 +9254,8 @@
     "acceptanceRate": 63.9,
     "enrollment": 1600,
     "retentionRate": 68.2,
-    "graduationRate": 57.3
+    "graduationRate": 57.3,
+    "twitterURL": "@McKendree_BSBL"
   },
   {
     "schoolID": "IL-quincy-university",
@@ -9208,7 +9279,8 @@
     "acceptanceRate": 49.9,
     "enrollment": 1038,
     "retentionRate": 64.0,
-    "graduationRate": 46.7
+    "graduationRate": 46.7,
+    "twitterURL": "@QUHawksBaseball"
   },
   {
     "schoolID": "IL-university-of-illinois-springfield",
@@ -9232,7 +9304,8 @@
     "acceptanceRate": 84.4,
     "enrollment": 2292,
     "retentionRate": 80.7,
-    "graduationRate": 57.2
+    "graduationRate": 57.2,
+    "twitterURL": "@Baseball_UIS"
   },
   {
     "schoolID": "IN-purdue-university-northwest",
@@ -9256,7 +9329,8 @@
     "acceptanceRate": 70.6,
     "enrollment": 5786,
     "retentionRate": 67.7,
-    "graduationRate": 44.2
+    "graduationRate": 44.2,
+    "twitterURL": "@PNW_Baseball"
   },
   {
     "schoolID": "IN-university-of-indianapolis",
@@ -9280,7 +9354,8 @@
     "acceptanceRate": 72.8,
     "enrollment": 3147,
     "retentionRate": 68.2,
-    "graduationRate": 57.7
+    "graduationRate": 57.7,
+    "twitterURL": "@UIndyBaseball"
   },
   {
     "schoolID": "KS-emporia-state-university",
@@ -9304,7 +9379,8 @@
     "acceptanceRate": 97.7,
     "enrollment": 2328,
     "retentionRate": 67.4,
-    "graduationRate": 53.0
+    "graduationRate": 53.0,
+    "twitterURL": "@ESUBaseball"
   },
   {
     "schoolID": "KS-fort-hays-state-university",
@@ -9328,7 +9404,8 @@
     "acceptanceRate": null,
     "enrollment": 314,
     "retentionRate": null,
-    "graduationRate": 64.9
+    "graduationRate": 64.9,
+    "twitterURL": "@fhsubaseball"
   },
   {
     "schoolID": "KS-newman-university",
@@ -9352,7 +9429,8 @@
     "acceptanceRate": 47.6,
     "enrollment": 857,
     "retentionRate": 70.7,
-    "graduationRate": 52.9
+    "graduationRate": 52.9,
+    "twitterURL": "@NewmanJetsBSB"
   },
   {
     "schoolID": "KS-pittsburg-state-university",
@@ -9376,7 +9454,8 @@
     "acceptanceRate": 88.2,
     "enrollment": 4162,
     "retentionRate": 77.8,
-    "graduationRate": 56.5
+    "graduationRate": 56.5,
+    "twitterURL": "@GorillasBSB"
   },
   {
     "schoolID": "KS-washburn-university",
@@ -9400,7 +9479,8 @@
     "acceptanceRate": null,
     "enrollment": 4093,
     "retentionRate": 69.2,
-    "graduationRate": 53.4
+    "graduationRate": 53.4,
+    "twitterURL": "@IchabodBSB"
   },
   {
     "schoolID": "KY-kentucky-wesleyan-college",
@@ -9424,7 +9504,8 @@
     "acceptanceRate": 67.0,
     "enrollment": 794,
     "retentionRate": 64.9,
-    "graduationRate": 50.5
+    "graduationRate": 50.5,
+    "twitterURL": "@kwc_baseball"
   },
   {
     "schoolID": "KY-thomas-more-university",
@@ -9448,7 +9529,8 @@
     "acceptanceRate": 97.0,
     "enrollment": 1305,
     "retentionRate": 67.0,
-    "graduationRate": 42.4
+    "graduationRate": 42.4,
+    "twitterURL": "@ThomasMoreBase1"
   },
   {
     "schoolID": "LA-louisiana-state-university-shreveport",
@@ -9472,7 +9554,8 @@
     "acceptanceRate": null,
     "enrollment": 20,
     "retentionRate": null,
-    "graduationRate": null
+    "graduationRate": null,
+    "twitterURL": "@LSUS_Baseball"
   },
   {
     "schoolID": "MA-american-international-college",
@@ -9496,7 +9579,8 @@
     "acceptanceRate": 96.9,
     "enrollment": 1097,
     "retentionRate": 67.8,
-    "graduationRate": 39.8
+    "graduationRate": 39.8,
+    "twitterURL": "@AIC_Baseball"
   },
   {
     "schoolID": "MA-assumption-university",
@@ -9520,7 +9604,8 @@
     "acceptanceRate": 86.5,
     "enrollment": 1664,
     "retentionRate": 83.5,
-    "graduationRate": 73.2
+    "graduationRate": 73.2,
+    "twitterURL": "@AssumptionBASE"
   },
   {
     "schoolID": "MA-bentley-university",
@@ -9544,7 +9629,8 @@
     "acceptanceRate": 48.4,
     "enrollment": 4288,
     "retentionRate": 92.9,
-    "graduationRate": 88.1
+    "graduationRate": 88.1,
+    "twitterURL": "@BentleyBaseball"
   },
   {
     "schoolID": "MD-frostburg-state-university",
@@ -9568,7 +9654,8 @@
     "acceptanceRate": 89.4,
     "enrollment": 2849,
     "retentionRate": 66.1,
-    "graduationRate": 50.7
+    "graduationRate": 50.7,
+    "twitterURL": "@Frostburg_BB"
   },
   {
     "schoolID": "MI-davenport-university",
@@ -9592,7 +9679,8 @@
     "acceptanceRate": 97.0,
     "enrollment": 3213,
     "retentionRate": 73.7,
-    "graduationRate": 49.8
+    "graduationRate": 49.8,
+    "twitterURL": "@DU_BSBALL"
   },
   {
     "schoolID": "MI-grand-valley-state-university",
@@ -9616,7 +9704,8 @@
     "acceptanceRate": 94.7,
     "enrollment": 19073,
     "retentionRate": 76.7,
-    "graduationRate": 67.4
+    "graduationRate": 67.4,
+    "twitterURL": "@GVSUBaseball"
   },
   {
     "schoolID": "MI-hillsdale-college",
@@ -9640,7 +9729,8 @@
     "acceptanceRate": 20.6,
     "enrollment": 1563,
     "retentionRate": 96.1,
-    "graduationRate": 85.8
+    "graduationRate": 85.8,
+    "twitterURL": "@HillsdaleBasebl"
   },
   {
     "schoolID": "MI-northwood-university",
@@ -9664,7 +9754,8 @@
     "acceptanceRate": 83.9,
     "enrollment": 1900,
     "retentionRate": 79.0,
-    "graduationRate": 61.9
+    "graduationRate": 61.9,
+    "twitterURL": "@Northwood_BSB"
   },
   {
     "schoolID": "MI-saginaw-valley-state-university",
@@ -9688,7 +9779,8 @@
     "acceptanceRate": 72.9,
     "enrollment": 6004,
     "retentionRate": 75.4,
-    "graduationRate": 51.8
+    "graduationRate": 51.8,
+    "twitterURL": "@svsubaseball"
   },
   {
     "schoolID": "MI-wayne-state-university",
@@ -9712,7 +9804,8 @@
     "acceptanceRate": 82.0,
     "enrollment": 15676,
     "retentionRate": 81.5,
-    "graduationRate": 58.3
+    "graduationRate": 58.3,
+    "twitterURL": "@waynestbaseball"
   },
   {
     "schoolID": "MN-bemidji-state-university",
@@ -9736,7 +9829,8 @@
     "acceptanceRate": 70.7,
     "enrollment": 3120,
     "retentionRate": 78.2,
-    "graduationRate": 51.6
+    "graduationRate": 51.6,
+    "twitterURL": "@BSUBeaversBase"
   },
   {
     "schoolID": "MN-concordia-university-st-paul",
@@ -9760,7 +9854,8 @@
     "acceptanceRate": 74.9,
     "enrollment": 2786,
     "retentionRate": 67.3,
-    "graduationRate": 55.0
+    "graduationRate": 55.0,
+    "twitterURL": "@CSPBearsBase"
   },
   {
     "schoolID": "MN-minnesota-state-university-mankato",
@@ -9784,7 +9879,8 @@
     "acceptanceRate": 91.3,
     "enrollment": 11325,
     "retentionRate": 79.7,
-    "graduationRate": 53.3
+    "graduationRate": 53.3,
+    "twitterURL": "@MinnStBaseball"
   },
   {
     "schoolID": "MN-southwest-minnesota-state-university",
@@ -9808,7 +9904,8 @@
     "acceptanceRate": 68.9,
     "enrollment": 2045,
     "retentionRate": 69.6,
-    "graduationRate": 42.1
+    "graduationRate": 42.1,
+    "twitterURL": "@SMSUBaseball"
   },
   {
     "schoolID": "MN-st-cloud-state-university",
@@ -9832,7 +9929,8 @@
     "acceptanceRate": 95.0,
     "enrollment": 5181,
     "retentionRate": 67.9,
-    "graduationRate": 45.5
+    "graduationRate": 45.5,
+    "twitterURL": "@SCSUHuskies_BB"
   },
   {
     "schoolID": "MN-university-of-minnesota-duluth",
@@ -9856,7 +9954,8 @@
     "acceptanceRate": 81.8,
     "enrollment": 7475,
     "retentionRate": 80.8,
-    "graduationRate": 63.4
+    "graduationRate": 63.4,
+    "twitterURL": "@UMDBaseball"
   },
   {
     "schoolID": "MN-winona-state-university",
@@ -9880,7 +9979,8 @@
     "acceptanceRate": 68.5,
     "enrollment": 5088,
     "retentionRate": 77.5,
-    "graduationRate": 60.7
+    "graduationRate": 60.7,
+    "twitterURL": "@WinonaStateBase"
   },
   {
     "schoolID": "MO-drury-university",
@@ -9904,7 +10004,8 @@
     "acceptanceRate": 58.9,
     "enrollment": 1367,
     "retentionRate": 77.1,
-    "graduationRate": 64.8
+    "graduationRate": 64.8,
+    "twitterURL": "@DruryBaseball"
   },
   {
     "schoolID": "MO-maryville-university-mo",
@@ -9928,7 +10029,8 @@
     "acceptanceRate": 93.7,
     "enrollment": 5988,
     "retentionRate": 82.7,
-    "graduationRate": 69.3
+    "graduationRate": 69.3,
+    "twitterURL": "@BaseballMU"
   },
   {
     "schoolID": "MO-missouri-st",
@@ -9952,7 +10054,8 @@
     "acceptanceRate": 97.4,
     "enrollment": 3101,
     "retentionRate": 69.6,
-    "graduationRate": 37.0
+    "graduationRate": 37.0,
+    "twitterURL": "@Miners_BSB"
   },
   {
     "schoolID": "MO-missouri-southern-state-university",
@@ -9976,7 +10079,8 @@
     "acceptanceRate": 97.4,
     "enrollment": 3101,
     "retentionRate": 69.6,
-    "graduationRate": 37.0
+    "graduationRate": 37.0,
+    "twitterURL": "@MSSUBaseball"
   },
   {
     "schoolID": "MO-missouri-western-state-university",
@@ -10000,7 +10104,8 @@
     "acceptanceRate": null,
     "enrollment": 2372,
     "retentionRate": 59.3,
-    "graduationRate": 40.5
+    "graduationRate": 40.5,
+    "twitterURL": "@MWSUbaseball"
   },
   {
     "schoolID": "MO-northwest-missouri-state-university",
@@ -10024,7 +10129,8 @@
     "acceptanceRate": 85.9,
     "enrollment": 4550,
     "retentionRate": 74.3,
-    "graduationRate": 55.6
+    "graduationRate": 55.6,
+    "twitterURL": "@NWBearcatBSB"
   },
   {
     "schoolID": "MO-rockhurst-university",
@@ -10048,7 +10154,8 @@
     "acceptanceRate": 69.0,
     "enrollment": 1702,
     "retentionRate": 84.2,
-    "graduationRate": 76.3
+    "graduationRate": 76.3,
+    "twitterURL": "@RUHawksbaseball"
   },
   {
     "schoolID": "MO-southwest-baptist-university",
@@ -10072,7 +10179,8 @@
     "acceptanceRate": 99.7,
     "enrollment": 1339,
     "retentionRate": 66.4,
-    "graduationRate": 47.3
+    "graduationRate": 47.3,
+    "twitterURL": "@sbu_baseball"
   },
   {
     "schoolID": "MO-truman-state-university",
@@ -10096,7 +10204,8 @@
     "acceptanceRate": 80.0,
     "enrollment": 2666,
     "retentionRate": 83.5,
-    "graduationRate": 69.7
+    "graduationRate": 69.7,
+    "twitterURL": "@TrumanBaseball"
   },
   {
     "schoolID": "MO-william-jewell-college",
@@ -10120,7 +10229,8 @@
     "acceptanceRate": 34.3,
     "enrollment": 868,
     "retentionRate": 76.5,
-    "graduationRate": 62.0
+    "graduationRate": 62.0,
+    "twitterURL": "@Jewell_Baseball"
   },
   {
     "schoolID": "MS-delta-state-university",
@@ -10144,7 +10254,8 @@
     "acceptanceRate": 99.7,
     "enrollment": 1613,
     "retentionRate": 73.6,
-    "graduationRate": 46.6
+    "graduationRate": 46.6,
+    "twitterURL": "@DeltaStateBSB"
   },
   {
     "schoolID": "MS-mississippi-college",
@@ -10168,7 +10279,8 @@
     "acceptanceRate": 48.9,
     "enrollment": 2423,
     "retentionRate": 80.3,
-    "graduationRate": 62.5
+    "graduationRate": 62.5,
+    "twitterURL": "@GoChoctaws_BB"
   },
   {
     "schoolID": "MT-montana-state-university-billings",
@@ -10192,7 +10304,8 @@
     "acceptanceRate": null,
     "enrollment": 2710,
     "retentionRate": 55.7,
-    "graduationRate": 28.4
+    "graduationRate": 28.4,
+    "twitterURL": "@MSUBBaseball"
   },
   {
     "schoolID": "NC-barton-college",
@@ -10216,7 +10329,8 @@
     "acceptanceRate": 95.9,
     "enrollment": 1020,
     "retentionRate": 65.2,
-    "graduationRate": 49.3
+    "graduationRate": 49.3,
+    "twitterURL": "@BartonBaseball"
   },
   {
     "schoolID": "NC-belmont-abbey-college",
@@ -10240,7 +10354,8 @@
     "acceptanceRate": 90.4,
     "enrollment": 1454,
     "retentionRate": 69.5,
-    "graduationRate": 46.6
+    "graduationRate": 46.6,
+    "twitterURL": "@AbbeyBaseball"
   },
   {
     "schoolID": "NC-catawba-college",
@@ -10264,7 +10379,8 @@
     "acceptanceRate": 77.7,
     "enrollment": 1127,
     "retentionRate": 73.5,
-    "graduationRate": 54.2
+    "graduationRate": 54.2,
+    "twitterURL": "@CatawbaBaseball"
   },
   {
     "schoolID": "NC-chowan-university",
@@ -10288,7 +10404,8 @@
     "acceptanceRate": 72.4,
     "enrollment": 638,
     "retentionRate": 56.7,
-    "graduationRate": 27.0
+    "graduationRate": 27.0,
+    "twitterURL": "@ChowanBaseball"
   },
   {
     "schoolID": "NC-lenoir-rhyne-university",
@@ -10312,7 +10429,8 @@
     "acceptanceRate": 80.7,
     "enrollment": 1348,
     "retentionRate": 71.0,
-    "graduationRate": 51.2
+    "graduationRate": 51.2,
+    "twitterURL": "@Baseball_LR"
   },
   {
     "schoolID": "NC-mars-hill-university",
@@ -10336,7 +10454,8 @@
     "acceptanceRate": 77.9,
     "enrollment": 995,
     "retentionRate": 61.2,
-    "graduationRate": 41.4
+    "graduationRate": 41.4,
+    "twitterURL": "@MHUBaseball"
   },
   {
     "schoolID": "NC-unc-pembroke",
@@ -10360,7 +10479,8 @@
     "acceptanceRate": 92.4,
     "enrollment": 5386,
     "retentionRate": 70.9,
-    "graduationRate": 44.9
+    "graduationRate": 44.9,
+    "twitterURL": "@UNCP_BSB"
   },
   {
     "schoolID": "NC-university-of-mount-olive",
@@ -10384,7 +10504,8 @@
     "acceptanceRate": 77.8,
     "enrollment": 1754,
     "retentionRate": 76.8,
-    "graduationRate": 48.1
+    "graduationRate": 48.1,
+    "twitterURL": "@UMOBaseball"
   },
   {
     "schoolID": "NC-wingate-university",
@@ -10408,7 +10529,8 @@
     "acceptanceRate": 85.0,
     "enrollment": 2462,
     "retentionRate": 67.3,
-    "graduationRate": 50.6
+    "graduationRate": 50.6,
+    "twitterURL": "@WingateBaseball"
   },
   {
     "schoolID": "ND-minot-state-university",
@@ -10432,7 +10554,8 @@
     "acceptanceRate": 72.2,
     "enrollment": 2072,
     "retentionRate": 71.6,
-    "graduationRate": 46.4
+    "graduationRate": 46.4,
+    "twitterURL": "@MSUBeaversBASE"
   },
   {
     "schoolID": "ND-university-of-mary",
@@ -10456,7 +10579,8 @@
     "acceptanceRate": 78.2,
     "enrollment": 2280,
     "retentionRate": 82.7,
-    "graduationRate": 66.0
+    "graduationRate": 66.0,
+    "twitterURL": "@UmaryBaseball"
   },
   {
     "schoolID": "NE-chadron-state-college",
@@ -10480,7 +10604,8 @@
     "acceptanceRate": null,
     "enrollment": 1634,
     "retentionRate": 69.8,
-    "graduationRate": 41.1
+    "graduationRate": 41.1,
+    "twitterURL": "@csceagles"
   },
   {
     "schoolID": "NE-wayne-state-college-ne",
@@ -10504,7 +10629,8 @@
     "acceptanceRate": null,
     "enrollment": 3041,
     "retentionRate": 73.0,
-    "graduationRate": 53.5
+    "graduationRate": 53.5,
+    "twitterURL": "@WSCBB"
   },
   {
     "schoolID": "NH-franklin-pierce-university",
@@ -10528,7 +10654,8 @@
     "acceptanceRate": 90.2,
     "enrollment": 1055,
     "retentionRate": 73.0,
-    "graduationRate": 49.3
+    "graduationRate": 49.3,
+    "twitterURL": "@FPUBaseball1"
   },
   {
     "schoolID": "NH-saint-anselm-college",
@@ -10552,7 +10679,8 @@
     "acceptanceRate": 78.3,
     "enrollment": 2032,
     "retentionRate": 89.6,
-    "graduationRate": 84.2
+    "graduationRate": 84.2,
+    "twitterURL": "@STAHawksBSB"
   },
   {
     "schoolID": "NH-southern-new-hampshire-university",
@@ -10576,7 +10704,8 @@
     "acceptanceRate": 96.1,
     "enrollment": 156755,
     "retentionRate": 59.9,
-    "graduationRate": 43.2
+    "graduationRate": 43.2,
+    "twitterURL": "@SNHU_Baseball"
   },
   {
     "schoolID": "NJ-bloomfield-college-of-montclair-state-university",
@@ -10624,7 +10753,8 @@
     "acceptanceRate": 65.4,
     "enrollment": 1437,
     "retentionRate": 73.0,
-    "graduationRate": 63.5
+    "graduationRate": 63.5,
+    "twitterURL": "@CaldwellUBB"
   },
   {
     "schoolID": "NJ-felician-university",
@@ -10648,7 +10778,8 @@
     "acceptanceRate": 94.0,
     "enrollment": 1754,
     "retentionRate": 80.4,
-    "graduationRate": 50.6
+    "graduationRate": 50.6,
+    "twitterURL": "@FelicianBSB"
   },
   {
     "schoolID": "NJ-georgian-court-university",
@@ -10672,7 +10803,8 @@
     "acceptanceRate": 70.5,
     "enrollment": 1174,
     "retentionRate": 76.0,
-    "graduationRate": 54.5
+    "graduationRate": 54.5,
+    "twitterURL": "@GCUBaseball"
   },
   {
     "schoolID": "NJ-thomas-jefferson-university",
@@ -10684,7 +10816,8 @@
     "website": "",
     "teamPageURL": "https://www.jeffersonrams.com/sports/baseball",
     "campURL": "https://www.jeffersonrams.com/sports/baseball/camps",
-    "aliases": "TJU, Thomas Jefferson, Rams"
+    "aliases": "TJU, Thomas Jefferson, Rams",
+    "twitterURL": "@JeffersonBSB_"
   },
   {
     "schoolID": "NM-western-new-mexico-university",
@@ -10708,7 +10841,8 @@
     "acceptanceRate": null,
     "enrollment": 1935,
     "retentionRate": 53.8,
-    "graduationRate": 33.0
+    "graduationRate": 33.0,
+    "twitterURL": "@WNMUathletics"
   },
   {
     "schoolID": "NY-adelphi-university",
@@ -10732,7 +10866,8 @@
     "acceptanceRate": 77.5,
     "enrollment": 5077,
     "retentionRate": 83.0,
-    "graduationRate": 68.2
+    "graduationRate": 68.2,
+    "twitterURL": "@AdelphiBaseball"
   },
   {
     "schoolID": "NY-college-of-staten-island",
@@ -10756,7 +10891,8 @@
     "acceptanceRate": null,
     "enrollment": 9387,
     "retentionRate": 76.2,
-    "graduationRate": 33.7
+    "graduationRate": 33.7,
+    "twitterURL": "@CSIDolphins"
   },
   {
     "schoolID": "NY-daemen-university",
@@ -10780,7 +10916,8 @@
     "acceptanceRate": 76.2,
     "enrollment": 1761,
     "retentionRate": 80.2,
-    "graduationRate": 56.7
+    "graduationRate": 56.7,
+    "twitterURL": "@DaemenAthletics"
   },
   {
     "schoolID": "NY-dominican-university-new-york",
@@ -10804,7 +10941,8 @@
     "acceptanceRate": 78.8,
     "enrollment": 1083,
     "retentionRate": 66.8,
-    "graduationRate": 55.0
+    "graduationRate": 55.0,
+    "twitterURL": "@ChargersofDU"
   },
   {
     "schoolID": "NY-le-moyne-college",
@@ -10853,7 +10991,8 @@
     "acceptanceRate": 85.5,
     "enrollment": 5539,
     "retentionRate": 75.0,
-    "graduationRate": 47.6
+    "graduationRate": 47.6,
+    "twitterURL": "@MercyMavericks"
   },
   {
     "schoolID": "NY-molloy-university",
@@ -10877,7 +11016,8 @@
     "acceptanceRate": 75.6,
     "enrollment": 3185,
     "retentionRate": 81.1,
-    "graduationRate": 70.4
+    "graduationRate": 70.4,
+    "twitterURL": "@MolloyBaseball"
   },
   {
     "schoolID": "NY-queens-college",
@@ -10901,7 +11041,8 @@
     "acceptanceRate": 68.5,
     "enrollment": 13060,
     "retentionRate": 78.2,
-    "graduationRate": 58.4
+    "graduationRate": 58.4,
+    "twitterURL": "@QC_Baseball"
   },
   {
     "schoolID": "NY-roberts-wesleyan-university",
@@ -10925,7 +11066,8 @@
     "acceptanceRate": 77.8,
     "enrollment": 1065,
     "retentionRate": 77.3,
-    "graduationRate": 66.1
+    "graduationRate": 66.1,
+    "twitterURL": "@RobertsRedhawks"
   },
   {
     "schoolID": "NY-st-thomas-aquinas-college",
@@ -10949,7 +11091,8 @@
     "acceptanceRate": 82.2,
     "enrollment": 1009,
     "retentionRate": 74.9,
-    "graduationRate": 58.0
+    "graduationRate": 58.0,
+    "twitterURL": "@STACBaseball"
   },
   {
     "schoolID": "OH-ashland-university",
@@ -10973,7 +11116,8 @@
     "acceptanceRate": 80.6,
     "enrollment": 2250,
     "retentionRate": 72.2,
-    "graduationRate": 60.4
+    "graduationRate": 60.4,
+    "twitterURL": "@ashland_base"
   },
   {
     "schoolID": "OH-cedarville-university",
@@ -10997,7 +11141,8 @@
     "acceptanceRate": 62.8,
     "enrollment": 3815,
     "retentionRate": 85.0,
-    "graduationRate": 74.7
+    "graduationRate": 74.7,
+    "twitterURL": "@CUJacketsBase"
   },
   {
     "schoolID": "OH-lake-erie-college",
@@ -11021,7 +11166,8 @@
     "acceptanceRate": 64.1,
     "enrollment": 678,
     "retentionRate": 65.9,
-    "graduationRate": 42.0
+    "graduationRate": 42.0,
+    "twitterURL": "@lakeeriebase"
   },
   {
     "schoolID": "OH-malone-university",
@@ -11045,7 +11191,8 @@
     "acceptanceRate": 75.6,
     "enrollment": 777,
     "retentionRate": 71.8,
-    "graduationRate": 51.2
+    "graduationRate": 51.2,
+    "twitterURL": "@BaseballMaloneU"
   },
   {
     "schoolID": "OH-ohio-dominican-university",
@@ -11069,7 +11216,8 @@
     "acceptanceRate": 85.2,
     "enrollment": 785,
     "retentionRate": 59.8,
-    "graduationRate": 49.2
+    "graduationRate": 49.2,
+    "twitterURL": "@ODUBaseball_"
   },
   {
     "schoolID": "OH-tiffin-university",
@@ -11093,7 +11241,8 @@
     "acceptanceRate": 79.8,
     "enrollment": 1938,
     "retentionRate": 60.3,
-    "graduationRate": 44.1
+    "graduationRate": 44.1,
+    "twitterURL": "@TUDragonsBB"
   },
   {
     "schoolID": "OH-university-of-findlay",
@@ -11117,7 +11266,8 @@
     "acceptanceRate": 86.3,
     "enrollment": 2240,
     "retentionRate": 72.0,
-    "graduationRate": 64.0
+    "graduationRate": 64.0,
+    "twitterURL": "@UF_Baseball_"
   },
   {
     "schoolID": "OH-walsh-university",
@@ -11141,7 +11291,8 @@
     "acceptanceRate": 78.2,
     "enrollment": 1294,
     "retentionRate": 72.9,
-    "graduationRate": 60.1
+    "graduationRate": 60.1,
+    "twitterURL": "@WalshUBaseball"
   },
   {
     "schoolID": "OK-east-central-university",
@@ -11165,7 +11316,8 @@
     "acceptanceRate": 65.5,
     "enrollment": 2157,
     "retentionRate": 56.8,
-    "graduationRate": 32.0
+    "graduationRate": 32.0,
+    "twitterURL": "@ECUTigersBSB"
   },
   {
     "schoolID": "OK-rogers-state-university",
@@ -11189,7 +11341,8 @@
     "acceptanceRate": null,
     "enrollment": 2552,
     "retentionRate": 64.5,
-    "graduationRate": 25.2
+    "graduationRate": 25.2,
+    "twitterURL": "@RSUBaseball"
   },
   {
     "schoolID": "OK-southwestern-oklahoma-state-university",
@@ -11213,7 +11366,8 @@
     "acceptanceRate": 100,
     "enrollment": 3469,
     "retentionRate": 69.7,
-    "graduationRate": 36.9
+    "graduationRate": 36.9,
+    "twitterURL": "@SWOSUBaseball"
   },
   {
     "schoolID": "OR-oregon-tech",
@@ -11237,7 +11391,8 @@
     "acceptanceRate": 91.7,
     "enrollment": 2913,
     "retentionRate": 72.9,
-    "graduationRate": 58.1
+    "graduationRate": 58.1,
+    "twitterURL": "@oit_baseball"
   },
   {
     "schoolID": "OR-western-oregon-university",
@@ -11261,7 +11416,8 @@
     "acceptanceRate": 98.7,
     "enrollment": 3211,
     "retentionRate": 76.3,
-    "graduationRate": 46.3
+    "graduationRate": 46.3,
+    "twitterURL": "@WOU_Baseball"
   },
   {
     "schoolID": "PA-bloomsburg-university",
@@ -11273,7 +11429,8 @@
     "website": "",
     "teamPageURL": "https://www.bloomsburgathletics.com/sports/baseball",
     "campURL": "https://www.bloomsburgathletics.com/sports/baseball/camps",
-    "aliases": "Bloomsburg, Huskies"
+    "aliases": "Bloomsburg, Huskies",
+    "twitterURL": "@BUHuskiesBase"
   },
   {
     "schoolID": "PA-california-university-of-pennsylvania",
@@ -11285,7 +11442,8 @@
     "website": "",
     "teamPageURL": "https://www.californiaathletics.com/sports/baseball",
     "campURL": "https://www.californiaathletics.com/sports/baseball/camps",
-    "aliases": "Cal U, CalU, Vulcans"
+    "aliases": "Cal U, CalU, Vulcans",
+    "twitterURL": "@Vulcans_Base"
   },
   {
     "schoolID": "PA-clarion-university",
@@ -11297,7 +11455,8 @@
     "website": "",
     "teamPageURL": "https://www.clarionathletics.com/sports/baseball",
     "campURL": "https://www.clarionathletics.com/sports/baseball/camps",
-    "aliases": "Clarion, Golden Eagles"
+    "aliases": "Clarion, Golden Eagles",
+    "twitterURL": "@ClarionBaseball"
   },
   {
     "schoolID": "PA-east-stroudsburg-university",
@@ -11321,7 +11480,8 @@
     "acceptanceRate": 92.9,
     "enrollment": 4611,
     "retentionRate": 71.0,
-    "graduationRate": 44.8
+    "graduationRate": 44.8,
+    "twitterURL": "@ESU_Baseball"
   },
   {
     "schoolID": "PA-edinboro-university",
@@ -11333,7 +11493,8 @@
     "website": "",
     "teamPageURL": "https://www.edinboroathletics.com/sports/baseball",
     "campURL": "https://www.edinboroathletics.com/sports/baseball/camps",
-    "aliases": "Edinboro, Fighting Scots"
+    "aliases": "Edinboro, Fighting Scots",
+    "twitterURL": "@BoroAthletics"
   },
   {
     "schoolID": "PA-gannon-university",
@@ -11357,7 +11518,8 @@
     "acceptanceRate": 76.7,
     "enrollment": 2467,
     "retentionRate": 76.0,
-    "graduationRate": 69.6
+    "graduationRate": 69.6,
+    "twitterURL": "@GannonBaseball"
   },
   {
     "schoolID": "PA-indiana-university-of-pennsylvania",
@@ -11381,7 +11543,8 @@
     "acceptanceRate": 91.2,
     "enrollment": 6893,
     "retentionRate": 71.0,
-    "graduationRate": 52.2
+    "graduationRate": 52.2,
+    "twitterURL": "@IUPCrimsonHawk"
   },
   {
     "schoolID": "PA-kutztown-university",
@@ -11405,7 +11568,8 @@
     "acceptanceRate": 94.8,
     "enrollment": 6348,
     "retentionRate": 74.8,
-    "graduationRate": 55.3
+    "graduationRate": 55.3,
+    "twitterURL": "@KUBearsBaseball"
   },
   {
     "schoolID": "PA-lock-haven-university",
@@ -11417,7 +11581,8 @@
     "website": "",
     "teamPageURL": "https://www.lockathletics.com/sports/baseball",
     "campURL": "https://www.lockathletics.com/sports/baseball/camps",
-    "aliases": "Lock Haven, Bald Eagles"
+    "aliases": "Lock Haven, Bald Eagles",
+    "twitterURL": "@LHUBaseball"
   },
   {
     "schoolID": "PA-mercyhurst-university",
@@ -11441,7 +11606,8 @@
     "acceptanceRate": 83.2,
     "enrollment": 2217,
     "retentionRate": 77.6,
-    "graduationRate": 61.2
+    "graduationRate": 61.2,
+    "twitterURL": "@HurstBaseball"
   },
   {
     "schoolID": "PA-millersville-university",
@@ -11465,7 +11631,8 @@
     "acceptanceRate": 89.4,
     "enrollment": 5610,
     "retentionRate": 78.0,
-    "graduationRate": 55.7
+    "graduationRate": 55.7,
+    "twitterURL": "@villebase"
   },
   {
     "schoolID": "PA-seton-hill-university",
@@ -11489,7 +11656,8 @@
     "acceptanceRate": 75.8,
     "enrollment": 1581,
     "retentionRate": 80.2,
-    "graduationRate": 71.3
+    "graduationRate": 71.3,
+    "twitterURL": "@SHGriffBaseball"
   },
   {
     "schoolID": "PA-shippensburg-university",
@@ -11513,7 +11681,8 @@
     "acceptanceRate": 85.5,
     "enrollment": 4179,
     "retentionRate": 76.1,
-    "graduationRate": 50.8
+    "graduationRate": 50.8,
+    "twitterURL": "@SHIPUBaseball"
   },
   {
     "schoolID": "PA-slippery-rock-university",
@@ -11537,7 +11706,8 @@
     "acceptanceRate": 74.6,
     "enrollment": 6728,
     "retentionRate": 81.5,
-    "graduationRate": 66.2
+    "graduationRate": 66.2,
+    "twitterURL": "@SRUBaseball"
   },
   {
     "schoolID": "PA-university-of-pittsburgh-at-johnstown",
@@ -11561,7 +11731,8 @@
     "acceptanceRate": 95.9,
     "enrollment": 1934,
     "retentionRate": 76.0,
-    "graduationRate": 51.0
+    "graduationRate": 51.0,
+    "twitterURL": "@MtnCatAthletics"
   },
   {
     "schoolID": "PA-west-chester-university",
@@ -11585,7 +11756,8 @@
     "acceptanceRate": 79.2,
     "enrollment": 14067,
     "retentionRate": 84.4,
-    "graduationRate": 70.7
+    "graduationRate": 70.7,
+    "twitterURL": "@BaseballWcu"
   },
   {
     "schoolID": "SC-anderson-university",
@@ -11609,7 +11781,8 @@
     "acceptanceRate": 52.8,
     "enrollment": 3080,
     "retentionRate": 82.3,
-    "graduationRate": 65.7
+    "graduationRate": 65.7,
+    "twitterURL": "@AUTrojansbsbl"
   },
   {
     "schoolID": "SC-benedict-college",
@@ -11633,7 +11806,8 @@
     "acceptanceRate": 67.3,
     "enrollment": 1573,
     "retentionRate": 65.1,
-    "graduationRate": 20.4
+    "graduationRate": 20.4,
+    "twitterURL": "@BenedictEDU"
   },
   {
     "schoolID": "SC-coker-university",
@@ -11657,7 +11831,8 @@
     "acceptanceRate": 97.2,
     "enrollment": 807,
     "retentionRate": 62.8,
-    "graduationRate": 38.5
+    "graduationRate": 38.5,
+    "twitterURL": "@CokerU_Baseball"
   },
   {
     "schoolID": "SC-erskine-college",
@@ -11681,7 +11856,8 @@
     "acceptanceRate": 60.6,
     "enrollment": 821,
     "retentionRate": 62.7,
-    "graduationRate": 47.4
+    "graduationRate": 47.4,
+    "twitterURL": "@FleetBaseball"
   },
   {
     "schoolID": "SC-francis-marion-university",
@@ -11705,7 +11881,8 @@
     "acceptanceRate": 82.2,
     "enrollment": 2640,
     "retentionRate": 69.2,
-    "graduationRate": 40.9
+    "graduationRate": 40.9,
+    "twitterURL": "@fmupatsbaseball"
   },
   {
     "schoolID": "SC-lander-university",
@@ -11729,7 +11906,8 @@
     "acceptanceRate": 67.9,
     "enrollment": 3384,
     "retentionRate": 68.6,
-    "graduationRate": 47.0
+    "graduationRate": 47.0,
+    "twitterURL": "@Lander_BSB"
   },
   {
     "schoolID": "SC-limestone-university",
@@ -11753,7 +11931,8 @@
     "acceptanceRate": 98.3,
     "enrollment": 1528,
     "retentionRate": 63.6,
-    "graduationRate": 26.4
+    "graduationRate": 26.4,
+    "twitterURL": "@Limestone_BSB"
   },
   {
     "schoolID": "SC-newberry-college",
@@ -11777,7 +11956,8 @@
     "acceptanceRate": 74.8,
     "enrollment": 1462,
     "retentionRate": 70.0,
-    "graduationRate": 46.6
+    "graduationRate": 46.6,
+    "twitterURL": "@NewberryBSB"
   },
   {
     "schoolID": "SC-north-greenville-university",
@@ -11801,7 +11981,8 @@
     "acceptanceRate": 62.8,
     "enrollment": 1719,
     "retentionRate": 69.2,
-    "graduationRate": 54.3
+    "graduationRate": 54.3,
+    "twitterURL": "@NGUBaseball"
   },
   {
     "schoolID": "SC-southern-wesleyan-university",
@@ -11825,7 +12006,8 @@
     "acceptanceRate": 100,
     "enrollment": 771,
     "retentionRate": 65.6,
-    "graduationRate": 55.7
+    "graduationRate": 55.7,
+    "twitterURL": "@SWUBaseball"
   },
   {
     "schoolID": "SC-usc-aiken",
@@ -11849,7 +12031,8 @@
     "acceptanceRate": 79.7,
     "enrollment": 2805,
     "retentionRate": 64.4,
-    "graduationRate": 41.3
+    "graduationRate": 41.3,
+    "twitterURL": "@USCABaseball"
   },
   {
     "schoolID": "SD-augustana-university",
@@ -11873,7 +12056,8 @@
     "acceptanceRate": 59.2,
     "enrollment": 1818,
     "retentionRate": 83.5,
-    "graduationRate": 75.6
+    "graduationRate": 75.6,
+    "twitterURL": "@AugieBaseball"
   },
   {
     "schoolID": "SD-northern-state-university",
@@ -11897,7 +12081,8 @@
     "acceptanceRate": 92.8,
     "enrollment": 1239,
     "retentionRate": 75.1,
-    "graduationRate": 51.5
+    "graduationRate": 51.5,
+    "twitterURL": "@NSUWOLVES_BS"
   },
   {
     "schoolID": "SD-south-dakota-mines",
@@ -11921,7 +12106,8 @@
     "acceptanceRate": 85.2,
     "enrollment": 2042,
     "retentionRate": 84.1,
-    "graduationRate": 57.0
+    "graduationRate": 57.0,
+    "twitterURL": "@GoHardrockers"
   },
   {
     "schoolID": "TN-christian-brothers-university",
@@ -11945,7 +12131,8 @@
     "acceptanceRate": 88.4,
     "enrollment": 953,
     "retentionRate": 72.6,
-    "graduationRate": 57.8
+    "graduationRate": 57.8,
+    "twitterURL": "@CBUBucsBb"
   },
   {
     "schoolID": "TN-lee-university",
@@ -11969,7 +12156,8 @@
     "acceptanceRate": 72.2,
     "enrollment": 2712,
     "retentionRate": 81.0,
-    "graduationRate": 61.8
+    "graduationRate": 61.8,
+    "twitterURL": "@LeeUBaseball"
   },
   {
     "schoolID": "TN-lincoln-memorial-university",
@@ -11993,7 +12181,8 @@
     "acceptanceRate": 59.3,
     "enrollment": 1487,
     "retentionRate": 69.3,
-    "graduationRate": 52.4
+    "graduationRate": 52.4,
+    "twitterURL": "@LMUbaseball"
   },
   {
     "schoolID": "TN-trevecca-nazarene-university",
@@ -12017,7 +12206,8 @@
     "acceptanceRate": 70.0,
     "enrollment": 1697,
     "retentionRate": 75.1,
-    "graduationRate": 58.0
+    "graduationRate": 58.0,
+    "twitterURL": "@TNUBaseball"
   },
   {
     "schoolID": "TN-tusculum-university",
@@ -12041,7 +12231,8 @@
     "acceptanceRate": 60.4,
     "enrollment": 903,
     "retentionRate": 58.0,
-    "graduationRate": 32.2
+    "graduationRate": 32.2,
+    "twitterURL": "@TusculumBSB"
   },
   {
     "schoolID": "TN-union-university",
@@ -12065,7 +12256,8 @@
     "acceptanceRate": 47.2,
     "enrollment": 1637,
     "retentionRate": 86.9,
-    "graduationRate": 68.8
+    "graduationRate": 68.8,
+    "twitterURL": "@UUAthleticsBB"
   },
   {
     "schoolID": "TN-university-of-tennessee-southern",
@@ -12089,7 +12281,8 @@
     "acceptanceRate": 82.7,
     "enrollment": 827,
     "retentionRate": 64.2,
-    "graduationRate": 32.9
+    "graduationRate": 32.9,
+    "twitterURL": "@UTSBaseball"
   },
   {
     "schoolID": "TX-angelo-state-university",
@@ -12113,7 +12306,8 @@
     "acceptanceRate": 79.2,
     "enrollment": 5515,
     "retentionRate": 71.6,
-    "graduationRate": 40.9
+    "graduationRate": 40.9,
+    "twitterURL": "@RamsASUbaseball"
   },
   {
     "schoolID": "TX-lubbock-christian-university",
@@ -12137,7 +12331,8 @@
     "acceptanceRate": 73.2,
     "enrollment": 1210,
     "retentionRate": 73.9,
-    "graduationRate": 48.7
+    "graduationRate": 48.7,
+    "twitterURL": "@LCU_Baseball"
   },
   {
     "schoolID": "TX-midwestern-state-university",
@@ -12161,7 +12356,8 @@
     "acceptanceRate": 87.4,
     "enrollment": 4043,
     "retentionRate": 63.0,
-    "graduationRate": 41.1
+    "graduationRate": 41.1,
+    "twitterURL": "@MSUMustangs"
   },
   {
     "schoolID": "TX-st-edward-s-university",
@@ -12185,7 +12381,8 @@
     "acceptanceRate": 83.7,
     "enrollment": 2729,
     "retentionRate": 78.0,
-    "graduationRate": 64.6
+    "graduationRate": 64.6,
+    "twitterURL": "@SEUBaseball"
   },
   {
     "schoolID": "TX-st-mary-s-university",
@@ -12209,7 +12406,8 @@
     "acceptanceRate": 88.9,
     "enrollment": 1911,
     "retentionRate": 67.5,
-    "graduationRate": 57.4
+    "graduationRate": 57.4,
+    "twitterURL": "@StMUbaseball"
   },
   {
     "schoolID": "TX-texas-am-kingsville",
@@ -12221,7 +12419,8 @@
     "website": "",
     "teamPageURL": "https://www.javelinaathletics.com/sports/baseball",
     "campURL": "https://www.javelinaathletics.com/sports/baseball/camps",
-    "aliases": "TAMUK, A&M Kingsville, Javelinas"
+    "aliases": "TAMUK, A&M Kingsville, Javelinas",
+    "twitterURL": "@JavelinaBSB"
   },
   {
     "schoolID": "TX-west-texas-am-university",
@@ -12245,7 +12444,8 @@
     "acceptanceRate": null,
     "enrollment": 955,
     "retentionRate": null,
-    "graduationRate": null
+    "graduationRate": null,
+    "twitterURL": "@WTAMUBaseball"
   },
   {
     "schoolID": "VA-emory-henry-college",
@@ -12269,7 +12469,8 @@
     "acceptanceRate": 96.3,
     "enrollment": 1107,
     "retentionRate": 69.2,
-    "graduationRate": 55.9
+    "graduationRate": 55.9,
+    "twitterURL": "@EHCBaseball"
   },
   {
     "schoolID": "VA-uva-wise",
@@ -12293,7 +12494,8 @@
     "acceptanceRate": 93.9,
     "enrollment": 1214,
     "retentionRate": 73.2,
-    "graduationRate": 47.1
+    "graduationRate": 47.1,
+    "twitterURL": "@UVAWiseBaseball"
   },
   {
     "schoolID": "VT-saint-michael-s-college",
@@ -12317,7 +12519,8 @@
     "acceptanceRate": 91.8,
     "enrollment": 1157,
     "retentionRate": 84.1,
-    "graduationRate": 71.8
+    "graduationRate": 71.8,
+    "twitterURL": "@smcvt_baseball"
   },
   {
     "schoolID": "WA-saint-martin-s-university",
@@ -12341,7 +12544,8 @@
     "acceptanceRate": 75.9,
     "enrollment": 1254,
     "retentionRate": 73.3,
-    "graduationRate": 58.5
+    "graduationRate": 58.5,
+    "twitterURL": "@SMUSaints_BB"
   },
   {
     "schoolID": "WV-concord-university",
@@ -12365,7 +12569,8 @@
     "acceptanceRate": 89.6,
     "enrollment": 1394,
     "retentionRate": 49.0,
-    "graduationRate": 41.2
+    "graduationRate": 41.2,
+    "twitterURL": "@ConcordBaseball"
   },
   {
     "schoolID": "WV-davis-elkins-college",
@@ -12389,7 +12594,8 @@
     "acceptanceRate": 58.2,
     "enrollment": 681,
     "retentionRate": 58.1,
-    "graduationRate": 42.3
+    "graduationRate": 42.3,
+    "twitterURL": "@SenatorsBSB"
   },
   {
     "schoolID": "WV-fairmont-state-university",
@@ -12413,7 +12619,8 @@
     "acceptanceRate": 99.2,
     "enrollment": 2690,
     "retentionRate": 64.2,
-    "graduationRate": 47.3
+    "graduationRate": 47.3,
+    "twitterURL": "@FairmontBsbl"
   },
   {
     "schoolID": "WV-glenville-state-university",
@@ -12437,7 +12644,8 @@
     "acceptanceRate": null,
     "enrollment": 1177,
     "retentionRate": 62.9,
-    "graduationRate": 34.2
+    "graduationRate": 34.2,
+    "twitterURL": "@GSU_BSB"
   },
   {
     "schoolID": "WV-university-of-charleston-wv",
@@ -12461,7 +12669,8 @@
     "acceptanceRate": 64.5,
     "enrollment": 2083,
     "retentionRate": 69.1,
-    "graduationRate": 44.2
+    "graduationRate": 44.2,
+    "twitterURL": "@UCWV_Baseball"
   },
   {
     "schoolID": "WV-west-liberty-university",
@@ -12485,7 +12694,8 @@
     "acceptanceRate": 72.1,
     "enrollment": 1578,
     "retentionRate": 69.1,
-    "graduationRate": 60.9
+    "graduationRate": 60.9,
+    "twitterURL": "@ToppersBaseball"
   },
   {
     "schoolID": "WV-west-virginia-state-university",
@@ -12509,7 +12719,8 @@
     "acceptanceRate": 96.4,
     "enrollment": 1328,
     "retentionRate": 63.2,
-    "graduationRate": 34.5
+    "graduationRate": 34.5,
+    "twitterURL": "@WVSU_Baseball"
   },
   {
     "schoolID": "WV-west-virginia-wesleyan-college",
@@ -12533,7 +12744,8 @@
     "acceptanceRate": 95.0,
     "enrollment": 909,
     "retentionRate": 68.4,
-    "graduationRate": 51.5
+    "graduationRate": 51.5,
+    "twitterURL": "@WVWCBaseball"
   },
   {
     "schoolID": "WV-wheeling-university",
@@ -12557,7 +12769,8 @@
     "acceptanceRate": 75.2,
     "enrollment": 567,
     "retentionRate": 65.5,
-    "graduationRate": 53.2
+    "graduationRate": 53.2,
+    "twitterURL": "@WU_baseball"
   },
   {
     "schoolID": "AL-huntingdon-college",
@@ -12581,7 +12794,8 @@
     "acceptanceRate": 70.8,
     "enrollment": 865,
     "retentionRate": 66.7,
-    "graduationRate": 48.5
+    "graduationRate": 48.5,
+    "twitterURL": "@HCDiamondHawks"
   },
   {
     "schoolID": "AR-hendrix-college",
@@ -12605,7 +12819,8 @@
     "acceptanceRate": 53.0,
     "enrollment": 1094,
     "retentionRate": 78.2,
-    "graduationRate": 68.9
+    "graduationRate": 68.9,
+    "twitterURL": "@HendrixBaseball"
   },
   {
     "schoolID": "CA-cal-lutheran-university",
@@ -12629,7 +12844,8 @@
     "acceptanceRate": 88.9,
     "enrollment": 2374,
     "retentionRate": 80.6,
-    "graduationRate": 73.6
+    "graduationRate": 73.6,
+    "twitterURL": "@CLUBaseball"
   },
   {
     "schoolID": "CA-california-southern",
@@ -12677,7 +12893,8 @@
     "acceptanceRate": 3.1,
     "enrollment": 1023,
     "retentionRate": 97.8,
-    "graduationRate": 93.6
+    "graduationRate": 93.6,
+    "twitterURL": "@caltechbaseball"
   },
   {
     "schoolID": "CA-chapman-university",
@@ -12701,7 +12918,8 @@
     "acceptanceRate": 55.6,
     "enrollment": 7629,
     "retentionRate": 90.0,
-    "graduationRate": 81.9
+    "graduationRate": 81.9,
+    "twitterURL": "@BaseballChapman"
   },
   {
     "schoolID": "CA-claremont-mudd-scripps",
@@ -12713,7 +12931,8 @@
     "website": "https://www.cmsathletics.org/sports/baseball",
     "teamPageURL": "https://www.cmsathletics.org/sports/baseball",
     "campURL": "https://www.cmsbaseballcamps.com",
-    "aliases": "CMS, Claremont-Mudd-Scripps, Stags, Athenas"
+    "aliases": "CMS, Claremont-Mudd-Scripps, Stags, Athenas",
+    "twitterURL": "@CMSStagBaseball"
   },
   {
     "schoolID": "CA-occidental-college",
@@ -12737,7 +12956,8 @@
     "acceptanceRate": 39.9,
     "enrollment": 1844,
     "retentionRate": 87.2,
-    "graduationRate": 84.0
+    "graduationRate": 84.0,
+    "twitterURL": "@Oxy_Baseball"
   },
   {
     "schoolID": "CA-pomona-pitzer",
@@ -12749,7 +12969,8 @@
     "website": "https://www.sagehens.com",
     "teamPageURL": "https://www.sagehens.com",
     "campURL": "https://www.sagehenbaseballcamps.com",
-    "aliases": "Pomona-Pitzer, Sagehens"
+    "aliases": "Pomona-Pitzer, Sagehens",
+    "twitterURL": "@SagehenBaseball"
   },
   {
     "schoolID": "CA-uc-santa-cruz",
@@ -12773,7 +12994,8 @@
     "acceptanceRate": 62.5,
     "enrollment": 17812,
     "retentionRate": 89.7,
-    "graduationRate": 75.7
+    "graduationRate": 75.7,
+    "twitterURL": "@UCSCAthletics"
   },
   {
     "schoolID": "CA-university-of-la-verne",
@@ -12797,7 +13019,8 @@
     "acceptanceRate": 48.5,
     "enrollment": 3341,
     "retentionRate": 76.3,
-    "graduationRate": 64.4
+    "graduationRate": 64.4,
+    "twitterURL": "@ulv_athletics"
   },
   {
     "schoolID": "CA-university-of-redlands",
@@ -12821,7 +13044,8 @@
     "acceptanceRate": 80.9,
     "enrollment": 2095,
     "retentionRate": 81.5,
-    "graduationRate": 69.0
+    "graduationRate": 69.0,
+    "twitterURL": "@UofRBaseball"
   },
   {
     "schoolID": "CA-whittier-college",
@@ -12845,7 +13069,8 @@
     "acceptanceRate": 85.4,
     "enrollment": 812,
     "retentionRate": 52.8,
-    "graduationRate": 64.4
+    "graduationRate": 64.4,
+    "twitterURL": "@wcpoets"
   },
   {
     "schoolID": "DC-the-catholic-university-of-america",
@@ -12869,7 +13094,8 @@
     "acceptanceRate": 83.8,
     "enrollment": 3063,
     "retentionRate": 83.5,
-    "graduationRate": 79.0
+    "graduationRate": 79.0,
+    "twitterURL": "@CatholicUAD"
   },
   {
     "schoolID": "GA-berry-college",
@@ -12893,7 +13119,8 @@
     "acceptanceRate": 61.9,
     "enrollment": 2213,
     "retentionRate": 83.0,
-    "graduationRate": 69.4
+    "graduationRate": 69.4,
+    "twitterURL": "@BC_Baseball"
   },
   {
     "schoolID": "GA-covenant-college",
@@ -12917,7 +13144,8 @@
     "acceptanceRate": 81.8,
     "enrollment": 858,
     "retentionRate": 87.3,
-    "graduationRate": 72.9
+    "graduationRate": 72.9,
+    "twitterURL": "@scotsbaseball"
   },
   {
     "schoolID": "GA-emory-university",
@@ -12941,7 +13169,8 @@
     "acceptanceRate": 11.1,
     "enrollment": 7275,
     "retentionRate": 96.2,
-    "graduationRate": 90.9
+    "graduationRate": 90.9,
+    "twitterURL": "@EmoryBaseball"
   },
   {
     "schoolID": "GA-lagrange-college",
@@ -12965,7 +13194,8 @@
     "acceptanceRate": 63.2,
     "enrollment": 566,
     "retentionRate": 60.5,
-    "graduationRate": 45.9
+    "graduationRate": 45.9,
+    "twitterURL": "@lcbaseball21"
   },
   {
     "schoolID": "GA-oglethorpe-university",
@@ -12989,7 +13219,8 @@
     "acceptanceRate": 60.1,
     "enrollment": 1429,
     "retentionRate": 75.1,
-    "graduationRate": 55.5
+    "graduationRate": 55.5,
+    "twitterURL": "@GoPetrelsBSB"
   },
   {
     "schoolID": "GA-piedmont-university",
@@ -13013,7 +13244,8 @@
     "acceptanceRate": 92.8,
     "enrollment": 1235,
     "retentionRate": 77.1,
-    "graduationRate": 44.8
+    "graduationRate": 44.8,
+    "twitterURL": "@PULionsBaseball"
   },
   {
     "schoolID": "IA-buena-vista-university",
@@ -13037,7 +13269,8 @@
     "acceptanceRate": 71.8,
     "enrollment": 1378,
     "retentionRate": 76.3,
-    "graduationRate": 52.3
+    "graduationRate": 52.3,
+    "twitterURL": "@BVU_Baseball"
   },
   {
     "schoolID": "IA-central-college",
@@ -13061,7 +13294,8 @@
     "acceptanceRate": 79.0,
     "enrollment": 1062,
     "retentionRate": 72.7,
-    "graduationRate": 70.3
+    "graduationRate": 70.3,
+    "twitterURL": "@DutchBaseball"
   },
   {
     "schoolID": "IA-coe-college",
@@ -13085,7 +13319,8 @@
     "acceptanceRate": 70.7,
     "enrollment": 1246,
     "retentionRate": 76.5,
-    "graduationRate": 62.0
+    "graduationRate": 62.0,
+    "twitterURL": "@CoeBaseball"
   },
   {
     "schoolID": "IA-cornell-college",
@@ -13109,7 +13344,8 @@
     "acceptanceRate": 80.7,
     "enrollment": 1074,
     "retentionRate": 74.2,
-    "graduationRate": 67.6
+    "graduationRate": 67.6,
+    "twitterURL": "@CornellRamsBB"
   },
   {
     "schoolID": "IA-grinnell-college",
@@ -13133,7 +13369,8 @@
     "acceptanceRate": 12.7,
     "enrollment": 1705,
     "retentionRate": 93.1,
-    "graduationRate": 87.9
+    "graduationRate": 87.9,
+    "twitterURL": "@GnellBaseball"
   },
   {
     "schoolID": "IA-loras-college",
@@ -13157,7 +13394,8 @@
     "acceptanceRate": 91.8,
     "enrollment": 1087,
     "retentionRate": 82.9,
-    "graduationRate": 68.8
+    "graduationRate": 68.8,
+    "twitterURL": "@LorasBaseball"
   },
   {
     "schoolID": "IA-luther-college",
@@ -13181,7 +13419,8 @@
     "acceptanceRate": 73.3,
     "enrollment": 1454,
     "retentionRate": 79.2,
-    "graduationRate": 74.6
+    "graduationRate": 74.6,
+    "twitterURL": "@LutherBaseball"
   },
   {
     "schoolID": "IA-simpson-college",
@@ -13205,7 +13444,8 @@
     "acceptanceRate": 88.9,
     "enrollment": 1130,
     "retentionRate": 76.0,
-    "graduationRate": 66.2
+    "graduationRate": 66.2,
+    "twitterURL": "@StormBaseballSC"
   },
   {
     "schoolID": "IA-university-of-dubuque",
@@ -13229,7 +13469,8 @@
     "acceptanceRate": 86.9,
     "enrollment": 1473,
     "retentionRate": 71.4,
-    "graduationRate": 40.2
+    "graduationRate": 40.2,
+    "twitterURL": "@UD__Baseball"
   },
   {
     "schoolID": "IA-wartburg-college",
@@ -13253,7 +13494,8 @@
     "acceptanceRate": 99.4,
     "enrollment": 1446,
     "retentionRate": 80.3,
-    "graduationRate": 67.0
+    "graduationRate": 67.0,
+    "twitterURL": "@WartburgBB"
   },
   {
     "schoolID": "IL-augustana-college-il",
@@ -13277,7 +13519,8 @@
     "acceptanceRate": 67.7,
     "enrollment": 2418,
     "retentionRate": 82.8,
-    "graduationRate": 78.4
+    "graduationRate": 78.4,
+    "twitterURL": "@Augie_Baseball"
   },
   {
     "schoolID": "IL-aurora-university",
@@ -13301,7 +13544,8 @@
     "acceptanceRate": 85.1,
     "enrollment": 4021,
     "retentionRate": 77.8,
-    "graduationRate": 59.0
+    "graduationRate": 59.0,
+    "twitterURL": "@AUSpartanBase"
   },
   {
     "schoolID": "IL-benedictine-university-il",
@@ -13325,7 +13569,8 @@
     "acceptanceRate": 77.2,
     "enrollment": 1817,
     "retentionRate": 69.2,
-    "graduationRate": 52.4
+    "graduationRate": 52.4,
+    "twitterURL": "@BenUBaseball"
   },
   {
     "schoolID": "IL-concordia-university-chicago",
@@ -13349,7 +13594,8 @@
     "acceptanceRate": 93.4,
     "enrollment": 1337,
     "retentionRate": 62.5,
-    "graduationRate": 47.7
+    "graduationRate": 47.7,
+    "twitterURL": "@CUCbaseball"
   },
   {
     "schoolID": "IL-dominican-university-il",
@@ -13373,7 +13619,8 @@
     "acceptanceRate": 79.8,
     "enrollment": 2271,
     "retentionRate": 79.3,
-    "graduationRate": 60.4
+    "graduationRate": 60.4,
+    "twitterURL": "@dominican_bsb"
   },
   {
     "schoolID": "IL-elmhurst-university",
@@ -13397,7 +13644,8 @@
     "acceptanceRate": 75.7,
     "enrollment": 2954,
     "retentionRate": 75.8,
-    "graduationRate": 64.4
+    "graduationRate": 64.4,
+    "twitterURL": "@ElmhurstU_BSB"
   },
   {
     "schoolID": "IL-greenville-university",
@@ -13421,7 +13669,8 @@
     "acceptanceRate": 95.4,
     "enrollment": 873,
     "retentionRate": 70.2,
-    "graduationRate": 54.3
+    "graduationRate": 54.3,
+    "twitterURL": "@Baseball_GU"
   },
   {
     "schoolID": "IL-illinois-college",
@@ -13445,7 +13694,8 @@
     "acceptanceRate": null,
     "enrollment": 5280,
     "retentionRate": null,
-    "graduationRate": 32.5
+    "graduationRate": 32.5,
+    "twitterURL": "@BlueboyBaseball"
   },
   {
     "schoolID": "IL-illinois-wesleyan-university",
@@ -13469,7 +13719,8 @@
     "acceptanceRate": 45.2,
     "enrollment": 1570,
     "retentionRate": 84.5,
-    "graduationRate": 80.9
+    "graduationRate": 80.9,
+    "twitterURL": "@IWU_Baseball"
   },
   {
     "schoolID": "IL-knox-college",
@@ -13493,7 +13744,8 @@
     "acceptanceRate": 71.1,
     "enrollment": 997,
     "retentionRate": 79.9,
-    "graduationRate": 71.0
+    "graduationRate": 71.0,
+    "twitterURL": "@Knox_Baseball"
   },
   {
     "schoolID": "IL-lake-forest-college",
@@ -13541,7 +13793,8 @@
     "acceptanceRate": 54.0,
     "enrollment": 1458,
     "retentionRate": 73.8,
-    "graduationRate": 58.5
+    "graduationRate": 58.5,
+    "twitterURL": "@BigBlueBaseball"
   },
   {
     "schoolID": "IL-monmouth-college-il",
@@ -13565,7 +13818,8 @@
     "acceptanceRate": 86.6,
     "enrollment": 725,
     "retentionRate": 69.6,
-    "graduationRate": 58.5
+    "graduationRate": 58.5,
+    "twitterURL": "@MCScotsBaseball"
   },
   {
     "schoolID": "IL-north-central-college",
@@ -13589,7 +13843,8 @@
     "acceptanceRate": 58.3,
     "enrollment": 2360,
     "retentionRate": 81.7,
-    "graduationRate": 67.3
+    "graduationRate": 67.3,
+    "twitterURL": "@nccbaseball"
   },
   {
     "schoolID": "IL-north-park-university",
@@ -13613,7 +13868,8 @@
     "acceptanceRate": 72.8,
     "enrollment": 1844,
     "retentionRate": 68.8,
-    "graduationRate": 55.5
+    "graduationRate": 55.5,
+    "twitterURL": "@npubaseball"
   },
   {
     "schoolID": "IL-principia-college",
@@ -13637,7 +13893,8 @@
     "acceptanceRate": 44.4,
     "enrollment": 337,
     "retentionRate": 75.4,
-    "graduationRate": 76.5
+    "graduationRate": 76.5,
+    "twitterURL": "@PrinAthletics"
   },
   {
     "schoolID": "IL-wheaton-college-il",
@@ -13661,7 +13918,8 @@
     "acceptanceRate": 90.0,
     "enrollment": 2087,
     "retentionRate": 93.8,
-    "graduationRate": 87.4
+    "graduationRate": 87.4,
+    "twitterURL": "@WCThunderBSBL"
   },
   {
     "schoolID": "IN-anderson-university-in",
@@ -13685,7 +13943,8 @@
     "acceptanceRate": 53.4,
     "enrollment": 1070,
     "retentionRate": 69.7,
-    "graduationRate": 54.9
+    "graduationRate": 54.9,
+    "twitterURL": "@AURavensBSB"
   },
   {
     "schoolID": "IN-depauw-university",
@@ -13709,7 +13968,8 @@
     "acceptanceRate": 54.1,
     "enrollment": 1804,
     "retentionRate": 89.2,
-    "graduationRate": 79.6
+    "graduationRate": 79.6,
+    "twitterURL": "@DePauwBaseball"
   },
   {
     "schoolID": "IN-earlham-college",
@@ -13733,7 +13993,8 @@
     "acceptanceRate": 74.2,
     "enrollment": 612,
     "retentionRate": 79.8,
-    "graduationRate": 71.7
+    "graduationRate": 71.7,
+    "twitterURL": "@EarlhamBaseball"
   },
   {
     "schoolID": "IN-franklin-college",
@@ -13757,7 +14018,8 @@
     "acceptanceRate": 70.6,
     "enrollment": 872,
     "retentionRate": 71.0,
-    "graduationRate": 63.2
+    "graduationRate": 63.2,
+    "twitterURL": "@FCGrizBaseball"
   },
   {
     "schoolID": "IN-hanover-college",
@@ -13781,7 +14043,8 @@
     "acceptanceRate": 84.0,
     "enrollment": 958,
     "retentionRate": 83.2,
-    "graduationRate": 66.2
+    "graduationRate": 66.2,
+    "twitterURL": "@HanoverBase"
   },
   {
     "schoolID": "IN-manchester-university",
@@ -13805,7 +14068,8 @@
     "acceptanceRate": 91.3,
     "enrollment": 895,
     "retentionRate": 71.6,
-    "graduationRate": 46.4
+    "graduationRate": 46.4,
+    "twitterURL": "@MUspartanbase"
   },
   {
     "schoolID": "IN-rose-hulman-institute-of-technology",
@@ -13829,7 +14093,8 @@
     "acceptanceRate": 72.8,
     "enrollment": 2224,
     "retentionRate": 90.6,
-    "graduationRate": 81.3
+    "graduationRate": 81.3,
+    "twitterURL": "@RHITbaseball"
   },
   {
     "schoolID": "IN-trine-university",
@@ -13853,7 +14118,8 @@
     "acceptanceRate": 84.7,
     "enrollment": 2344,
     "retentionRate": 85.4,
-    "graduationRate": 66.5
+    "graduationRate": 66.5,
+    "twitterURL": "@TrineBaseball"
   },
   {
     "schoolID": "IN-wabash-college",
@@ -13877,7 +14143,8 @@
     "acceptanceRate": 62.8,
     "enrollment": 845,
     "retentionRate": 85.6,
-    "graduationRate": 76.2
+    "graduationRate": 76.2,
+    "twitterURL": "@WabashBaseball"
   },
   {
     "schoolID": "KY-asbury-university",
@@ -13901,7 +14168,8 @@
     "acceptanceRate": 64.1,
     "enrollment": 1369,
     "retentionRate": 84.3,
-    "graduationRate": 67.5
+    "graduationRate": 67.5,
+    "twitterURL": "@AsburyBaseball"
   },
   {
     "schoolID": "KY-berea-college",
@@ -13925,7 +14193,8 @@
     "acceptanceRate": 32.7,
     "enrollment": 1472,
     "retentionRate": 87.8,
-    "graduationRate": 62.0
+    "graduationRate": 62.0,
+    "twitterURL": "@bereacollegebb"
   },
   {
     "schoolID": "KY-centre-college",
@@ -13949,7 +14218,8 @@
     "acceptanceRate": 54.3,
     "enrollment": 1346,
     "retentionRate": 87.5,
-    "graduationRate": 86.0
+    "graduationRate": 86.0,
+    "twitterURL": "@CentreBaseball"
   },
   {
     "schoolID": "KY-spalding-university",
@@ -13973,7 +14243,8 @@
     "acceptanceRate": 98.6,
     "enrollment": 597,
     "retentionRate": 69.7,
-    "graduationRate": 51.3
+    "graduationRate": 51.3,
+    "twitterURL": "@SpaldingUBSB"
   },
   {
     "schoolID": "KY-transylvania-university",
@@ -13997,7 +14268,8 @@
     "acceptanceRate": 85.0,
     "enrollment": 1014,
     "retentionRate": 83.5,
-    "graduationRate": 69.4
+    "graduationRate": 69.4,
+    "twitterURL": "@TransyBaseball"
   },
   {
     "schoolID": "LA-centenary-college-of-louisiana",
@@ -14021,7 +14293,8 @@
     "acceptanceRate": 54.4,
     "enrollment": 615,
     "retentionRate": 75.1,
-    "graduationRate": 59.6
+    "graduationRate": 59.6,
+    "twitterURL": "@GentsBaseball"
   },
   {
     "schoolID": "MA-amherst-college",
@@ -14045,7 +14318,8 @@
     "acceptanceRate": 9.8,
     "enrollment": 1907,
     "retentionRate": 96.8,
-    "graduationRate": 92.7
+    "graduationRate": 92.7,
+    "twitterURL": "@AmherstBaseball"
   },
   {
     "schoolID": "MA-anna-maria-college",
@@ -14069,7 +14343,8 @@
     "acceptanceRate": 89.6,
     "enrollment": 948,
     "retentionRate": 61.7,
-    "graduationRate": 40.4
+    "graduationRate": 40.4,
+    "twitterURL": "@AMCAT_Baseball"
   },
   {
     "schoolID": "MA-babson-college",
@@ -14093,7 +14368,8 @@
     "acceptanceRate": 19.7,
     "enrollment": 2696,
     "retentionRate": 94.2,
-    "graduationRate": 92.5
+    "graduationRate": 92.5,
+    "twitterURL": "@BabsonBaseball"
   },
   {
     "schoolID": "MA-brandeis-university",
@@ -14117,7 +14393,8 @@
     "acceptanceRate": 35.3,
     "enrollment": 3663,
     "retentionRate": 90.3,
-    "graduationRate": 86.7
+    "graduationRate": 86.7,
+    "twitterURL": "@JudgesBaseball"
   },
   {
     "schoolID": "MA-bridgewater-state-university",
@@ -14141,7 +14418,8 @@
     "acceptanceRate": 89.2,
     "enrollment": 7899,
     "retentionRate": 76.9,
-    "graduationRate": 55.3
+    "graduationRate": 55.3,
+    "twitterURL": "@BSUbaseball"
   },
   {
     "schoolID": "MA-clark-university",
@@ -14165,7 +14443,8 @@
     "acceptanceRate": 41.7,
     "enrollment": 2336,
     "retentionRate": 87.9,
-    "graduationRate": 76.7
+    "graduationRate": 76.7,
+    "twitterURL": "@clarkubaseball"
   },
   {
     "schoolID": "MA-curry-college",
@@ -14189,7 +14468,8 @@
     "acceptanceRate": 92.0,
     "enrollment": 1757,
     "retentionRate": 67.6,
-    "graduationRate": 50.3
+    "graduationRate": 50.3,
+    "twitterURL": "@Curry_Baseball"
   },
   {
     "schoolID": "MA-dean-college",
@@ -14213,7 +14493,8 @@
     "acceptanceRate": 73.7,
     "enrollment": 1142,
     "retentionRate": 75.5,
-    "graduationRate": 43.9
+    "graduationRate": 43.9,
+    "twitterURL": "@DeanBulldogsBSB"
   },
   {
     "schoolID": "MA-elms-college",
@@ -14237,7 +14518,8 @@
     "acceptanceRate": 87.7,
     "enrollment": 951,
     "retentionRate": 76.2,
-    "graduationRate": 69.6
+    "graduationRate": 69.6,
+    "twitterURL": "@ElmsBlazersBSB"
   },
   {
     "schoolID": "MA-emerson-college",
@@ -14261,7 +14543,8 @@
     "acceptanceRate": 47.5,
     "enrollment": 4145,
     "retentionRate": 87.8,
-    "graduationRate": 78.2
+    "graduationRate": 78.2,
+    "twitterURL": "@ECBaseballLions"
   },
   {
     "schoolID": "MA-endicott-college",
@@ -14285,7 +14568,8 @@
     "acceptanceRate": 72.3,
     "enrollment": 3101,
     "retentionRate": 87.6,
-    "graduationRate": 76.7
+    "graduationRate": 76.7,
+    "twitterURL": "@EndicottBASE"
   },
   {
     "schoolID": "MA-fitchburg-state-university",
@@ -14309,7 +14593,8 @@
     "acceptanceRate": 89.9,
     "enrollment": 2825,
     "retentionRate": 72.8,
-    "graduationRate": 54.6
+    "graduationRate": 54.6,
+    "twitterURL": "@FSUFalconsBSB"
   },
   {
     "schoolID": "MA-framingham-state-university",
@@ -14333,7 +14618,8 @@
     "acceptanceRate": 84.9,
     "enrollment": 2556,
     "retentionRate": 71.5,
-    "graduationRate": 52.0
+    "graduationRate": 52.0,
+    "twitterURL": "@FramBase"
   },
   {
     "schoolID": "MA-gordon-college",
@@ -14357,7 +14643,8 @@
     "acceptanceRate": 58.8,
     "enrollment": 1247,
     "retentionRate": 82.9,
-    "graduationRate": 68.2
+    "graduationRate": 68.2,
+    "twitterURL": "@Gordon_Baseball"
   },
   {
     "schoolID": "MA-lasell-university",
@@ -14381,7 +14668,8 @@
     "acceptanceRate": 82.2,
     "enrollment": 1152,
     "retentionRate": 70.7,
-    "graduationRate": 57.1
+    "graduationRate": 57.1,
+    "twitterURL": "@LasellBSB"
   },
   {
     "schoolID": "MA-lesley-university",
@@ -14405,7 +14693,8 @@
     "acceptanceRate": 94.4,
     "enrollment": 1252,
     "retentionRate": 76.9,
-    "graduationRate": 61.6
+    "graduationRate": 61.6,
+    "twitterURL": "@Lesley_BSB"
   },
   {
     "schoolID": "MA-massachusetts-college-of-liberal-arts",
@@ -14429,7 +14718,8 @@
     "acceptanceRate": 92.3,
     "enrollment": 748,
     "retentionRate": 68.9,
-    "graduationRate": 52.6
+    "graduationRate": 52.6,
+    "twitterURL": "@MCLABaseball"
   },
   {
     "schoolID": "MA-massachusetts-institute-of-technology-mit",
@@ -14453,7 +14743,8 @@
     "acceptanceRate": 4.7,
     "enrollment": 4571,
     "retentionRate": 99.0,
-    "graduationRate": 95.5
+    "graduationRate": 95.5,
+    "twitterURL": "@MIT_Baseball"
   },
   {
     "schoolID": "MA-massachusetts-maritime-academy",
@@ -14477,7 +14768,8 @@
     "acceptanceRate": 94.5,
     "enrollment": 1270,
     "retentionRate": 78.9,
-    "graduationRate": 79.2
+    "graduationRate": 79.2,
+    "twitterURL": "@bucs_base"
   },
   {
     "schoolID": "MA-nichols-college",
@@ -14501,7 +14793,8 @@
     "acceptanceRate": 88.1,
     "enrollment": 1152,
     "retentionRate": 71.8,
-    "graduationRate": 61.0
+    "graduationRate": 61.0,
+    "twitterURL": "@ncbison_bsbl"
   },
   {
     "schoolID": "MA-salem-state-university",
@@ -14525,7 +14818,8 @@
     "acceptanceRate": 95.6,
     "enrollment": 4286,
     "retentionRate": 73.7,
-    "graduationRate": 55.2
+    "graduationRate": 55.2,
+    "twitterURL": "@SsuVikingsBSB"
   },
   {
     "schoolID": "MA-springfield-college",
@@ -14549,7 +14843,8 @@
     "acceptanceRate": 70.2,
     "enrollment": 1916,
     "retentionRate": 83.6,
-    "graduationRate": 70.1
+    "graduationRate": 70.1,
+    "twitterURL": "@SCPrideBaseball"
   },
   {
     "schoolID": "MA-suffolk-university",
@@ -14573,7 +14868,8 @@
     "acceptanceRate": 84.7,
     "enrollment": 4434,
     "retentionRate": 75.5,
-    "graduationRate": 60.1
+    "graduationRate": 60.1,
+    "twitterURL": "@SuffolkU_BSB"
   },
   {
     "schoolID": "MA-tufts-university",
@@ -14597,7 +14893,8 @@
     "acceptanceRate": 10.1,
     "enrollment": 6804,
     "retentionRate": 95.9,
-    "graduationRate": 93.5
+    "graduationRate": 93.5,
+    "twitterURL": "@TuftsBaseball"
   },
   {
     "schoolID": "MA-university-of-massachusetts-boston",
@@ -14621,7 +14918,8 @@
     "acceptanceRate": 83.0,
     "enrollment": 11848,
     "retentionRate": 72.9,
-    "graduationRate": 51.1
+    "graduationRate": 51.1,
+    "twitterURL": "@BeaconsBaseball"
   },
   {
     "schoolID": "MA-university-of-massachusetts-dartmouth",
@@ -14645,7 +14943,8 @@
     "acceptanceRate": 92.2,
     "enrollment": 5289,
     "retentionRate": 63.7,
-    "graduationRate": 51.8
+    "graduationRate": 51.8,
+    "twitterURL": "@UMassDBaseball"
   },
   {
     "schoolID": "MA-wentworth-institute-of-technology",
@@ -14669,7 +14968,8 @@
     "acceptanceRate": 85.4,
     "enrollment": 3641,
     "retentionRate": 86.3,
-    "graduationRate": 68.7
+    "graduationRate": 68.7,
+    "twitterURL": "@Witbaseball"
   },
   {
     "schoolID": "MA-western-new-england-university",
@@ -14693,7 +14993,8 @@
     "acceptanceRate": 83.3,
     "enrollment": 2508,
     "retentionRate": 74.9,
-    "graduationRate": 65.6
+    "graduationRate": 65.6,
+    "twitterURL": "@WNE_Baseball"
   },
   {
     "schoolID": "MA-westfield-state-university",
@@ -14717,7 +15018,8 @@
     "acceptanceRate": 80.7,
     "enrollment": 3481,
     "retentionRate": 70.7,
-    "graduationRate": 57.4
+    "graduationRate": 57.4,
+    "twitterURL": "@WSUOwlsBaseball"
   },
   {
     "schoolID": "MA-wheaton-college-ma",
@@ -14741,7 +15043,8 @@
     "acceptanceRate": 71.3,
     "enrollment": 1744,
     "retentionRate": 85.8,
-    "graduationRate": 77.8
+    "graduationRate": 77.8,
+    "twitterURL": "@WheatonBSB"
   },
   {
     "schoolID": "MA-williams-college",
@@ -14765,7 +15068,8 @@
     "acceptanceRate": 10.0,
     "enrollment": 2060,
     "retentionRate": 96.5,
-    "graduationRate": 95.8
+    "graduationRate": 95.8,
+    "twitterURL": "@WilliamsColBB"
   },
   {
     "schoolID": "MA-worcester-polytechnic-institute",
@@ -14789,7 +15093,8 @@
     "acceptanceRate": 58.5,
     "enrollment": 5344,
     "retentionRate": 93.7,
-    "graduationRate": 88.7
+    "graduationRate": 88.7,
+    "twitterURL": "@WPIBaseball"
   },
   {
     "schoolID": "MA-worcester-state-university",
@@ -14813,7 +15118,8 @@
     "acceptanceRate": 89.9,
     "enrollment": 3963,
     "retentionRate": 76.5,
-    "graduationRate": 57.1
+    "graduationRate": 57.1,
+    "twitterURL": "@WSUBaseball1"
   },
   {
     "schoolID": "MD-hood-college",
@@ -14837,7 +15143,8 @@
     "acceptanceRate": 78.1,
     "enrollment": 1202,
     "retentionRate": 80.3,
-    "graduationRate": 58.0
+    "graduationRate": 58.0,
+    "twitterURL": "@Hood_Baseball"
   },
   {
     "schoolID": "MD-johns-hopkins-university",
@@ -14861,7 +15168,8 @@
     "acceptanceRate": 7.6,
     "enrollment": 5617,
     "retentionRate": 97.9,
-    "graduationRate": 94.3
+    "graduationRate": 94.3,
+    "twitterURL": "@JHUBaseball"
   },
   {
     "schoolID": "MD-mcdaniel-college",
@@ -14885,7 +15193,8 @@
     "acceptanceRate": 83.6,
     "enrollment": 1652,
     "retentionRate": 78.9,
-    "graduationRate": 64.9
+    "graduationRate": 64.9,
+    "twitterURL": "@McDaniel_BASE"
   },
   {
     "schoolID": "MD-salisbury-university",
@@ -14909,7 +15218,8 @@
     "acceptanceRate": 88.6,
     "enrollment": 6056,
     "retentionRate": 80.3,
-    "graduationRate": 68.0
+    "graduationRate": 68.0,
+    "twitterURL": "@SalisburyBB"
   },
   {
     "schoolID": "MD-st-mary-s-college-of-maryland",
@@ -14933,7 +15243,8 @@
     "acceptanceRate": 75.4,
     "enrollment": 1566,
     "retentionRate": 81.4,
-    "graduationRate": 69.3
+    "graduationRate": 69.3,
+    "twitterURL": "@smcseahawks"
   },
   {
     "schoolID": "MD-stevenson-university",
@@ -14957,7 +15268,8 @@
     "acceptanceRate": 83.2,
     "enrollment": 3027,
     "retentionRate": 77.8,
-    "graduationRate": 65.7
+    "graduationRate": 65.7,
+    "twitterURL": "@StevensonBSB"
   },
   {
     "schoolID": "MD-washington-college",
@@ -14981,7 +15293,8 @@
     "acceptanceRate": 65.5,
     "enrollment": 890,
     "retentionRate": 86.6,
-    "graduationRate": 72.7
+    "graduationRate": 72.7,
+    "twitterURL": "@WashCollBase"
   },
   {
     "schoolID": "ME-bates-college",
@@ -15005,7 +15318,8 @@
     "acceptanceRate": 13.0,
     "enrollment": 1753,
     "retentionRate": 94.0,
-    "graduationRate": 91.6
+    "graduationRate": 91.6,
+    "twitterURL": "@BatesBaseball"
   },
   {
     "schoolID": "ME-bowdoin-college",
@@ -15029,7 +15343,8 @@
     "acceptanceRate": 8.0,
     "enrollment": 1846,
     "retentionRate": 97.6,
-    "graduationRate": 94.8
+    "graduationRate": 94.8,
+    "twitterURL": "@BowdoinBaseball"
   },
   {
     "schoolID": "ME-colby-college",
@@ -15053,7 +15368,8 @@
     "acceptanceRate": 6.8,
     "enrollment": 2282,
     "retentionRate": 90.6,
-    "graduationRate": 89.2
+    "graduationRate": 89.2,
+    "twitterURL": "@colbybsb"
   },
   {
     "schoolID": "ME-husson-university",
@@ -15077,7 +15393,8 @@
     "acceptanceRate": 86.4,
     "enrollment": 2395,
     "retentionRate": 76.3,
-    "graduationRate": 58.3
+    "graduationRate": 58.3,
+    "twitterURL": "@HussonBaseball"
   },
   {
     "schoolID": "ME-saint-joseph-s-college-of-maine",
@@ -15101,7 +15418,8 @@
     "acceptanceRate": 81.7,
     "enrollment": 930,
     "retentionRate": 80.1,
-    "graduationRate": 69.1
+    "graduationRate": 69.1,
+    "twitterURL": "@Monks_Baseball"
   },
   {
     "schoolID": "ME-thomas-college",
@@ -15125,7 +15443,8 @@
     "acceptanceRate": 97.1,
     "enrollment": 688,
     "retentionRate": 79.1,
-    "graduationRate": 50.6
+    "graduationRate": 50.6,
+    "twitterURL": "@TCTerriersBB"
   },
   {
     "schoolID": "ME-university-of-maine-at-farmington",
@@ -15149,7 +15468,8 @@
     "acceptanceRate": 97.6,
     "enrollment": 1131,
     "retentionRate": 78.7,
-    "graduationRate": 53.0
+    "graduationRate": 53.0,
+    "twitterURL": "@UMFBeaverBall"
   },
   {
     "schoolID": "ME-university-of-maine-at-fort-kent",
@@ -15197,7 +15517,8 @@
     "acceptanceRate": 97.1,
     "enrollment": 1362,
     "retentionRate": 72.8,
-    "graduationRate": 33.4
+    "graduationRate": 33.4,
+    "twitterURL": "@UMPIBaseball"
   },
   {
     "schoolID": "ME-university-of-southern-maine",
@@ -15221,7 +15542,8 @@
     "acceptanceRate": 79.3,
     "enrollment": 4245,
     "retentionRate": 75.6,
-    "graduationRate": 44.2
+    "graduationRate": 44.2,
+    "twitterURL": "@southernmebsb"
   },
   {
     "schoolID": "MI-adrian-college",
@@ -15245,7 +15567,8 @@
     "acceptanceRate": 68.4,
     "enrollment": 1635,
     "retentionRate": 60.1,
-    "graduationRate": 53.4
+    "graduationRate": 53.4,
+    "twitterURL": "@AdrianBaseball"
   },
   {
     "schoolID": "MI-albion-college",
@@ -15269,7 +15592,8 @@
     "acceptanceRate": 83.2,
     "enrollment": 1347,
     "retentionRate": 68.9,
-    "graduationRate": 58.0
+    "graduationRate": 58.0,
+    "twitterURL": "@BritonsBaseball"
   },
   {
     "schoolID": "MI-alma-college",
@@ -15293,7 +15617,8 @@
     "acceptanceRate": 65.7,
     "enrollment": 1208,
     "retentionRate": 76.3,
-    "graduationRate": 62.9
+    "graduationRate": 62.9,
+    "twitterURL": "@AlmaScotsBSB"
   },
   {
     "schoolID": "MI-calvin-university",
@@ -15317,7 +15642,8 @@
     "acceptanceRate": 71.3,
     "enrollment": 2921,
     "retentionRate": 88.5,
-    "graduationRate": 77.2
+    "graduationRate": 77.2,
+    "twitterURL": "@CalvinBaseball"
   },
   {
     "schoolID": "MI-hope-college",
@@ -15341,7 +15667,8 @@
     "acceptanceRate": 75.8,
     "enrollment": 3274,
     "retentionRate": 90.2,
-    "graduationRate": 81.3
+    "graduationRate": 81.3,
+    "twitterURL": "@HopeCollegeBSB"
   },
   {
     "schoolID": "MI-kalamazoo-college",
@@ -15365,7 +15692,8 @@
     "acceptanceRate": 76.2,
     "enrollment": 1175,
     "retentionRate": 83.5,
-    "graduationRate": 80.9
+    "graduationRate": 80.9,
+    "twitterURL": "@kzoobaseball"
   },
   {
     "schoolID": "MI-olivet-college",
@@ -15389,7 +15717,8 @@
     "acceptanceRate": 97.1,
     "enrollment": 918,
     "retentionRate": 57.3,
-    "graduationRate": 40.7
+    "graduationRate": 40.7,
+    "twitterURL": "@UOlivetBaseball"
   },
   {
     "schoolID": "MN-augsburg-university",
@@ -15413,7 +15742,8 @@
     "acceptanceRate": 76.5,
     "enrollment": 2429,
     "retentionRate": 69.9,
-    "graduationRate": 54.1
+    "graduationRate": 54.1,
+    "twitterURL": "@AuggieBaseball"
   },
   {
     "schoolID": "MN-bethany-lutheran-college",
@@ -15437,7 +15767,8 @@
     "acceptanceRate": 51.0,
     "enrollment": 682,
     "retentionRate": 80.1,
-    "graduationRate": 58.0
+    "graduationRate": 58.0,
+    "twitterURL": "@BLCbaseball"
   },
   {
     "schoolID": "MN-bethel-university-mn",
@@ -15461,7 +15792,8 @@
     "acceptanceRate": 91.0,
     "enrollment": 2012,
     "retentionRate": 87.1,
-    "graduationRate": 75.0
+    "graduationRate": 75.0,
+    "twitterURL": "@baseball_bethel"
   },
   {
     "schoolID": "MN-carleton-college",
@@ -15485,7 +15817,8 @@
     "acceptanceRate": 22.3,
     "enrollment": 2019,
     "retentionRate": 95.9,
-    "graduationRate": 90.9
+    "graduationRate": 90.9,
+    "twitterURL": "@Carleton_BSB"
   },
   {
     "schoolID": "MN-college-of-saint-scholastica",
@@ -15509,7 +15842,8 @@
     "acceptanceRate": 93.8,
     "enrollment": 1725,
     "retentionRate": 77.9,
-    "graduationRate": 65.0
+    "graduationRate": 65.0,
+    "twitterURL": "@cssbaseball"
   },
   {
     "schoolID": "MN-crown-college-mn",
@@ -15533,7 +15867,8 @@
     "acceptanceRate": 62.8,
     "enrollment": 789,
     "retentionRate": 67.0,
-    "graduationRate": 57.5
+    "graduationRate": 57.5,
+    "twitterURL": "@CrownCollegeBB"
   },
   {
     "schoolID": "MN-gustavus-adolphus-college",
@@ -15557,7 +15892,8 @@
     "acceptanceRate": 61.8,
     "enrollment": 1930,
     "retentionRate": 84.2,
-    "graduationRate": 75.8
+    "graduationRate": 75.8,
+    "twitterURL": "@GustieBaseball"
   },
   {
     "schoolID": "MN-hamline-university",
@@ -15581,7 +15917,8 @@
     "acceptanceRate": 89.8,
     "enrollment": 1685,
     "retentionRate": 73.6,
-    "graduationRate": 63.4
+    "graduationRate": 63.4,
+    "twitterURL": "@PiperBaseball"
   },
   {
     "schoolID": "MN-macalester-college",
@@ -15605,7 +15942,8 @@
     "acceptanceRate": 28.2,
     "enrollment": 2131,
     "retentionRate": 94.6,
-    "graduationRate": 89.2
+    "graduationRate": 89.2,
+    "twitterURL": "@MacalesterBase"
   },
   {
     "schoolID": "MN-martin-luther-college",
@@ -15629,7 +15967,8 @@
     "acceptanceRate": 82.6,
     "enrollment": 718,
     "retentionRate": 85.2,
-    "graduationRate": 72.9
+    "graduationRate": 72.9,
+    "twitterURL": "@MLCBSBL"
   },
   {
     "schoolID": "MN-north-central-university-mn",
@@ -15653,7 +15992,8 @@
     "acceptanceRate": 90.8,
     "enrollment": 802,
     "retentionRate": 77.5,
-    "graduationRate": 61.3
+    "graduationRate": 61.3,
+    "twitterURL": "@NCUBaseball"
   },
   {
     "schoolID": "MN-saint-john-s-university-mn",
@@ -15677,7 +16017,8 @@
     "acceptanceRate": 90.5,
     "enrollment": 1468,
     "retentionRate": 83.0,
-    "graduationRate": 75.7
+    "graduationRate": 75.7,
+    "twitterURL": "@SJU_Baseball"
   },
   {
     "schoolID": "MN-saint-mary-s-university-of-minnesota",
@@ -15701,7 +16042,8 @@
     "acceptanceRate": 88.8,
     "enrollment": 1061,
     "retentionRate": 78.6,
-    "graduationRate": 66.5
+    "graduationRate": 66.5,
+    "twitterURL": "@SMUBaseball"
   },
   {
     "schoolID": "MN-st-olaf-college",
@@ -15725,7 +16067,8 @@
     "acceptanceRate": 52.1,
     "enrollment": 3049,
     "retentionRate": 90.5,
-    "graduationRate": 84.2
+    "graduationRate": 84.2,
+    "twitterURL": "@StOlafBaseball"
   },
   {
     "schoolID": "MN-university-of-minnesota-morris",
@@ -15749,7 +16092,8 @@
     "acceptanceRate": 70.5,
     "enrollment": 980,
     "retentionRate": 72.9,
-    "graduationRate": 59.9
+    "graduationRate": 59.9,
+    "twitterURL": "@UMMCougarBB"
   },
   {
     "schoolID": "MO-fontbonne-university",
@@ -15797,7 +16141,8 @@
     "acceptanceRate": 12.0,
     "enrollment": 7897,
     "retentionRate": 95.9,
-    "graduationRate": 94.1
+    "graduationRate": 94.1,
+    "twitterURL": "@washubaseball"
   },
   {
     "schoolID": "MO-webster-university",
@@ -15821,7 +16166,8 @@
     "acceptanceRate": 58.0,
     "enrollment": 2180,
     "retentionRate": 76.8,
-    "graduationRate": 60.0
+    "graduationRate": 60.0,
+    "twitterURL": "@WebsterBaseball"
   },
   {
     "schoolID": "MO-westminster-college-mo",
@@ -15845,7 +16191,8 @@
     "acceptanceRate": 77.6,
     "enrollment": 592,
     "retentionRate": 63.3,
-    "graduationRate": 60.9
+    "graduationRate": 60.9,
+    "twitterURL": "@WestminsterBase"
   },
   {
     "schoolID": "MS-belhaven-university",
@@ -15869,7 +16216,8 @@
     "acceptanceRate": 53.2,
     "enrollment": 1370,
     "retentionRate": 68.9,
-    "graduationRate": 48.3
+    "graduationRate": 48.3,
+    "twitterURL": "@BelhavenBSB"
   },
   {
     "schoolID": "MS-millsaps-college",
@@ -15893,7 +16241,8 @@
     "acceptanceRate": 49.0,
     "enrollment": 580,
     "retentionRate": 73.5,
-    "graduationRate": 56.1
+    "graduationRate": 56.1,
+    "twitterURL": "@majorsBSB"
   },
   {
     "schoolID": "MS-mississippi-university-for-women",
@@ -15917,7 +16266,8 @@
     "acceptanceRate": 100,
     "enrollment": 1593,
     "retentionRate": 71.7,
-    "graduationRate": 37.4
+    "graduationRate": 37.4,
+    "twitterURL": "@W_OwlsBaseball"
   },
   {
     "schoolID": "NC-brevard-college",
@@ -15941,7 +16291,8 @@
     "acceptanceRate": 39.5,
     "enrollment": 760,
     "retentionRate": 65.7,
-    "graduationRate": 37.5
+    "graduationRate": 37.5,
+    "twitterURL": "@BCNadoBaseball"
   },
   {
     "schoolID": "NC-greensboro-college",
@@ -15965,7 +16316,8 @@
     "acceptanceRate": 92.0,
     "enrollment": 656,
     "retentionRate": 62.8,
-    "graduationRate": 40.5
+    "graduationRate": 40.5,
+    "twitterURL": "@GCPrideBaseball"
   },
   {
     "schoolID": "NC-guilford-college",
@@ -15989,7 +16341,8 @@
     "acceptanceRate": 83.8,
     "enrollment": 1011,
     "retentionRate": 65.8,
-    "graduationRate": 48.6
+    "graduationRate": 48.6,
+    "twitterURL": "@QuakersBaseB"
   },
   {
     "schoolID": "NC-methodist-university",
@@ -16013,7 +16366,8 @@
     "acceptanceRate": 75.2,
     "enrollment": 1425,
     "retentionRate": 64.7,
-    "graduationRate": 40.5
+    "graduationRate": 40.5,
+    "twitterURL": "@MethodistU_BSB"
   },
   {
     "schoolID": "NC-north-carolina-wesleyan-college",
@@ -16037,7 +16391,8 @@
     "acceptanceRate": 78.0,
     "enrollment": 1169,
     "retentionRate": 65.5,
-    "graduationRate": 39.4
+    "graduationRate": 39.4,
+    "twitterURL": "@NCWUBaseball"
   },
   {
     "schoolID": "NC-pfeiffer-university",
@@ -16061,7 +16416,8 @@
     "acceptanceRate": 95.3,
     "enrollment": 654,
     "retentionRate": 67.7,
-    "graduationRate": 39.5
+    "graduationRate": 39.5,
+    "twitterURL": "@Pfeiffer_BSB"
   },
   {
     "schoolID": "NC-william-peace-university",
@@ -16085,7 +16441,8 @@
     "acceptanceRate": 97.4,
     "enrollment": 661,
     "retentionRate": 61.0,
-    "graduationRate": 43.6
+    "graduationRate": 43.6,
+    "twitterURL": "@GoPeaceBaseball"
   },
   {
     "schoolID": "NE-nebraska-wesleyan-university",
@@ -16109,7 +16466,8 @@
     "acceptanceRate": 83.8,
     "enrollment": 1514,
     "retentionRate": 74.6,
-    "graduationRate": 63.9
+    "graduationRate": 63.9,
+    "twitterURL": "@NWUBaseball"
   },
   {
     "schoolID": "NH-colby-sawyer-college",
@@ -16133,7 +16491,8 @@
     "acceptanceRate": 90.0,
     "enrollment": 778,
     "retentionRate": 80.8,
-    "graduationRate": 61.0
+    "graduationRate": 61.0,
+    "twitterURL": "@CSCBaseball1"
   },
   {
     "schoolID": "NH-keene-state-college",
@@ -16157,7 +16516,8 @@
     "acceptanceRate": 89.1,
     "enrollment": 2680,
     "retentionRate": 78.5,
-    "graduationRate": 58.9
+    "graduationRate": 58.9,
+    "twitterURL": "@KSCBaseball"
   },
   {
     "schoolID": "NH-new-england-college",
@@ -16205,7 +16565,8 @@
     "acceptanceRate": 91.0,
     "enrollment": 3298,
     "retentionRate": 71.3,
-    "graduationRate": 49.2
+    "graduationRate": 49.2,
+    "twitterURL": "@PSUBaseball"
   },
   {
     "schoolID": "NH-rivier-university",
@@ -16229,7 +16590,8 @@
     "acceptanceRate": 81.8,
     "enrollment": 1312,
     "retentionRate": 76.2,
-    "graduationRate": 58.2
+    "graduationRate": 58.2,
+    "twitterURL": "@RivBaseball"
   },
   {
     "schoolID": "NJ-centenary-university",
@@ -16277,7 +16639,8 @@
     "acceptanceRate": 69.4,
     "enrollment": 1510,
     "retentionRate": 84.5,
-    "graduationRate": 73.0
+    "graduationRate": 73.0,
+    "twitterURL": "@DrewUBaseball"
   },
   {
     "schoolID": "NJ-kean-university",
@@ -16301,7 +16664,8 @@
     "acceptanceRate": 76.9,
     "enrollment": 10842,
     "retentionRate": 75.4,
-    "graduationRate": 47.0
+    "graduationRate": 47.0,
+    "twitterURL": "@KeanBaseball"
   },
   {
     "schoolID": "NJ-montclair-state-university",
@@ -16325,7 +16689,8 @@
     "acceptanceRate": 67.2,
     "enrollment": 901,
     "retentionRate": 59.3,
-    "graduationRate": 32.9
+    "graduationRate": 32.9,
+    "twitterURL": "@montclair_base"
   },
   {
     "schoolID": "NJ-new-jersey-city-university",
@@ -16349,7 +16714,8 @@
     "acceptanceRate": 89.2,
     "enrollment": 4076,
     "retentionRate": 66.6,
-    "graduationRate": 38.7
+    "graduationRate": 38.7,
+    "twitterURL": "@NJCUBaseball"
   },
   {
     "schoolID": "NJ-ramapo-college-of-new-jersey",
@@ -16373,7 +16739,8 @@
     "acceptanceRate": 73.2,
     "enrollment": 4664,
     "retentionRate": 87.1,
-    "graduationRate": 70.7
+    "graduationRate": 70.7,
+    "twitterURL": "@rcnj_baseball"
   },
   {
     "schoolID": "NJ-rowan-university",
@@ -16397,7 +16764,8 @@
     "acceptanceRate": 77.8,
     "enrollment": 14647,
     "retentionRate": 81.6,
-    "graduationRate": 68.2
+    "graduationRate": 68.2,
+    "twitterURL": "@RowanBaseball_"
   },
   {
     "schoolID": "NJ-stevens-institute-of-technology",
@@ -16421,7 +16789,8 @@
     "acceptanceRate": 43.4,
     "enrollment": 4084,
     "retentionRate": 94.5,
-    "graduationRate": 88.9
+    "graduationRate": 88.9,
+    "twitterURL": "@BaseballStevens"
   },
   {
     "schoolID": "NJ-the-college-of-new-jersey",
@@ -16445,7 +16814,8 @@
     "acceptanceRate": 62.1,
     "enrollment": 6831,
     "retentionRate": 90.2,
-    "graduationRate": 85.5
+    "graduationRate": 85.5,
+    "twitterURL": "@BASEBALLTCNJ"
   },
   {
     "schoolID": "NY-clarkson-university",
@@ -16469,7 +16839,8 @@
     "acceptanceRate": 77.2,
     "enrollment": 2449,
     "retentionRate": 84.7,
-    "graduationRate": 73.0
+    "graduationRate": 73.0,
+    "twitterURL": "@CUKnightBase"
   },
   {
     "schoolID": "NY-hamilton-college",
@@ -16493,7 +16864,8 @@
     "acceptanceRate": 11.8,
     "enrollment": 2045,
     "retentionRate": 95.6,
-    "graduationRate": 91.8
+    "graduationRate": 91.8,
+    "twitterURL": "@HamCollBaseball"
   },
   {
     "schoolID": "NY-ithaca-college",
@@ -16517,7 +16889,8 @@
     "acceptanceRate": 69.9,
     "enrollment": 4350,
     "retentionRate": 83.4,
-    "graduationRate": 74.2
+    "graduationRate": 74.2,
+    "twitterURL": "@Ithaca_Baseball"
   },
   {
     "schoolID": "NY-rochester-institute-of-technology",
@@ -16541,7 +16914,8 @@
     "acceptanceRate": 71.4,
     "enrollment": 13225,
     "retentionRate": 88.2,
-    "graduationRate": 71.5
+    "graduationRate": 71.5,
+    "twitterURL": "@rit_baseball"
   },
   {
     "schoolID": "NY-suny-brockport",
@@ -16565,7 +16939,8 @@
     "acceptanceRate": 71.3,
     "enrollment": 5381,
     "retentionRate": 73.2,
-    "graduationRate": 59.7
+    "graduationRate": 59.7,
+    "twitterURL": "@BportBaseball"
   },
   {
     "schoolID": "NY-suny-cortland",
@@ -16589,7 +16964,8 @@
     "acceptanceRate": 50.7,
     "enrollment": 5896,
     "retentionRate": 80.8,
-    "graduationRate": 68.5
+    "graduationRate": 68.5,
+    "twitterURL": "@CortBaseball"
   },
   {
     "schoolID": "NY-suny-fredonia",
@@ -16613,7 +16989,8 @@
     "acceptanceRate": 79.2,
     "enrollment": 2860,
     "retentionRate": 76.2,
-    "graduationRate": 56.6
+    "graduationRate": 56.6,
+    "twitterURL": "@FredSt_Baseball"
   },
   {
     "schoolID": "NY-suny-new-paltz",
@@ -16625,7 +17002,8 @@
     "website": "",
     "teamPageURL": "https://www.nphawks.com/sports/baseball",
     "campURL": "https://www.nphawks.com/sports/baseball/camps",
-    "aliases": "New Paltz, SUNY New Paltz, Hawks"
+    "aliases": "New Paltz, SUNY New Paltz, Hawks",
+    "twitterURL": "@NP_BaseballD3"
   },
   {
     "schoolID": "NY-suny-oneonta",
@@ -16649,7 +17027,8 @@
     "acceptanceRate": 70.2,
     "enrollment": 4820,
     "retentionRate": 78.0,
-    "graduationRate": 72.3
+    "graduationRate": 72.3,
+    "twitterURL": "@RedDragonBsbl"
   },
   {
     "schoolID": "NY-suny-oswego",
@@ -16793,7 +17172,8 @@
     "acceptanceRate": 76.8,
     "enrollment": 2775,
     "retentionRate": 84.9,
-    "graduationRate": 66.9
+    "graduationRate": 66.9,
+    "twitterURL": "@BWUBaseball"
   },
   {
     "schoolID": "OH-capital-university",
@@ -16817,7 +17197,8 @@
     "acceptanceRate": 73.2,
     "enrollment": 1709,
     "retentionRate": 73.6,
-    "graduationRate": 63.3
+    "graduationRate": 63.3,
+    "twitterURL": "@Cap_Baseball"
   },
   {
     "schoolID": "OH-case-western-reserve-university",
@@ -16841,7 +17222,8 @@
     "acceptanceRate": 28.7,
     "enrollment": 6108,
     "retentionRate": 92.0,
-    "graduationRate": 86.4
+    "graduationRate": 86.4,
+    "twitterURL": "@cwru_baseball"
   },
   {
     "schoolID": "OH-college-of-wooster",
@@ -16865,7 +17247,8 @@
     "acceptanceRate": 54.3,
     "enrollment": 1876,
     "retentionRate": 81.3,
-    "graduationRate": 73.8
+    "graduationRate": 73.8,
+    "twitterURL": "@WoosterBaseball"
   },
   {
     "schoolID": "OH-denison-university",
@@ -16889,7 +17272,8 @@
     "acceptanceRate": 16.9,
     "enrollment": 2398,
     "retentionRate": 88.7,
-    "graduationRate": 82.3
+    "graduationRate": 82.3,
+    "twitterURL": "@DU_Baseball"
   },
   {
     "schoolID": "OH-franciscan-university-of-steubenville",
@@ -16913,7 +17297,8 @@
     "acceptanceRate": 72.2,
     "enrollment": 2775,
     "retentionRate": 87.9,
-    "graduationRate": 76.7
+    "graduationRate": 76.7,
+    "twitterURL": "@FUSBaseball"
   },
   {
     "schoolID": "OH-heidelberg-university",
@@ -16937,7 +17322,8 @@
     "acceptanceRate": 67.7,
     "enrollment": 884,
     "retentionRate": 77.5,
-    "graduationRate": 52.3
+    "graduationRate": 52.3,
+    "twitterURL": "@BergBaseball"
   },
   {
     "schoolID": "OH-hiram-college",
@@ -16961,7 +17347,8 @@
     "acceptanceRate": 93.4,
     "enrollment": 731,
     "retentionRate": 65.5,
-    "graduationRate": 56.2
+    "graduationRate": 56.2,
+    "twitterURL": "@Hiram_Baseball"
   },
   {
     "schoolID": "OH-john-carroll-university",
@@ -16985,7 +17372,8 @@
     "acceptanceRate": 81.1,
     "enrollment": 2228,
     "retentionRate": 85.3,
-    "graduationRate": 77.3
+    "graduationRate": 77.3,
+    "twitterURL": "@jcu_baseball"
   },
   {
     "schoolID": "OH-kenyon-college",
@@ -17009,7 +17397,8 @@
     "acceptanceRate": 30.7,
     "enrollment": 1753,
     "retentionRate": 91.3,
-    "graduationRate": 87.0
+    "graduationRate": 87.0,
+    "twitterURL": "@KenyonBaseball"
   },
   {
     "schoolID": "OH-marietta-college",
@@ -17033,7 +17422,8 @@
     "acceptanceRate": 78.6,
     "enrollment": 1035,
     "retentionRate": 73.4,
-    "graduationRate": 54.5
+    "graduationRate": 54.5,
+    "twitterURL": "@EttaExpress_MC"
   },
   {
     "schoolID": "OH-muskingum-university",
@@ -17057,7 +17447,8 @@
     "acceptanceRate": 81.7,
     "enrollment": 1407,
     "retentionRate": 68.9,
-    "graduationRate": 55.9
+    "graduationRate": 55.9,
+    "twitterURL": "@MuskieBaseball_"
   },
   {
     "schoolID": "OH-oberlin-college",
@@ -17081,7 +17472,8 @@
     "acceptanceRate": 33.0,
     "enrollment": 2950,
     "retentionRate": 88.8,
-    "graduationRate": 81.5
+    "graduationRate": 81.5,
+    "twitterURL": "@Yeo_Baseball"
   },
   {
     "schoolID": "OH-ohio-northern-university",
@@ -17105,7 +17497,8 @@
     "acceptanceRate": 73.4,
     "enrollment": 2386,
     "retentionRate": 87.5,
-    "graduationRate": 73.3
+    "graduationRate": 73.3,
+    "twitterURL": "@ONUBaseball"
   },
   {
     "schoolID": "OH-otterbein-university",
@@ -17129,7 +17522,8 @@
     "acceptanceRate": 83.3,
     "enrollment": 2055,
     "retentionRate": 82.4,
-    "graduationRate": 69.3
+    "graduationRate": 69.3,
+    "twitterURL": "@OUCardsBaseball"
   },
   {
     "schoolID": "OH-university-of-mount-union",
@@ -17153,7 +17547,8 @@
     "acceptanceRate": 80.1,
     "enrollment": 1785,
     "retentionRate": 70.9,
-    "graduationRate": 63.3
+    "graduationRate": 63.3,
+    "twitterURL": "@umubaseball"
   },
   {
     "schoolID": "OH-wilmington-college-ohio",
@@ -17981,7 +18376,8 @@
     "acceptanceRate": 47.8,
     "enrollment": 1162,
     "retentionRate": 58.6,
-    "graduationRate": 44.7
+    "graduationRate": 44.7,
+    "twitterURL": "@AverettBaseball"
   },
   {
     "schoolID": "VA-bridgewater-college",
@@ -18005,7 +18401,8 @@
     "acceptanceRate": 90.8,
     "enrollment": 1388,
     "retentionRate": 77.5,
-    "graduationRate": 53.9
+    "graduationRate": 53.9,
+    "twitterURL": "@BwaterBaseball"
   },
   {
     "schoolID": "VA-christopher-newport-university",
@@ -18029,7 +18426,8 @@
     "acceptanceRate": 88.0,
     "enrollment": 4402,
     "retentionRate": 82.8,
-    "graduationRate": 75.6
+    "graduationRate": 75.6,
+    "twitterURL": "@CNU_Baseball"
   },
   {
     "schoolID": "VA-eastern-mennonite-university",
@@ -20225,7 +20623,8 @@
     "acceptanceRate": null,
     "enrollment": 2783,
     "retentionRate": null,
-    "graduationRate": 35.6
+    "graduationRate": 35.6,
+    "twitterURL": "@hccathletics"
   },
   {
     "schoolID": "MD-harford-community-college",
@@ -20249,7 +20648,8 @@
     "acceptanceRate": null,
     "enrollment": 3628,
     "retentionRate": null,
-    "graduationRate": 33.3
+    "graduationRate": 33.3,
+    "twitterURL": "@FightingOwlsBSB"
   },
   {
     "schoolID": "MO-crowder-college",
@@ -21965,7 +22365,8 @@
     "acceptanceRate": null,
     "enrollment": 11012,
     "retentionRate": null,
-    "graduationRate": 19.6
+    "graduationRate": 19.6,
+    "twitterURL": "@DelawareTechAD"
   },
   {
     "schoolID": "FL-pasco-hernando-state-college",
@@ -22181,7 +22582,8 @@
     "acceptanceRate": null,
     "enrollment": 1743,
     "retentionRate": null,
-    "graduationRate": 39.5
+    "graduationRate": 39.5,
+    "twitterURL": "@ACMTrojans"
   },
   {
     "schoolID": "MD-anne-arundel-community-college",
@@ -22205,7 +22607,8 @@
     "acceptanceRate": null,
     "enrollment": 8570,
     "retentionRate": null,
-    "graduationRate": 26.5
+    "graduationRate": 26.5,
+    "twitterURL": "@AACC_Baseball"
   },
   {
     "schoolID": "MD-ccbc-catonsville",
@@ -22229,7 +22632,8 @@
     "acceptanceRate": null,
     "enrollment": 13195,
     "retentionRate": null,
-    "graduationRate": 16.0
+    "graduationRate": 16.0,
+    "twitterURL": "@CCBCCardsSports"
   },
   {
     "schoolID": "MD-ccbc-dundalk",
@@ -22253,7 +22657,8 @@
     "acceptanceRate": null,
     "enrollment": 13195,
     "retentionRate": null,
-    "graduationRate": 16.0
+    "graduationRate": 16.0,
+    "twitterURL": "@CCBCDunBaseball"
   },
   {
     "schoolID": "MD-ccbc-essex",
@@ -22277,7 +22682,8 @@
     "acceptanceRate": null,
     "enrollment": 13195,
     "retentionRate": null,
-    "graduationRate": 16.0
+    "graduationRate": 16.0,
+    "twitterURL": "@Essex_Baseball_"
   },
   {
     "schoolID": "MD-cecil-college",
@@ -22301,7 +22707,8 @@
     "acceptanceRate": null,
     "enrollment": 1369,
     "retentionRate": null,
-    "graduationRate": 27.5
+    "graduationRate": 27.5,
+    "twitterURL": "@_CecilBaseball"
   },
   {
     "schoolID": "MD-chesapeake-college",
@@ -22325,7 +22732,8 @@
     "acceptanceRate": null,
     "enrollment": 1275,
     "retentionRate": null,
-    "graduationRate": 24.9
+    "graduationRate": 24.9,
+    "twitterURL": "@peakebaseball"
   },
   {
     "schoolID": "MD-college-of-southern-maryland",
@@ -22349,7 +22757,8 @@
     "acceptanceRate": null,
     "enrollment": 4422,
     "retentionRate": null,
-    "graduationRate": 32.7
+    "graduationRate": 32.7,
+    "twitterURL": "@CSMHawksATH"
   },
   {
     "schoolID": "MD-frederick-community-college",
@@ -22373,7 +22782,8 @@
     "acceptanceRate": null,
     "enrollment": 4116,
     "retentionRate": null,
-    "graduationRate": 34.2
+    "graduationRate": 34.2,
+    "twitterURL": "@FCCCougars_BASE"
   },
   {
     "schoolID": "MD-garrett-college",
@@ -22397,7 +22807,8 @@
     "acceptanceRate": null,
     "enrollment": 424,
     "retentionRate": null,
-    "graduationRate": 32.2
+    "graduationRate": 32.2,
+    "twitterURL": "@GarrettLakers"
   },
   {
     "schoolID": "MD-montgomery-college",
@@ -22421,7 +22832,8 @@
     "acceptanceRate": null,
     "enrollment": 13519,
     "retentionRate": null,
-    "graduationRate": 27.9
+    "graduationRate": 27.9,
+    "twitterURL": "@MCBaseball20"
   },
   {
     "schoolID": "MI-grand-rapids-community-college",
@@ -23597,7 +24009,8 @@
     "acceptanceRate": null,
     "enrollment": 8049,
     "retentionRate": null,
-    "graduationRate": 21.3
+    "graduationRate": 21.3,
+    "twitterURL": "@pgcc_baseball"
   },
   {
     "schoolID": "ME-southern-maine-community-college",
@@ -25961,7 +26374,8 @@
     "website": "",
     "teamPageURL": "https://www.athletics.dyu.edu/sports/baseball",
     "campURL": "https://www.athletics.dyu.edu/sports/baseball/camps",
-    "aliases": "D'Youville"
+    "aliases": "D'Youville",
+    "twitterURL": "@DYouville_BSB"
   },
   {
     "schoolID": "TN-carsonanewman-university",
@@ -25973,7 +26387,8 @@
     "website": "",
     "teamPageURL": "https://www.cneagles.com/sports/baseball",
     "campURL": "https://www.cneagles.com/sports/baseball/camps",
-    "aliases": "Carson-Newman"
+    "aliases": "Carson-Newman",
+    "twitterURL": "@CNBaseball"
   },
   {
     "schoolID": "WI-university-of-wisconsinaparkside",
@@ -25985,7 +26400,8 @@
     "website": "",
     "teamPageURL": "https://www.parksiderangers.com/sports/baseball",
     "campURL": "https://www.parksiderangers.com/sports/baseball/camps",
-    "aliases": "Wisconsin-Parkside, U of Wisconsin-Parkside"
+    "aliases": "Wisconsin-Parkside, U of Wisconsin-Parkside",
+    "twitterURL": "@UWP_Baseball"
   },
   {
     "schoolID": "MN-concordia-collegeamoorhead",
@@ -25997,7 +26413,8 @@
     "website": "",
     "teamPageURL": "https://www.concordiamn.prestosports.com/sports/baseball",
     "campURL": "https://www.concordiamn.prestosports.com/sports/baseball/camps",
-    "aliases": "Concordia"
+    "aliases": "Concordia",
+    "twitterURL": "@CobberBaseball"
   },
   {
     "schoolID": "NJ-rutgers-universityacamden",
@@ -26009,7 +26426,8 @@
     "website": "",
     "teamPageURL": "https://www.scarletraptors.com/sports/baseball",
     "campURL": "https://www.scarletraptors.com/sports/baseball/camps",
-    "aliases": "Rutgers"
+    "aliases": "Rutgers",
+    "twitterURL": "@rucbase"
   },
   {
     "schoolID": "NJ-rutgers-universityanewark",
@@ -26021,7 +26439,8 @@
     "website": "",
     "teamPageURL": "https://www.rutgersnewarkathletics.com/sports/baseball",
     "campURL": "https://www.rutgersnewarkathletics.com/sports/baseball/camps",
-    "aliases": "Rutgers"
+    "aliases": "Rutgers",
+    "twitterURL": "@RUNewarkBase"
   },
   {
     "schoolID": "WI-university-of-wisconsinaeau-claire",

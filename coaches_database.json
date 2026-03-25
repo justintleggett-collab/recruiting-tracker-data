@@ -8146,25 +8146,19 @@
       {
         "name": "Tommy Eason",
         "title": "Head Coach",
-        "email": "",
-        "phone": ""
+        "email": "steason373@my.pittcc.edu",
+        "phone": "252-493-7680"
       },
       {
-        "name": "A member",
+        "name": "Jason Wood",
         "title": "Assistant Coach",
-        "email": "",
-        "phone": ""
+        "email": "jrwood968@my.pittcc.edu",
+        "phone": "252-493-7702"
       },
       {
-        "name": "Connor Norby",
+        "name": "Kyler Harris",
         "title": "Assistant Coach",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Evan Edmondson",
-        "title": "Assistant Coach",
-        "email": "",
+        "email": "kaharris672@my.pittcc.edu",
         "phone": ""
       }
     ]
@@ -8422,59 +8416,33 @@
     "schoolID": "NC-unc-wilmington",
     "schoolName": "UNC Wilmington",
     "coaches": [
-      {
+    {
         "name": "Randy Hood",
         "title": "Head Coach",
         "email": "hoodr@uncw.edu",
-        "phone": "(910) 962-3793"
+        "phone": "(910) 962-3793",
+        "twitter": ""
       },
       {
         "name": "Chris Moore",
         "title": "Assistant Coach",
         "email": "moorecg@uncw.edu",
-        "phone": "(910) 962-3570"
+        "phone": "(910) 962-3570",
+        "twitter": ""
       },
       {
         "name": "Josh Stott",
         "title": "Assistant Coach",
         "email": "stottp@uncw.edu",
-        "phone": "(910) 962-7649"
+        "phone": "(910) 962-7649",
+        "twitter": ""
       },
       {
         "name": "Kelly Secrest",
         "title": "Assistant Coach",
         "email": "secrestk@uncw.edu",
-        "phone": "(910) 962-2528"
-      },
-      {
-        "name": "Alex O'Brien",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Brad Moore",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Maggie Tabone",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Taber Mongero",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Tyler Hott",
-        "title": "",
-        "email": "",
-        "phone": ""
+        "phone": "(910) 962-2528",
+        "twitter": ""
       }
     ]
   },

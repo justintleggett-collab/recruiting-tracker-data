@@ -228,7 +228,7 @@
         "title": "Head Coach",
         "email": "baseball@uark.edu",
         "phone": "479-575-3655",
-        "twitter": ""
+        "twitter": "@ArkRazorbacks"
       },
       {
         "name": "Nate Thompson",
@@ -637,7 +637,8 @@
         "name": "Greg Mamula",
         "title": "Head Coach",
         "email": "mamula@udel.edu",
-        "phone": ""
+        "phone": "",
+        "twitter": "@GregMamula"
       },
       {
         "name": "Jimmy Losh",
@@ -857,6 +858,13 @@
         "email": "mcgrifm1@erau.edu",
         "phone": "386-226-6971",
         "twitter": ""
+      },
+      {
+        "name": "Randy Stegall",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@ERAU_Baseball"
       }
     ]
   },
@@ -1087,7 +1095,14 @@
         "title": "Head Coach",
         "email": "rodette@flsouthern.edu",
         "phone": "863-616-6423",
-        "twitter": ""
+        "twitter": "@FSC_Baseball"
+      },
+      {
+        "name": "Tony Caldwell",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@TonyCaldwell21"
       }
     ]
   },
@@ -1104,7 +1119,8 @@
         "name": "Link Jarrett",
         "title": "Head Coach",
         "email": "ljarrett@fsu.edu",
-        "phone": "850-644-1079"
+        "phone": "850-644-1079",
+        "twitter": "@fsu_linkjarrett"
       },
       {
         "name": "Brad Vanderglas",
@@ -1233,6 +1249,20 @@
         "email": "ldalatri@nova.edu",
         "phone": "954-262-8257",
         "twitter": ""
+      },
+      {
+        "name": "Laz Gutierrez",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@LazGutierrez"
+      },
+      {
+        "name": "Justin Galioto",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@JustinGalioto"
       }
     ]
   },
@@ -1337,7 +1367,8 @@
         "name": "Jon Sjogren",
         "title": "Head Coach",
         "email": "baseball@rollins.edu",
-        "phone": "407-691-1346"
+        "phone": "407-691-1346",
+        "twitter": "@CoachSjogren"
       },
       {
         "name": "Patrick Szczerba",
@@ -1386,6 +1417,13 @@
         "title": "",
         "email": "",
         "phone": ""
+      },
+      {
+        "name": "Jim Giarraputo",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@SaintLeo_BB"
       }
     ]
   },
@@ -1490,7 +1528,7 @@
         "title": "Head Coach",
         "email": "ucfbaseball@athletics.ucf.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@CoachWallyUCF"
       },
       {
         "name": "Norberto Lopez",
@@ -1524,7 +1562,7 @@
         "title": "Head Coach",
         "email": "baseballrecruiting@uaa.ufl.edu",
         "phone": "352-375-4683",
-        "twitter": ""
+        "twitter": "@GatorsBB"
       },
       {
         "name": "Kevin O'Sullivan",
@@ -1656,6 +1694,27 @@
         "title": "Assistant Coach",
         "email": "",
         "phone": ""
+      },
+      {
+        "name": "Mitch Hannahs",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@usfbaseballfans"
+      },
+      {
+        "name": "Blake Kangas",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@bkangas"
+      },
+      {
+        "name": "Bryan Peters",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@bpeters11"
       }
     ]
   },
@@ -1698,6 +1757,13 @@
         "title": "",
         "email": "",
         "phone": ""
+      },
+      {
+        "name": "Jim Wiederecht",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@UWF_Baseball"
       }
     ]
   },
@@ -1767,13 +1833,6 @@
     "schoolID": "IA-cornell-college",
     "schoolName": "Cornell College",
     "coaches": [
-      {
-        "name": "Dan Pepicelli",
-        "title": "Head Coach",
-        "email": "djp328@cornell.edu",
-        "phone": "607-255-6623",
-        "twitter": ""
-      },
       {
         "name": "Assistant Coach/Recruiting",
         "title": "Assistant Coach",
@@ -2192,6 +2251,13 @@
         "title": "Assistant Coach",
         "email": "",
         "phone": ""
+      },
+      {
+        "name": "Steve Holm",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@coachholm"
       }
     ]
   },
@@ -2848,13 +2914,15 @@
         "name": "Josh Merrigan",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@JoshMerrigan"
       },
       {
         "name": "Terry Davis",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@Terry_Davis10"
       },
       {
         "name": "Will Christophersen",
@@ -3111,6 +3179,13 @@
         "title": "",
         "email": "",
         "phone": ""
+      },
+      {
+        "name": "Mitch Hannahs",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@MitchHannahs"
       }
     ]
   },
@@ -3656,13 +3731,15 @@
         "name": "Austin Wates",
         "title": "Head Coach",
         "email": "",
-        "phone": "(785) 370-9416"
+        "phone": "(785) 370-9416",
+        "twitter": "@austinwates"
       },
       {
         "name": "Pete Hughes",
         "title": "Head Coach",
         "email": "NameTitle@kstatesports.com",
-        "phone": "(785) 370-9416"
+        "phone": "(785) 370-9416",
+        "twitter": "@PeteHughesBSB"
       },
       {
         "name": "Thomas Hughes",
@@ -3674,7 +3751,8 @@
         "name": "Rudy Darrow",
         "title": "Pitching Coach",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@CoachD_42"
       }
     ]
   },
@@ -3727,7 +3805,8 @@
         "name": "Brock Buckingham",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@CoachBBuck"
       },
       {
         "name": "Dennis Vilela",
@@ -4304,7 +4383,7 @@
         "title": "Head Coach",
         "email": "baseball@lsu.edu",
         "phone": "225-578-4148",
-        "twitter": ""
+        "twitter": "@_JayJohnson_"
       }
     ]
   },
@@ -4397,7 +4476,8 @@
         "name": "Jay Uhlman",
         "title": "Head Coach",
         "email": "Izzio862-8238aizzio@tulane.edu",
-        "phone": ""
+        "phone": "",
+        "twitter": "@jezk1010"
       },
       {
         "name": "Bryan Hodge",
@@ -4452,14 +4532,14 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@CoachDeggs28"
       },
       {
         "name": "Seth Thibodeaux",
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@Coach_Thib"
       },
       {
         "name": "Zach LaFleur",
@@ -4480,7 +4560,7 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@TonyBab16"
       },
       {
         "name": "Jimmy Ricklefsen",
@@ -4889,6 +4969,20 @@
         "title": "",
         "email": "",
         "phone": ""
+      },
+      {
+        "name": "Bob Babb",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@JHUBaseball"
+      },
+      {
+        "name": "Gabriel Rivera",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@G_Rivera21"
       }
     ]
   },
@@ -4982,7 +5076,8 @@
         "name": "Troy Brohawn",
         "title": "Head Coach",
         "email": "mtbrohawn@salisbury.edu",
-        "phone": "(410) 543-6358"
+        "phone": "(410) 543-6358",
+        "twitter": "@Salisbury_BB"
       },
       {
         "name": "Ron Siers",
@@ -5109,7 +5204,7 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@ChuckRistano"
       },
       {
         "name": "Chris Bosco",
@@ -5187,6 +5282,13 @@
         "email": "",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Jeff DePerno",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@CoachDePerno"
       }
     ]
   },
@@ -5198,7 +5300,8 @@
         "name": "Matt Swope",
         "title": "Head Coach",
         "email": "mswope@umd.edu",
-        "phone": "301-314-7075"
+        "phone": "301-314-7075",
+        "twitter": "@MattSwope19"
       },
       {
         "name": "Matt Swope",
@@ -5217,7 +5320,8 @@
         "name": "Jimmy Jackson",
         "title": "Assistant Coach / Pitching",
         "email": "jjacks38@umd.edu",
-        "phone": ""
+        "phone": "",
+        "twitter": "@jimmyjackson38"
       },
       {
         "name": "Tommy Gardiner",
@@ -5423,21 +5527,21 @@
         "title": "Head Coach",
         "email": "774-4380sabol1jr@cmich.edu",
         "phone": "(989) 774-4380",
-        "twitter": "@cmubaseball"
+        "twitter": "@JakeSabol24"
       },
       {
         "name": "Aaron Hilt",
         "title": "Assistant Coach",
         "email": "774-1484hilt1aj@cmich.edu",
         "phone": "(989) 774-1484",
-        "twitter": "@cmubaseball"
+        "twitter": "@AaronHilt3"
       },
       {
         "name": "Doug Walters",
         "title": "Assistant Coach",
         "email": "774-1563walte2dl@cmich.edu",
         "phone": "(989) 774-1563",
-        "twitter": "@cmubaseball"
+        "twitter": "@DougWalters22"
       },
       {
         "name": "Justin Sumner",
@@ -5693,7 +5797,7 @@
         "title": "Head Coach",
         "email": "bossjake@msu.edu",
         "phone": "517-355-4486",
-        "twitter": "@msubaseball"
+        "twitter": "@BossJake"
       },
       {
         "name": "Graham Sikes",
@@ -6677,7 +6781,7 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@JoeyHawkins3"
       },
       {
         "name": "Geoff Jimenez",
@@ -6756,7 +6860,8 @@
         "name": "Michael Keeran",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@mkeeran"
       },
       {
         "name": "Ryan Frazer",
@@ -7513,7 +7618,8 @@
         "name": "Scott Loiseau",
         "title": "Associate Head Coach",
         "email": "scott.loiseau@duke.edu",
-        "phone": ""
+        "phone": "",
+        "twitter": "@ScottLoiseau"
       },
       {
         "name": "Matt Wessinger",
@@ -7537,7 +7643,8 @@
         "name": "Cliff Godwin",
         "title": "Head Coach",
         "email": "franciscot25@ecu.edu",
-        "phone": "(252) 737-1985"
+        "phone": "(252) 737-1985",
+        "twitter": "@ECUCoachGodwin"
       },
       {
         "name": "Austin Knight",
@@ -7555,7 +7662,8 @@
         "name": "Jeff Palumbo",
         "title": "Recruiting Coordinator",
         "email": "palumboj14@ecu.edu",
-        "phone": "(252) 737-1984"
+        "phone": "(252) 737-1984",
+        "twitter": "@JeffPalumboECU"
       },
       {
         "name": "Bryant Packard",
@@ -7997,7 +8105,8 @@
         "name": "Elliott Avent",
         "title": "Head Coach",
         "email": "eavent@ncsu.edu",
-        "phone": "919-515-3614"
+        "phone": "919-515-3614",
+        "twitter": "@Elliott_Avent"
       },
       {
         "name": "Winthrop",
@@ -8100,7 +8209,43 @@
         "title": "Assistant Coach",
         "email": "thomas.welton@pfeiffer.edu",
         "phone": ""
-      }    
+      },
+      {
+        "name": "Caleb Livengood",
+        "title": "",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "name": "Charles Curcio",
+        "title": "",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "name": "Darci Dickison",
+        "title": "",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "name": "John Owens",
+        "title": "",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "name": "K.C. Culler",
+        "title": "",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "name": "Rod Brown",
+        "title": "",
+        "email": "",
+        "phone": ""
+      }
     ]
   },
   {
@@ -8110,19 +8255,26 @@
       {
         "name": "Tommy Eason",
         "title": "Head Coach",
-        "email": "steason373@my.pittcc.edu",
-        "phone": "252-493-7680"
+        "email": "",
+        "phone": "",
+        "twitter": "@TommyEason_PCC"
       },
       {
-        "name": "Jason Wood",
+        "name": "A member",
         "title": "Assistant Coach",
-        "email": "jrwood968@my.pittcc.edu",
-        "phone": "252-493-7702"
+        "email": "",
+        "phone": ""
       },
       {
-        "name": "Kyler Harris",
+        "name": "Connor Norby",
         "title": "Assistant Coach",
-        "email": "kaharris672@my.pittcc.edu",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "name": "Evan Edmondson",
+        "title": "Assistant Coach",
+        "email": "",
         "phone": ""
       }
     ]
@@ -8380,33 +8532,59 @@
     "schoolID": "NC-unc-wilmington",
     "schoolName": "UNC Wilmington",
     "coaches": [
-    {
+      {
         "name": "Randy Hood",
         "title": "Head Coach",
         "email": "hoodr@uncw.edu",
-        "phone": "(910) 962-3793",
-        "twitter": ""
+        "phone": "(910) 962-3793"
       },
       {
         "name": "Chris Moore",
         "title": "Assistant Coach",
         "email": "moorecg@uncw.edu",
-        "phone": "(910) 962-3570",
-        "twitter": ""
+        "phone": "(910) 962-3570"
       },
       {
         "name": "Josh Stott",
         "title": "Assistant Coach",
         "email": "stottp@uncw.edu",
-        "phone": "(910) 962-7649",
-        "twitter": ""
+        "phone": "(910) 962-7649"
       },
       {
         "name": "Kelly Secrest",
         "title": "Assistant Coach",
         "email": "secrestk@uncw.edu",
-        "phone": "(910) 962-2528",
-        "twitter": ""
+        "phone": "(910) 962-2528"
+      },
+      {
+        "name": "Alex O'Brien",
+        "title": "",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "name": "Brad Moore",
+        "title": "",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "name": "Maggie Tabone",
+        "title": "",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "name": "Taber Mongero",
+        "title": "",
+        "email": "",
+        "phone": ""
+      },
+      {
+        "name": "Tyler Hott",
+        "title": "",
+        "email": "",
+        "phone": ""
       }
     ]
   },
@@ -8448,7 +8626,8 @@
         "name": "Scott Forbes",
         "title": "Head Coach",
         "email": "scott.forbes@unc.edu",
-        "phone": "919-962-2351"
+        "phone": "919-962-2351",
+        "twitter": "@goheels"
       },
       {
         "name": "Bryant Gaines",
@@ -8466,7 +8645,8 @@
         "name": "Scott Jackson",
         "title": "Assistant Coach / Recruiting Coordinator",
         "email": "unc-baseball@unc.edu",
-        "phone": "(919) 962-2351"
+        "phone": "(919) 962-2351",
+        "twitter": "@ScottJacksonUNC"
       },
       {
         "name": "Jason Howell",
@@ -8485,7 +8665,7 @@
         "title": "Head Coach",
         "email": "waltert@wfu.edu",
         "phone": "336-758-5570",
-        "twitter": "@wakebaseball"
+        "twitter": "@TomWalter10"
       },
       {
         "name": "Bill Cilento",
@@ -9345,13 +9525,15 @@
         "name": "Scott Bradley",
         "title": "Head Coach",
         "email": "Baseball609-258-5059tigerbaseball@princeton.edu",
-        "phone": "(609) 258-5059"
+        "phone": "(609) 258-5059",
+        "twitter": "@TigerBaseball"
       },
       {
         "name": "Joe Haumacher",
         "title": "Assistant Coach",
         "email": "jh2745@princeton.edu",
-        "phone": ""
+        "phone": "",
+        "twitter": "@JoeHaumacher"
       },
       {
         "name": "Kevin Blowers",
@@ -9493,7 +9675,8 @@
         "name": "Steve Owens",
         "title": "Head Coach",
         "email": "steve.owens@rutgers.edu",
-        "phone": "848-445-8553"
+        "phone": "848-445-8553",
+        "twitter": "@SteveOwens30"
       },
       {
         "name": "Ryan Fecteau",
@@ -9511,7 +9694,15 @@
         "name": "Danny Bethea",
         "title": "Assistant Coach",
         "email": "d.bethea@scarletknights.com",
-        "phone": ""
+        "phone": "",
+        "twitter": "@DB_Showtime26"
+      },
+      {
+        "name": "Mike Garza",
+        "title": "Associate Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@coach_garz"
       }
     ]
   },
@@ -9942,7 +10133,8 @@
         "name": "Brett Boretti",
         "title": "Head Coach",
         "email": "212-854-8448bmb2117@columbia.edu",
-        "phone": "(212) 854-8448"
+        "phone": "(212) 854-8448",
+        "twitter": "@ColumbiaLionsBB"
       },
       {
         "name": "Tom Carty",
@@ -9954,7 +10146,8 @@
         "name": "David Vandercook",
         "title": "Assistant Coach",
         "email": "drv2108@columbia.edu",
-        "phone": ""
+        "phone": "",
+        "twitter": "@CoachVandy_CU"
       },
       {
         "name": "Canyon Kyle",
@@ -11117,7 +11310,7 @@
         "title": "Head Coach",
         "email": "bharriso@bw.edu",
         "phone": "440-826-2182",
-        "twitter": ""
+        "twitter": "@BW_Baseball"
       }
     ]
   },
@@ -11243,7 +11436,8 @@
         "name": "Mike Deegan",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@m_deegan"
       },
       {
         "name": "Nick Marsh",
@@ -11256,6 +11450,13 @@
         "title": "",
         "email": "",
         "phone": ""
+      },
+      {
+        "name": "Ryan Mossman",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@CoachMossman"
       }
     ]
   },
@@ -11953,7 +12154,8 @@
         "name": "Pat Cottrell",
         "title": "Assistant Coach",
         "email": "patrick.cottrell@utoledo.edu",
-        "phone": "(419) 530-3097"
+        "phone": "(419) 530-3097",
+        "twitter": "@PatCottrell_2"
       },
       {
         "name": "Trey Wright",
@@ -11971,7 +12173,8 @@
         "name": "Rob Reinstetle",
         "title": "Pitching Coach",
         "email": "ronald.wright@utoledo.edu",
-        "phone": "(419) 530-6263"
+        "phone": "(419) 530-6263",
+        "twitter": "@reinstetle"
       }
     ]
   },
@@ -12056,13 +12259,15 @@
         "name": "Alex Sogard",
         "title": "Head Coach",
         "email": "Chierojordan.chiero@wright.edu",
-        "phone": "(937) 775-3668"
+        "phone": "(937) 775-3668",
+        "twitter": "@ASogard"
       },
       {
         "name": "Jordan Chiero",
         "title": "Head Coach",
         "email": "Chierojordan.chiero@wright.edu",
-        "phone": ""
+        "phone": "",
+        "twitter": "@JordanChiero"
       },
       {
         "name": "Gehrig Anglin",
@@ -12074,7 +12279,8 @@
         "name": "Travis Ferrick",
         "title": "Pitching Coach",
         "email": "Ferricktravis.ferrick@wright.edu",
-        "phone": ""
+        "phone": "",
+        "twitter": "@CoachFerrick"
       },
       {
         "name": "Dane Thomas",
@@ -12187,7 +12393,8 @@
         "name": "Josh Holliday",
         "title": "Head Coach",
         "email": "j.holliday@okstate.edu",
-        "phone": ""
+        "phone": "",
+        "twitter": "@joshhollidayosu"
       },
       {
         "name": "Blake Hawksworth",
@@ -12379,7 +12586,7 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@CoachJohnsonOU"
       },
       {
         "name": "Reggie Willits",
@@ -12572,7 +12779,8 @@
         "name": "Scott Heather",
         "title": "Head Coach",
         "email": "bjs041@bucknell.edu",
-        "phone": "(570) 577-3593"
+        "phone": "(570) 577-3593",
+        "twitter": "@Bucknell_BB"
       },
       {
         "name": "Brett Smith",
@@ -12944,7 +13152,8 @@
         "name": "A.J. Miller",
         "title": "Head Coach",
         "email": "millera@lafayette.edu",
-        "phone": "(610) 330-5945"
+        "phone": "(610) 330-5945",
+        "twitter": "@CoachAJMiller"
       },
       {
         "name": "Jabin Weaver",
@@ -12992,13 +13201,15 @@
         "name": "Sean Leary",
         "title": "Head Coach",
         "email": "zac325@lehigh.edu",
-        "phone": "(610) 758-4315"
+        "phone": "(610) 758-4315",
+        "twitter": "@LULeary26"
       },
       {
         "name": "Pat Knight",
         "title": "Associate Head Coach",
         "email": "pak422@lehigh.edu",
-        "phone": "(610) 758-4315"
+        "phone": "(610) 758-4315",
+        "twitter": "@KnightPat13"
       },
       {
         "name": "Justin Butler",
@@ -13132,7 +13343,8 @@
         "name": "Jon Shehan",
         "title": "Head Coach",
         "email": "jshehan@millersville.edu",
-        "phone": "(717) 871-5736"
+        "phone": "(717) 871-5736",
+        "twitter": "@MillersvilleBB"
       },
       {
         "name": "Eli Nabholz",
@@ -13144,7 +13356,8 @@
         "name": "David Baker",
         "title": "Recruiting Coordinator",
         "email": "david.baker@millersville.edu",
-        "phone": "(717) 871-7685"
+        "phone": "(717) 871-7685",
+        "twitter": "@CoachBaker_MU"
       },
       {
         "name": "David Bakerr",
@@ -13344,7 +13557,7 @@
         "title": "Head Coach",
         "email": "jeffrey.messer@sru.edu",
         "phone": "724-738-2813",
-        "twitter": ""
+        "twitter": "@psac_baseball"
       }
     ]
   },
@@ -13428,7 +13641,8 @@
         "name": "John Yurkow",
         "title": "Head Coach",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@PennBaseball"
       },
       {
         "name": "W. Joseph",
@@ -13779,7 +13993,7 @@
         "title": "Head Coach",
         "email": "ebakich@clemson.edu",
         "phone": "864-656-1944",
-        "twitter": ""
+        "twitter": "@ErikBakich"
       },
       {
         "name": "Nick Schnabel",
@@ -13812,13 +14026,15 @@
         "name": "Kevin Schnall",
         "title": "Head Coach",
         "email": "kschnall@coastal.edu",
-        "phone": "(843) 349-2816"
+        "phone": "(843) 349-2816",
+        "twitter": "@KSchnall9"
       },
       {
         "name": "Chad Oxendine",
         "title": "Associate Head Coach",
         "email": "coxendi1@coastal.edu",
-        "phone": "(843) 234-3460"
+        "phone": "(843) 234-3460",
+        "twitter": "@CoachOx18"
       },
       {
         "name": "Matt Schilling",
@@ -13830,7 +14046,15 @@
         "name": "Matt Williams",
         "title": "Assistant Coach / Pitching",
         "email": "mwilliam@coastal.edu",
-        "phone": "(843) 234-2849"
+        "phone": "(843) 234-2849",
+        "twitter": "@mwilliams2929"
+      },
+      {
+        "name": "Tyler Shewmaker",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@TShewmaker43"
       }
     ]
   },
@@ -14811,7 +15035,8 @@
         "name": "Mark Brew",
         "title": "Head Coach",
         "email": "mbrew@leeuniversity.edu",
-        "phone": "423-614-8638"
+        "phone": "423-614-8638",
+        "twitter": "@LeeU_Baseball"
       },
       {
         "name": "Baseball Head",
@@ -14824,6 +15049,13 @@
         "title": "Assistant Coach",
         "email": "",
         "phone": ""
+      },
+      {
+        "name": "Jorge Saez",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@jsaez12"
       }
     ]
   },
@@ -15112,7 +15344,8 @@
         "name": "Chase Sain",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@CoachSain"
       },
       {
         "name": "Hudson Cornett",
@@ -15221,7 +15454,8 @@
         "name": "Josh Elander",
         "title": "Head Coach",
         "email": "baseball@utk.edu",
-        "phone": "865-974-1212"
+        "phone": "865-974-1212",
+        "twitter": "@volsbaseballcoach"
       },
       {
         "name": "Josh Elander",
@@ -15336,7 +15570,7 @@
         "title": "Head Coach",
         "email": "kevin.brooks@angelo.edu",
         "phone": "325-942-2264",
-        "twitter": ""
+        "twitter": "@KBrooks15"
       }
     ]
   },
@@ -15409,6 +15643,20 @@
         "title": "Assistant Coach",
         "email": "",
         "phone": ""
+      },
+      {
+        "name": "Dan Heefner",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@DBU_Baseball"
+      },
+      {
+        "name": "Tyler Johnson",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@tylerj_dbu"
       }
     ]
   },
@@ -15438,7 +15686,8 @@
         "name": "Jared Hood",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@CoachJaredHood"
       },
       {
         "name": "Tanner Matthews",
@@ -15492,7 +15741,7 @@
         "title": "Head Coach",
         "email": "nathan.blackwood@lcu.edu",
         "phone": "806-720-7444",
-        "twitter": ""
+        "twitter": "@nathan_blackwood"
       }
     ]
   },
@@ -15583,6 +15832,20 @@
         "title": "",
         "email": "",
         "phone": ""
+      },
+      {
+        "name": "Tom Arrington",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@SJCNBaseball"
+      },
+      {
+        "name": "Korey Thompson",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@KoreyThompson5"
       }
     ]
   },
@@ -15714,7 +15977,8 @@
         "name": "Kirk Saarloos",
         "title": "Head Coach",
         "email": "k.saarloos@tcu.edu",
-        "phone": ""
+        "phone": "",
+        "twitter": "@K_Saarloos"
       },
       {
         "name": "Dave Lawn",
@@ -15746,7 +16010,7 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@earley_michael"
       },
       {
         "name": "Jason Kelly",
@@ -15851,7 +16115,7 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@trouty16"
       },
       {
         "name": "Josh Blakley",
@@ -15954,7 +16218,8 @@
         "name": "Tim Scannell",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@Trinity_U_BB"
       },
       {
         "name": "Zach Fregosi",
@@ -16070,7 +16335,8 @@
         "name": "Mike Stawski",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@CoachStawski"
       }
     ]
   },
@@ -16083,7 +16349,7 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@CoachSchloss"
       },
       {
         "name": "Nolan Cain",
@@ -16485,7 +16751,7 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@JMUBaseball"
       },
       {
         "name": "Shane Halley",
@@ -16902,6 +17168,13 @@
         "title": "Head Coach",
         "email": "beazley_t@lynchburg.edu",
         "phone": "(540) 817-5182"
+      },
+      {
+        "name": "Lucas Jones",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@LynchburgBase"
       }
     ]
   },
@@ -17454,7 +17727,8 @@
         "name": "Chris Schwarz",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@UWL_Baseball"
       },
       {
         "name": "Jared Manske",
@@ -17971,7 +18245,7 @@
         "title": "Head Coach",
         "email": "ssabins@mail.wvu.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@stevesabins"
       },
       {
         "name": "Justin Ohelke",
@@ -17985,7 +18259,7 @@
         "title": "Assistant Coach",
         "email": "jgarcia@mail.wvu.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@J_Gar12"
       },
       {
         "name": "Shaun Gierke",
@@ -17993,6 +18267,20 @@
         "email": "sgierke@mail.wvu.edu",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Jimmy Roesinger",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@jimbrorace"
+      },
+      {
+        "name": "Christopher Reilly",
+        "title": "Director of Pitching",
+        "email": "",
+        "phone": "",
+        "twitter": "@ChrisReilly18"
       }
     ]
   },
@@ -18052,7 +18340,8 @@
         "name": "Louis Whitlow",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@coachlou2442"
       },
       {
         "name": "Mark Hernandez",
@@ -18542,7 +18831,8 @@
         "name": "Brock Ward",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@CoachBKWard"
       },
       {
         "name": "Collin Scott",
@@ -18554,7 +18844,8 @@
         "name": "Eric DuBose",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@WestAlaBSB"
       },
       {
         "name": "Jake Goolsby",
@@ -18809,7 +19100,8 @@
         "name": "Willie Bloomquist",
         "title": "Head Coach",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@williebloom"
       },
       {
         "name": "Jason Ellison",
@@ -18821,7 +19113,8 @@
         "name": "Sam Peraza",
         "title": "Assistant Coach",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@CoachPeraza"
       },
       {
         "name": "Jeremy Accardo",
@@ -18839,7 +19132,8 @@
         "name": "Gregg Wallis",
         "title": "Head Coach",
         "email": "gregg.wallis@gcu.edu",
-        "phone": ""
+        "phone": "",
+        "twitter": "@GCU_Baseball"
       },
       {
         "name": "Nate Causey",
@@ -18851,7 +19145,8 @@
         "name": "Paul Panaccione",
         "title": "Assistant Coach",
         "email": "paul.panaccione@gcu.edu",
-        "phone": ""
+        "phone": "",
+        "twitter": "@CoachPanny_3"
       },
       {
         "name": "Nathan Bannister",
@@ -18935,6 +19230,13 @@
         "title": "",
         "email": "",
         "phone": ""
+      },
+      {
+        "name": "Patrick Woods",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@PatrickWoodsYC"
       }
     ]
   },
@@ -18966,7 +19268,8 @@
         "name": "John Savage",
         "title": "Head Coach",
         "email": "jsavage@athletics.ucla.edu",
-        "phone": "310-206-6239"
+        "phone": "310-206-6239",
+        "twitter": "@UCLABaseball"
       },
       {
         "name": "Bryant Ward",
@@ -19009,6 +19312,13 @@
         "title": "",
         "email": "",
         "phone": ""
+      },
+      {
+        "name": "Niko Gallego",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@nikogallego"
       }
     ]
   },
@@ -19028,14 +19338,14 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@usc_baseball"
       },
       {
         "name": "Travis Jewett",
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@tjewett10"
       },
       {
         "name": "Sean Allen",
@@ -19152,7 +19462,7 @@
         "title": "Head Coach",
         "email": "mneu@berkeley.edu",
         "phone": "510-643-2640",
-        "twitter": ""
+        "twitter": "@MikeNeuCal"
       },
       {
         "name": "Chris Bodishbaugh",
@@ -19206,7 +19516,7 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@JDietrich22"
       },
       {
         "name": "Josh Belovsky",
@@ -19275,6 +19585,20 @@
         "title": "Assistant Coach",
         "email": "",
         "phone": ""
+      },
+      {
+        "name": "Andrew Checketts",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@A_Checketts"
+      },
+      {
+        "name": "Matt Fonteno",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@CoachFonteno"
       }
     ]
   },
@@ -19287,14 +19611,14 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@BenOrloff"
       },
       {
         "name": "Daniel Bibona",
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@CoachBibona"
       },
       {
         "name": "J.T. Bloodworth",
@@ -19413,6 +19737,13 @@
         "email": "",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Bryan Peters",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@bpeters11"
       }
     ]
   },
@@ -19424,7 +19755,8 @@
         "name": "Larry Lee",
         "title": "Head Coach",
         "email": "llee@calpoly.edu",
-        "phone": ""
+        "phone": "",
+        "twitter": "@CalPolyBaseball"
       },
       {
         "name": "Jason Gill",
@@ -19528,7 +19860,7 @@
         "title": "Head Coach",
         "email": "rfilter@scu.edu",
         "phone": "408-554-4882",
-        "twitter": ""
+        "twitter": "@RustyFilter"
       }
     ]
   },
@@ -19541,14 +19873,14 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@CoachV_SMC"
       },
       {
         "name": "Daniel Costanza",
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@CoachCostanza"
       },
       {
         "name": "Jack Meggs",
@@ -19603,6 +19935,13 @@
         "title": "Assistant Coach",
         "email": "",
         "phone": ""
+      },
+      {
+        "name": "Donegal Fergus",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@DonegalFergus"
       }
     ]
   },
@@ -19677,7 +20016,7 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@USD_Baseball"
       },
       {
         "name": "Mitch Holland",
@@ -19727,6 +20066,13 @@
         "email": "",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Erich Pfohl",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@CoachPfohl"
       }
     ]
   },
@@ -19739,7 +20085,7 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@CoachEricNewman"
       },
       {
         "name": "Matt Harvey",
@@ -19803,6 +20149,13 @@
         "email": "",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Matt Watts",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@CoachMattWatts"
       }
     ]
   },
@@ -20625,7 +20978,8 @@
         "name": "Scott Winterburn",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@ULV_Baseball"
       }
     ]
   },
@@ -20667,7 +21021,8 @@
         "name": "Frank Pericolosi",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@SagehenBaseball"
       },
       {
         "name": "Jason Staub",
@@ -20703,7 +21058,8 @@
         "name": "Bill Walkenbach",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@CMS_Baseball"
       },
       {
         "name": "David Higuera",
@@ -21052,6 +21408,13 @@
         "title": "Assistant Coach",
         "email": "",
         "phone": ""
+      },
+      {
+        "name": "Ron Scott",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@FCC_Baseball"
       }
     ]
   },
@@ -21308,7 +21671,7 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@uconnbsb"
       },
       {
         "name": "Jeff Hourigan",
@@ -21322,7 +21685,7 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@joshuamacdonald"
       },
       {
         "name": "Chris Podeszwa",
@@ -21355,13 +21718,15 @@
         "name": "Brian Hamm",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@CoachHamm_Yale"
       },
       {
         "name": "Chris Wojick",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@ChrisWojick"
       },
       {
         "name": "Corey Keane",
@@ -21483,7 +21848,7 @@
         "title": "Head Coach",
         "email": "james.ramsey@athletics.gatech.edu",
         "phone": "404-894-5411",
-        "twitter": ""
+        "twitter": "@JamesRamsey23"
       },
       {
         "name": "James Ramsey",
@@ -21505,6 +21870,13 @@
         "email": "zpinkham@athletics.gatech.edu",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Matt Wieters",
+        "title": "Undergraduate Assistant",
+        "email": "",
+        "phone": "",
+        "twitter": "@MattWieters"
       }
     ]
   },
@@ -22142,6 +22514,20 @@
         "title": "",
         "email": "",
         "phone": ""
+      },
+      {
+        "name": "Angelo Nicolosi",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@BlazerNationBB"
+      },
+      {
+        "name": "Colby May",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@CMay22590"
       }
     ]
   },
@@ -22415,7 +22801,7 @@
         "title": "Head Coach",
         "email": "rbhill@hawaii.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@UHBows"
       },
       {
         "name": "Keith Zuniga",
@@ -22657,7 +23043,8 @@
         "name": "Bill Decker",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@HarvardBaseball"
       },
       {
         "name": "Catherine Shapiro",
@@ -22700,7 +23087,7 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@EdKahovec"
       },
       {
         "name": "Sam Tinkham",
@@ -23150,7 +23537,8 @@
         "name": "J.P. Pyne",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@AmherstBaseball"
       },
       {
         "name": "Kevin Murphy",
@@ -23688,7 +24076,8 @@
         "name": "Bill Barrale",
         "title": "",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@Williams_BB"
       },
       {
         "name": "Billy O'Brien",
@@ -24188,7 +24577,7 @@
         "title": "Head Coach",
         "email": "baseball@athletics.msstate.edu",
         "phone": "662-325-3597",
-        "twitter": ""
+        "twitter": "@UVACoachOConnor"
       },
       {
         "name": "Brian O'Connor",
@@ -24361,14 +24750,14 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@Oz_SouthernMiss"
       },
       {
         "name": "Travis Creel",
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@creel_travis"
       },
       {
         "name": "Ladd Rhodes",
@@ -24710,7 +25099,7 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@BMcFadden14"
       },
       {
         "name": "Brad Hill",
@@ -25316,14 +25705,14 @@
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@LoomisGeoff"
       },
       {
         "name": "Trey Watt",
         "title": "",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@TreyWatt17"
       },
       {
         "name": "Jake Holcroft",
@@ -26293,7 +26682,7 @@
         "title": "Head Coach",
         "email": "mleonard@middlebury.edu",
         "phone": "802-443-5250",
-        "twitter": ""
+        "twitter": "@Midd_Baseball"
       }
     ]
   },
@@ -26893,7 +27282,7 @@
         "title": "Head Coach",
         "email": "wbolt@huskers.com",
         "phone": "",
-        "twitter": ""
+        "twitter": "@Will_Bolt"
       },
       {
         "name": "Rob Childress",
@@ -26979,7 +27368,7 @@
         "title": "Head Coach",
         "email": "eganp3@sacredheart.edu",
         "phone": "203-365-7632",
-        "twitter": ""
+        "twitter": "@PatEgan_11"
       }
     ]
   },
@@ -27018,7 +27407,7 @@
         "title": "Head Coach",
         "email": "christopher.tracz@westpoint.edu",
         "phone": "845-938-4938",
-        "twitter": ""
+        "twitter": "@ArmyWP_Baseball"
       }
     ]
   },
@@ -27083,7 +27472,14 @@
         "title": "Head Coach",
         "email": "machtolf@gonzaga.edu",
         "phone": "509-313-4209",
-        "twitter": ""
+        "twitter": "@ZagBaseball"
+      },
+      {
+        "name": "Brandon Harmon",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@bharmon23"
       }
     ]
   },
@@ -27161,7 +27557,7 @@
         "title": "Head Coach",
         "email": "escherer@callutheran.edu",
         "phone": "805-493-3398",
-        "twitter": ""
+        "twitter": "@CLU_Baseball"
       }
     ]
   },
@@ -27226,7 +27622,7 @@
         "title": "Head Coach",
         "email": "bryan.stark@tufts.edu",
         "phone": "617-627-3158",
-        "twitter": ""
+        "twitter": "@TuftsBaseball"
       }
     ]
   },
@@ -27239,7 +27635,7 @@
         "title": "Head Coach",
         "email": "bhaley@endicott.edu",
         "phone": "978-232-2434",
-        "twitter": ""
+        "twitter": "@CoachHaley21"
       }
     ]
   },
@@ -27252,7 +27648,7 @@
         "title": "Head Coach",
         "email": "matthew.englander@case.edu",
         "phone": "216-368-5379",
-        "twitter": ""
+        "twitter": "@CWRUBaseball"
       }
     ]
   },
@@ -27266,6 +27662,13 @@
         "email": "wjm001@marietta.edu",
         "phone": "740-376-4668",
         "twitter": ""
+      },
+      {
+        "name": "Brian Brewer",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@MariettaBasebal"
       }
     ]
   },
@@ -27395,7 +27798,7 @@
         "title": "Head Coach",
         "email": "djp328@cornell.edu",
         "phone": "607-255-6623",
-        "twitter": ""
+        "twitter": "@CornellBaseball"
       }
     ]
   },
@@ -27824,7 +28227,7 @@
         "title": "Head Coach",
         "email": "vodenlij@uww.edu",
         "phone": "262-472-5695",
-        "twitter": ""
+        "twitter": "@UWWBaseball"
       }
     ]
   },
@@ -28098,6 +28501,20 @@
         "email": "baseball@chipolaathletics.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Jeff Johnson",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@Chipola_BSB"
+      },
+      {
+        "name": "Rush Hixon",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@RushHixon"
       }
     ]
   },
@@ -28111,6 +28528,13 @@
         "email": "baseball@cfpatriots.net",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Marty Smith",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@CF_Baseball"
       }
     ]
   },
@@ -28215,6 +28639,13 @@
         "email": "baseball@mdcathletics.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Adrian Morales",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@AdrianMorales06"
       }
     ]
   },
@@ -28345,6 +28776,13 @@
         "email": "baseball@tccathletics.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Bryan Henry",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@BHenry21"
       }
     ]
   },
@@ -28462,6 +28900,13 @@
         "email": "baseball@wvcwarriorathletics.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Aaron Biddle",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@Biddle_2"
       }
     ]
   },
@@ -28865,6 +29310,13 @@
         "email": "baseball@cccti.edu",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Gale Bost",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@CaldwellBaseba1"
       }
     ]
   },
@@ -29268,6 +29720,13 @@
         "email": "baseball@mclennanathletics.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Mitch Thompson",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@mclennanbaseba1"
       }
     ]
   },
@@ -29281,6 +29740,20 @@
         "email": "baseball@wcathletics.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Jeff Lightfoot",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@WCCoyotesBSB"
+      },
+      {
+        "name": "Cooper Sholder",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@CooperSholder"
       }
     ]
   },
@@ -29541,6 +30014,13 @@
         "email": "baseball@jcccathletics.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Eric Horner",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@JCCCBaseball"
       }
     ]
   },
@@ -30581,6 +31061,20 @@
         "email": "baseball@awcmatadors.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Jon Wente",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@CoachWente"
+      },
+      {
+        "name": "Zeke Mitchem",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@ZekeMitchem"
       }
     ]
   },
@@ -30594,6 +31088,27 @@
         "email": "baseball@vaquerosports.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Sean Cashman",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@CoachCashman"
+      },
+      {
+        "name": "Derek Ridgway",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@CoachRidgway"
+      },
+      {
+        "name": "Luke Leisenring",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@LukeLeisenring"
       }
     ]
   },
@@ -30620,6 +31135,20 @@
         "email": "baseball@pimaaztecs.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Ken Jacome",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@KenJacome"
+      },
+      {
+        "name": "Cooper Kruk",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "@CooperKruk"
       }
     ]
   },
@@ -30685,6 +31214,13 @@
         "email": "baseball@canadacollegeathletics.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Tony Lucca",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@CanadaColtsBSB"
       }
     ]
   },
@@ -30802,6 +31338,13 @@
         "email": "baseball@cypresschargers.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Anthony Hutting",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@Cypress_Basebal"
       }
     ]
   },
@@ -30815,6 +31358,13 @@
         "email": "baseball@eccwarriors.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Nate Fernley",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@ECCBaseball"
       }
     ]
   },
@@ -30854,6 +31404,13 @@
         "email": "baseball@fchornets.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Guy Holliday",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@Fullerton_BB"
       }
     ]
   },
@@ -30880,6 +31437,13 @@
         "email": "baseball@gwcathletics.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Andy Hall",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@GWC_Baseball"
       }
     ]
   },
@@ -30971,6 +31535,13 @@
         "email": "baseball@lbccvikings.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Casey Crook",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@LBC_Baseball"
       }
     ]
   },
@@ -31036,6 +31607,13 @@
         "email": "baseball@mtsacathletics.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "John Knott",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@MtSAC_Baseball"
       }
     ]
   },
@@ -31075,6 +31653,13 @@
         "email": "baseball@ohloneathletics.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Craig Peterson",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@OhloneBaseball"
       }
     ]
   },
@@ -31088,6 +31673,13 @@
         "email": "baseball@occpirates.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Nate Johnson",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@OCC_Baseball"
       }
     ]
   },
@@ -31101,6 +31693,13 @@
         "email": "baseball@palomarastros.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Ben Adams",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@PalomarBaseball"
       }
     ]
   },
@@ -31114,6 +31713,13 @@
         "email": "baseball@pcclancers.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Pat McGee",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@PCCLancered"
       }
     ]
   },
@@ -31140,6 +31746,13 @@
         "email": "baseball@rccathletics.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Justin Dehmer",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@RCCBaseball"
       }
     ]
   },
@@ -31153,6 +31766,13 @@
         "email": "baseball@sccpanthers.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Derek Sullivan",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@SacCityBaseball"
       }
     ]
   },
@@ -31166,6 +31786,13 @@
         "email": "baseball@saddlebackbobcats.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Sommer McCartney",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@SaddlebackBase"
       }
     ]
   },
@@ -31205,6 +31832,13 @@
         "email": "baseball@deltacollegeathletics.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Reed Peters",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@DeltaBaseball"
       }
     ]
   },
@@ -31218,6 +31852,13 @@
         "email": "baseball@sacdons.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Tom Carroll",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@SantaAnaBasebal"
       }
     ]
   },
@@ -31244,6 +31885,13 @@
         "email": "baseball@santarosajcathletics.com",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Tim Gillis",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "@SRJCBaseball"
       }
     ]
   },

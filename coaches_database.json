@@ -665,11 +665,28 @@
     "schoolName": "Wilmington University",
     "coaches": [
       {
-        "name": "Brian August",
+        "name": "Randy Hood",
         "title": "Head Coach",
-        "email": "brian.j.august@wilmu.edu",
-        "phone": "302-356-6754",
-        "twitter": ""
+        "email": "hoodr@uncw.edu",
+        "phone": "(910) 962-3793"
+      },
+      {
+        "name": "Chris Moore",
+        "title": "Assistant Coach",
+        "email": "moorecg@uncw.edu",
+        "phone": "(910) 962-3570"
+      },
+      {
+        "name": "Kelly Secrest",
+        "title": "Assistant Coach",
+        "email": "secrestk@uncw.edu",
+        "phone": "(910) 962-2528"
+      },
+      {
+        "name": "Josh Stott",
+        "title": "Assistant Coach",
+        "email": "stottp@uncw.edu",
+        "phone": "(910) 962-7649"
       }
     ]
   },
@@ -5304,13 +5321,6 @@
         "twitter": "@MattSwope19"
       },
       {
-        "name": "Matt Swope",
-        "title": "Head Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "@umterps"
-      },
-      {
         "name": "Phil Disher",
         "title": "Associate Head Coach",
         "email": "disher@umbc.edu",
@@ -8209,42 +8219,6 @@
         "title": "Assistant Coach",
         "email": "thomas.welton@pfeiffer.edu",
         "phone": ""
-      },
-      {
-        "name": "Caleb Livengood",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Charles Curcio",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Darci Dickison",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "John Owens",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "K.C. Culler",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Rod Brown",
-        "title": "",
-        "email": "",
-        "phone": ""
       }
     ]
   },
@@ -8269,12 +8243,6 @@
         "name": "Kyler Harris",
         "title": "Assistant Coach",
         "email": "kaharris672@my.pittcc.edu",
-        "phone": ""
-      },
-      {
-        "name": "Evan Edmondson",
-        "title": "Assistant Coach",
-        "email": "",
         "phone": ""
       }
     ]

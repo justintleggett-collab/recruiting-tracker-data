@@ -7239,9 +7239,9 @@
         "phone": ""
       },
       {
-        "name": "John Lyons-Harrison",
-        "title": "Assistant Coach",
-        "email": "Playersjolyonsharrison@davidson.edu",
+        "name": "Joe Sheridan",
+        "title": "Pitching Coach / Recruiting Coordinator",
+        "email": "josheridan@davidson.edu",
         "phone": ""
       },
       {
@@ -7253,43 +7253,13 @@
       {
         "name": "Parker Nolan",
         "title": "Assistant Coach",
-        "email": "aiwirshing@davidson.edu",
-        "phone": ""
-      },
-      {
-        "name": "Joe Sheridan",
-        "title": "Pitching Coach / Recruiting Coordinator",
-        "email": "josheridan@davidson.edu",
+        "email": "panolan@davidson.edu",
         "phone": ""
       },
       {
         "name": "Aidan Wirshing",
         "title": "Director of Player Development",
-        "email": "panolan@davidson.edu",
-        "phone": ""
-      },
-      {
-        "name": "Elizabeth Allred",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Jacob Dean",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Justin Parker",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Support Staff",
-        "title": "",
-        "email": "",
+        "email": "aiwirshing@davidson.edu",
         "phone": ""
       }
     ]
@@ -7377,13 +7347,13 @@
         "name": "Mike Kennedy",
         "title": "Head Coach",
         "email": "kennedy@elon.edu",
-        "phone": "(336) 278-6741"
+        "phone": ""
       },
       {
         "name": "Robbie Huffstetler",
         "title": "Associate Head Coach",
         "email": "rhuffstetler@elon.edu",
-        "phone": "(336) 278-6794"
+        "phone": ""
       },
       {
         "name": "Ryan Conroy",
@@ -7394,42 +7364,6 @@
       {
         "name": "Ryder Giles",
         "title": "Assistant Coach",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Ajay Rizzo",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Anderson Muirhead",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Gray Aust",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Julie Conn",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Megan Maxwell",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Sydney Spencer",
-        "title": "",
         "email": "",
         "phone": ""
       }
@@ -8911,73 +8845,27 @@
     "coaches": [
       {
         "name": "Manny Roman",
-        "title": "",
+        "title": "Head Coach",
         "email": "",
-        "phone": "",
-        "twitter": ""
+        "phone": ""
       },
       {
         "name": "Ethan Newton",
-        "title": "",
+        "title": "Associate Head Coach",
         "email": "",
-        "phone": "",
-        "twitter": ""
+        "phone": ""
       },
       {
-        "name": "Jake  Lieberman",
-        "title": "",
+        "name": "Jake Lieberman",
+        "title": "Assistant Coach",
         "email": "",
-        "phone": "",
-        "twitter": ""
+        "phone": ""
       },
       {
         "name": "TJ Werner",
-        "title": "",
+        "title": "Assistant Coach / Pitching",
         "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "James  Loesch",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jason Young",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jaxson Reed",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Anthony Malfitano",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Franni DeSilvio",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jester  Hutchison",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "phone": ""
       }
     ]
   },
@@ -10721,73 +10609,27 @@
     "coaches": [
       {
         "name": "Jon Mueller",
-        "title": "",
+        "title": "Head Coach",
         "email": "",
-        "phone": "",
-        "twitter": ""
+        "phone": ""
       },
       {
         "name": "Jeff Kaier",
-        "title": "",
+        "title": "Associate Head Coach",
         "email": "",
-        "phone": "",
-        "twitter": ""
+        "phone": ""
       },
       {
         "name": "Wayne Jones",
-        "title": "",
+        "title": "Assistant Coach / Pitching",
         "email": "",
-        "phone": "",
-        "twitter": ""
+        "phone": ""
       },
       {
         "name": "Pierce Hendershot",
-        "title": "",
+        "title": "Assistant Coach",
         "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Leslie Moore",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Tony Tullock",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Madison Roman",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Taylor O'Connor",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Nicholas Clark",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Catie Campbell",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "phone": ""
       }
     ]
   },
@@ -13227,13 +13069,13 @@
         "name": "Jeff Mountain",
         "title": "Head Coach",
         "email": "jmountain@washjeff.edu",
-        "phone": "(724) 250-3306"
+        "phone": ""
       },
       {
         "name": "Josh Crummer",
         "title": "Assistant Coach / Hitting",
         "email": "jcrummer@washjeff.edu",
-        "phone": "724-503-1001 Ext.3006"
+        "phone": ""
       },
       {
         "name": "Rick Bubash",
@@ -13243,7 +13085,7 @@
       },
       {
         "name": "Ryan Shawley",
-        "title": "Assistant Coach / Pitching / Recruiting Coordinator",
+        "title": "Assistant Coach / Pitching / Recruiting",
         "email": "",
         "phone": ""
       },
@@ -13251,36 +13093,6 @@
         "name": "Sam Bashioum",
         "title": "Assistant Coach / Pitching",
         "email": "sbashioum@washjeff.edu",
-        "phone": ""
-      },
-      {
-        "name": "Brian Vogel",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Jack Sacco",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Jason Gregovits",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Jonathan Spina",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Tony Pascarella",
-        "title": "",
-        "email": "",
         "phone": ""
       }
     ]
@@ -13752,8 +13564,14 @@
       },
       {
         "name": "Eddie Taubensee",
-        "title": "Assistant Coach",
+        "title": "Associate Head Coach",
         "email": "",
+        "phone": ""
+      },
+      {
+        "name": "Darren Holmes",
+        "title": "Pitching Coach",
+        "email": "Darren.Holmes@ngu.edu",
         "phone": ""
       },
       {
@@ -13769,38 +13587,8 @@
         "phone": ""
       },
       {
-        "name": "Darren Holmes",
-        "title": "Pitching Coach",
-        "email": "Darren.Holmes@ngu.edu",
-        "phone": ""
-      },
-      {
         "name": "J.J. Morris",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Landon Shaw",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Levi Powell",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Reece Fields",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Zach Zarra",
-        "title": "",
+        "title": "Director of Operations",
         "email": "",
         "phone": ""
       }
@@ -14562,73 +14350,27 @@
     "coaches": [
       {
         "name": "Jerry Meyers",
-        "title": "",
+        "title": "Head Coach",
         "email": "",
-        "phone": "",
-        "twitter": ""
+        "phone": ""
       },
       {
         "name": "Kevin Nichols",
-        "title": "",
+        "title": "Associate Head Coach",
         "email": "",
-        "phone": "",
-        "twitter": ""
+        "phone": ""
       },
       {
         "name": "Ryan Huber",
-        "title": "",
+        "title": "Assistant Coach / Pitching",
         "email": "",
-        "phone": "",
-        "twitter": ""
+        "phone": ""
       },
       {
         "name": "Adam Wisniewski",
-        "title": "",
+        "title": "Assistant Coach",
         "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Chandler Todd",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Grayson Munyon",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Knox Wimberley",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Drew Hillian",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Gavin McBee",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Bailey Bush",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "phone": ""
       }
     ]
   },
@@ -15350,71 +15092,39 @@
         "name": "Jim Schlossnagle",
         "title": "Head Coach",
         "email": "baseball@athletics.tamu.edu",
-        "phone": "979-845-4809",
-        "twitter": ""
+        "phone": "",
+        "twitter": "@CoachSchloss"
       },
       {
         "name": "Michael Earley",
-        "title": "",
+        "title": "Associate Head Coach",
         "email": "",
         "phone": "",
         "twitter": "@earley_michael"
       },
       {
         "name": "Jason Kelly",
-        "title": "",
+        "title": "Assistant Coach / Pitching",
         "email": "",
-        "phone": "",
-        "twitter": ""
+        "phone": ""
       },
       {
         "name": "Cliff Pennington",
-        "title": "",
+        "title": "Assistant Coach",
         "email": "",
-        "phone": "",
-        "twitter": ""
+        "phone": ""
       },
       {
         "name": "Jason Hutchins",
-        "title": "",
+        "title": "Assistant Coach / Recruiting",
         "email": "",
-        "phone": "",
-        "twitter": ""
+        "phone": ""
       },
       {
         "name": "Troy Claunch",
-        "title": "",
+        "title": "Director of Player Development",
         "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Dylan Olsonawski",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Tanner Carlson",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Kalie Swain",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Nate Friedman",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "phone": ""
       }
     ]
   },

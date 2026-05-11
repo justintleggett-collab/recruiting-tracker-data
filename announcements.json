@@ -1,0 +1,14 @@
+{
+  "announcements": [
+    {
+      "id": "ann-001",
+      "message": "Welcome to Baseball Recruiting Tracker! New 2026 camp dates have been added for dozens of programs. Check the Events tab.",
+      "linkText": "View Camps",
+      "linkURL": "https://apps.apple.com/us/app/baseball-recruiting-tracker/id6759700686",
+      "startDate": "2026-05-11",
+      "stopDate": "2026-05-18",
+      "active": false,
+      "color": "blue"
+    }
+  ]
+}

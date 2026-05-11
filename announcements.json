@@ -7,7 +7,7 @@
       "linkURL": "https://apps.apple.com/us/app/baseball-recruiting-tracker/id6759700686",
       "startDate": "2026-05-11",
       "stopDate": "2026-05-18",
-      "active": TRUE,
+      "active": true,
       "color": "blue"
     }
   ]

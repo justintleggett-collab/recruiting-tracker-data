@@ -1,12 +1,12 @@
 {
   "announcements": [
     {
-      "id": 1,
+      "id": "ann-001",
       "message": "Test",
       "linkText": "",
       "linkURL": "",
-      "startDate": "2026-05-10",
-      "stopDate": "2026-05-12",
+      "startDate": "2026-05-12",
+      "stopDate": "2026-05-13",
       "active": true,
       "color": "blue"
     }

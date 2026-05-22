@@ -7,55 +7,36 @@
         "name": "Mike Silva",
         "title": "Head Coach",
         "email": "msilva@astate.edu",
-        "phone": "(870) 972-2700"
+        "phone": "(870) 972-2700",
+        "twitter": "@silvam2016"
       },
       {
         "name": "Chris Joblin",
-        "title": "Assistant Coach / Hitting / Recruiting Coordinator",
+        "title": "Assistant Coach / Recruiting Coordinator / Infielders / Hitting",
         "email": "cjoblin@astate.edu",
-        "phone": "(870) 972-2700"
+        "phone": "(870) 972-2700",
+        "twitter": "@Chris8Joblin"
+      },
+      {
+        "name": "Jerry Cervantez",
+        "title": "Assistant Coach / Catchers / Hitters / Outfielders",
+        "email": "gcervantez@astate.edu",
+        "phone": "(870) 972-2700",
+        "twitter": "@JCer_12"
       },
       {
         "name": "Cody Livingston",
         "title": "Assistant Coach / Pitching",
         "email": "clivingston@astate.edu",
-        "phone": "(870) 972-2700"
-      },
-      {
-        "name": "Jerry Cervantez",
-        "title": "Assistant Coach / Hitting",
-        "email": "gcervantez@astate.edu",
-        "phone": "(870) 972-2700"
+        "phone": "(870) 972-2700",
+        "twitter": "@C_Livingston1"
       },
       {
         "name": "Michael Agis",
         "title": "Director of Player Development",
         "email": "",
-        "phone": "(870) 972-2700"
-      },
-      {
-        "name": "Ryan Burt",
-        "title": "Director of Operations",
-        "email": "ryan.burt@smail.astate.edu",
-        "phone": "(870) 972-2700"
-      },
-      {
-        "name": "Cason Tollett",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Justin Perreault",
-        "title": "",
-        "email": "jperreault@astate.edu",
-        "phone": "(870) 680-8311"
-      },
-      {
-        "name": "Zach Arn",
-        "title": "",
-        "email": "zarn@astate.edu",
-        "phone": "(870) 972-2700"
+        "phone": "(870) 972-2700",
+        "twitter": "@CoachAgis"
       }
     ]
   },
@@ -1565,65 +1546,37 @@
       {
         "name": "Kevin O'Sullivan",
         "title": "Head Coach",
-        "email": "baseballrecruiting@uaa.ufl.edu",
-        "phone": "352-375-4683",
-        "twitter": "@GatorsBB"
-      },
-      {
-        "name": "Kevin O'Sullivan",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "email": "baseballmail@gators.ufl.edu",
+        "phone": "(352) 375-4683 ext. 4457",
         "twitter": ""
       },
       {
-        "name": "Tom  Slater",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "name": "Tom Slater",
+        "title": "Associate Head Coach",
+        "email": "baseballmail@gators.ufl.edu",
+        "phone": "(352) 375-4683 ext. 4457",
         "twitter": ""
       },
       {
         "name": "Taylor Black",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "title": "Assistant Coach",
+        "email": "baseballmail@gators.ufl.edu",
+        "phone": "(352) 375-4683 ext. 4457",
+        "twitter": "@JT_Black5"
       },
       {
         "name": "David Kopp",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Michael Byrne",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "title": "Pitching Coach",
+        "email": "baseballmail@gators.ufl.edu",
+        "phone": "(352) 375-4683 ext. 4457",
+        "twitter": "@davidkopp_"
       },
       {
         "name": "Mike Rivera",
-        "title": "",
+        "title": "Director of Player Development",
         "email": "",
         "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Shawn Burke",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Buddy Munroe",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "twitter": "@MikeWillRiv4"
       }
     ]
   },
@@ -2495,59 +2448,39 @@
     "schoolName": "Northwestern University",
     "coaches": [
       {
-        "name": "Jim Foster",
-        "title": "Head Coach",
-        "email": "jim.foster@northwestern.edu",
-        "phone": "847-491-4653",
-        "twitter": ""
-      },
-      {
         "name": "Ben Greenspan",
-        "title": "Assistant Coach",
-        "email": "tyler.rost@northwestern.edu",
-        "phone": ""
+        "title": "Head Coach",
+        "email": "",
+        "phone": "(847) 491-4652",
+        "twitter": "@bengreenspan22"
       },
       {
-        "name": "Cody Jefferis",
-        "title": "Assistant Coach",
-        "email": "codyjeff@northwestern.edu",
-        "phone": ""
+        "name": "Tyler Rost",
+        "title": "Recruiting Coordinator / Hitting Coach",
+        "email": "tyler.rost@northwestern.edu",
+        "phone": "(847) 491-4652",
+        "twitter": "@T_Rost12"
       },
       {
         "name": "Ben Keizer",
         "title": "Pitching Coach",
         "email": "bkeizer@northwestern.edu",
-        "phone": ""
+        "phone": "(847) 491-4652",
+        "twitter": "@b_keizer"
       },
       {
-        "name": "Tyler Rost",
-        "title": "Hitting Coach",
-        "email": "tyler.rost@northwestern.edu",
-        "phone": ""
-      },
-      {
-        "name": "Kristen Mostrom",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Support Staff",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Tim Kinahan",
-        "title": "",
-        "email": "",
-        "phone": ""
+        "name": "Cody Jefferis",
+        "title": "Assistant Coach",
+        "email": "codyjeff@northwestern.edu",
+        "phone": "(847) 491-4652",
+        "twitter": "@CodyJefferis"
       },
       {
         "name": "Tito Flores",
-        "title": "",
-        "email": "",
-        "phone": ""
+        "title": "Director of Baseball Operations",
+        "email": "tito.flores@northwestern.edu",
+        "phone": "(847) 491-4652",
+        "twitter": "@TitoFlores24"
       }
     ]
   },
@@ -4024,63 +3957,35 @@
     "coaches": [
       {
         "name": "Dizzy Peyton",
-        "title": "",
-        "email": "",
+        "title": "Head Baseball Coach",
+        "email": "nkubaseball@nku.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@DizzyPeyton_NKU"
       },
       {
         "name": "Steve Dintaman",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "title": "Associate Head Baseball Coach / Recruiting Coordinator",
+        "email": "nkubaseball@nku.edu",
+        "phone": "(859) 572-5940",
+        "twitter": "@CoachDintz41"
       },
       {
         "name": "Drew Klaserner",
-        "title": "",
+        "title": "Assistant Baseball Coach",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@klaserner"
       },
       {
         "name": "Joey Perkins",
-        "title": "",
+        "title": "Assistant Baseball Coach / Pitching Coach",
         "email": "",
         "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Ryan Mavriplis",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "twitter": "@perk_45"
       },
       {
         "name": "Bob Runyan",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Nate Sallee",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Meghan Koch",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Britney Woodhull-Smith",
-        "title": "",
+        "title": "Director of Baseball Operations",
         "email": "",
         "phone": "",
         "twitter": ""
@@ -5375,66 +5280,52 @@
     "coaches": [
       {
         "name": "Trevor Beerman",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "title": "Interim Head Coach",
+        "email": "tbeerma1@emich.edu",
+        "phone": "734.487.0315",
+        "twitter": "@BeermanTrevor"
       },
       {
         "name": "Seth Caddell",
-        "title": "",
-        "email": "",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "scaddel3@emich.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@CaddellSeth"
       },
       {
         "name": "Andrew DiTullio",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "title": "Assistant Coach / Offense",
+        "email": "aditulli@emich.edu",
+        "phone": "734.487.8660",
+        "twitter": "@AndrewDiTullio"
       },
       {
         "name": "Harrison Travis",
-        "title": "",
-        "email": "",
+        "title": "Assistant Coach / Hitting",
+        "email": "wtravis1@emich.edu",
         "phone": "",
         "twitter": ""
       },
       {
         "name": "Brody Ware",
-        "title": "",
-        "email": "",
+        "title": "Director of Pitching Development",
+        "email": "brodyware2@gmail.com",
         "phone": "",
-        "twitter": ""
+        "twitter": "@brodyware"
       },
       {
         "name": "Tyler Kotila",
-        "title": "",
+        "title": "Director of Recruiting / Camp Coordinator",
         "email": "",
         "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Drew Barringer",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "twitter": "@tyler_kotila"
       },
       {
         "name": "Mitch Nearhood",
-        "title": "",
+        "title": "Director of Baseball Operations",
         "email": "",
         "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Cade Bianchi",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "twitter": "@MitchNearhood"
       }
     ]
   },
@@ -6775,56 +6666,56 @@
       {
         "name": "Kerrick Jackson",
         "title": "Head Coach",
-        "email": "jacksonkerrick@missouri.edu",
-        "phone": "573-882-0721"
+        "email": "baseball@missouri.edu",
+        "phone": "",
+        "twitter": "@Im_That_Dad_KJ"
       },
       {
         "name": "Bryson LeBlanc",
         "title": "Assistant Coach",
         "email": "bjlf22@missouri.edu",
-        "phone": ""
+        "phone": "",
+        "twitter": "@TheSilentCee"
       },
       {
         "name": "Drew Dickinson",
         "title": "Assistant Coach",
         "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@drudown1414"
       },
       {
         "name": "Jabari Brown",
         "title": "Assistant Coach",
         "email": "jbrzk@missouri.edu",
-        "phone": ""
-      },
-      {
-        "name": "Anthony Hansen",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Austin Grigsby",
-        "title": "",
-        "email": "",
-        "phone": ""
+        "phone": "",
+        "twitter": "@Coach_Jay__"
       },
       {
         "name": "Jose Carballo",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Nick Parker",
-        "title": "",
-        "email": "",
+        "title": "Director of Recruiting and Operations",
+        "email": "carballoj@missouri.edu",
         "phone": ""
       },
       {
         "name": "Tim Jamieson",
-        "title": "",
-        "email": "",
+        "title": "Director of Program Development",
+        "email": "jamiesont@missouri.edu",
         "phone": ""
+      },
+      {
+        "name": "Anthony Hansen",
+        "title": "Director of Player Personnel",
+        "email": "a.hansen@mail.missouri.edu",
+        "phone": "",
+        "twitter": "@Anthonyhansen_"
+      },
+      {
+        "name": "Nick Parker",
+        "title": "Director of Pitching Performance",
+        "email": "",
+        "phone": "",
+        "twitter": "@NickjParker99"
       }
     ]
   },
@@ -7566,55 +7457,21 @@
         "name": "Adam Skonieczki",
         "title": "Head Coach",
         "email": "adam.skonieczki@lr.edu",
-        "phone": "(828) 328-7136"
+        "phone": "(828) 328-7136",
+        "twitter": "@CoachSkoneck"
       },
       {
-        "name": "Bryan Hodge",
-        "title": "Assistant Coach / Recruiting Coordinator",
-        "email": "Bryan.Hodge@lr.edu",
-        "phone": "(828) 328-7136"
-      },
-      {
-        "name": "Micah Assistant Coach / Pitching Coach",
-        "title": "Assistant Coach / Pitching",
+        "name": "Micah Baumfeld",
+        "title": "Associate Head Coach",
         "email": "micah.baumfeld@lr.edu",
         "phone": ""
       },
       {
         "name": "Blake Bean",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Brian Coleman",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Brock Hudgens",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Micah Baumfeld",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Michael Allen",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Owen Blackledge",
-        "title": "",
-        "email": "",
-        "phone": ""
+        "title": "Assistant Coach",
+        "email": "Blake.Bean2@lr.edu",
+        "phone": "",
+        "twitter": "@blake_bean_"
       }
     ]
   },
@@ -8112,55 +7969,29 @@
         "name": "Randy Hood",
         "title": "Head Coach",
         "email": "hoodr@uncw.edu",
-        "phone": "(910) 962-3793"
+        "phone": "(910) 962-3793",
+        "twitter": "@CoachHood17"
       },
       {
         "name": "Chris Moore",
         "title": "Assistant Coach",
         "email": "moorecg@uncw.edu",
-        "phone": "(910) 962-3570"
-      },
-      {
-        "name": "Josh Stott",
-        "title": "Assistant Coach",
-        "email": "stottp@uncw.edu",
-        "phone": "(910) 962-7649"
+        "phone": "(910) 962-3570",
+        "twitter": "@ChrisGMoore9"
       },
       {
         "name": "Kelly Secrest",
         "title": "Assistant Coach",
         "email": "secrestk@uncw.edu",
-        "phone": "(910) 962-2528"
+        "phone": "(910) 962-2528",
+        "twitter": "@ksecrest13"
       },
       {
-        "name": "Alex O'Brien",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Brad Moore",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Maggie Tabone",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Taber Mongero",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Tyler Hott",
-        "title": "",
-        "email": "",
-        "phone": ""
+        "name": "Josh Stott",
+        "title": "Assistant Coach",
+        "email": "stottp@uncw.edu",
+        "phone": "(910) 962-7649",
+        "twitter": "@pjosh235"
       }
     ]
   },
@@ -8299,66 +8130,31 @@
     "coaches": [
       {
         "name": "Alan Beck",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "title": "Head Coach",
+        "email": "acbeck@email.wcu.edu",
+        "phone": "(828) 227-2021",
+        "twitter": "@CoachBeck24"
       },
       {
         "name": "Jeff Korte",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "jkorte@email.wcu.edu",
+        "phone": "(828) 227-2510",
+        "twitter": "@jkorte5"
       },
       {
         "name": "Dusty White",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "title": "Assistant Coach / Pitching Coach",
+        "email": "ddwhite@email.wcu.edu",
+        "phone": "(828) 227-2022",
+        "twitter": "@ddwhite42"
       },
       {
         "name": "Seth Graves",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Nate Stocum",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Gavin Mortenson",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Drew Wahrmund",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Joseph Gibbs",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Laney Snyder",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "title": "Assistant Baseball Coach",
+        "email": "sgraves@email.wcu.edu",
+        "phone": "(828) 227-2022",
+        "twitter": "@SethGraves_7"
       }
     ]
   },
@@ -16178,61 +15974,41 @@
       {
         "name": "Mik Aoki",
         "title": "Head Coach",
-        "email": "Aokimik.aoki@richmond.edu",
-        "phone": ""
-      },
-      {
-        "name": "Collin Radack",
-        "title": "Assistant Coach",
-        "email": "cradack@richmond.edu",
-        "phone": ""
+        "email": "mik.aoki@richmond.edu",
+        "phone": "",
+        "twitter": "@MikAoki03"
       },
       {
         "name": "Josh Epstein",
-        "title": "Assistant Coach",
+        "title": "Assistant Coach / Pitching Coach",
         "email": "jepstein@richmond.edu",
-        "phone": ""
+        "phone": "",
+        "twitter": "@JoshEpstein22"
       },
       {
         "name": "Kyle Norman",
         "title": "Assistant Coach",
         "email": "kyle.norman@richmond.edu",
+        "phone": "",
+        "twitter": "@Kyle_Norman4"
+      },
+      {
+        "name": "Collin Radack",
+        "title": "Assistant Coach / Hitting Coach",
+        "email": "cradack@richmond.edu",
+        "phone": "",
+        "twitter": "@collinradack"
+      },
+      {
+        "name": "Matthew Clark",
+        "title": "Director of Baseball Operations",
+        "email": "matthew.clark@richmond.edu",
         "phone": ""
       },
       {
         "name": "Dan Galef",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Eli Goldman",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Ethan Bender",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Matthew Clark",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Rudy Morrow",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Support Staff",
-        "title": "",
-        "email": "",
+        "title": "Director of Pitching Development",
+        "email": "dan.galef@richmond.edu",
         "phone": ""
       }
     ]
@@ -17316,71 +17092,43 @@
     "coaches": [
       {
         "name": "Tony David",
-        "title": "",
-        "email": "",
+        "title": "Head Coach",
+        "email": "tgdavid@samford.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@tdavid_4"
       },
       {
         "name": "Tyler Shrout",
-        "title": "",
-        "email": "",
+        "title": "Associate Head Coach (Pitching) / Recruiting Coordinator",
+        "email": "tshrout@samford.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@CoachShrout"
       },
       {
         "name": "Gil Walker",
-        "title": "",
-        "email": "",
+        "title": "Assistant Coach",
+        "email": "rwalker2@samford.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@CoachGilWalker"
       },
       {
-        "name": "Branden  Fryman",
-        "title": "",
-        "email": "",
+        "name": "Branden Fryman",
+        "title": "Assistant Coach",
+        "email": "bfryman@samford.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@BFryman"
       },
       {
         "name": "Samuel Witherspoon",
-        "title": "",
-        "email": "",
+        "title": "Director of Player Development/Operations",
+        "email": "swithers@samford.edu",
         "phone": "",
         "twitter": ""
       },
       {
         "name": "C.J. Whaley",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Angela  Talaganis",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "John Kennington",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Dylan Harris",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Brayden Urban",
-        "title": "",
-        "email": "",
+        "title": "Director of Pitching Development & Analytics",
+        "email": "cwhaley@samford.edu",
         "phone": "",
         "twitter": ""
       }
@@ -18388,71 +18136,43 @@
     "coaches": [
       {
         "name": "Ben Orloff",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "@BenOrloff"
+        "title": "Head Coach",
+        "email": "borloff@uci.edu",
+        "phone": "(949) 824-6033",
+        "twitter": ""
       },
       {
         "name": "Daniel Bibona",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "@CoachBibona"
+        "title": "Assistant Coach",
+        "email": "dbibona@uci.edu",
+        "phone": "(949) 824-1154",
+        "twitter": ""
       },
       {
         "name": "J.T. Bloodworth",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "title": "Assistant Coach",
+        "email": "jbloodwo@uci.edu",
+        "phone": "(214) 762-9450",
+        "twitter": "@CoachBlood_"
       },
       {
         "name": "Ryan Johnston",
-        "title": "",
-        "email": "",
+        "title": "Volunteer Assistant Coach",
+        "email": "rjohnst1@uci.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@johnstonryan502"
       },
       {
         "name": "Erich Pfohl",
-        "title": "",
-        "email": "",
+        "title": "Director of Operations",
+        "email": "epfohl@uci.edu",
         "phone": "",
         "twitter": ""
       },
       {
         "name": "CJ Yogi",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Justin  Hostert",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "James Yogi",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Joshua Yogi",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Austin Ortiz",
-        "title": "",
-        "email": "",
+        "title": "Director of Player Development",
+        "email": "cyogi@uci.edu",
         "phone": "",
         "twitter": ""
       }
@@ -19008,71 +18728,43 @@
     "coaches": [
       {
         "name": "Tommy Nicholson",
-        "title": "",
-        "email": "",
+        "title": "Head Coach",
+        "email": "tnicholson@ucdavis.edu",
         "phone": "",
         "twitter": ""
       },
       {
         "name": "Andrew Ayers",
-        "title": "",
-        "email": "",
+        "title": "Assistant Coach",
+        "email": "agayers@ucdavis.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@aayers18"
       },
       {
         "name": "Zack Thornton",
-        "title": "",
-        "email": "",
+        "title": "Pitching Coach",
+        "email": "zjthornton@ucdavis.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@thorty20"
       },
       {
         "name": "Sky Valenzuela",
-        "title": "",
-        "email": "",
+        "title": "Assistant Coach",
+        "email": "srkvalenzuela@ucdavis.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@dalimit808"
       },
       {
         "name": "Earl Caruthers",
-        "title": "",
+        "title": "Director of Player Development and Analytics",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@EarlCaruthers"
       },
       {
         "name": "Leticia Valenzuela",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Jacob Boi",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Sam Zavod",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Shotaro Hamada",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Kendall Cuellar",
-        "title": "",
-        "email": "",
+        "title": "Director of Baseball Operations",
+        "email": "ldcisneros@ucdavis.edu",
         "phone": "",
         "twitter": ""
       }
@@ -20671,71 +20363,43 @@
     "coaches": [
       {
         "name": "Craig Gibson",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "title": "Head Coach",
+        "email": "gibson_c@mercer.edu",
+        "phone": "(478) 301-2396",
+        "twitter": "@CraigGibson_MU"
       },
       {
         "name": "Willie Stewart",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "title": "Assistant Coach",
+        "email": "stewart_wj@mercer.edu",
+        "phone": "(478) 301-2738",
+        "twitter": "@wstewart49"
       },
       {
         "name": "Matt Williams",
-        "title": "",
-        "email": "",
+        "title": "Assistant Coach",
+        "email": "williams_m02@mercer.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@mattyhustle986"
       },
       {
         "name": "Kade McClure",
-        "title": "",
-        "email": "",
+        "title": "Pitching Coach",
+        "email": "mcclure_kr@mercer.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@kademcc"
       },
       {
         "name": "Hannah Knight",
-        "title": "",
-        "email": "",
+        "title": "Director of Baseball Operations",
+        "email": "hannah.elizabeth.knight@live.mercer.edu",
         "phone": "",
         "twitter": ""
       },
       {
-        "name": "Garrett  Kemp",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Katie Feller",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Andrew McMurry",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Brad Dunn",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Rylee Bamberger",
-        "title": "",
-        "email": "",
+        "name": "Garrett Kemp",
+        "title": "Director of Analytics",
+        "email": "Garrett.Matthew.Kemp@live.mercer.edu",
         "phone": "",
         "twitter": ""
       }
@@ -22007,70 +21671,35 @@
     "coaches": [
       {
         "name": "Sean Callahan",
-        "title": "",
-        "email": "",
+        "title": "Head Coach",
+        "email": "scallahanmont@stonehill.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@scallahan25"
       },
       {
         "name": "Zack Sultar",
-        "title": "",
-        "email": "",
+        "title": "Pitching Coach / Recruiting Coordinator",
+        "email": "zsultar@stonehill.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@zsultar7"
       },
       {
         "name": "Kevin Higgins",
-        "title": "",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": ""
       },
       {
         "name": "Nick Morreale",
-        "title": "",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": ""
       },
       {
         "name": "Justin Gordon",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Max Brulport",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Brendan Driscoll",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Cian Hamell-Kelleher",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Noah Lacey",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Will Vermette",
-        "title": "",
+        "title": "Director of Pitching Development",
         "email": "",
         "phone": "",
         "twitter": ""
@@ -23906,71 +23535,43 @@
     "coaches": [
       {
         "name": "Jordan Getzelman",
-        "title": "",
-        "email": "",
+        "title": "Head Coach",
+        "email": "baseball@unr.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@JordanGetzelman"
       },
       {
         "name": "Mark Moriarty",
-        "title": "",
-        "email": "",
+        "title": "Associate Head Coach / Pitching Coach",
+        "email": "baseball@unr.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@MarkMo12"
       },
       {
         "name": "Noah Shackles",
-        "title": "",
-        "email": "",
+        "title": "Recruiting Coordinator",
+        "email": "baseball@unr.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "@22shacks"
       },
       {
         "name": "Owen Sharts",
-        "title": "",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "@o_sharts"
       },
       {
         "name": "McKinley Gerard",
-        "title": "",
-        "email": "",
+        "title": "Director of Operations",
+        "email": "mgerard@unr.edu",
         "phone": "",
         "twitter": ""
       },
       {
         "name": "Henry Strmecki",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Victoria Rollins",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Ronnie Lopez",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Amanda Flores",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Aaron Juarez",
-        "title": "",
-        "email": "",
+        "title": "Director of Hitting Development",
+        "email": "baseball@unr.edu",
         "phone": "",
         "twitter": ""
       }

@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "version": 1,
+    "lastUpdated": "2026-06-04",
+    "description": "Baseball Recruiting Tracker — Coaching Change Log"
+  },
+  "changes": [
+    {
+      "id": "CC-2026-001",
+      "schoolId": "",
+      "schoolName": "",
+      "division": "",
+      "conference": "",
+      "coachFirstName": "",
+      "coachLastName": "",
+      "role": "",
+      "changeType": "",
+      "priority": "",
+      "effectiveDate": "",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "",
+      "isVerified": false,
+      "isMidSeason": false,
+      "createdAt": "2026-06-04"
+    }
+  ]
+}

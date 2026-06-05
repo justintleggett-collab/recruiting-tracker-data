@@ -7583,15 +7583,8 @@
     "schoolName": "North Carolina State University",
     "coaches": [
       {
-        "name": "Elliott Avent",
-        "title": "Head Coach",
-        "email": "eavent@ncsu.edu",
-        "phone": "919-515-3614",
-        "twitter": "@Elliott_Avent"
-      },
-      {
         "name": "Chris Hart",
-        "title": "Associate Head Coach",
+        "title": "Head Coach",
         "email": "cjhart@ncsu.edu",
         "phone": "(919) 515-3613"
       },

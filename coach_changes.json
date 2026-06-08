@@ -1,14 +1,14 @@
 {
   "metadata": {
-    "version": 2,
-    "lastUpdated": "2026-06-04",
+    "version": 3,
+    "lastUpdated": "2026-06-07",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
   "changes": [
     {
       "id": "CC-2026-001",
-      "schoolId": "nc-state",
-      "schoolName": "NC State University",
+      "schoolId": "NC-north-carolina-state-university",
+      "schoolName": "North Carolina State University",
       "division": "D1",
       "conference": "ACC",
       "coachFirstName": "Elliott",
@@ -26,8 +26,8 @@
     },
     {
       "id": "CC-2026-002",
-      "schoolId": "nc-state",
-      "schoolName": "NC State University",
+      "schoolId": "NC-north-carolina-state-university",
+      "schoolName": "North Carolina State University",
       "division": "D1",
       "conference": "ACC",
       "coachFirstName": "Chris",

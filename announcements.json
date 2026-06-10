@@ -2,11 +2,11 @@
   "announcements": [
     {
       "id": "ann-001",
-      "message": "Test",
-      "linkText": "",
-      "linkURL": "",
-      "startDate": "2026-05-11",
-      "stopDate": "2026-05-13",
+      "message": "College Transfer Portal - Beta Testing",
+      "linkText": "Signup Now",
+      "linkURL": "mailto:support@baseballrecruitingtracker.com",
+      "startDate": "2026-06-10",
+      "stopDate": "2026-06-16",
       "active": true,
       "color": "blue"
     }

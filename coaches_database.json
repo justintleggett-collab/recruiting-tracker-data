@@ -15723,56 +15723,21 @@
     "coaches": [
       {
         "name": "Alex Guerra",
-        "title": "",
+        "title": "Head Coach",
         "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Brandon Romans",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "phone": "(540) 831-5881",
+        "twitter": "@AGBaseball9"
       },
       {
         "name": "Christian Bourne",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Brandon Nania",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "title": "Assistant Coach",
+        "email": "cbourne@radford.edu",
+        "phone": "(540) 831-6513",
+        "twitter": "@wcbourne"
       },
       {
         "name": "Scott Rouse",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "John Shifflett",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Dajah Berger",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Matthew Maldonado",
-        "title": "",
+        "title": "Director of Player Development",
         "email": "",
         "phone": "",
         "twitter": ""
@@ -15993,30 +15958,37 @@
     "schoolName": "University of Virginia",
     "coaches": [
       {
-        "name": "Matt Pollard",
+        "name": "Chris Pollard",
         "title": "Head Coach",
-        "email": "mp3qs@virginia.edu",
-        "phone": "434-982-5100",
-        "twitter": ""
+        "email": "",
+        "phone": "",
+        "twitter": "@coachchris14"
       },
       {
-        "name": "Kevin McMullan",
-        "title": "Associate Head Coach",
-        "email": "kmcmullan@virginia.edu",
+        "name": "Brady Kirkpatrick",
+        "title": "Pitching Coach",
+        "email": "",
         "phone": "",
         "twitter": ""
       },
       {
-        "name": "Drew Dickinson",
-        "title": "Assistant Coach (Pitching)",
-        "email": "ddickinson@virginia.edu",
+        "name": "Derek Simmons",
+        "title": "Recruiting Coordinator / Infielders",
+        "email": "",
         "phone": "",
         "twitter": ""
       },
       {
-        "name": "John Hicks",
-        "title": "Assistant Coach",
-        "email": "jhicks@virginia.edu",
+        "name": "Eric Tyler",
+        "title": "Recruiting Coordinator / Hitting Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
+        "name": "Brian Sakowski",
+        "title": "Director of Recruiting",
+        "email": "",
         "phone": "",
         "twitter": ""
       }

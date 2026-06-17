@@ -301,13 +301,6 @@
     "schoolName": "University of Maryland, Baltimore County",
     "coaches": [
       {
-        "name": "Liam Bowen",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Phil Disher",
         "title": "",
         "email": "",
@@ -1022,21 +1015,7 @@
     "schoolName": "Florida International University",
     "coaches": [
       {
-        "name": "Rich  Witten",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Brian Jeroloman",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Karsten Whitson",
         "title": "",
         "email": "",
         "phone": "",
@@ -1066,6 +1045,20 @@
       {
         "name": "Kevin Martin",
         "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
+        "name": "Juan Alvarez",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
+        "name": "Pedro Grifol",
+        "title": "Head Coach",
         "email": "",
         "phone": "",
         "twitter": ""
@@ -4152,6 +4145,13 @@
         "title": "Assistant Coach",
         "email": "745-5775tyler.herbst@wku.edu",
         "phone": "(270) 745-5775"
+      },
+      {
+        "name": "Michael Mendoza",
+        "title": "Associate Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
       }
     ]
   },
@@ -4382,13 +4382,6 @@
     "coaches": [
       {
         "name": "Andrew Gipson",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Mike  Mendoza",
         "title": "",
         "email": "",
         "phone": "",
@@ -4937,12 +4930,6 @@
     "schoolName": "Towson University",
     "coaches": [
       {
-        "name": "Matt Tyner",
-        "title": "Head Coach",
-        "email": "mtyner@towson.edu",
-        "phone": ""
-      },
-      {
         "name": "Mike Ruppenthal",
         "title": "Associate Head Coach",
         "email": "mruppenthal@towson.edu",
@@ -4959,6 +4946,13 @@
         "title": "Assistant Coach",
         "email": "javina@towson.edu",
         "phone": ""
+      },
+      {
+        "name": "Liam Bowen",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
       }
     ]
   },
@@ -5036,12 +5030,6 @@
     "schoolID": "MD-university-of-maryland-eastern-shore",
     "schoolName": "University of Maryland Eastern Shore",
     "coaches": [
-      {
-        "name": "Danny Acosta",
-        "title": "Head Coach",
-        "email": "dacostalaureano@umes.edu",
-        "phone": ""
-      },
       {
         "name": "JD Mundy",
         "title": "Assistant Coach",
@@ -5266,9 +5254,9 @@
     "coaches": [
       {
         "name": "Trevor Beerman",
-        "title": "Interim Head Coach",
-        "email": "tbeerma1@emich.edu",
-        "phone": "734.487.0315",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
         "twitter": "@BeermanTrevor"
       },
       {
@@ -6702,6 +6690,13 @@
         "email": "",
         "phone": "",
         "twitter": "@NickjParker99"
+      },
+      {
+        "name": "Brandon Van Horn",
+        "title": "Hitting Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
       }
     ]
   },
@@ -7739,15 +7734,9 @@
     "schoolName": "Queens University of Charlotte",
     "coaches": [
       {
-        "name": "Jake Hendrick",
-        "title": "Head Coach",
-        "email": "hendrickj@queens.edu",
-        "phone": ""
-      },
-      {
         "name": "James Cullinane",
-        "title": "Associate Head Coach",
-        "email": "cullinanej@queens.edu",
+        "title": "Head Coach",
+        "email": "",
         "phone": ""
       },
       {
@@ -8430,12 +8419,6 @@
         "phone": ""
       },
       {
-        "name": "Evan Porter",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
         "name": "Michael Bradshaw",
         "title": "",
         "email": "",
@@ -8450,6 +8433,13 @@
       {
         "name": "Jeff Calhoon",
         "title": "Hitting Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
+        "name": "Rob Fournier",
+        "title": "Head Coach",
         "email": "",
         "phone": "",
         "twitter": ""
@@ -8822,13 +8812,6 @@
     "schoolID": "NJ-princeton-university",
     "schoolName": "Princeton University",
     "coaches": [
-      {
-        "name": "Scott Bradley",
-        "title": "Head Coach",
-        "email": "Baseball609-258-5059tigerbaseball@princeton.edu",
-        "phone": "(609) 258-5059",
-        "twitter": "@TigerBaseball"
-      },
       {
         "name": "Joe Haumacher",
         "title": "Assistant Coach",
@@ -13059,6 +13042,20 @@
         "email": "",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Jake Gautreau",
+        "title": "Hitting Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
+        "name": "Matt Reida",
+        "title": "Recruiting Coordinator",
+        "email": "",
+        "phone": "",
+        "twitter": ""
       }
     ]
   },
@@ -15001,6 +14998,13 @@
         "email": "",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Rick Guarno",
+        "title": "Hitting Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
       }
     ]
   },
@@ -15070,13 +15074,6 @@
     "schoolName": "University of Houston",
     "coaches": [
       {
-        "name": "Todd Whitting",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Matt Reida",
         "title": "",
         "email": "",
@@ -15121,6 +15118,13 @@
       {
         "name": "Jason Burger",
         "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
+        "name": "Will Davis",
+        "title": "Head Coach",
         "email": "",
         "phone": "",
         "twitter": ""
@@ -17025,10 +17029,24 @@
     "schoolName": "Jacksonville State University",
     "coaches": [
       {
-        "name": "Steve Bieser",
+        "name": "Anthony Izzio",
+        "title": "Recruiting Coordinator",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
+        "name": "Danny Lynch",
+        "title": "Hitting Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
+        "name": "Travis Creel",
         "title": "Head Coach",
-        "email": "sbieser@jsu.edu",
-        "phone": "256-782-5367",
+        "email": "",
+        "phone": "",
         "twitter": ""
       }
     ]
@@ -17657,13 +17675,6 @@
     "schoolName": "Grand Canyon University",
     "coaches": [
       {
-        "name": "Gregg Wallis",
-        "title": "Head Coach",
-        "email": "gregg.wallis@gcu.edu",
-        "phone": "",
-        "twitter": "@GCU_Baseball"
-      },
-      {
         "name": "Nate Causey",
         "title": "Assistant Coach",
         "email": "nathaniel.causey@gcu.edu",
@@ -17711,6 +17722,20 @@
         "title": "",
         "email": "",
         "phone": ""
+      },
+      {
+        "name": "Travis Fitta",
+        "title": "Hitting Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
+        "name": "Steve Bieser",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
       }
     ]
   },
@@ -17891,6 +17916,13 @@
         "title": "Director of Player Development",
         "email": "",
         "phone": ""
+      },
+      {
+        "name": "Keith Zuniga",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
       }
     ]
   },
@@ -18370,6 +18402,13 @@
         "email": "",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Ari Adut",
+        "title": "Hitting Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
       }
     ]
   },
@@ -18567,12 +18606,6 @@
       },
       {
         "name": "Chaneng Varela",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
-        "name": "Justin Johnson",
         "title": "",
         "email": "",
         "phone": ""
@@ -18860,7 +18893,7 @@
       },
       {
         "name": "Cameron Rowland",
-        "title": "",
+        "title": "Pitching Coach",
         "email": "",
         "phone": "",
         "twitter": ""
@@ -21423,12 +21456,6 @@
     "schoolName": "Merrimack College",
     "coaches": [
       {
-        "name": "Brian Murphy",
-        "title": "",
-        "email": "",
-        "phone": ""
-      },
-      {
         "name": "Chris Carmain",
         "title": "",
         "email": "",
@@ -21532,7 +21559,7 @@
       },
       {
         "name": "Max Weir",
-        "title": "",
+        "title": "Head Coach",
         "email": "",
         "phone": ""
       },
@@ -22873,13 +22900,6 @@
         "twitter": "@Oz_SouthernMiss"
       },
       {
-        "name": "Travis Creel",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "@creel_travis"
-      },
-      {
         "name": "Ladd Rhodes",
         "title": "",
         "email": "",
@@ -23488,13 +23508,6 @@
         "twitter": "@JordanGetzelman"
       },
       {
-        "name": "Mark Moriarty",
-        "title": "Associate Head Coach / Pitching Coach",
-        "email": "baseball@unr.edu",
-        "phone": "",
-        "twitter": "@MarkMo12"
-      },
-      {
         "name": "Noah Shackles",
         "title": "Recruiting Coordinator",
         "email": "baseball@unr.edu",
@@ -23528,13 +23541,6 @@
     "schoolID": "NV-university-of-nevada-las-vegas-unlv",
     "schoolName": "University of Nevada, Las Vegas (UNLV)",
     "coaches": [
-      {
-        "name": "Stan Stolte",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
       {
         "name": "Cory Vanderhook",
         "title": "",
@@ -23580,6 +23586,13 @@
       {
         "name": "Dallas Burriesci",
         "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
+        "name": "Nick Garritano",
+        "title": "Head Coach",
         "email": "",
         "phone": "",
         "twitter": ""
@@ -25654,6 +25667,13 @@
         "email": "lsudbro1@sbu.edu",
         "phone": "716-375-2641",
         "twitter": ""
+      },
+      {
+        "name": "Noah Baughman",
+        "title": "Hitting Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
       }
     ]
   },
@@ -25779,13 +25799,6 @@
     "schoolName": "Lamar University",
     "coaches": [
       {
-        "name": "Will Davis",
-        "title": "Head Coach",
-        "email": "will.davis@lamar.edu",
-        "phone": "409-880-8329",
-        "twitter": ""
-      },
-      {
         "name": "Chase Lummus",
         "title": "Pitching Coach",
         "email": "",
@@ -25795,6 +25808,13 @@
       {
         "name": "Kyle Cheesebrough",
         "title": "Recruiting Coordinator",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
+        "name": "Sean Allen",
+        "title": "Head Coach",
         "email": "",
         "phone": "",
         "twitter": ""

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 8,
+    "version": 9,
     "lastUpdated": "2026-06-18",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1137,6 +1137,23 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-18"
+    },
+    {
+      "id": "aMPCY6rCoRkJsnRhEXTb",
+      "schoolId": "NC-east-carolina-university",
+      "schoolName": "East Carolina University",
+      "coachFirstName": "Austin",
+      "coachLastName": "Knight",
+      "role": "Pitching Coach",
+      "changeType": "departure",
+      "priority": "standard",
+      "effectiveDate": "2026-06-18",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: isActive changed",
       "isVerified": true,
       "isMidSeason": true,
       "createdAt": "2026-06-18"

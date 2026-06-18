@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "version": 6,
-    "lastUpdated": "2026-06-17",
-    "description": "Baseball Recruiting Tracker \u2014 Coaching Change Log"
+    "version": 7,
+    "lastUpdated": "2026-06-18",
+    "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
   "changes": [
     {
@@ -1106,6 +1106,23 @@
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-06-17"
+    },
+    {
+      "id": "N8qCw0Zdky0KmutBtS4i",
+      "schoolId": "NC-north-carolina-state-university",
+      "schoolName": "North Carolina State University",
+      "coachFirstName": "Taylor",
+      "coachLastName": "Black",
+      "role": "Recruiting Coordinator",
+      "changeType": "promotion",
+      "priority": "high",
+      "effectiveDate": "2026-06-18",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-18"
     }
   ]
 }

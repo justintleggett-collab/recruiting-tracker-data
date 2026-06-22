@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": 9,
-    "lastUpdated": "2026-06-18",
+    "version": 10,
+    "lastUpdated": "2026-06-22",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
   "changes": [
@@ -1157,6 +1157,23 @@
       "isVerified": true,
       "isMidSeason": true,
       "createdAt": "2026-06-18"
+    },
+    {
+      "id": "TkJtJ0jU8nC4LyfmPDLA",
+      "schoolId": "NC-belmont-abbey-college",
+      "schoolName": "Belmont Abbey College",
+      "coachFirstName": "Jeff",
+      "coachLastName": "May",
+      "role": "Pitching Coach",
+      "changeType": "promotion",
+      "priority": "standard",
+      "effectiveDate": "2026-06-22",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-22"
     }
   ]
 }

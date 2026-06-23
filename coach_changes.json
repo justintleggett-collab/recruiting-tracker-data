@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": 10,
-    "lastUpdated": "2026-06-22",
+    "version": 11,
+    "lastUpdated": "2026-06-23",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
   "changes": [
@@ -1174,6 +1174,23 @@
       "isVerified": true,
       "isMidSeason": true,
       "createdAt": "2026-06-22"
+    },
+    {
+      "id": "psYIvlt6Kklkev0nlVvt",
+      "schoolId": "PA-lackawanna-college",
+      "schoolName": "Lackawanna College",
+      "coachFirstName": "Jake",
+      "coachLastName": "Vitale",
+      "role": "Hitting Coach",
+      "changeType": "promotion",
+      "priority": "standard",
+      "effectiveDate": "2026-06-23",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-23"
     }
   ]
 }

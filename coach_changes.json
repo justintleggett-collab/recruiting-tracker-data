@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 11,
+    "version": 12,
     "lastUpdated": "2026-06-23",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1182,6 +1182,23 @@
       "coachFirstName": "Jake",
       "coachLastName": "Vitale",
       "role": "Hitting Coach",
+      "changeType": "promotion",
+      "priority": "standard",
+      "effectiveDate": "2026-06-23",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-23"
+    },
+    {
+      "id": "ITp855qSy1Xi6HoOJrLk",
+      "schoolId": "NC-belmont-abbey-college",
+      "schoolName": "Belmont Abbey College",
+      "coachFirstName": "Jeff",
+      "coachLastName": "May",
+      "role": "Assistant Coach / Pitching",
       "changeType": "promotion",
       "priority": "standard",
       "effectiveDate": "2026-06-23",

@@ -9,6 +9,26 @@
       "stopDate": "2026-06-16",
       "active": true,
       "color": "blue"
+    },
+    {
+      "id": "ann-002",
+      "message": "App Reviews",
+      "linkText": "Enjoying the Baseball Recruiting Tracker App? Please consider giving us a 5 star review!",
+      "linkURL": "https://apps.apple.com/us/app/baseball-recruiting-tracker/id6759700686?action=write-review",
+      "startDate": "2026-06-23",
+      "stopDate": "2026-06-28",
+      "active": true,
+      "color": "blue"
+    },
+    {
+      "id": "ann-003",
+      "message": "New Enhancements Coming",
+      "linkText": "Baseball Recruiting Tracker 2.0 is scheduled to be released in the coming weeks.  ",
+      "linkURL": "",
+      "startDate": "2026-06-29",
+      "stopDate": "2026-07-03",
+      "active": true,
+      "color": "blue"
     }
   ]
 }

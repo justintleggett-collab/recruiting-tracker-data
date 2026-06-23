@@ -7,6 +7,13 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Nathaniel Causey",
+        "title": "Recruiting Coordinator",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
         "name": "Rick McCarty",
         "title": "Head Coach",
         "email": "rmccarty@acu.edu",
@@ -1410,17 +1417,17 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Buddy Bleasdale",
-        "title": "Assistant Coach",
-        "email": "fcbleasdale@barton.edu",
+        "name": "Jeff May",
+        "title": "Head Coach",
+        "email": "",
         "phone": "",
         "twitter": ""
       },
       {
-        "name": "Matt Padgett",
-        "title": "Head Coach",
-        "email": "mmpadgett@barton.edu",
-        "phone": "(252) 991-6680",
+        "name": "Buddy Bleasdale",
+        "title": "Assistant Coach",
+        "email": "fcbleasdale@barton.edu",
+        "phone": "",
         "twitter": ""
       },
       {
@@ -3352,7 +3359,7 @@
   },
   {
     "schoolID": "TN-815774",
-    "schoolName": "Carsonâ€“Newman University",
+    "schoolName": "Carson\u00e2\u20ac\u201cNewman University",
     "state": "",
     "division": "",
     "conference": "",
@@ -4333,6 +4340,13 @@
         "twitter": ""
       },
       {
+        "name": "Josh Hopper",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
         "name": "Tyler Shewmaker",
         "title": "",
         "email": "",
@@ -5070,7 +5084,7 @@
   },
   {
     "schoolID": "MN-930588",
-    "schoolName": "Concordia Collegeâ€“Moorhead",
+    "schoolName": "Concordia College\u00e2\u20ac\u201cMoorhead",
     "state": "",
     "division": "",
     "conference": "",
@@ -6452,7 +6466,7 @@
   },
   {
     "schoolID": "NY-484865",
-    "schoolName": "Dâ€™Youville University",
+    "schoolName": "D\u00e2\u20ac\u2122Youville University",
     "state": "",
     "division": "",
     "conference": "",
@@ -7146,6 +7160,13 @@
         "email": "",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Brandon Riley",
+        "title": "Recruiting Coordinator",
+        "email": "",
+        "phone": "",
+        "twitter": ""
       }
     ]
   },
@@ -7403,7 +7424,7 @@
         "twitter": ""
       },
       {
-        "name": "Jessy Camiré",
+        "name": "Jessy Camir\u00e9",
         "title": "Assistant Coach",
         "email": "jessy.camire@erskine.edu",
         "phone": "",
@@ -10622,6 +10643,13 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Kyle Serrano",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
         "name": "Travis Creel",
         "title": "Head Coach",
         "email": "",
@@ -11906,6 +11934,13 @@
         "twitter": ""
       },
       {
+        "name": "Julio Godinez",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
         "name": "Mike Vucsko",
         "title": "",
         "email": "",
@@ -12836,7 +12871,22 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Lincoln Hewett",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
+        "name": "Tyler Sullivan",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "AL-marion-military-institute",
@@ -16306,6 +16356,13 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Andrew Moore",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
         "name": "Ryan Gipson",
         "title": "Assistant Coach",
         "email": "",
@@ -17201,7 +17258,7 @@
         "twitter": ""
       },
       {
-        "name": "O’Kevius Conway",
+        "name": "O\u2019Kevius Conway",
         "title": "",
         "email": "",
         "phone": "",
@@ -18409,7 +18466,7 @@
   },
   {
     "schoolID": "NJ-272555",
-    "schoolName": "Rutgers Universityâ€“Camden",
+    "schoolName": "Rutgers University\u00e2\u20ac\u201cCamden",
     "state": "",
     "division": "",
     "conference": "",
@@ -18417,7 +18474,7 @@
   },
   {
     "schoolID": "NJ-346923",
-    "schoolName": "Rutgers Universityâ€“Newark",
+    "schoolName": "Rutgers University\u00e2\u20ac\u201cNewark",
     "state": "",
     "division": "",
     "conference": "",
@@ -18997,7 +19054,7 @@
   },
   {
     "schoolID": "NJ-131018",
-    "schoolName": "Saint Peterâ€™s University",
+    "schoolName": "Saint Peter\u00e2\u20ac\u2122s University",
     "state": "",
     "division": "",
     "conference": "",
@@ -20108,13 +20165,6 @@
         "twitter": ""
       },
       {
-        "name": "Connor Dailey",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Gehrig Spradlin",
         "title": "",
         "email": "",
@@ -20599,13 +20649,6 @@
         "twitter": ""
       },
       {
-        "name": "Walker Bullington",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Fernando Gonzalez",
         "title": "",
         "email": "",
@@ -20696,6 +20739,13 @@
     "division": "",
     "conference": "",
     "coaches": [
+      {
+        "name": "Kassidy Gaines",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
       {
         "name": "Mike Kvasnicka",
         "title": "Head Coach",
@@ -21742,6 +21792,13 @@
         "twitter": ""
       },
       {
+        "name": "Nolan Cain",
+        "title": "Recruiting Coordinator / Associate Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
         "name": "Cliff Pennington",
         "title": "Assistant Coach",
         "email": "",
@@ -22405,7 +22462,7 @@
         "twitter": ""
       },
       {
-        "name": "Joel Aviña",
+        "name": "Joel Avi\u00f1a",
         "title": "Assistant Coach",
         "email": "javina@towson.edu",
         "phone": "",
@@ -22665,6 +22722,13 @@
         "twitter": ""
       },
       {
+        "name": "Chris Wojick",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
         "name": "Walt Jones",
         "title": "Assistant Coach",
         "email": "Joneswjones25@tulane.edu",
@@ -22695,10 +22759,10 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Doug Jones",
+        "name": "Scott Eul",
         "title": "Head Coach",
-        "email": "djones@tusculum.edu",
-        "phone": "423-636-7320",
+        "email": "",
+        "phone": "",
         "twitter": ""
       }
     ]
@@ -23861,14 +23925,14 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Scott Randall",
-        "title": "",
+        "name": "Tanner Spencer",
+        "title": "Head Coach",
         "email": "",
         "phone": "",
         "twitter": ""
       },
       {
-        "name": "Dave Hajek",
+        "name": "Scott Randall",
         "title": "",
         "email": "",
         "phone": "",
@@ -24708,6 +24772,13 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Ryan Patterson",
+        "title": "Recruiting Coordinator",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
         "name": "Jimmy Ricklefsen",
         "title": "",
         "email": "",
@@ -25169,6 +25240,13 @@
         "name": "JD Mundy",
         "title": "Assistant Coach",
         "email": "jdmundy@umes.edu",
+        "phone": "",
+        "twitter": ""
+      },
+      {
+        "name": "Justin Thomas",
+        "title": "Head Coach",
+        "email": "",
         "phone": "",
         "twitter": ""
       },
@@ -25854,7 +25932,7 @@
   },
   {
     "schoolID": "NE-692121",
-    "schoolName": "University of Nebraskaâ€“Lincoln",
+    "schoolName": "University of Nebraska\u00e2\u20ac\u201cLincoln",
     "state": "",
     "division": "",
     "conference": "",
@@ -25862,7 +25940,7 @@
   },
   {
     "schoolID": "NE-university-of-nebraska-lincoln",
-    "schoolName": "University of Nebraska–Lincoln",
+    "schoolName": "University of Nebraska\u2013Lincoln",
     "state": "",
     "division": "",
     "conference": "",
@@ -25982,6 +26060,13 @@
         "email": "baseball@unr.edu",
         "phone": "",
         "twitter": "@JordanGetzelman"
+      },
+      {
+        "name": "Matthew Kinney",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
       },
       {
         "name": "Noah Shackles",
@@ -26917,13 +27002,6 @@
         "twitter": ""
       },
       {
-        "name": "Mitch Holland",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Grady Miller",
         "title": "",
         "email": "",
@@ -26963,6 +27041,13 @@
       {
         "name": "Jon Garvey",
         "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      },
+      {
+        "name": "Eric Ma",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": ""
@@ -27490,13 +27575,6 @@
       },
       {
         "name": "Drew Bishop",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
-        "name": "Nolan Cain",
         "title": "",
         "email": "",
         "phone": "",
@@ -28161,7 +28239,7 @@
   },
   {
     "schoolID": "WI-643251",
-    "schoolName": "University of Wisconsinâ€“Eau Claire",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cEau Claire",
     "state": "",
     "division": "",
     "conference": "",
@@ -28169,7 +28247,7 @@
   },
   {
     "schoolID": "WI-127445",
-    "schoolName": "University of Wisconsinâ€“La Crosse",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cLa Crosse",
     "state": "",
     "division": "",
     "conference": "",
@@ -28220,7 +28298,7 @@
   },
   {
     "schoolID": "WI-055957",
-    "schoolName": "University of Wisconsinâ€“Milwaukee",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cMilwaukee",
     "state": "",
     "division": "",
     "conference": "",
@@ -28257,7 +28335,7 @@
   },
   {
     "schoolID": "WI-046703",
-    "schoolName": "University of Wisconsinâ€“Oshkosh",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cOshkosh",
     "state": "",
     "division": "",
     "conference": "",
@@ -28315,7 +28393,7 @@
   },
   {
     "schoolID": "WI-690093",
-    "schoolName": "University of Wisconsinâ€“Parkside",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cParkside",
     "state": "",
     "division": "",
     "conference": "",
@@ -28352,7 +28430,7 @@
   },
   {
     "schoolID": "WI-368551",
-    "schoolName": "University of Wisconsinâ€“Platteville",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cPlatteville",
     "state": "",
     "division": "",
     "conference": "",
@@ -28403,7 +28481,7 @@
   },
   {
     "schoolID": "WI-878077",
-    "schoolName": "University of Wisconsinâ€“River Falls",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cRiver Falls",
     "state": "",
     "division": "",
     "conference": "",
@@ -28411,7 +28489,7 @@
   },
   {
     "schoolID": "WI-066245",
-    "schoolName": "University of Wisconsinâ€“Stevens Point",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cStevens Point",
     "state": "",
     "division": "",
     "conference": "",
@@ -28419,7 +28497,7 @@
   },
   {
     "schoolID": "WI-941425",
-    "schoolName": "University of Wisconsinâ€“Stout",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cStout",
     "state": "",
     "division": "",
     "conference": "",
@@ -28427,7 +28505,7 @@
   },
   {
     "schoolID": "WI-034259",
-    "schoolName": "University of Wisconsinâ€“Whitewater",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cWhitewater",
     "state": "",
     "division": "",
     "conference": "",
@@ -31056,7 +31134,7 @@
       },
       {
         "name": "Chris Wojick",
-        "title": "",
+        "title": "Pitching Coach / Recruiting Coordinator",
         "email": "",
         "phone": "",
         "twitter": "@ChrisWojick"

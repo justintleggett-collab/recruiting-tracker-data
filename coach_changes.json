@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": 13,
-    "lastUpdated": "2026-06-23",
+    "version": 14,
+    "lastUpdated": "2026-06-24",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
   "changes": [
@@ -1225,6 +1225,23 @@
       "isVerified": true,
       "isMidSeason": true,
       "createdAt": "2026-06-23"
+    },
+    {
+      "id": "TKPKAkidgl3Fw0w7Zb7Y",
+      "schoolId": "AZ-grand-canyon-university",
+      "schoolName": "Grand Canyon University",
+      "coachFirstName": "Nathan",
+      "coachLastName": "Bannister",
+      "role": "Interim Head Coach",
+      "changeType": "interim_appointed",
+      "priority": "high",
+      "effectiveDate": "2026-06-24",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-24"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 15,
+    "version": 16,
     "lastUpdated": "2026-06-26",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1252,6 +1252,23 @@
       "role": "Interim Head Coach / Pitching Coach",
       "changeType": "interim_appointed",
       "priority": "high",
+      "effectiveDate": "2026-06-26",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-26"
+    },
+    {
+      "id": "TrUrv0nu57CbJneJFL4t",
+      "schoolId": "OK-university-of-oklahoma",
+      "schoolName": "University of Oklahoma",
+      "coachFirstName": "Todd",
+      "coachLastName": "Butler",
+      "role": "Assistant Coach",
+      "changeType": "promotion",
+      "priority": "standard",
       "effectiveDate": "2026-06-26",
       "previousSchool": "",
       "destinationSchool": "",

@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "version": 16,
+    "version": 17,
     "lastUpdated": "2026-06-26",
-    "description": "Baseball Recruiting Tracker — Coaching Change Log"
+    "description": "Baseball Recruiting Tracker \u2014 Coaching Change Log"
   },
   "changes": [
     {
@@ -22,7 +22,9 @@
       "notes": "Elliott Avent retired after serving as Head Coach at NC State.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-04"
+      "createdAt": "2026-06-04",
+      "isPersistent": false,
+      "expiresAt": "2026-08-03"
     },
     {
       "id": "CC-2026-002",
@@ -41,7 +43,9 @@
       "notes": "Chris Hart promoted to Head Coach from Associate Head Coach.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-04"
+      "createdAt": "2026-06-04",
+      "isPersistent": false,
+      "expiresAt": "2026-08-03"
     },
     {
       "id": "CC-2026-003",
@@ -60,7 +64,9 @@
       "notes": "Kevin Schnall departed to University of South Carolina as Head Coach.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-11"
+      "createdAt": "2026-06-11",
+      "isPersistent": false,
+      "expiresAt": "2026-08-10"
     },
     {
       "id": "CC-2026-004",
@@ -79,7 +85,9 @@
       "notes": "Chris Lemonis hired as Head Coach. Won 2021 National Championship at Mississippi State.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-11"
+      "createdAt": "2026-06-11",
+      "isPersistent": false,
+      "expiresAt": "2026-08-10"
     },
     {
       "id": "CC-2026-005",
@@ -98,7 +106,9 @@
       "notes": "Matt Williams departed to University of South Carolina as Pitching Coach.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-11"
+      "createdAt": "2026-06-11",
+      "isPersistent": false,
+      "expiresAt": "2026-08-10"
     },
     {
       "id": "CC-2026-006",
@@ -117,7 +127,9 @@
       "notes": "Chad Oxendine departed to University of South Carolina.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-11"
+      "createdAt": "2026-06-11",
+      "isPersistent": false,
+      "expiresAt": "2026-08-10"
     },
     {
       "id": "CC-2026-007",
@@ -136,7 +148,9 @@
       "notes": "Kevin Schnall hired as Head Coach from Coastal Carolina University.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-09"
+      "createdAt": "2026-06-09",
+      "isPersistent": false,
+      "expiresAt": "2026-08-08"
     },
     {
       "id": "CC-2026-008",
@@ -155,7 +169,9 @@
       "notes": "Terry Rooney departed University of South Carolina.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-11"
+      "createdAt": "2026-06-11",
+      "isPersistent": false,
+      "expiresAt": "2026-08-10"
     },
     {
       "id": "CC-2026-009",
@@ -174,7 +190,9 @@
       "notes": "Matt Williams joined from Coastal Carolina University as Pitching Coach.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-11"
+      "createdAt": "2026-06-11",
+      "isPersistent": false,
+      "expiresAt": "2026-08-10"
     },
     {
       "id": "CC-2026-010",
@@ -193,7 +211,9 @@
       "notes": "Bill Cilento joined from Wake Forest University as Hitting Coach.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-11"
+      "createdAt": "2026-06-11",
+      "isPersistent": false,
+      "expiresAt": "2026-08-10"
     },
     {
       "id": "CC-2026-011",
@@ -212,7 +232,9 @@
       "notes": "Bill Cilento departed to University of South Carolina as Hitting Coach.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-11"
+      "createdAt": "2026-06-11",
+      "isPersistent": false,
+      "expiresAt": "2026-08-10"
     },
     {
       "id": "CC-2026-012",
@@ -231,7 +253,9 @@
       "notes": "Rich Dorman departed to University of Florida as Pitching Coach.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-11"
+      "createdAt": "2026-06-11",
+      "isPersistent": false,
+      "expiresAt": "2026-08-10"
     },
     {
       "id": "CC-2026-013",
@@ -250,7 +274,9 @@
       "notes": "Rich Dorman joined from Oregon State University as Pitching Coach.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-11"
+      "createdAt": "2026-06-11",
+      "isPersistent": false,
+      "expiresAt": "2026-08-10"
     },
     {
       "id": "CC-2026-014",
@@ -269,7 +295,9 @@
       "notes": "Monte Lee joined College of Charleston as Associate Head Coach from University of South Carolina.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-11"
+      "createdAt": "2026-06-11",
+      "isPersistent": false,
+      "expiresAt": "2026-08-10"
     },
     {
       "id": "CC-2026-015",
@@ -288,7 +316,9 @@
       "notes": "Jake Gautreau departed East Carolina University.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-11"
+      "createdAt": "2026-06-11",
+      "isPersistent": false,
+      "expiresAt": "2026-08-10"
     },
     {
       "id": "CC-2026-016",
@@ -307,7 +337,9 @@
       "notes": "Taylor Black joined NC State as Recruiting Coordinator from University of South Carolina.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-11"
+      "createdAt": "2026-06-11",
+      "isPersistent": false,
+      "expiresAt": "2026-08-10"
     },
     {
       "id": "CC-2026-017",
@@ -326,7 +358,9 @@
       "notes": "Barry Enright hired as Pitching Coach at Texas A&M.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-11"
+      "createdAt": "2026-06-11",
+      "isPersistent": false,
+      "expiresAt": "2026-08-10"
     },
     {
       "id": "CC-2026-018",
@@ -345,7 +379,9 @@
       "notes": "Chase Lummus hired as Pitching Coach at Lamar University.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-11"
+      "createdAt": "2026-06-11",
+      "isPersistent": false,
+      "expiresAt": "2026-08-10"
     },
     {
       "id": "CC-2026-019",
@@ -364,7 +400,9 @@
       "notes": "Jeff Calhoon hired as Hitting Coach at University of Nebraska Omaha.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-11"
+      "createdAt": "2026-06-11",
+      "isPersistent": false,
+      "expiresAt": "2026-08-10"
     },
     {
       "id": "CC-2026-020",
@@ -383,7 +421,9 @@
       "notes": "Connor Dailey hired as Pitching Coach at New Mexico State University.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-11"
+      "createdAt": "2026-06-11",
+      "isPersistent": false,
+      "expiresAt": "2026-08-10"
     },
     {
       "id": "CC-2026-021",
@@ -402,7 +442,9 @@
       "notes": "Jake Gautreau joined Coastal Carolina as Hitting Coach from East Carolina University.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-022",
@@ -421,7 +463,9 @@
       "notes": "Matt Reida joined Coastal Carolina as Recruiting Coordinator.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-023",
@@ -440,7 +484,9 @@
       "notes": "Karsten Whitson departed Florida International University.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-024",
@@ -459,7 +505,9 @@
       "notes": "Juan Alvarez hired as Pitching Coach at Florida International University.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-025",
@@ -478,7 +526,9 @@
       "notes": "Travis Fitta hired as Hitting Coach at Grand Canyon University.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-026",
@@ -497,7 +547,9 @@
       "notes": "Mark Moriarty departed University of Nevada, Reno.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-027",
@@ -516,7 +568,9 @@
       "notes": "Michael Mendoza joined Western Kentucky as Associate Head Coach from University of New Orleans.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-028",
@@ -535,7 +589,9 @@
       "notes": "Anthony Izzio joined Jacksonville State as Recruiting Coordinator from Tulane University.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-029",
@@ -554,7 +610,9 @@
       "notes": "Danny Lynch hired as Hitting Coach at Jacksonville State University.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-030",
@@ -573,7 +631,9 @@
       "notes": "Brandon Van Horn hired as Hitting Coach at University of Missouri.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-031",
@@ -592,7 +652,9 @@
       "notes": "Ari Adut joined Saint Mary's as Hitting Coach from Jacksonville State University.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-032",
@@ -611,7 +673,9 @@
       "notes": "Keith Zuniga joined USC as Pitching Coach from University of Hawaii.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-033",
@@ -630,7 +694,9 @@
       "notes": "Travis Creel departed University of Southern Mississippi.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-034",
@@ -649,7 +715,9 @@
       "notes": "Trevor Beerman promoted to Head Coach at Eastern Michigan University.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-035",
@@ -668,7 +736,9 @@
       "notes": "Rich Witten departed Florida International University after 4 seasons (97-125).",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-036",
@@ -687,7 +757,9 @@
       "notes": "Pedro Grifol hired as Head Coach at Florida International University.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-037",
@@ -706,7 +778,9 @@
       "notes": "Gregg Wallis departed Grand Canyon University after 4 seasons (112-91).",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-038",
@@ -725,7 +799,9 @@
       "notes": "Steve Bieser hired as Head Coach from Jacksonville State University.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-039",
@@ -744,7 +820,9 @@
       "notes": "Todd Whitting departed University of Houston after 16 seasons (497-393-1).",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-040",
@@ -763,7 +841,9 @@
       "notes": "Will Davis hired as Head Coach from Lamar University.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-041",
@@ -782,7 +862,9 @@
       "notes": "Steve Bieser departed Jacksonville State University for Grand Canyon University.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-042",
@@ -801,7 +883,9 @@
       "notes": "Travis Creel hired as Head Coach from University of Southern Mississippi.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-043",
@@ -820,7 +904,9 @@
       "notes": "Will Davis departed Lamar University for University of Houston after 10 seasons (283-231).",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-044",
@@ -839,7 +925,9 @@
       "notes": "Sean Allen hired as Head Coach at Lamar University.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-045",
@@ -858,7 +946,9 @@
       "notes": "Brian Murphy departed Merrimack College after 5 seasons (111-147-2).",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-046",
@@ -877,7 +967,9 @@
       "notes": "Evan Porter departed University of Nebraska Omaha after 10 seasons (194-273-2).",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-047",
@@ -896,7 +988,9 @@
       "notes": "Rob Fournier hired as Head Coach from Western Kentucky University.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-048",
@@ -915,7 +1009,9 @@
       "notes": "Scott Bradley departed Princeton University after 28 seasons (486-658-2).",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-049",
@@ -934,7 +1030,9 @@
       "notes": "Jake Hendrick departed Queens University of Charlotte after 3 seasons (38-122).",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-050",
@@ -953,7 +1051,9 @@
       "notes": "James Cullinane promoted to Head Coach at Queens University of Charlotte.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-051",
@@ -972,7 +1072,9 @@
       "notes": "Matt Tyner retired from Towson University after 8 seasons (138-298).",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-052",
@@ -991,7 +1093,9 @@
       "notes": "Liam Bowen hired as Head Coach from UMBC.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-053",
@@ -1010,7 +1114,9 @@
       "notes": "Justin Johnson departed UC Riverside after 6 seasons (81-229).",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-054",
@@ -1029,7 +1135,9 @@
       "notes": "Max Weir promoted to Head Coach at University of Massachusetts Amherst.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-055",
@@ -1048,7 +1156,9 @@
       "notes": "Liam Bowen departed UMBC for Towson University after 7 seasons (144-170).",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-056",
@@ -1067,7 +1177,9 @@
       "notes": "Danny Acosta departed University of Maryland Eastern Shore after 3 seasons (15-126).",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-057",
@@ -1086,7 +1198,9 @@
       "notes": "Stan Stolte retired from UNLV after 11 seasons (276-270).",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "CC-2026-058",
@@ -1105,7 +1219,9 @@
       "notes": "Nick Garritano hired as Head Coach at UNLV.",
       "isVerified": true,
       "isMidSeason": false,
-      "createdAt": "2026-06-17"
+      "createdAt": "2026-06-17",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
     },
     {
       "id": "N8qCw0Zdky0KmutBtS4i",
@@ -1122,7 +1238,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-18"
+      "createdAt": "2026-06-18",
+      "isPersistent": false,
+      "expiresAt": "2026-08-17"
     },
     {
       "id": "43uXlhVtJLbsn1z44dtp",
@@ -1139,7 +1257,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-18"
+      "createdAt": "2026-06-18",
+      "isPersistent": false,
+      "expiresAt": "2026-08-17"
     },
     {
       "id": "aMPCY6rCoRkJsnRhEXTb",
@@ -1156,7 +1276,9 @@
       "notes": "Auto-detected: isActive changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-18"
+      "createdAt": "2026-06-18",
+      "isPersistent": false,
+      "expiresAt": "2026-08-17"
     },
     {
       "id": "TkJtJ0jU8nC4LyfmPDLA",
@@ -1173,7 +1295,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-22"
+      "createdAt": "2026-06-22",
+      "isPersistent": false,
+      "expiresAt": "2026-08-21"
     },
     {
       "id": "psYIvlt6Kklkev0nlVvt",
@@ -1190,7 +1314,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-23"
+      "createdAt": "2026-06-23",
+      "isPersistent": false,
+      "expiresAt": "2026-08-22"
     },
     {
       "id": "ITp855qSy1Xi6HoOJrLk",
@@ -1207,7 +1333,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-23"
+      "createdAt": "2026-06-23",
+      "isPersistent": false,
+      "expiresAt": "2026-08-22"
     },
     {
       "id": "mLNTLXBdDFIHOw5tiPRc",
@@ -1224,7 +1352,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-23"
+      "createdAt": "2026-06-23",
+      "isPersistent": false,
+      "expiresAt": "2026-08-22"
     },
     {
       "id": "TKPKAkidgl3Fw0w7Zb7Y",
@@ -1241,7 +1371,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-24"
+      "createdAt": "2026-06-24",
+      "isPersistent": false,
+      "expiresAt": "2026-08-23"
     },
     {
       "id": "AVZIyotxxD9ZXwOm17ta",
@@ -1258,7 +1390,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-26"
+      "createdAt": "2026-06-26",
+      "isPersistent": false,
+      "expiresAt": "2026-08-25"
     },
     {
       "id": "TrUrv0nu57CbJneJFL4t",
@@ -1275,7 +1409,135 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-26"
+      "createdAt": "2026-06-26",
+      "isPersistent": false,
+      "expiresAt": "2026-08-25"
+    },
+    {
+      "id": "CC-2026-059",
+      "schoolId": "CA-university-of-the-pacific",
+      "schoolName": "University of the Pacific",
+      "division": "D1",
+      "conference": "Big West",
+      "coachFirstName": "Reed",
+      "coachLastName": "Peters",
+      "role": "Head Coach",
+      "changeType": "deceased",
+      "priority": "high",
+      "effectiveDate": "2026-06-05",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Reed Peters, Head Coach at University of the Pacific, passed away on June 5, 2026.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-06-26",
+      "isPersistent": true,
+      "expiresAt": null
+    },
+    {
+      "id": "CC-2026-060",
+      "schoolId": "CA-university-of-the-pacific",
+      "schoolName": "University of the Pacific",
+      "division": "D1",
+      "conference": "Big West",
+      "coachFirstName": "CJ",
+      "coachLastName": "Whelan",
+      "role": "Associate Head Coach",
+      "changeType": "promotion",
+      "priority": "high",
+      "effectiveDate": "2026-06-05",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "CJ Whelan title updated to Associate Head Coach following Reed Peters passing.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-06-26",
+      "isPersistent": false,
+      "expiresAt": "2026-08-04"
+    },
+    {
+      "id": "CC-2026-061",
+      "schoolId": "FL-university-of-florida",
+      "schoolName": "University of Florida",
+      "division": "D1",
+      "conference": "SEC",
+      "coachFirstName": "Taylor",
+      "coachLastName": "Black",
+      "role": "Assistant Coach",
+      "changeType": "lateral_move_out",
+      "priority": "high",
+      "effectiveDate": "2026-06-17",
+      "previousSchool": "",
+      "destinationSchool": "North Carolina State University",
+      "notes": "Taylor Black departed University of Florida to NC State as Recruiting Coordinator.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-06-26",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
+    },
+    {
+      "id": "CC-2026-062",
+      "schoolId": "OK-university-of-oklahoma",
+      "schoolName": "University of Oklahoma",
+      "division": "D1",
+      "conference": "Big 12",
+      "coachFirstName": "Todd",
+      "coachLastName": "Butler",
+      "role": "Assistant Coach",
+      "changeType": "lateral_move_out",
+      "priority": "standard",
+      "effectiveDate": "2026-06-17",
+      "previousSchool": "",
+      "destinationSchool": "University of Florida",
+      "notes": "Todd Butler departed University of Oklahoma for University of Florida as Recruiting Coordinator.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-06-26",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
+    },
+    {
+      "id": "CC-2026-063",
+      "schoolId": "FL-university-of-florida",
+      "schoolName": "University of Florida",
+      "division": "D1",
+      "conference": "SEC",
+      "coachFirstName": "Todd",
+      "coachLastName": "Butler",
+      "role": "Recruiting Coordinator",
+      "changeType": "lateral_move_in",
+      "priority": "high",
+      "effectiveDate": "2026-06-17",
+      "previousSchool": "University of Oklahoma",
+      "destinationSchool": "",
+      "notes": "Todd Butler joined University of Florida as Recruiting Coordinator from University of Oklahoma.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-06-26",
+      "isPersistent": false,
+      "expiresAt": "2026-08-16"
+    },
+    {
+      "id": "CC-2026-064",
+      "schoolId": "NC-north-carolina-state-university",
+      "schoolName": "North Carolina State University",
+      "division": "D1",
+      "conference": "ACC",
+      "coachFirstName": "Bo",
+      "coachLastName": "Robinson",
+      "role": "Director of Player & Program Development",
+      "changeType": "departure",
+      "priority": "standard",
+      "effectiveDate": "2026-06-23",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Bo Robinson departed North Carolina State University.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-06-26",
+      "isPersistent": false,
+      "expiresAt": "2026-08-22"
     }
   ]
 }

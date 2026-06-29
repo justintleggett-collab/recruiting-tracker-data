@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "version": 17,
-    "lastUpdated": "2026-06-26",
-    "description": "Baseball Recruiting Tracker \u2014 Coaching Change Log"
+    "version": 18,
+    "lastUpdated": "2026-06-29",
+    "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
   "changes": [
     {
@@ -1538,6 +1538,23 @@
       "createdAt": "2026-06-26",
       "isPersistent": false,
       "expiresAt": "2026-08-22"
+    },
+    {
+      "id": "QOjgh3WwyYIZUMHZ9qo0",
+      "schoolId": "AZ-university-of-arizona",
+      "schoolName": "University of Arizona",
+      "coachFirstName": "Toby",
+      "coachLastName": "DeMello",
+      "role": "Assistant Coach",
+      "changeType": "promotion",
+      "priority": "standard",
+      "effectiveDate": "2026-06-29",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-29"
     }
   ]
 }

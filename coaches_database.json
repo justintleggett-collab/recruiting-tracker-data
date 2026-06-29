@@ -3289,7 +3289,7 @@
   },
   {
     "schoolID": "TN-815774",
-    "schoolName": "Carsonâ€“Newman University",
+    "schoolName": "Carson\u00e2\u20ac\u201cNewman University",
     "state": "",
     "division": "",
     "conference": "",
@@ -5014,7 +5014,7 @@
   },
   {
     "schoolID": "MN-930588",
-    "schoolName": "Concordia Collegeâ€“Moorhead",
+    "schoolName": "Concordia College\u00e2\u20ac\u201cMoorhead",
     "state": "",
     "division": "",
     "conference": "",
@@ -6305,7 +6305,7 @@
   },
   {
     "schoolID": "NY-484865",
-    "schoolName": "Dâ€™Youville University",
+    "schoolName": "D\u00e2\u20ac\u2122Youville University",
     "state": "",
     "division": "",
     "conference": "",
@@ -7249,7 +7249,7 @@
         "twitter": ""
       },
       {
-        "name": "Jessy Camiré",
+        "name": "Jessy Camir\u00e9",
         "title": "Assistant Coach",
         "email": "jessy.camire@erskine.edu",
         "phone": "",
@@ -16537,7 +16537,7 @@
         "twitter": ""
       },
       {
-        "name": "O’Kevius Conway",
+        "name": "O\u2019Kevius Conway",
         "title": "",
         "email": "",
         "phone": "",
@@ -17703,7 +17703,7 @@
   },
   {
     "schoolID": "NJ-272555",
-    "schoolName": "Rutgers Universityâ€“Camden",
+    "schoolName": "Rutgers University\u00e2\u20ac\u201cCamden",
     "state": "",
     "division": "",
     "conference": "",
@@ -17711,7 +17711,7 @@
   },
   {
     "schoolID": "NJ-346923",
-    "schoolName": "Rutgers Universityâ€“Newark",
+    "schoolName": "Rutgers University\u00e2\u20ac\u201cNewark",
     "state": "",
     "division": "",
     "conference": "",
@@ -18270,7 +18270,7 @@
   },
   {
     "schoolID": "NJ-131018",
-    "schoolName": "Saint Peterâ€™s University",
+    "schoolName": "Saint Peter\u00e2\u20ac\u2122s University",
     "state": "",
     "division": "",
     "conference": "",
@@ -21517,7 +21517,7 @@
         "twitter": ""
       },
       {
-        "name": "Joel Aviña",
+        "name": "Joel Avi\u00f1a",
         "title": "Assistant Coach",
         "email": "javina@towson.edu",
         "phone": "",
@@ -22610,13 +22610,6 @@
         "email": "chale8@arizona.edu",
         "phone": "",
         "twitter": "@UACoachHale"
-      },
-      {
-        "name": "Toby DeMello",
-        "title": "Assistant Coach",
-        "email": "tdemello@arizona.edu",
-        "phone": "",
-        "twitter": ""
       }
     ]
   },
@@ -24693,7 +24686,7 @@
   },
   {
     "schoolID": "NE-692121",
-    "schoolName": "University of Nebraskaâ€“Lincoln",
+    "schoolName": "University of Nebraska\u00e2\u20ac\u201cLincoln",
     "state": "",
     "division": "",
     "conference": "",
@@ -24701,7 +24694,7 @@
   },
   {
     "schoolID": "NE-university-of-nebraska-lincoln",
-    "schoolName": "University of Nebraska–Lincoln",
+    "schoolName": "University of Nebraska\u2013Lincoln",
     "state": "",
     "division": "",
     "conference": "",
@@ -26217,6 +26210,13 @@
         "email": "",
         "phone": "",
         "twitter": ""
+      },
+      {
+        "name": "Toby DeMello",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
       }
     ]
   },
@@ -26713,7 +26713,7 @@
   },
   {
     "schoolID": "WI-643251",
-    "schoolName": "University of Wisconsinâ€“Eau Claire",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cEau Claire",
     "state": "",
     "division": "",
     "conference": "",
@@ -26721,7 +26721,7 @@
   },
   {
     "schoolID": "WI-127445",
-    "schoolName": "University of Wisconsinâ€“La Crosse",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cLa Crosse",
     "state": "",
     "division": "",
     "conference": "",
@@ -26772,7 +26772,7 @@
   },
   {
     "schoolID": "WI-055957",
-    "schoolName": "University of Wisconsinâ€“Milwaukee",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cMilwaukee",
     "state": "",
     "division": "",
     "conference": "",
@@ -26809,7 +26809,7 @@
   },
   {
     "schoolID": "WI-046703",
-    "schoolName": "University of Wisconsinâ€“Oshkosh",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cOshkosh",
     "state": "",
     "division": "",
     "conference": "",
@@ -26867,7 +26867,7 @@
   },
   {
     "schoolID": "WI-690093",
-    "schoolName": "University of Wisconsinâ€“Parkside",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cParkside",
     "state": "",
     "division": "",
     "conference": "",
@@ -26904,7 +26904,7 @@
   },
   {
     "schoolID": "WI-368551",
-    "schoolName": "University of Wisconsinâ€“Platteville",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cPlatteville",
     "state": "",
     "division": "",
     "conference": "",
@@ -26955,7 +26955,7 @@
   },
   {
     "schoolID": "WI-878077",
-    "schoolName": "University of Wisconsinâ€“River Falls",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cRiver Falls",
     "state": "",
     "division": "",
     "conference": "",
@@ -26963,7 +26963,7 @@
   },
   {
     "schoolID": "WI-066245",
-    "schoolName": "University of Wisconsinâ€“Stevens Point",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cStevens Point",
     "state": "",
     "division": "",
     "conference": "",
@@ -26971,7 +26971,7 @@
   },
   {
     "schoolID": "WI-941425",
-    "schoolName": "University of Wisconsinâ€“Stout",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cStout",
     "state": "",
     "division": "",
     "conference": "",
@@ -26979,7 +26979,7 @@
   },
   {
     "schoolID": "WI-034259",
-    "schoolName": "University of Wisconsinâ€“Whitewater",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cWhitewater",
     "state": "",
     "division": "",
     "conference": "",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 26,
+    "version": 27,
     "lastUpdated": "2026-06-30",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1682,6 +1682,23 @@
       "coachFirstName": "Tracy",
       "coachLastName": "Archuleta",
       "role": "Head Coach",
+      "changeType": "promotion",
+      "priority": "high",
+      "effectiveDate": "2026-06-30",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-30"
+    },
+    {
+      "id": "AaAs8wsYmGPBWId2vcea",
+      "schoolId": "MD-salisbury-university",
+      "schoolName": "Salisbury University",
+      "coachFirstName": "Ron",
+      "coachLastName": "Siers",
+      "role": "Associate Head Coach / Defensive Coordinator",
       "changeType": "promotion",
       "priority": "high",
       "effectiveDate": "2026-06-30",

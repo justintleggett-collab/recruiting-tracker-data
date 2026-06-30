@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 24,
+    "version": 25,
     "lastUpdated": "2026-06-30",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1650,6 +1650,23 @@
       "role": "Associate Head Coach",
       "changeType": "promotion",
       "priority": "high",
+      "effectiveDate": "2026-06-30",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-30"
+    },
+    {
+      "id": "cFUiPzoi27XVwYJMd66N",
+      "schoolId": "FL-saint-leo-university",
+      "schoolName": "Saint Leo University",
+      "coachFirstName": "Hunter",
+      "coachLastName": "Keim",
+      "role": "Assistant Coach",
+      "changeType": "promotion",
+      "priority": "standard",
       "effectiveDate": "2026-06-30",
       "previousSchool": "",
       "destinationSchool": "",

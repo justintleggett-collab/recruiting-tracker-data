@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 31,
+    "version": 32,
     "lastUpdated": "2026-06-30",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1769,6 +1769,23 @@
       "role": "Assistant Coach",
       "changeType": "promotion",
       "priority": "standard",
+      "effectiveDate": "2026-06-30",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-30"
+    },
+    {
+      "id": "uXlpmn4LrYVS01euEpI1",
+      "schoolId": "AZ-yavapai-college",
+      "schoolName": "Yavapai College",
+      "coachFirstName": "Marc",
+      "coachLastName": "MacMillan",
+      "role": "Head Coach",
+      "changeType": "promotion",
+      "priority": "high",
       "effectiveDate": "2026-06-30",
       "previousSchool": "",
       "destinationSchool": "",

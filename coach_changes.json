@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 19,
+    "version": 20,
     "lastUpdated": "2026-06-30",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1565,6 +1565,23 @@
       "role": "Assistant Coach/Hitting",
       "changeType": "promotion",
       "priority": "standard",
+      "effectiveDate": "2026-06-30",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-30"
+    },
+    {
+      "id": "k9Ug2Jt1xDE1AjTEJekA",
+      "schoolId": "MA-university-of-massachusetts-lowell",
+      "schoolName": "University of Massachusetts Lowell",
+      "coachFirstName": "Nick",
+      "coachLastName": "Barese",
+      "role": "Head Coach",
+      "changeType": "promotion",
+      "priority": "high",
       "effectiveDate": "2026-06-30",
       "previousSchool": "",
       "destinationSchool": "",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 29,
+    "version": 30,
     "lastUpdated": "2026-06-30",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1732,6 +1732,23 @@
       "schoolName": "Bloomsburg University",
       "coachFirstName": "Adam",
       "coachLastName": "Sinkoe",
+      "role": "Assistant Coach",
+      "changeType": "departure",
+      "priority": "standard",
+      "effectiveDate": "2026-06-30",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: isActive changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-30"
+    },
+    {
+      "id": "DXsKs6XgA3TbB0R3xZ4y",
+      "schoolId": "PA-haverford-college",
+      "schoolName": "Haverford College",
+      "coachFirstName": "Kevin",
+      "coachLastName": "Morgan",
       "role": "Assistant Coach",
       "changeType": "departure",
       "priority": "standard",

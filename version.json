@@ -1,9 +1,9 @@
 {
   "schools": 10,
-  "coaches": 30,
+  "coaches": 31,
   "camps": 8,
   "showcases": 7,
-  "coachChanges": 18,
+  "coachChanges": 19,
   "minAppVersion": "1.0.0",
-  "lastUpdated": "2026-06-29"
+  "lastUpdated": "2026-06-30"
 }

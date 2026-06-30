@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "version": 34,
+    "version": 35,
     "lastUpdated": "2026-06-30",
-    "description": "Baseball Recruiting Tracker \u2014 Coaching Change Log"
+    "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
   "changes": [
     {
@@ -1837,6 +1837,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-30",
+      "isPersistent": false,
+      "expiresAt": "2026-08-29"
+    },
+    {
+      "id": "aW0kHJq3p9U37u0cXij3",
+      "schoolId": "CA-university-of-the-pacific",
+      "schoolName": "University of the Pacific",
+      "coachFirstName": "Test",
+      "coachLastName": "Coach Delete Me",
+      "role": "Assistant Coach",
+      "changeType": "new_hire",
+      "priority": "standard",
+      "effectiveDate": "2026-06-30",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Test Coach Delete Me hired as Assistant Coach at University of the Pacific.",
       "isVerified": true,
       "isMidSeason": true,
       "createdAt": "2026-06-30",

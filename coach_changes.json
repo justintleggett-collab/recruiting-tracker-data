@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 21,
+    "version": 22,
     "lastUpdated": "2026-06-30",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1599,6 +1599,23 @@
       "role": "Assistant Coach / Director of Operations",
       "changeType": "promotion",
       "priority": "standard",
+      "effectiveDate": "2026-06-30",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-30"
+    },
+    {
+      "id": "84ClHj211zAl3PrlQjch",
+      "schoolId": "UT-university-of-utah",
+      "schoolName": "University of Utah",
+      "coachFirstName": "Mike",
+      "coachLastName": "Brown",
+      "role": "Assistant Coach / Recruiting Coordinator",
+      "changeType": "promotion",
+      "priority": "high",
       "effectiveDate": "2026-06-30",
       "previousSchool": "",
       "destinationSchool": "",

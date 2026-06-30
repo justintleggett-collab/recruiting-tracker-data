@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 23,
+    "version": 24,
     "lastUpdated": "2026-06-30",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1631,6 +1631,23 @@
       "coachFirstName": "Chris",
       "coachLastName": "Pfatenhauer",
       "role": "Head Coach",
+      "changeType": "promotion",
+      "priority": "high",
+      "effectiveDate": "2026-06-30",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-30"
+    },
+    {
+      "id": "SsWVt712GnyZ2DzCAVwY",
+      "schoolId": "MD-university-of-maryland-baltimore-county",
+      "schoolName": "University of Maryland, Baltimore County",
+      "coachFirstName": "Phil",
+      "coachLastName": "Disher",
+      "role": "Associate Head Coach",
       "changeType": "promotion",
       "priority": "high",
       "effectiveDate": "2026-06-30",

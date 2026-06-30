@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 20,
+    "version": 21,
     "lastUpdated": "2026-06-30",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1582,6 +1582,23 @@
       "role": "Head Coach",
       "changeType": "promotion",
       "priority": "high",
+      "effectiveDate": "2026-06-30",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-30"
+    },
+    {
+      "id": "l0p5ywkqz0F1K5pcmFsD",
+      "schoolId": "NV-university-of-nevada-las-vegas-unlv",
+      "schoolName": "University of Nevada, Las Vegas (UNLV)",
+      "coachFirstName": "Nick",
+      "coachLastName": "Rush",
+      "role": "Assistant Coach / Director of Operations",
+      "changeType": "promotion",
+      "priority": "standard",
       "effectiveDate": "2026-06-30",
       "previousSchool": "",
       "destinationSchool": "",

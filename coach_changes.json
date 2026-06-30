@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "version": 33,
+    "version": 34,
     "lastUpdated": "2026-06-30",
-    "description": "Baseball Recruiting Tracker — Coaching Change Log"
+    "description": "Baseball Recruiting Tracker \u2014 Coaching Change Log"
   },
   "changes": [
     {
@@ -1554,7 +1554,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-29"
+      "createdAt": "2026-06-29",
+      "isPersistent": false,
+      "expiresAt": "2026-08-28"
     },
     {
       "id": "jzxQgZj5nmNYWoP8rhyj",
@@ -1571,7 +1573,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-30"
+      "createdAt": "2026-06-30",
+      "isPersistent": false,
+      "expiresAt": "2026-08-29"
     },
     {
       "id": "k9Ug2Jt1xDE1AjTEJekA",
@@ -1588,7 +1592,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-30"
+      "createdAt": "2026-06-30",
+      "isPersistent": false,
+      "expiresAt": "2026-08-29"
     },
     {
       "id": "l0p5ywkqz0F1K5pcmFsD",
@@ -1605,7 +1611,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-30"
+      "createdAt": "2026-06-30",
+      "isPersistent": false,
+      "expiresAt": "2026-08-29"
     },
     {
       "id": "84ClHj211zAl3PrlQjch",
@@ -1622,7 +1630,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-30"
+      "createdAt": "2026-06-30",
+      "isPersistent": false,
+      "expiresAt": "2026-08-29"
     },
     {
       "id": "D5LplnrJAMk7Jm3qtoqe",
@@ -1639,7 +1649,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-30"
+      "createdAt": "2026-06-30",
+      "isPersistent": false,
+      "expiresAt": "2026-08-29"
     },
     {
       "id": "SsWVt712GnyZ2DzCAVwY",
@@ -1656,7 +1668,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-30"
+      "createdAt": "2026-06-30",
+      "isPersistent": false,
+      "expiresAt": "2026-08-29"
     },
     {
       "id": "cFUiPzoi27XVwYJMd66N",
@@ -1673,7 +1687,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-30"
+      "createdAt": "2026-06-30",
+      "isPersistent": false,
+      "expiresAt": "2026-08-29"
     },
     {
       "id": "PO0oGbSqbmj3cT7wj2tj",
@@ -1690,7 +1706,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-30"
+      "createdAt": "2026-06-30",
+      "isPersistent": false,
+      "expiresAt": "2026-08-29"
     },
     {
       "id": "AaAs8wsYmGPBWId2vcea",
@@ -1707,7 +1725,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-30"
+      "createdAt": "2026-06-30",
+      "isPersistent": false,
+      "expiresAt": "2026-08-29"
     },
     {
       "id": "ysR23UmM777aZJi0qYUV",
@@ -1724,7 +1744,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-30"
+      "createdAt": "2026-06-30",
+      "isPersistent": false,
+      "expiresAt": "2026-08-29"
     },
     {
       "id": "xJo8a8ExHELxXzgwmKhC",
@@ -1741,7 +1763,9 @@
       "notes": "Auto-detected: isActive changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-30"
+      "createdAt": "2026-06-30",
+      "isPersistent": false,
+      "expiresAt": "2026-08-29"
     },
     {
       "id": "DXsKs6XgA3TbB0R3xZ4y",
@@ -1758,7 +1782,9 @@
       "notes": "Auto-detected: isActive changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-30"
+      "createdAt": "2026-06-30",
+      "isPersistent": false,
+      "expiresAt": "2026-08-29"
     },
     {
       "id": "eocAWSKNG709Kg0O6rOb",
@@ -1775,7 +1801,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-30"
+      "createdAt": "2026-06-30",
+      "isPersistent": false,
+      "expiresAt": "2026-08-29"
     },
     {
       "id": "uXlpmn4LrYVS01euEpI1",
@@ -1792,7 +1820,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-30"
+      "createdAt": "2026-06-30",
+      "isPersistent": false,
+      "expiresAt": "2026-08-29"
     },
     {
       "id": "4q3nQQ9NWEhumUZ6Q8EH",
@@ -1809,7 +1839,9 @@
       "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
-      "createdAt": "2026-06-30"
+      "createdAt": "2026-06-30",
+      "isPersistent": false,
+      "expiresAt": "2026-08-29"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 28,
+    "version": 29,
     "lastUpdated": "2026-06-30",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1722,6 +1722,23 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-30"
+    },
+    {
+      "id": "xJo8a8ExHELxXzgwmKhC",
+      "schoolId": "PA-bloomsburg-university",
+      "schoolName": "Bloomsburg University",
+      "coachFirstName": "Adam",
+      "coachLastName": "Sinkoe",
+      "role": "Assistant Coach",
+      "changeType": "departure",
+      "priority": "standard",
+      "effectiveDate": "2026-06-30",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: isActive changed",
       "isVerified": true,
       "isMidSeason": true,
       "createdAt": "2026-06-30"

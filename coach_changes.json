@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": 18,
-    "lastUpdated": "2026-06-29",
+    "version": 19,
+    "lastUpdated": "2026-06-30",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
   "changes": [
@@ -1555,6 +1555,23 @@
       "isVerified": true,
       "isMidSeason": true,
       "createdAt": "2026-06-29"
+    },
+    {
+      "id": "jzxQgZj5nmNYWoP8rhyj",
+      "schoolId": "GA-university-of-georgia",
+      "schoolName": "University of Georgia",
+      "coachFirstName": "Nick",
+      "coachLastName": "Ammirati",
+      "role": "Assistant Coach/Hitting",
+      "changeType": "promotion",
+      "priority": "standard",
+      "effectiveDate": "2026-06-30",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-30"
     }
   ]
 }

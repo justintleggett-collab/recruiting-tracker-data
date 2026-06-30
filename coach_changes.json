@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 32,
+    "version": 33,
     "lastUpdated": "2026-06-30",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1786,6 +1786,23 @@
       "role": "Head Coach",
       "changeType": "promotion",
       "priority": "high",
+      "effectiveDate": "2026-06-30",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-30"
+    },
+    {
+      "id": "4q3nQQ9NWEhumUZ6Q8EH",
+      "schoolId": "GA-georgia-state-university",
+      "schoolName": "Georgia State University",
+      "coachFirstName": "Christian",
+      "coachLastName": "Castorri",
+      "role": "Assistant Coach",
+      "changeType": "promotion",
+      "priority": "standard",
       "effectiveDate": "2026-06-30",
       "previousSchool": "",
       "destinationSchool": "",

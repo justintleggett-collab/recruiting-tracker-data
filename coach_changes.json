@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 22,
+    "version": 23,
     "lastUpdated": "2026-06-30",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1614,6 +1614,23 @@
       "coachFirstName": "Mike",
       "coachLastName": "Brown",
       "role": "Assistant Coach / Recruiting Coordinator",
+      "changeType": "promotion",
+      "priority": "high",
+      "effectiveDate": "2026-06-30",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-30"
+    },
+    {
+      "id": "D5LplnrJAMk7Jm3qtoqe",
+      "schoolId": "UT-utah-tech-university",
+      "schoolName": "Utah Tech University",
+      "coachFirstName": "Chris",
+      "coachLastName": "Pfatenhauer",
+      "role": "Head Coach",
       "changeType": "promotion",
       "priority": "high",
       "effectiveDate": "2026-06-30",

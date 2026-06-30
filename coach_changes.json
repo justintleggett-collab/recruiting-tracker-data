@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 30,
+    "version": 31,
     "lastUpdated": "2026-06-30",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1756,6 +1756,23 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Auto-detected: isActive changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-30"
+    },
+    {
+      "id": "eocAWSKNG709Kg0O6rOb",
+      "schoolId": "TX-university-of-mary-hardin-baylor",
+      "schoolName": "University of Mary Hardin-Baylor",
+      "coachFirstName": "Hunter",
+      "coachLastName": "Jones",
+      "role": "Assistant Coach",
+      "changeType": "promotion",
+      "priority": "standard",
+      "effectiveDate": "2026-06-30",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
       "isVerified": true,
       "isMidSeason": true,
       "createdAt": "2026-06-30"

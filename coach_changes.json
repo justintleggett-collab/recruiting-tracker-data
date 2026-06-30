@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 25,
+    "version": 26,
     "lastUpdated": "2026-06-30",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1667,6 +1667,23 @@
       "role": "Assistant Coach",
       "changeType": "promotion",
       "priority": "standard",
+      "effectiveDate": "2026-06-30",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: title changed",
+      "isVerified": true,
+      "isMidSeason": true,
+      "createdAt": "2026-06-30"
+    },
+    {
+      "id": "PO0oGbSqbmj3cT7wj2tj",
+      "schoolId": "IN-indiana-state-university",
+      "schoolName": "Indiana State University",
+      "coachFirstName": "Tracy",
+      "coachLastName": "Archuleta",
+      "role": "Head Coach",
+      "changeType": "promotion",
+      "priority": "high",
       "effectiveDate": "2026-06-30",
       "previousSchool": "",
       "destinationSchool": "",

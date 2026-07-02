@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 37,
+    "version": 38,
     "lastUpdated": "2026-07-02",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1894,6 +1894,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Auto-detected: isActive changed",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-02",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "CuN61bKO289fdkPQ7i5g",
+      "schoolId": "CA-csu-bakersfield",
+      "schoolName": "CSU Bakersfield",
+      "coachFirstName": "Jeff",
+      "coachLastName": "Opalewski",
+      "role": "Pitching Coach",
+      "changeType": "new_hire",
+      "priority": "standard",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Jeff Opalewski hired as Pitching Coach at CSU Bakersfield.",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-02",

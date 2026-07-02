@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 38,
+    "version": 39,
     "lastUpdated": "2026-07-02",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1913,6 +1913,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Jeff Opalewski hired as Pitching Coach at CSU Bakersfield.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-02",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "kYYwxvGizyoBEwUG4zqR",
+      "schoolId": "HI-university-of-hawai-i-at-manoa",
+      "schoolName": "University of Hawai'i at Manoa",
+      "coachFirstName": "Dallas",
+      "coachLastName": "Correa",
+      "role": "Pitching Coach",
+      "changeType": "new_hire",
+      "priority": "standard",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Dallas Correa hired as Pitching Coach at University of Hawai'i at Manoa.",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-02",

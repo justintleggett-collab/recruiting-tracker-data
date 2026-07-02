@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 43,
+    "version": 44,
     "lastUpdated": "2026-07-02",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2008,6 +2008,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Jake Silverman hired as Recruiting Coordinator at University of San Diego.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-02",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "cZsjxOPhjvYF0JdQ3ug1",
+      "schoolId": "MS-university-of-southern-mississippi",
+      "schoolName": "University of Southern Mississippi",
+      "coachFirstName": "Kyle",
+      "coachLastName": "Cheesebrough",
+      "role": "Recruiting Coordinator",
+      "changeType": "new_hire",
+      "priority": "high",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Kyle Cheesebrough hired as Recruiting Coordinator at University of Southern Mississippi.",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-02",

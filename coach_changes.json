@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 41,
+    "version": 42,
     "lastUpdated": "2026-07-02",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1970,6 +1970,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Auto-detected: isActive changed",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-02",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "uk64ZoFQZpPWOwS7votP",
+      "schoolId": "ND-north-dakota-state-university",
+      "schoolName": "North Dakota State University",
+      "coachFirstName": "Andy",
+      "coachLastName": "Young",
+      "role": "Recruiting Coordinator",
+      "changeType": "new_hire",
+      "priority": "high",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Andy Young hired as Recruiting Coordinator at North Dakota State University.",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-02",

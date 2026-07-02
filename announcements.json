@@ -33,12 +33,12 @@
     {
       "id": "ann-004",
       "message": "Major App Update Coming Soon!",
-      "linkText": "Version 2.0 is being finalized and slated release in the coming days. Make sure that all of your data is backed up. Email Us with Questions. ",
+      "linkText": "Version 2.0 is being finalized now. Make sure that all of your data is backed up. Email Us with Questions. ",
       "linkURL": "mailto:support@baseballrecruitingtracker.com",
       "startDate": "2026-06-30",
       "stopDate": "2026-07-06",
       "active": true,
-      "color": "Red"
+      "color": "red"
     }
   ]
 }

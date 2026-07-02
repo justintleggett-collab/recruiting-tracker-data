@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 39,
+    "version": 40,
     "lastUpdated": "2026-07-02",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1932,6 +1932,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Dallas Correa hired as Pitching Coach at University of Hawai'i at Manoa.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-02",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "zsDTqccyENImnaqiakgg",
+      "schoolId": "TX-lamar-university",
+      "schoolName": "Lamar University",
+      "coachFirstName": "Tres",
+      "coachLastName": "Barrera",
+      "role": "Hitting Coach",
+      "changeType": "new_hire",
+      "priority": "standard",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Tres Barrera hired as Hitting Coach at Lamar University.",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-02",

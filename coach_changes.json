@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 45,
+    "version": 46,
     "lastUpdated": "2026-07-02",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2046,6 +2046,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Auto-detected: isActive changed",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-02",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "QRgOJksPKskuj2eIefZO",
+      "schoolId": "IN-valparaiso-university",
+      "schoolName": "Valparaiso University",
+      "coachFirstName": "Robby",
+      "coachLastName": "Enslen",
+      "role": "Hitting Coach",
+      "changeType": "new_hire",
+      "priority": "standard",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Robby Enslen hired as Hitting Coach at Valparaiso University.",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-02",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 44,
+    "version": 45,
     "lastUpdated": "2026-07-02",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2027,6 +2027,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Kyle Cheesebrough hired as Recruiting Coordinator at University of Southern Mississippi.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-02",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "xkKcEsh5NjeHtCatduLW",
+      "schoolId": "LA-tulane-university",
+      "schoolName": "Tulane University",
+      "coachFirstName": "Anthony",
+      "coachLastName": "Izzio",
+      "role": "Associate Head Coach / Pitching Coach",
+      "changeType": "departure",
+      "priority": "high",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: isActive changed",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-02",

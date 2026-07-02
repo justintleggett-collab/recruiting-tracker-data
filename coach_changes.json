@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 40,
+    "version": 41,
     "lastUpdated": "2026-07-02",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -1951,6 +1951,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Tres Barrera hired as Hitting Coach at Lamar University.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-02",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "JFh4qrJh6YU5OGVqqHxw",
+      "schoolId": "NC-north-carolina-state-university",
+      "schoolName": "North Carolina State University",
+      "coachFirstName": "Chris",
+      "coachLastName": "Hart",
+      "role": "Head Coach",
+      "changeType": "departure",
+      "priority": "high",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: isActive changed",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-02",

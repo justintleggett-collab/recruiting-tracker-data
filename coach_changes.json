@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 54,
+    "version": 55,
     "lastUpdated": "2026-07-03",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2217,6 +2217,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Abraham Garcia-Pacheco hired as Assistant Coach at CSU San Bernardino.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-03",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "IiBD6UYOnvmavGgDcpvN",
+      "schoolId": "PA-east-stroudsburg-university",
+      "schoolName": "East Stroudsburg University",
+      "coachFirstName": "Joe",
+      "coachLastName": "Baran",
+      "role": "Assistant Coach / Pitching",
+      "changeType": "new_hire",
+      "priority": "standard",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Joe Baran hired as Assistant Coach / Pitching at East Stroudsburg University.",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-03",

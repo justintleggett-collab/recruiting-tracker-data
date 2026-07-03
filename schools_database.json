@@ -38885,8 +38885,8 @@
     "lastModified": null
   },
   {
-    "schoolID": "CA-california-state-polytechnic-universitypomona",
-    "schoolName": "California State Polytechnic University-Pomona",
+    "schoolID": "CA-cal-poly-pomona",
+    "schoolName": "Cal Poly Pomona",
     "city": "Pomona",
     "state": "CA",
     "division": "D2",
@@ -38920,8 +38920,8 @@
     "lastModified": null
   },
   {
-    "schoolID": "CA-california-state-universitydominguez-hills",
-    "schoolName": "California State University-Dominguez Hills",
+    "schoolID": "CA-cal-state-dominguez-hills",
+    "schoolName": "Cal State Dominguez Hills",
     "city": "Carson",
     "state": "CA",
     "division": "D2",
@@ -38955,8 +38955,8 @@
     "lastModified": null
   },
   {
-    "schoolID": "CA-california-state-universityeast-bay",
-    "schoolName": "California State University-East Bay",
+    "schoolID": "CA-cal-state-east-bay",
+    "schoolName": "Cal State East Bay",
     "city": "Hayward",
     "state": "CA",
     "division": "D2",
@@ -38990,8 +38990,8 @@
     "lastModified": null
   },
   {
-    "schoolID": "CA-california-state-universitymonterey-bay",
-    "schoolName": "California State University-Monterey Bay",
+    "schoolID": "CA-csu-monterey-bay",
+    "schoolName": "CSU Monterey Bay",
     "city": "Seaside",
     "state": "CA",
     "division": "D2",
@@ -39025,8 +39025,8 @@
     "lastModified": null
   },
   {
-    "schoolID": "CA-california-state-universitysan-bernardino",
-    "schoolName": "California State University-San Bernardino",
+    "schoolID": "CA-csu-san-bernardino",
+    "schoolName": "CSU San Bernardino",
     "city": "San Bernardino",
     "state": "CA",
     "division": "D2",
@@ -39060,8 +39060,8 @@
     "lastModified": null
   },
   {
-    "schoolID": "CA-california-state-universitysan-marcos",
-    "schoolName": "California State University-San Marcos",
+    "schoolID": "CA-csu-san-marcos",
+    "schoolName": "CSU San Marcos",
     "city": "San Marcos",
     "state": "CA",
     "division": "D2",
@@ -39095,8 +39095,8 @@
     "lastModified": null
   },
   {
-    "schoolID": "CA-california-state-universitystanislaus",
-    "schoolName": "California State University-Stanislaus",
+    "schoolID": "CA-csu-stanislaus",
+    "schoolName": "CSU Stanislaus",
     "city": "Turlock",
     "state": "CA",
     "division": "D2",
@@ -39200,8 +39200,8 @@
     "lastModified": null
   },
   {
-    "schoolID": "CA-california-state-universitychico",
-    "schoolName": "California State University-Chico",
+    "schoolID": "CA-chico-state",
+    "schoolName": "Chico State",
     "city": "Chico",
     "state": "CA",
     "division": "D2",
@@ -39270,8 +39270,8 @@
     "lastModified": null
   },
   {
-    "schoolID": "PA-east-stroudsburg-university-of-pennsylvania",
-    "schoolName": "East Stroudsburg University of Pennsylvania",
+    "schoolID": "PA-east-stroudsburg-university",
+    "schoolName": "East Stroudsburg University",
     "city": "East Stroudsburg",
     "state": "PA",
     "division": "D2",
@@ -39375,8 +39375,8 @@
     "lastModified": null
   },
   {
-    "schoolID": "MN-minnesota-state-universitymankato",
-    "schoolName": "Minnesota State University-Mankato",
+    "schoolID": "MN-minnesota-state-university-mankato",
+    "schoolName": "Minnesota State University, Mankato",
     "city": "Mankato",
     "state": "MN",
     "division": "D2",
@@ -39410,8 +39410,8 @@
     "lastModified": null
   },
   {
-    "schoolID": "MO-missouri-university-of-science-and-technology",
-    "schoolName": "Missouri University of Science and Technology",
+    "schoolID": "MO-missouri-st",
+    "schoolName": "Missouri S&T",
     "city": "Rolla",
     "state": "MO",
     "division": "D2",
@@ -39480,8 +39480,8 @@
     "lastModified": null
   },
   {
-    "schoolID": "CA-point-loma-nazarene-university",
-    "schoolName": "Point Loma Nazarene University",
+    "schoolID": "CA-point-loma",
+    "schoolName": "Point Loma",
     "city": "San Diego",
     "state": "CA",
     "division": "D2",
@@ -39550,8 +39550,8 @@
     "lastModified": null
   },
   {
-    "schoolID": "PA-slippery-rock-university-of-pennsylvania",
-    "schoolName": "Slippery Rock University of Pennsylvania",
+    "schoolID": "PA-slippery-rock-university",
+    "schoolName": "Slippery Rock University",
     "city": "Slippery Rock",
     "state": "PA",
     "division": "D2",
@@ -39620,8 +39620,8 @@
     "lastModified": null
   },
   {
-    "schoolID": "TX-texas-am-universitykingsville",
-    "schoolName": "Texas A&M University-Kingsville",
+    "schoolID": "TX-texas-am-kingsville",
+    "schoolName": "Texas A&M-Kingsville",
     "city": "Kingsville",
     "state": "TX",
     "division": "D2",
@@ -39760,8 +39760,8 @@
     "lastModified": null
   },
   {
-    "schoolID": "VA-university-of-virginias-college-at-wise",
-    "schoolName": "University of Virginia's College at Wise",
+    "schoolID": "VA-uva-wise",
+    "schoolName": "UVA Wise",
     "city": "Wise",
     "state": "VA",
     "division": "D2",

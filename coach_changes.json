@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": 46,
-    "lastUpdated": "2026-07-02",
+    "version": 47,
+    "lastUpdated": "2026-07-03",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
   "changes": [
@@ -2068,6 +2068,25 @@
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-02",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "1AOW52d2qtAgk4a558lx",
+      "schoolId": "CO-colorado-school-of-mines",
+      "schoolName": "CO-colorado-school-of-mines",
+      "coachFirstName": "Bryan",
+      "coachLastName": "King",
+      "role": "Assistant Coach / Recruiting Coordinator",
+      "changeType": "new_hire",
+      "priority": "high",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Bryan King hired as Assistant Coach / Recruiting Coordinator at CO-colorado-school-of-mines.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-03",
       "isPersistent": false,
       "expiresAt": "2026-08-31"
     }

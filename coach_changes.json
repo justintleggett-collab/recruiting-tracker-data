@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 55,
+    "version": 56,
     "lastUpdated": "2026-07-03",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2236,6 +2236,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Joe Baran hired as Assistant Coach / Pitching at East Stroudsburg University.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-03",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "xAUevroVCDpV9jsLzqvL",
+      "schoolId": "VA-uva-wise",
+      "schoolName": "UVA Wise",
+      "coachFirstName": "Devon",
+      "coachLastName": "Moring",
+      "role": "Assistant Pitching Coach / Baseball Operations",
+      "changeType": "new_hire",
+      "priority": "standard",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Devon Moring hired as Assistant Pitching Coach / Baseball Operations at UVA Wise.",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-03",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 53,
+    "version": 54,
     "lastUpdated": "2026-07-03",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2198,6 +2198,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Anthony Mizrahi hired as Assistant Coach at Cal Poly Pomona.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-03",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "nLii7Lu33Jv5CAV2Rrpz",
+      "schoolId": "CA-csu-san-bernardino",
+      "schoolName": "CSU San Bernardino",
+      "coachFirstName": "Abraham",
+      "coachLastName": "Garcia-Pacheco",
+      "role": "Assistant Coach",
+      "changeType": "new_hire",
+      "priority": "standard",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Abraham Garcia-Pacheco hired as Assistant Coach at CSU San Bernardino.",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-03",

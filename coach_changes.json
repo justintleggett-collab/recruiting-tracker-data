@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 58,
+    "version": 59,
     "lastUpdated": "2026-07-03",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2298,6 +2298,25 @@
       "createdAt": "2026-07-03",
       "isPersistent": false,
       "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "BWDcmgBXepY1NX2W9Xqb",
+      "schoolId": "NC-north-carolina-state-university",
+      "schoolName": "North Carolina State University",
+      "coachFirstName": "Chris",
+      "coachLastName": "Hart",
+      "role": "Head Coach",
+      "changeType": "promotion",
+      "priority": "high",
+      "effectiveDate": "2026-07-03",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: isActive changed",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-03",
+      "isPersistent": false,
+      "expiresAt": "2026-09-01"
     }
   ]
 }

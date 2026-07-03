@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 47,
+    "version": 48,
     "lastUpdated": "2026-07-03",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2084,6 +2084,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Bryan King hired as Assistant Coach / Recruiting Coordinator at CO-colorado-school-of-mines.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-03",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "mi7j9ZKMbthaJNEKUsvZ",
+      "schoolId": "AR-university-of-arkansas-at-monticello",
+      "schoolName": "AR-university-of-arkansas-at-monticello",
+      "coachFirstName": "John",
+      "coachLastName": "Harvey",
+      "role": "Head Coach",
+      "changeType": "new_hire",
+      "priority": "high",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "John Harvey hired as Head Coach at AR-university-of-arkansas-at-monticello.",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-03",

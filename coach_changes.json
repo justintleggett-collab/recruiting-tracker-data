@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 51,
+    "version": 52,
     "lastUpdated": "2026-07-03",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2160,6 +2160,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Brian Voigt hired as Head Coach at IA-upper-iowa-university.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-03",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "GcmJIJgSJVPZuiQE0zkM",
+      "schoolId": "TX-university-of-texas-at-tyler",
+      "schoolName": "TX-university-of-texas-at-tyler",
+      "coachFirstName": "Brent",
+      "coachLastName": "Porche",
+      "role": "Head Coach",
+      "changeType": "new_hire",
+      "priority": "high",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Brent Porche hired as Head Coach at TX-university-of-texas-at-tyler.",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-03",

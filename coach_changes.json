@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 52,
+    "version": 53,
     "lastUpdated": "2026-07-03",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2179,6 +2179,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Brent Porche hired as Head Coach at TX-university-of-texas-at-tyler.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-03",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "eFOjSFljTO8mS2CLWtVT",
+      "schoolId": "CA-cal-poly-pomona",
+      "schoolName": "Cal Poly Pomona",
+      "coachFirstName": "Anthony",
+      "coachLastName": "Mizrahi",
+      "role": "Assistant Coach",
+      "changeType": "new_hire",
+      "priority": "standard",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Anthony Mizrahi hired as Assistant Coach at Cal Poly Pomona.",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-03",

@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 57,
+    "version": 58,
     "lastUpdated": "2026-07-03",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2274,6 +2274,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Matthew Owens hired as Associate Head Coach at Chestnut Hill College.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-03",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "fwzQqaM3blIGGvy8LrKO",
+      "schoolId": "TX-university-of-texas-at-tyler",
+      "schoolName": "University of Texas at Tyler",
+      "coachFirstName": "Taylor",
+      "coachLastName": "White",
+      "role": "Associate Head Coach / Recruiting Coordinator",
+      "changeType": "new_hire",
+      "priority": "high",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Taylor White hired as Associate Head Coach / Recruiting Coordinator at University of Texas at Tyler.",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-03",

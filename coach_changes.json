@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 56,
+    "version": 57,
     "lastUpdated": "2026-07-03",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2255,6 +2255,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Devon Moring hired as Assistant Pitching Coach / Baseball Operations at UVA Wise.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-03",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "QUg6Wkck6fLldjpD4EnY",
+      "schoolId": "PA-chestnut-hill-college",
+      "schoolName": "Chestnut Hill College",
+      "coachFirstName": "Matthew",
+      "coachLastName": "Owens",
+      "role": "Associate Head Coach",
+      "changeType": "new_hire",
+      "priority": "high",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Matthew Owens hired as Associate Head Coach at Chestnut Hill College.",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-03",

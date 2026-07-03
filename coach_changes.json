@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 49,
+    "version": 50,
     "lastUpdated": "2026-07-03",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2122,6 +2122,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Grant Reynolds hired as Head Coach at MO-lincoln-university-mo.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-03",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "UO2hTfNkFbr9oVFVUHVG",
+      "schoolId": "SD-university-of-sioux-falls",
+      "schoolName": "SD-university-of-sioux-falls",
+      "coachFirstName": "Grant",
+      "coachLastName": "Hieb",
+      "role": "Head Coach",
+      "changeType": "new_hire",
+      "priority": "high",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Grant Hieb hired as Head Coach at SD-university-of-sioux-falls.",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-03",

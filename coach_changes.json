@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 50,
+    "version": 51,
     "lastUpdated": "2026-07-03",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2141,6 +2141,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Grant Hieb hired as Head Coach at SD-university-of-sioux-falls.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-03",
+      "isPersistent": false,
+      "expiresAt": "2026-08-31"
+    },
+    {
+      "id": "Txac5luwiaoN58AETOB1",
+      "schoolId": "IA-upper-iowa-university",
+      "schoolName": "IA-upper-iowa-university",
+      "coachFirstName": "Brian",
+      "coachLastName": "Voigt",
+      "role": "Head Coach",
+      "changeType": "new_hire",
+      "priority": "high",
+      "effectiveDate": "2026-07-02",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Brian Voigt hired as Head Coach at IA-upper-iowa-university.",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-03",

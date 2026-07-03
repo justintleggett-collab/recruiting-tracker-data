@@ -12,7 +12,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Rick McCarty",
@@ -2957,11 +2957,11 @@
     "coaches": [
       {
         "name": "Jordan Aboites",
-        "title": "Recruiting Coordinator",
+        "title": "",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Gary Adcock",
@@ -3004,6 +3004,22 @@
     "division": "",
     "conference": "",
     "coaches": [
+      {
+        "name": "Anthony Mizrahi",
+        "title": "Assistant Coach",
+        "email": "ajmizrahi@cpp.edu",
+        "phone": "909-869-2774",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:42Z"
+      },
+      {
+        "name": "Jenzen Torres",
+        "title": "Associate Head Coach",
+        "email": "jenzentorres@cpp.edu",
+        "phone": "909-869-2774",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:41Z"
+      },
       {
         "name": "Randy Betten",
         "title": "Head Coach",
@@ -3119,6 +3135,38 @@
     "division": "",
     "conference": "",
     "coaches": [
+      {
+        "name": "Enrique Nunez",
+        "title": "Assistant Baseball Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:43Z"
+      },
+      {
+        "name": "Nick White",
+        "title": "Assistant Baseball Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:43Z"
+      },
+      {
+        "name": "Matt Page",
+        "title": "Assistant Baseball Coach",
+        "email": "",
+        "phone": "510-885-3046",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:43Z"
+      },
+      {
+        "name": "Cole Coffey",
+        "title": "Assistant Baseball Coach",
+        "email": "cole.coffey@csueastbay.edu",
+        "phone": "510-885-4381",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:43Z"
+      },
       {
         "name": "Mike Cummins",
         "title": "Head Coach",
@@ -3567,7 +3615,7 @@
   },
   {
     "schoolID": "TN-815774",
-    "schoolName": "Carsonâ€“Newman University",
+    "schoolName": "Carson\u00e2\u20ac\u201cNewman University",
     "state": "",
     "division": "",
     "conference": "",
@@ -3860,20 +3908,20 @@
         "lastVerifiedDate": ""
       },
       {
+        "name": "Jonathan Vance",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-02T22:19:27Z"
+      },
+      {
         "name": "Jake Sabol",
         "title": "Head Coach",
         "email": "774-4380sabol1jr@cmich.edu",
         "phone": "(989) 774-4380",
         "twitter": "@JakeSabol24",
         "lastVerifiedDate": ""
-      },
-      {
-        "name": "Jonathan Vance",
-        "title": "Pitching Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
       }
     ]
   },
@@ -4129,6 +4177,55 @@
     "division": "",
     "conference": "",
     "coaches": []
+  },
+  {
+    "schoolID": "PA-chestnut-hill-college",
+    "schoolName": "Chestnut Hill College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Mason Marino",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:33Z"
+      },
+      {
+        "name": "Robert Spratt",
+        "title": "Head Baseball Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:30:08Z"
+      },
+      {
+        "name": "A.J. Stento",
+        "title": "Assistant Coach",
+        "email": "StenotA@chc.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:33Z"
+      },
+      {
+        "name": "Ed O'Melia",
+        "title": "Assistant Coach",
+        "email": "OmeliaE@chc.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:32Z"
+      },
+      {
+        "name": "Matthew Owens",
+        "title": "Associate Head Coach",
+        "email": "OwensM@chc.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:32Z"
+      }
+    ]
   },
   {
     "schoolID": "CA-chico-state",
@@ -4627,7 +4724,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Josh Hopper",
@@ -4635,7 +4732,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Tyler Shewmaker",
@@ -4659,7 +4756,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Chris Lemonis",
@@ -4667,7 +4764,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       }
     ]
   },
@@ -4840,7 +4937,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Sawyer Bridges",
@@ -5412,7 +5509,7 @@
   },
   {
     "schoolID": "MN-930588",
-    "schoolName": "Concordia Collegeâ€“Moorhead",
+    "schoolName": "Concordia College\u00e2\u20ac\u201cMoorhead",
     "state": "",
     "division": "",
     "conference": "",
@@ -5775,7 +5872,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Billy Mohl",
@@ -5844,6 +5941,14 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Jeff Opalewski",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-02T22:19:29Z"
+      },
+      {
         "name": "Jack Leary",
         "title": "",
         "email": "",
@@ -5882,14 +5987,6 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
-      },
-      {
-        "name": "Jeff Opalewski",
-        "title": "Pitching Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
       }
     ]
   },
@@ -6080,12 +6177,60 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Matt Gonzales",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:45Z"
+      },
+      {
+        "name": "Abraham Garcia-Pacheco",
+        "title": "Assistant Coach",
+        "email": "abraham.garcia-pacheco@csusb.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:44Z"
+      },
+      {
+        "name": "Art Salazar",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:45Z"
+      },
+      {
         "name": "Mike Nadeau",
         "title": "Head Coach",
         "email": "michael.nadeau@csusb.edu",
         "phone": "909-537-5021",
         "twitter": "",
         "lastVerifiedDate": ""
+      },
+      {
+        "name": "Jason Shedlock",
+        "title": "Assistant Coach",
+        "email": "jason.shedlock@csusb.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:45Z"
+      },
+      {
+        "name": "Jeff James",
+        "title": "Associate Head Coach / Recruiting Coordinator",
+        "email": "jeffrey.james@csusb.edu",
+        "phone": "909-537-5021",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:44Z"
+      },
+      {
+        "name": "Colby Scheuber",
+        "title": "Assistant Coach",
+        "email": "colby.scheuber@csusb.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:45Z"
       }
     ]
   },
@@ -6299,7 +6444,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Recruiting Coordinator/Assistant",
@@ -6921,7 +7066,7 @@
   },
   {
     "schoolID": "NY-484865",
-    "schoolName": "Dâ€™Youville University",
+    "schoolName": "D\u00e2\u20ac\u2122Youville University",
     "state": "",
     "division": "",
     "conference": "",
@@ -6961,11 +7106,11 @@
       },
       {
         "name": "Bryant Packard",
-        "title": "Hitting Coach",
+        "title": "Director of Player Development",
         "email": "packardb25@ecu.edu",
         "phone": "(252) 737-1980",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Jeff Palumbo",
@@ -6981,7 +7126,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       }
     ]
   },
@@ -7083,6 +7228,14 @@
     "division": "",
     "conference": "",
     "coaches": [
+      {
+        "name": "Joe Baran",
+        "title": "Assistant Coach / Pitching",
+        "email": "jbaran1@esu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:47Z"
+      },
       {
         "name": "John Kochmansky",
         "title": "Head Coach",
@@ -7330,14 +7483,6 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Mike Ott",
-        "title": "Head Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
         "name": "Brody Ware",
         "title": "Director of Pitching Development",
         "email": "brodyware2@gmail.com",
@@ -7346,12 +7491,20 @@
         "lastVerifiedDate": ""
       },
       {
+        "name": "Mike Ott",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-02T22:19:21Z"
+      },
+      {
         "name": "Steve Merriman",
         "title": "Pitching Coach",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Seth Caddell",
@@ -7695,7 +7848,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       }
     ]
   },
@@ -7977,7 +8130,7 @@
         "lastVerifiedDate": ""
       },
       {
-        "name": "Jessy Camiré",
+        "name": "Jessy Camir\u00e9",
         "title": "Assistant Coach",
         "email": "jessy.camire@erskine.edu",
         "phone": "",
@@ -8433,15 +8586,15 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Juan Alvarez",
-        "title": "Pitching Coach",
+        "title": "Assistant Coach - Pitching",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       }
     ]
   },
@@ -9731,7 +9884,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Grant Maxwell",
@@ -9755,7 +9908,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Ryan Kramer",
@@ -9771,7 +9924,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Ryan Hansen",
@@ -9803,7 +9956,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       }
     ]
   },
@@ -10743,6 +10896,31 @@
     "coaches": []
   },
   {
+    "schoolID": "PA-holy-family-university",
+    "schoolName": "Holy Family University",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Robert Kraft",
+        "title": "Assistant Baseball Coach",
+        "email": "rkraft10@holyfamily.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:33Z"
+      },
+      {
+        "name": "Kyle Davis",
+        "title": "Head Baseball Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:30:09Z"
+      }
+    ]
+  },
+  {
     "schoolID": "MA-holyoke-community-college",
     "schoolName": "Holyoke Community College",
     "state": "",
@@ -11337,7 +11515,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Travis Creel",
@@ -11345,7 +11523,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Danny Lynch",
@@ -11353,7 +11531,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Anthony Izzio",
@@ -11361,7 +11539,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       }
     ]
   },
@@ -12290,7 +12468,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Kyle Cheesebrough",
@@ -12306,7 +12484,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Tres Barrera",
@@ -12314,7 +12492,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": "2026-07-02T22:19:35Z"
       }
     ]
   },
@@ -12824,6 +13002,31 @@
         "phone": "423-869-6798",
         "twitter": "",
         "lastVerifiedDate": ""
+      }
+    ]
+  },
+  {
+    "schoolID": "MO-lincoln-university-mo",
+    "schoolName": "Lincoln University (MO)",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Curtis Vaughan",
+        "title": "Assistant Coach",
+        "email": "curtis.vaughan656@lincolnu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:34Z"
+      },
+      {
+        "name": "Grant Reynolds",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:30:11Z"
       }
     ]
   },
@@ -15301,7 +15504,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Tanner Petersen",
@@ -16018,6 +16221,47 @@
     ]
   },
   {
+    "schoolID": "NM-new-mexico-highlands-university",
+    "schoolName": "New Mexico Highlands University",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Kelly Morton",
+        "title": "Assistant Baseball Coach / Outfield / Hitting",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:34Z"
+      },
+      {
+        "name": "Steve Jones",
+        "title": "Head Baseball Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:30:12Z"
+      },
+      {
+        "name": "Antonio Siqueiros",
+        "title": "Assistant Baseball Coach / Pitching / Recruiting",
+        "email": "acsiqueiros@nmhu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:34Z"
+      },
+      {
+        "name": "Austen King",
+        "title": "Assistant Baseball Coach / Pitching / Development",
+        "email": "aking17@live.nmhu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:35Z"
+      }
+    ]
+  },
+  {
     "schoolID": "NM-new-mexico-military-institute",
     "schoolName": "New Mexico Military Institute",
     "state": "",
@@ -16062,7 +16306,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Connor Dailey",
@@ -16070,7 +16314,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Noah Fresquez",
@@ -16263,20 +16507,20 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Kevin Putsky",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-02T22:19:38Z"
+      },
+      {
         "name": "Robbie McClellan",
         "title": "Head Coach",
         "email": "rmcclell@njit.edu",
         "phone": "973-596-8396",
         "twitter": "",
         "lastVerifiedDate": ""
-      },
-      {
-        "name": "Kevin Putsky",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
       }
     ]
   },
@@ -16405,10 +16649,10 @@
       {
         "name": "Chris Hart",
         "title": "Head Coach",
-        "email": "",
-        "phone": "",
+        "email": "cjhart@ncsu.edu",
+        "phone": "(919) 515-3613",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": "2026-07-03T17:13:30Z"
       },
       {
         "name": "Taylor Black",
@@ -16416,7 +16660,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Clint Chrysler",
@@ -16551,20 +16795,20 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Andy Young",
+        "title": "Recruiting Coordinator",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-02T22:19:38Z"
+      },
+      {
         "name": "Tyler Oakes",
         "title": "Head Coach",
         "email": "tyler.oakes@ndsu.edu",
         "phone": "701-231-8739",
         "twitter": "",
         "lastVerifiedDate": ""
-      },
-      {
-        "name": "Andy Young",
-        "title": "Recruiting Coordinator",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
       }
     ]
   },
@@ -17068,6 +17312,14 @@
         "lastVerifiedDate": ""
       },
       {
+        "name": "Jason Kelly",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-02T22:19:39Z"
+      },
+      {
         "name": "Tyler Rost",
         "title": "Recruiting Coordinator / Hitting Coach",
         "email": "tyler.rost@northwestern.edu",
@@ -17090,14 +17342,6 @@
         "phone": "(847) 491-4652",
         "twitter": "@TitoFlores24",
         "lastVerifiedDate": ""
-      },
-      {
-        "name": "Jason Kelly",
-        "title": "Pitching Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
       }
     ]
   },
@@ -17176,20 +17420,20 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Mike Ruppenthal",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-02T22:19:39Z"
+      },
+      {
         "name": "Assistant Coach/Recruiting",
         "title": "Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
-      },
-      {
-        "name": "Mike Ruppenthal",
-        "title": "Pitching Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
       }
     ]
   },
@@ -17567,7 +17811,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Ryan Gipson",
@@ -17991,6 +18235,23 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
+      }
+    ]
+  },
+  {
+    "schoolID": "PA-pennsylvania-western-university-california-pa",
+    "schoolName": "Pennsylvania Western University / California (PA)",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Joey Noro",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:30:06Z"
       }
     ]
   },
@@ -18550,7 +18811,7 @@
         "lastVerifiedDate": ""
       },
       {
-        "name": "O’Kevius Conway",
+        "name": "O\u2019Kevius Conway",
         "title": "",
         "email": "",
         "phone": "",
@@ -18881,6 +19142,22 @@
         "name": "Conrad Felks Jr.",
         "title": "",
         "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": ""
+      },
+      {
+        "name": "James Cullinane",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": ""
+      },
+      {
+        "name": "Jake Hendrick",
+        "title": "Head Coach",
+        "email": "hendrickj@queens.edu",
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
@@ -19353,6 +19630,14 @@
         "lastVerifiedDate": ""
       },
       {
+        "name": "Brendan O'Donnell",
+        "title": "Recruiting Coordinator",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-02T22:19:41Z"
+      },
+      {
         "name": "Jacqueline Panico",
         "title": "",
         "email": "",
@@ -19375,14 +19660,6 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
-      },
-      {
-        "name": "Brendan O'Donnell",
-        "title": "Recruiting Coordinator",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
       }
     ]
   },
@@ -19857,7 +20134,7 @@
   },
   {
     "schoolID": "NJ-272555",
-    "schoolName": "Rutgers Universityâ€“Camden",
+    "schoolName": "Rutgers University\u00e2\u20ac\u201cCamden",
     "state": "",
     "division": "",
     "conference": "",
@@ -19865,7 +20142,7 @@
   },
   {
     "schoolID": "NJ-346923",
-    "schoolName": "Rutgers Universityâ€“Newark",
+    "schoolName": "Rutgers University\u00e2\u20ac\u201cNewark",
     "state": "",
     "division": "",
     "conference": "",
@@ -20360,7 +20637,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Daniel Costanza",
@@ -20379,12 +20656,20 @@
         "lastVerifiedDate": ""
       },
       {
-        "name": "Andrew Shebloski",
-        "title": "Catching Coach",
+        "name": "Test Coach Delete Me",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
+      },
+      {
+        "name": "Andrew Shebloski",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": ""
       },
       {
         "name": "Tanner Cunha",
@@ -20481,7 +20766,7 @@
   },
   {
     "schoolID": "NJ-131018",
-    "schoolName": "Saint Peterâ€™s University",
+    "schoolName": "Saint Peter\u00e2\u20ac\u2122s University",
     "state": "",
     "division": "",
     "conference": "",
@@ -21317,12 +21602,36 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Ricky Mineo",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:48Z"
+      },
+      {
+        "name": "Billy Herman",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:48Z"
+      },
+      {
         "name": "Jeff Messer",
         "title": "Head Coach",
         "email": "jeffrey.messer@sru.edu",
         "phone": "724-738-2813",
         "twitter": "@psac_baseball",
         "lastVerifiedDate": ""
+      },
+      {
+        "name": "Billy Messer",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "william.messer@sru.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:48Z"
       }
     ]
   },
@@ -21526,7 +21835,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Matt Riser",
@@ -22270,7 +22579,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       }
     ]
   },
@@ -23312,7 +23621,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Danny-David Linahan",
@@ -23320,7 +23629,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Thomas Eshelman",
@@ -23328,7 +23637,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "John DiLaura",
@@ -23375,6 +23684,39 @@
     ]
   },
   {
+    "schoolID": "TX-texas-am-international-university",
+    "schoolName": "Texas A&M International University",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Ruben Rodriguez",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:30:15Z"
+      },
+      {
+        "name": "Ariben Gutierrez",
+        "title": "Assistant Coach",
+        "email": "ariben.gutierrez@tamiu.edu",
+        "phone": "956-326-3003",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:36Z"
+      },
+      {
+        "name": "McKinley Scott",
+        "title": "Assistant Coach",
+        "email": "mckinley.scott@tamiu.edu",
+        "phone": "956-326-3003",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:36Z"
+      }
+    ]
+  },
+  {
     "schoolID": "TX-texas-am-university",
     "schoolName": "Texas A&M University",
     "state": "",
@@ -23395,7 +23737,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Michael Earley",
@@ -23423,11 +23765,11 @@
       },
       {
         "name": "Nolan Cain",
-        "title": "Associate Head Coach / Recruiting Coordinator",
+        "title": "Recruiting Coordinator / Associate Head Coach",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Cliff Pennington",
@@ -23591,7 +23933,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Austin Wallace",
@@ -24163,10 +24505,10 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
-        "name": "Joel Aviña",
+        "name": "Joel Avi\u00f1a",
         "title": "Assistant Coach",
         "email": "javina@towson.edu",
         "phone": "",
@@ -24458,7 +24800,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Walt Jones",
@@ -24683,14 +25025,6 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Gregg Wallis",
-        "title": "Head Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
         "name": "Associate Director",
         "title": "",
         "email": "",
@@ -24713,6 +25047,14 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
+      },
+      {
+        "name": "Gregg Wallis",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-02T22:19:25Z"
       },
       {
         "name": "Chaneng Varela",
@@ -25499,7 +25841,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Chip Hale",
@@ -25515,7 +25857,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       }
     ]
   },
@@ -25574,6 +25916,47 @@
         "phone": "501-569-3393",
         "twitter": "",
         "lastVerifiedDate": ""
+      }
+    ]
+  },
+  {
+    "schoolID": "AR-university-of-arkansas-at-monticello",
+    "schoolName": "University of Arkansas at Monticello",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Jordon Cosma",
+        "title": "Assistant Baseball Coach",
+        "email": "cosmaj@uamont.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:32Z"
+      },
+      {
+        "name": "Mason Philley",
+        "title": "Assistant Baseball Coach",
+        "email": "PhilleyM@uamont.edu",
+        "phone": "870-460-1257",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:31Z"
+      },
+      {
+        "name": "Vinnie Rauso",
+        "title": "Assistant Baseball Coach",
+        "email": "rausov@uamont.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:31Z"
+      },
+      {
+        "name": "John Harvey",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:30:05Z"
       }
     ]
   },
@@ -26067,7 +26450,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Rich Dorman",
@@ -26075,7 +26458,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Mike Rivera",
@@ -26218,6 +26601,14 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Dallas Correa",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-02T22:19:33Z"
+      },
+      {
         "name": "Rayson Romero",
         "title": "Director of Player Development",
         "email": "raysonr@hawaii.edu",
@@ -26240,14 +26631,6 @@
         "phone": "",
         "twitter": "@UHBows",
         "lastVerifiedDate": ""
-      },
-      {
-        "name": "Dallas Correa",
-        "title": "Pitching Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
       }
     ]
   },
@@ -26288,7 +26671,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Jace Hutchins",
@@ -26296,7 +26679,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Taylor Dugas",
@@ -26304,7 +26687,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Matt Whitting",
@@ -26320,7 +26703,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       }
     ]
   },
@@ -26697,7 +27080,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Jimmy Ricklefsen",
@@ -27217,6 +27600,14 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Liam Bowen",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:15Z"
+      },
+      {
         "name": "Phil Disher",
         "title": "Associate Head Coach",
         "email": "",
@@ -27263,7 +27654,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": "2026-07-03T15:33:14Z"
       },
       {
         "name": "Andrew Brown",
@@ -27722,7 +28113,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Jose Carballo",
@@ -27838,7 +28229,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Dimitri Haan",
@@ -27849,26 +28240,26 @@
         "lastVerifiedDate": ""
       },
       {
-        "name": "Jeff Calhoon",
-        "title": "Hitting Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
         "name": "Cory Wright",
         "title": "Pitching Coach",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": "2026-07-02T22:19:40Z"
+      },
+      {
+        "name": "Jeff Calhoon",
+        "title": "Hitting Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": ""
       }
     ]
   },
   {
     "schoolID": "NE-692121",
-    "schoolName": "University of Nebraskaâ€“Lincoln",
+    "schoolName": "University of Nebraska\u00e2\u20ac\u201cLincoln",
     "state": "",
     "division": "",
     "conference": "",
@@ -27876,7 +28267,7 @@
   },
   {
     "schoolID": "NE-university-of-nebraska-lincoln",
-    "schoolName": "University of Nebraska–Lincoln",
+    "schoolName": "University of Nebraska\u2013Lincoln",
     "state": "",
     "division": "",
     "conference": "",
@@ -27928,7 +28319,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Bryan Gidge",
@@ -27936,7 +28327,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": "2026-07-02T22:19:49Z"
       },
       {
         "name": "Dan Jaffe",
@@ -27944,7 +28335,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": "2026-07-02T22:19:50Z"
       }
     ]
   },
@@ -27977,7 +28368,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Noah Shackles",
@@ -28546,11 +28937,11 @@
       },
       {
         "name": "Jack Marder",
-        "title": "Recruiting Coordinator",
+        "title": "",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Dan Straily",
@@ -28978,6 +29369,14 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Nathan Bannister",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-02T22:19:42Z"
+      },
+      {
         "name": "Jared Suwyn",
         "title": "",
         "email": "",
@@ -29000,6 +29399,14 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
+      },
+      {
+        "name": "Jake Silverman",
+        "title": "Recruiting Coordinator",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-02T22:19:42Z"
       },
       {
         "name": "Grady Miller",
@@ -29032,22 +29439,6 @@
         "phone": "",
         "twitter": "@CoachPfohl",
         "lastVerifiedDate": ""
-      },
-      {
-        "name": "Jake Silverman",
-        "title": "Recruiting Coordinator",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Nathan Bannister",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
       }
     ]
   },
@@ -29089,14 +29480,39 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
+      }
+    ]
+  },
+  {
+    "schoolID": "SD-university-of-sioux-falls",
+    "schoolName": "University of Sioux Falls",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Rob Hirrschoff",
+        "title": "Pitching Coach",
+        "email": "Rob.Hirrschoff@USiouxFalls.edu",
+        "phone": "605-331-6638",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:35Z"
       },
       {
-        "name": "Eric Ma",
-        "title": "Assistant Coach",
+        "name": "Grant Hieb",
+        "title": "Head Coach",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": "2026-07-03T15:30:13Z"
+      },
+      {
+        "name": "Brian Scherschligt",
+        "title": "Assistant Coach",
+        "email": "Brian.Scherschligt@USiouxFalls.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:35Z"
       }
     ]
   },
@@ -29130,7 +29546,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Matt Williams",
@@ -29138,7 +29554,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Bill Cilento",
@@ -29146,7 +29562,15 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
+      },
+      {
+        "name": "Monte Lee",
+        "title": "Associate Head Coach / Recruiting Coordinator",
+        "email": "leem1@mailbox.sc.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": ""
       },
       {
         "name": "Chad Oxendine",
@@ -29154,7 +29578,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "John Crosby",
@@ -29204,7 +29628,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Mitch Hannahs",
@@ -29394,12 +29818,20 @@
         "lastVerifiedDate": ""
       },
       {
-        "name": "Ladd Rhodes",
-        "title": "Hitting Coach",
+        "name": "Kyle Cheesebrough",
+        "title": "Recruiting Coordinator",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": "2026-07-02T22:19:45Z"
+      },
+      {
+        "name": "Ladd Rhodes",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": ""
       },
       {
         "name": "Gunner Leger",
@@ -29408,14 +29840,6 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
-      },
-      {
-        "name": "Kyle Cheesebrough",
-        "title": "Recruiting Coordinator",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
       }
     ]
   },
@@ -29456,7 +29880,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       }
     ]
   },
@@ -29567,6 +29991,14 @@
         "lastVerifiedDate": ""
       },
       {
+        "name": "Jack Marder",
+        "title": "Recruiting Coordinator",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-02T22:19:47Z"
+      },
+      {
         "name": "Chuck Box",
         "title": "",
         "email": "",
@@ -29615,20 +30047,12 @@
         "lastVerifiedDate": ""
       },
       {
-        "name": "Jack Marder",
-        "title": "Recruiting Coordinator",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
         "name": "Caleb Longley",
         "title": "Assistant Coach / Hitting",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": "2026-07-02T22:19:47Z"
       }
     ]
   },
@@ -29663,6 +30087,64 @@
         "phone": "972-883-4061",
         "twitter": "",
         "lastVerifiedDate": ""
+      }
+    ]
+  },
+  {
+    "schoolID": "TX-university-of-texas-at-tyler",
+    "schoolName": "University of Texas at Tyler",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Brent Porche",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:30:19Z"
+      },
+      {
+        "name": "Taylor White",
+        "title": "Associate Head Coach / Recruiting Coordinator",
+        "email": "TaylorWhite@uttyler.edu",
+        "phone": "903-565-5659",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:37Z"
+      },
+      {
+        "name": "Jeff Robinson",
+        "title": "Assistant Coach",
+        "email": "jrobinson@uttyler.edu",
+        "phone": "903-565-6495",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:37Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "TX-university-of-texas-permian-basin",
+    "schoolName": "University of Texas Permian Basin",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Nick Chittum",
+        "title": "Assistant Coach / Pitching Coach",
+        "email": "chittum_n@utpb.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:37Z"
+      },
+      {
+        "name": "Ryan Van Amburg",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:30:17Z"
       }
     ]
   },
@@ -30108,20 +30590,20 @@
         "lastVerifiedDate": ""
       },
       {
+        "name": "Cody McCrary",
+        "title": "Assistant Coach / Hitting",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-02T22:19:51Z"
+      },
+      {
         "name": "Bryan Niedbalski",
         "title": "",
         "email": "",
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
-      },
-      {
-        "name": "Cody McCrary",
-        "title": "Assistant Coach / Hitting",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
       }
     ]
   },
@@ -30297,7 +30779,7 @@
   },
   {
     "schoolID": "WI-643251",
-    "schoolName": "University of Wisconsinâ€“Eau Claire",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cEau Claire",
     "state": "",
     "division": "",
     "conference": "",
@@ -30305,7 +30787,7 @@
   },
   {
     "schoolID": "WI-127445",
-    "schoolName": "University of Wisconsinâ€“La Crosse",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cLa Crosse",
     "state": "",
     "division": "",
     "conference": "",
@@ -30362,7 +30844,7 @@
   },
   {
     "schoolID": "WI-055957",
-    "schoolName": "University of Wisconsinâ€“Milwaukee",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cMilwaukee",
     "state": "",
     "division": "",
     "conference": "",
@@ -30403,7 +30885,7 @@
   },
   {
     "schoolID": "WI-046703",
-    "schoolName": "University of Wisconsinâ€“Oshkosh",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cOshkosh",
     "state": "",
     "division": "",
     "conference": "",
@@ -30468,7 +30950,7 @@
   },
   {
     "schoolID": "WI-690093",
-    "schoolName": "University of Wisconsinâ€“Parkside",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cParkside",
     "state": "",
     "division": "",
     "conference": "",
@@ -30509,7 +30991,7 @@
   },
   {
     "schoolID": "WI-368551",
-    "schoolName": "University of Wisconsinâ€“Platteville",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cPlatteville",
     "state": "",
     "division": "",
     "conference": "",
@@ -30566,7 +31048,7 @@
   },
   {
     "schoolID": "WI-878077",
-    "schoolName": "University of Wisconsinâ€“River Falls",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cRiver Falls",
     "state": "",
     "division": "",
     "conference": "",
@@ -30574,7 +31056,7 @@
   },
   {
     "schoolID": "WI-066245",
-    "schoolName": "University of Wisconsinâ€“Stevens Point",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cStevens Point",
     "state": "",
     "division": "",
     "conference": "",
@@ -30582,7 +31064,7 @@
   },
   {
     "schoolID": "WI-941425",
-    "schoolName": "University of Wisconsinâ€“Stout",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cStout",
     "state": "",
     "division": "",
     "conference": "",
@@ -30590,11 +31072,36 @@
   },
   {
     "schoolID": "WI-034259",
-    "schoolName": "University of Wisconsinâ€“Whitewater",
+    "schoolName": "University of Wisconsin\u00e2\u20ac\u201cWhitewater",
     "state": "",
     "division": "",
     "conference": "",
     "coaches": []
+  },
+  {
+    "schoolID": "IA-upper-iowa-university",
+    "schoolName": "Upper Iowa University",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Brian Voigt",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:30:16Z"
+      },
+      {
+        "name": "Alex Jorgensen",
+        "title": "Assistant Coach",
+        "email": "jorgensena72@uiu.edu",
+        "phone": "563-425-5219",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:36Z"
+      }
+    ]
   },
   {
     "schoolID": "CA-usc",
@@ -30609,7 +31116,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       },
       {
         "name": "Josh Goossen-Brown",
@@ -30867,6 +31374,46 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Brandon Costa",
+        "title": "Head Coach",
+        "email": "bc5yf@uvawise.edu",
+        "phone": "276-376-3426",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:49Z"
+      },
+      {
+        "name": "Mike Miller",
+        "title": "Assistant Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:50Z"
+      },
+      {
+        "name": "Devon Moring",
+        "title": "Assistant Pitching Coach / Baseball Operations",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:50Z"
+      },
+      {
+        "name": "Christian Smith",
+        "title": "Assistant Coach / Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:50Z"
+      },
+      {
+        "name": "Bill Steven",
+        "title": "Recruiting Coordinator / Hitting Coach",
+        "email": "was3r@uvawise.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:33:49Z"
+      },
+      {
         "name": "Tony Marr",
         "title": "Head Coach",
         "email": "tam5t@uvawise.edu",
@@ -30925,6 +31472,14 @@
         "lastVerifiedDate": ""
       },
       {
+        "name": "Robby Enslen",
+        "title": "Hitting Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-02T22:19:51Z"
+      },
+      {
         "name": "Cole Pletcher",
         "title": "",
         "email": "",
@@ -30955,14 +31510,6 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
-      },
-      {
-        "name": "Robby Enslen",
-        "title": "Hitting Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
       }
     ]
   },
@@ -30980,6 +31527,23 @@
         "phone": "615-322-3716",
         "twitter": "",
         "lastVerifiedDate": ""
+      }
+    ]
+  },
+  {
+    "schoolID": "CA-vanguard-university-of-southern-california",
+    "schoolName": "Vanguard University of Southern California",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Mitch Holland",
+        "title": "Head Coach",
+        "email": "mitchell.holland@vanguard.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-03T15:54:38Z"
       }
     ]
   },
@@ -31681,20 +32245,20 @@
         "lastVerifiedDate": ""
       },
       {
+        "name": "Kimble Schuessler",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-02T22:19:51Z"
+      },
+      {
         "name": "Eric Hutting",
         "title": "Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
-      },
-      {
-        "name": "Kimble Schuessler",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
       }
     ]
   },
@@ -32253,7 +32817,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
+        "lastVerifiedDate": ""
       }
     ]
   },
@@ -33007,6 +33571,14 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Mikey Bello",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-02T22:19:52Z"
+      },
+      {
         "name": "Mike Napolitano",
         "title": "Assistant Coach / Hitting",
         "email": "napolitanom@winthrop.edu",
@@ -33023,28 +33595,20 @@
         "lastVerifiedDate": ""
       },
       {
+        "name": "Dalton Stambaugh",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-02T22:19:52Z"
+      },
+      {
         "name": "Mike Bello",
         "title": "Director of Player Development",
         "email": "baseball@winthrop.edu",
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
-      },
-      {
-        "name": "Dalton Stambaugh",
-        "title": "Pitching Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Mikey Bello",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
       }
     ]
   },
@@ -33507,912 +34071,5 @@
     "division": "",
     "conference": "",
     "coaches": []
-  },
-  {
-    "schoolID": "",
-    "schoolName": "University of Arkansas at Monticello",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "John Harvey",
-        "title": "Head Coach",
-        "email": "HarveyJ@uamont.edu",
-        "phone": "870-460-1557",
-        "twitter": "@weevilsbaseball",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Vinnie Rauso",
-        "title": "Assistant Baseball Coach",
-        "email": "rausov@uamont.edu",
-        "phone": "",
-        "twitter": "@Vinnie_Rauso",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Mason Philley",
-        "title": "Assistant Baseball Coach",
-        "email": "PhilleyM@uamont.edu",
-        "phone": "870-460-1257",
-        "twitter": "@MasonPhilley",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Jordon Cosma",
-        "title": "Assistant Baseball Coach",
-        "email": "cosmaj@uamont.edu",
-        "phone": "",
-        "twitter": "@CosmaJordon",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "California State Polytechnic University-Pomona",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Randy Betten",
-        "title": "Head Coach",
-        "email": "rbetten@cpp.edu",
-        "phone": "909-869-2829",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Jenzen Torres",
-        "title": "Associate Head Coach",
-        "email": "jenzentorres@cpp.edu",
-        "phone": "909-869-2774",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Anthony Mizrahi",
-        "title": "Assistant Coach",
-        "email": "ajmizrahi@cpp.edu",
-        "phone": "909-869-2774",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "California State University-Dominguez Hills",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Tyler Wright",
-        "title": "Head Coach",
-        "email": "twright@csudh.edu",
-        "phone": "310-243-3759",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Greg Humbert",
-        "title": "Assistant Coach",
-        "email": "ghumbert1@csudh.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Esteban Contreras",
-        "title": "Assistant Baseball Coach / Recruiting Coordinator",
-        "email": "econtreras@csudh.edu",
-        "phone": "213-808-2408",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Connor Bell",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "California State University-East Bay",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Mike Cummins",
-        "title": "Head Baseball Coach",
-        "email": "",
-        "phone": "510-885-3046",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Matt Page",
-        "title": "Assistant Baseball Coach",
-        "email": "",
-        "phone": "510-885-3046",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Cole Coffey",
-        "title": "Assistant Baseball Coach",
-        "email": "cole.coffey@csueastbay.edu",
-        "phone": "510-885-4381",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Enrique Nunez",
-        "title": "Assistant Baseball Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Nick White",
-        "title": "Assistant Baseball Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "California State University-Monterey Bay",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Walt White",
-        "title": "Head Baseball Coach",
-        "email": "wawhite@csumb.edu",
-        "phone": "831-582-3720",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Derek Bell",
-        "title": "Assistant Coach",
-        "email": "dbell@csumb.edu",
-        "phone": "831-582-4276",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Dennis Peters",
-        "title": "Assistant Coach",
-        "email": "dpeters@csumb.edu",
-        "phone": "831-582-4276",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "California State University-San Bernardino",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Mike Nadeau",
-        "title": "Head Coach",
-        "email": "michael.nadeau@csusb.edu",
-        "phone": "909-537-5021",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Jeff James",
-        "title": "Associate Head Coach / Recruiting Coordinator",
-        "email": "jeffrey.james@csusb.edu",
-        "phone": "909-537-5021",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Abraham Garcia-Pacheco",
-        "title": "Assistant Coach",
-        "email": "abraham.garcia-pacheco@csusb.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Matt Gonzales",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Art Salazar",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Colby Scheuber",
-        "title": "Assistant Coach",
-        "email": "colby.scheuber@csusb.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Jason Shedlock",
-        "title": "Assistant Coach",
-        "email": "jason.shedlock@csusb.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "California State University-San Marcos",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Jose Garcia",
-        "title": "Head Coach",
-        "email": "jogarcia@csusm.edu",
-        "phone": "760-750-7104",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Mark Lindsay",
-        "title": "Assistant Coach",
-        "email": "mlindsay@csusm.edu",
-        "phone": "760-750-7129",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "California State University-Stanislaus",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Kenny Leonesio",
-        "title": "Head Coach",
-        "email": "kleonesio@csustan.edu",
-        "phone": "209-667-3272",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Mike McNeil",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Mark De La Motte",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Kyle Rachels",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Robert Valdivia",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "Pennsylvania Western University / California (PA)",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Joey Noro",
-        "title": "Head Coach",
-        "email": "noro@pennwest.edu",
-        "phone": "724-938-5709",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "Chestnut Hill College",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Robert Spratt",
-        "title": "Head Baseball Coach",
-        "email": "sprattr@chc.edu",
-        "phone": "215-248-7061",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Matthew Owens",
-        "title": "Associate Head Coach",
-        "email": "OwensM@chc.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Ed O'Melia",
-        "title": "Assistant Coach",
-        "email": "OmeliaE@chc.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Mason Marino",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "A.J. Stento",
-        "title": "Assistant Coach",
-        "email": "StenotA@chc.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "California State University-Chico",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Dave Taylor",
-        "title": "Head Coach",
-        "email": "dmtaylor@csuchico.edu",
-        "phone": "530-898-4374",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Mark Taylor",
-        "title": "Assistant Coach",
-        "email": "mtaylor79@csuchico.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Patrick Barnum",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "Colorado School of Mines",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Bryan King",
-        "title": "Assistant Coach / Recruiting Coordinator",
-        "email": "bryanking@mines.edu",
-        "phone": "303-273-2386",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Justin Durnil",
-        "title": "Pitching Coach",
-        "email": "justin.durnil@mines.edu",
-        "phone": "303-273-2386",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "East Stroudsburg University of Pennsylvania",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "John Kochmansky",
-        "title": "Head Coach",
-        "email": "jkochmansky@esu.edu",
-        "phone": "570-422-3263",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Joe Baran",
-        "title": "Assistant Coach / Pitching",
-        "email": "jbaran1@esu.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "Holy Family University",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Kyle Davis",
-        "title": "Head Baseball Coach",
-        "email": "kdavis3@holyfamily.edu",
-        "phone": "484-459-9228",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Robert Kraft",
-        "title": "Assistant Baseball Coach",
-        "email": "rkraft10@holyfamily.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "Lincoln University (MO)",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Grant Reynolds",
-        "title": "Head Coach",
-        "email": "reynoldsg@lincolnu.edu",
-        "phone": "573-681-5337",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Curtis Vaughan",
-        "title": "Assistant Coach",
-        "email": "curtis.vaughan656@lincolnu.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "Minnesota State University-Mankato",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Matt Magers",
-        "title": "Head Coach",
-        "email": "mathew.magers@mnsu.edu",
-        "phone": "507-389-2413",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "P.J. McIntee",
-        "title": "Assistant Coach",
-        "email": "patrick.mcintee@mnsu.edu",
-        "phone": "507-389-2689",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "New Mexico Highlands University",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Steve Jones",
-        "title": "Head Baseball Coach",
-        "email": "smjones@nmhu.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Antonio Siqueiros",
-        "title": "Assistant Baseball Coach / Pitching / Recruiting",
-        "email": "acsiqueiros@nmhu.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Kelly Morton",
-        "title": "Assistant Baseball Coach / Outfield / Hitting",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Austen King",
-        "title": "Assistant Baseball Coach / Pitching / Development",
-        "email": "aking17@live.nmhu.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "Point Loma Nazarene University",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Justin James",
-        "title": "Head Baseball Coach",
-        "email": "justinjames@pointloma.edu",
-        "phone": "619-849-2615",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "University of Sioux Falls",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Grant Hieb",
-        "title": "Head Coach",
-        "email": "Grant.Hieb@USiouxFalls.edu",
-        "phone": "605-331-6899",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Rob Hirrschoff",
-        "title": "Pitching Coach",
-        "email": "Rob.Hirrschoff@USiouxFalls.edu",
-        "phone": "605-331-6638",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Brian Scherschligt",
-        "title": "Assistant Coach",
-        "email": "Brian.Scherschligt@USiouxFalls.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "Slippery Rock University of Pennsylvania",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Jeff Messer",
-        "title": "Head Coach",
-        "email": "jeffrey.messer@sru.edu",
-        "phone": "724-738-2813",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Billy Messer",
-        "title": "Assistant Coach / Recruiting Coordinator",
-        "email": "william.messer@sru.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Ricky Mineo",
-        "title": "Pitching Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Billy Herman",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "Texas A&M International University",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Ruben Rodriguez",
-        "title": "Head Coach",
-        "email": "ruben.rodriguez@tamiu.edu",
-        "phone": "956-326-2902",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "McKinley Scott",
-        "title": "Assistant Coach",
-        "email": "mckinley.scott@tamiu.edu",
-        "phone": "956-326-3003",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Ariben Gutierrez",
-        "title": "Assistant Coach",
-        "email": "ariben.gutierrez@tamiu.edu",
-        "phone": "956-326-3003",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "Texas A&M University-Kingsville",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Jason Gonzales",
-        "title": "Head Coach",
-        "email": "jason.gonzales@tamuk.edu",
-        "phone": "361-593-3487",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Mikey Bielamowicz",
-        "title": "Assistant Coach",
-        "email": "Patrick.bielamowicz@tamuk.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Mike Davila",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "Upper Iowa University",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Brian Voigt",
-        "title": "Head Coach",
-        "email": "voigtb11@uiu.edu",
-        "phone": "563-425-5290",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Alex Jorgensen",
-        "title": "Assistant Coach",
-        "email": "jorgensena72@uiu.edu",
-        "phone": "563-425-5219",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "University of Texas Permian Basin",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Ryan Van Amburg",
-        "title": "Head Coach",
-        "email": "van_r@utpb.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Nick Chittum",
-        "title": "Assistant Coach / Pitching Coach",
-        "email": "chittum_n@utpb.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "University of Texas at Tyler",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Brent Porche",
-        "title": "Head Coach",
-        "email": "bporche@uttyler.edu",
-        "phone": "903-565-5640",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Taylor White",
-        "title": "Associate Head Coach / Recruiting Coordinator",
-        "email": "TaylorWhite@uttyler.edu",
-        "phone": "903-565-5659",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Jeff Robinson",
-        "title": "Assistant Coach",
-        "email": "jrobinson@uttyler.edu",
-        "phone": "903-565-6495",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "University of Virginia's College at Wise",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Brandon Costa",
-        "title": "Head Coach",
-        "email": "bc5yf@uvawise.edu",
-        "phone": "276-376-3426",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Bill Steven",
-        "title": "Recruiting Coordinator / Hitting Coach",
-        "email": "was3r@uvawise.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Mike Miller",
-        "title": "Assistant Pitching Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Christian Smith",
-        "title": "Assistant Coach / Pitching Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      },
-      {
-        "name": "Devon Moring",
-        "title": "Assistant Pitching Coach / Baseball Operations",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
-  },
-  {
-    "schoolID": "",
-    "schoolName": "Vanguard University of Southern California",
-    "state": "",
-    "division": "D2",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Mitch Holland",
-        "title": "Head Coach",
-        "email": "mitchell.holland@vanguard.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-02"
-      }
-    ]
   }
 ]

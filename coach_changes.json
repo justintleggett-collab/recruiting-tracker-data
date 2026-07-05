@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 60,
+    "version": 61,
     "lastUpdated": "2026-07-05",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2336,6 +2336,25 @@
       "createdAt": "2026-07-05",
       "isPersistent": false,
       "expiresAt": "2026-09-03"
+    },
+    {
+      "id": "gONFFLkl53SnMSgvUWMq",
+      "schoolId": "SC-university-of-south-carolina",
+      "schoolName": "University of South Carolina",
+      "coachFirstName": "Tyler",
+      "coachLastName": "Shewmaker",
+      "role": "Recruiting Coordinator / Catching Coach",
+      "changeType": "new_hire",
+      "priority": "high",
+      "effectiveDate": "2026-07-04",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Tyler Shewmaker hired as Recruiting Coordinator / Catching Coach at University of South Carolina.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-05",
+      "isPersistent": false,
+      "expiresAt": "2026-09-02"
     }
   ]
 }

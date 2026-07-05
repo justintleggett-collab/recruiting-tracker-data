@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 65,
+    "version": 66,
     "lastUpdated": "2026-07-05",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2419,6 +2419,25 @@
       "schoolName": "Queens University of Charlotte",
       "coachFirstName": "Jake",
       "coachLastName": "Hendrick",
+      "role": "Head Coach",
+      "changeType": "departure",
+      "priority": "high",
+      "effectiveDate": "2026-07-05",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: isActive changed",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-05",
+      "isPersistent": false,
+      "expiresAt": "2026-09-03"
+    },
+    {
+      "id": "bMR2Z10PBQmlcfg7sD59",
+      "schoolId": "TX-texas-state-university",
+      "schoolName": "Texas State University",
+      "coachFirstName": "Bill",
+      "coachLastName": "Mosiello",
       "role": "Head Coach",
       "changeType": "departure",
       "priority": "high",

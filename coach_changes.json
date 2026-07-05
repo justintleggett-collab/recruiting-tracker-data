@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 70,
+    "version": 71,
     "lastUpdated": "2026-07-05",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2516,6 +2516,25 @@
       "coachLastName": "Cullinane",
       "role": "Head Coach",
       "changeType": "promotion",
+      "priority": "high",
+      "effectiveDate": "2026-07-05",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: isActive changed",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-05",
+      "isPersistent": false,
+      "expiresAt": "2026-09-03"
+    },
+    {
+      "id": "txznrMBkeRF2s4fow94G",
+      "schoolId": "MA-merrimack-college",
+      "schoolName": "Merrimack College",
+      "coachFirstName": "Jeff",
+      "coachLastName": "Mejia",
+      "role": "Head Coach",
+      "changeType": "departure",
       "priority": "high",
       "effectiveDate": "2026-07-05",
       "previousSchool": "",

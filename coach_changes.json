@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 64,
+    "version": 65,
     "lastUpdated": "2026-07-05",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2412,6 +2412,25 @@
       "createdAt": "2026-07-05",
       "isPersistent": false,
       "expiresAt": "2026-09-02"
+    },
+    {
+      "id": "D3PL6wr9Pi4q1fMLCWvK",
+      "schoolId": "NC-queens-university-of-charlotte",
+      "schoolName": "Queens University of Charlotte",
+      "coachFirstName": "Jake",
+      "coachLastName": "Hendrick",
+      "role": "Head Coach",
+      "changeType": "departure",
+      "priority": "high",
+      "effectiveDate": "2026-07-05",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: isActive changed",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-05",
+      "isPersistent": false,
+      "expiresAt": "2026-09-03"
     }
   ]
 }

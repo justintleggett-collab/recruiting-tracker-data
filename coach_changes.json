@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 69,
+    "version": 70,
     "lastUpdated": "2026-07-05",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2497,6 +2497,25 @@
       "coachLastName": "Cullinane",
       "role": "Head Coach",
       "changeType": "departure",
+      "priority": "high",
+      "effectiveDate": "2026-07-05",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: isActive changed",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-05",
+      "isPersistent": false,
+      "expiresAt": "2026-09-03"
+    },
+    {
+      "id": "QgMLVUad5Z7SgpojkNnp",
+      "schoolId": "NC-queens-university-of-charlotte",
+      "schoolName": "Queens University of Charlotte",
+      "coachFirstName": "James",
+      "coachLastName": "Cullinane",
+      "role": "Head Coach",
+      "changeType": "promotion",
       "priority": "high",
       "effectiveDate": "2026-07-05",
       "previousSchool": "",

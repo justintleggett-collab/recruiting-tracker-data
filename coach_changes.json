@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": 59,
-    "lastUpdated": "2026-07-03",
+    "version": 60,
+    "lastUpdated": "2026-07-05",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
   "changes": [
@@ -2317,6 +2317,25 @@
       "createdAt": "2026-07-03",
       "isPersistent": false,
       "expiresAt": "2026-09-01"
+    },
+    {
+      "id": "Bh23VXfCYSYQR41IUDiS",
+      "schoolId": "SC-university-of-south-carolina",
+      "schoolName": "University of South Carolina",
+      "coachFirstName": "John",
+      "coachLastName": "Crosby",
+      "role": "Assistant Coach",
+      "changeType": "departure",
+      "priority": "standard",
+      "effectiveDate": "2026-07-05",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: isActive changed",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-05",
+      "isPersistent": false,
+      "expiresAt": "2026-09-03"
     }
   ]
 }

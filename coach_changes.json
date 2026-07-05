@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 63,
+    "version": 64,
     "lastUpdated": "2026-07-05",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2393,6 +2393,25 @@
       "createdAt": "2026-07-05",
       "isPersistent": false,
       "expiresAt": "2026-09-03"
+    },
+    {
+      "id": "nVEOK0JGI0gKYE3lt74Y",
+      "schoolId": "HI-university-of-hawai-i-at-manoa",
+      "schoolName": "University of Hawai'i at Manoa",
+      "coachFirstName": "Jordan",
+      "coachLastName": "Twohig",
+      "role": "Hitting Coach",
+      "changeType": "new_hire",
+      "priority": "standard",
+      "effectiveDate": "2026-07-04",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Jordan Twohig hired as Hitting Coach at University of Hawai'i at Manoa.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-05",
+      "isPersistent": false,
+      "expiresAt": "2026-09-02"
     }
   ]
 }

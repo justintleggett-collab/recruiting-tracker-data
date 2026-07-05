@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 66,
+    "version": 67,
     "lastUpdated": "2026-07-05",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2450,6 +2450,25 @@
       "createdAt": "2026-07-05",
       "isPersistent": false,
       "expiresAt": "2026-09-03"
+    },
+    {
+      "id": "wYl0ayfPmx0V0JsnOpvB",
+      "schoolId": "MA-merrimack-college",
+      "schoolName": "Merrimack College",
+      "coachFirstName": "Jeffrey",
+      "coachLastName": "Mejia",
+      "role": "Head Coach",
+      "changeType": "new_hire",
+      "priority": "high",
+      "effectiveDate": "2026-06-29",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Jeffrey Mejia hired as Head Coach at Merrimack College.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-05",
+      "isPersistent": false,
+      "expiresAt": "2026-08-28"
     }
   ]
 }

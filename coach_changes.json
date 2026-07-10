@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": 72,
-    "lastUpdated": "2026-07-05",
+    "version": 73,
+    "lastUpdated": "2026-07-10",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
   "changes": [
@@ -2564,6 +2564,25 @@
       "createdAt": "2026-07-05",
       "isPersistent": false,
       "expiresAt": "2026-09-03"
+    },
+    {
+      "id": "BHN96fG4mN7WKrRqJAoW",
+      "schoolId": "CA-cal-baptist",
+      "schoolName": "Cal Baptist",
+      "coachFirstName": "Harrison",
+      "coachLastName": "Spohn",
+      "role": "Assistant Coach",
+      "changeType": "new_hire",
+      "priority": "standard",
+      "effectiveDate": "2026-07-10",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Harrison Spohn hired as Assistant Coach at Cal Baptist.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-10",
+      "isPersistent": false,
+      "expiresAt": "2026-09-08"
     }
   ]
 }

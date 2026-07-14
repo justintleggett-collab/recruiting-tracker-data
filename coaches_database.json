@@ -20389,8 +20389,24 @@
         "title": "Head Coach",
         "email": "joe.brown@cortland.edu",
         "phone": "607-753-4950",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "twitter": "https://x.com/CortBaseball",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Zack Durant",
+        "title": "Assistant Coach",
+        "email": "zachary.durant@cortland.edu",
+        "phone": "",
+        "twitter": "https://x.com/CortBaseball",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Chris Bonacci",
+        "title": "Assistant Coach",
+        "email": "chris.bonacci@cortland.edu",
+        "phone": "",
+        "twitter": "https://x.com/CortBaseball",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
       }
     ]
   },
@@ -20435,20 +20451,20 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Brandon Rivera",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "name": "Thomas Seay",
+        "title": "Head Coach",
+        "email": "seayt@newpaltz.edu",
+        "phone": "845-257-3915",
+        "twitter": "https://x.com/NP_BaseballD3",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
       },
       {
-        "name": "Thomas Seay",
-        "title": "",
+        "name": "Anthony Gonzalez",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "twitter": "https://x.com/NP_BaseballD3",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
       }
     ]
   },
@@ -20517,44 +20533,36 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Baseball Head",
-        "title": "Head Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
         "name": "Scott Landers",
-        "title": "Baseball Head Coach / Strength and Conditioning Coordinator",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Baseball Assistant",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "title": "Head Coach",
+        "email": "scott.landers@oswego.edu",
+        "phone": "315-312-2405",
+        "twitter": "https://x.com/OswegoBaseball",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
       },
       {
         "name": "Jason Heindorf",
-        "title": "Baseball Assistant Coach",
-        "email": "",
+        "title": "Assistant Coach",
+        "email": "jason.heindorf@oswego.edu",
         "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "twitter": "https://x.com/OswegoBaseball",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
       },
       {
         "name": "Robert Donnelly",
-        "title": "Baseball Assistant Coach",
+        "title": "Assistant Coach",
+        "email": "rdonnell@oswego.edu",
+        "phone": "",
+        "twitter": "https://x.com/OswegoBaseball",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Jelani Hamer",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "twitter": "https://x.com/OswegoBaseball",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
       }
     ]
   },
@@ -20566,44 +20574,12 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Andrew Kramer",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Rene Colon",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
         "name": "Sam Quinn-Loeb",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Todd Everleth",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Tom Neale",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "title": "Head Baseball Coach",
+        "email": "squin012@plattsburgh.edu",
+        "phone": "518-564-4136",
+        "twitter": "https://x.com/PlattsAthletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
       }
     ]
   },
@@ -34313,5 +34289,874 @@
     "division": "",
     "conference": "",
     "coaches": []
+  },
+  {
+    "schoolID": "CO-colorado-school-of-mines",
+    "schoolName": "Colorado School of Mines",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Pat Jolley",
+        "title": "Head Coach",
+        "email": "pat.jolley@mines.edu",
+        "phone": "303-273-3241",
+        "twitter": "https://x.com/orediggersbsb",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Bryan King",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "bryanking@mines.edu",
+        "phone": "303-273-2386",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Justin Durnil",
+        "title": "Pitching Coach",
+        "email": "justin.durnil@mines.edu",
+        "phone": "303-273-2386",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-suny-old-westbury",
+    "schoolName": "SUNY Old Westbury",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Rod Stephan",
+        "title": "Head Coach",
+        "email": "stephang@oldwestbury.edu",
+        "phone": "516-876-6818",
+        "twitter": "https://x.com/OW_Panthers",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Lou Orologio",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/OW_Panthers",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Patrick Quinn",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/OW_Panthers",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Thomas Beirne",
+        "title": "Assistant Coach",
+        "email": "beirnet@oldwestbury.edu",
+        "phone": "",
+        "twitter": "https://x.com/OW_Panthers",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-suny-purchase",
+    "schoolName": "SUNY Purchase College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Adam Taraska",
+        "title": "Head Coach",
+        "email": "adam.taraska@purchase.edu",
+        "phone": "914-251-7855",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Mark Jurczak",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "mark.jurczak@purchase.edu",
+        "phone": "914-251-6528",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "JR Causa",
+        "title": "Assistant Coach",
+        "email": "james.causa@purchase.edu",
+        "phone": "914-251-7855",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Justin Lorenzo",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Anthony Pla",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-suny-maritime",
+    "schoolName": "SUNY Maritime College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Charlie Barbieri",
+        "title": "Head Coach",
+        "email": "cbarbieri@sunymaritime.edu",
+        "phone": "718-409-3461",
+        "twitter": "https://x.com/MTimeBaseball",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "John Carrick",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/MTimeBaseball",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-suny-cobleskill",
+    "schoolName": "SUNY Cobleskill",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Austin Straub",
+        "title": "Head Coach",
+        "email": "StraubAQ@cobleskill.edu",
+        "phone": "518-255-5122",
+        "twitter": "https://x.com/CobleskillBase",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Ryan Fay",
+        "title": "Assistant Coach",
+        "email": "FayRC@cobleskill.edu",
+        "phone": "",
+        "twitter": "https://x.com/CobleskillBase",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Chris Champlin",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/CobleskillBase",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-suny-alfred-state",
+    "schoolName": "SUNY Alfred State",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Mike Armstrong",
+        "title": "Head Baseball Coach",
+        "email": "armstrmd@alfredstate.edu",
+        "phone": "607-587-4369",
+        "twitter": "https://x.com/alfredstatebsbl",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Jake Kenney",
+        "title": "Head Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/alfredstatebsbl",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Aydan Rolph",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/alfredstatebsbl",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Colin Johnson",
+        "title": "Assistant Coach",
+        "email": "JohnsoC@alfredstate.edu",
+        "phone": "",
+        "twitter": "https://x.com/alfredstatebsbl",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Brandon Higley",
+        "title": "Assistant Coach",
+        "email": "higleybj@alfredstate.edu",
+        "phone": "",
+        "twitter": "https://x.com/alfredstatebsbl",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Joe Ruffino",
+        "title": "Assistant Pitching Coach",
+        "email": "ruffinja@alfredstate.edu",
+        "phone": "",
+        "twitter": "https://x.com/alfredstatebsbl",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Bill Swanson",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/alfredstatebsbl",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-suny-canton",
+    "schoolName": "SUNY Canton",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Ryan Stevens",
+        "title": "Head Baseball Coach",
+        "email": "stevensr@canton.edu",
+        "phone": "315-386-7396",
+        "twitter": "https://x.com/rooathletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Ian Crawford",
+        "title": "Hitting / Catching Coach",
+        "email": "crawfordi@canton.edu",
+        "phone": "315-559-3198",
+        "twitter": "https://x.com/rooathletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Alphonse Fuca",
+        "title": "Infield Coach",
+        "email": "fuca100@canton.edu",
+        "phone": "",
+        "twitter": "https://x.com/rooathletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Cooper Colesante",
+        "title": "Bench Coach",
+        "email": "colesantec@canton.edu",
+        "phone": "315-386-7083",
+        "twitter": "https://x.com/rooathletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "PA-penn-state-abington",
+    "schoolName": "Penn State Abington",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Joe DiMento",
+        "title": "Head Baseball Coach",
+        "email": "jmd7147@psu.edu",
+        "phone": "",
+        "twitter": "https://x.com/abingtonsports",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Tyler Kmiec",
+        "title": "Associate Head Baseball Coach",
+        "email": "tak5709@psu.edu",
+        "phone": "",
+        "twitter": "https://x.com/abingtonsports",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Brett Marks",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/abingtonsports",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "CJ Brancato",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/abingtonsports",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Mike Roth",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/abingtonsports",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "PA-penn-state-altoona",
+    "schoolName": "Penn State Altoona",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Tim Fabbri",
+        "title": "Assistant Coach, Baseball",
+        "email": "tkf5148@psu.edu",
+        "phone": "",
+        "twitter": "https://x.com/PSAltoonaLions",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Sam Homan",
+        "title": "Assistant Coach",
+        "email": "szh5988@psu.edu",
+        "phone": "",
+        "twitter": "https://x.com/PSAltoonaLions",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Tyreke Green",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/PSAltoonaLions",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "PA-penn-state-berks",
+    "schoolName": "Penn State Berks",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Boomer Barry",
+        "title": "Head Coach",
+        "email": "mrb7199@psu.edu",
+        "phone": "",
+        "twitter": "https://www.x.com/BerksAthletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Ayden Dunbar",
+        "title": "Assistant Coach",
+        "email": "axd6169@psu.edu",
+        "phone": "",
+        "twitter": "https://www.x.com/BerksAthletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Darrin Geib",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://www.x.com/BerksAthletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Jake Hess",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://www.x.com/BerksAthletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "PA-penn-state-brandywine",
+    "schoolName": "Penn State Brandywine",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Vinny Gallo",
+        "title": "Head Coach",
+        "email": "vjg5012@psu.edu",
+        "phone": "267-319-4588",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Dan Nearey",
+        "title": "Recruiting Coordinator / Catchers Coach",
+        "email": "djn5303@psu.edu",
+        "phone": "610-800-3245",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Troy Mucchetti",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Jim Reif",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Cam Baughman",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Evan Abegg",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "PA-penn-state-erie-behrend",
+    "schoolName": "Penn State Erie-Behrend",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Paul Benim",
+        "title": "Head Coach",
+        "email": "prb3@psu.edu",
+        "phone": "814-898-6838",
+        "twitter": "https://x.com/PSBAthletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Jake Deitz",
+        "title": "Assistant Coach",
+        "email": "jmd6798@psu.edu",
+        "phone": "814-898-6578",
+        "twitter": "https://x.com/PSBAthletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Jason Bartlett",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/PSBAthletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Ryan Smith",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/PSBAthletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Marc Burchanowski",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/PSBAthletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "PA-penn-state-harrisburg",
+    "schoolName": "Penn State Harrisburg",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Ryan Bown",
+        "title": "Head Coach",
+        "email": "rab61@psu.edu",
+        "phone": "717-948-4366",
+        "twitter": "https://x.com/pshbgbaseball",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Maddux Ryan",
+        "title": "Assistant Coach",
+        "email": "mzr5857@psu.edu",
+        "phone": "717-948-4366",
+        "twitter": "https://x.com/pshbgbaseball",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Bill Sassaman",
+        "title": "Assistant Coach",
+        "email": "whs5161@psu.edu",
+        "phone": "717-948-4366",
+        "twitter": "https://x.com/pshbgbaseball",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Austin Lescanec",
+        "title": "Assistant Coach",
+        "email": "all5603@psu.edu",
+        "phone": "717-948-4366",
+        "twitter": "https://x.com/pshbgbaseball",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-cuny-baruch",
+    "schoolName": "CUNY Baruch College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Jose Torres",
+        "title": "Head Coach - Baseball",
+        "email": "Jose.Torres@baruch.cuny.edu",
+        "phone": "646-312-5052",
+        "twitter": "https://x.com/baruchathletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Oswaldo Roman",
+        "title": "Assistant Coach",
+        "email": "Oswaldo.Roman@baruch.cuny.edu",
+        "phone": "646-312-5052",
+        "twitter": "https://x.com/baruchathletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Raul Rivera",
+        "title": "Pitching Coach",
+        "email": "raul.rivera@baruch.cuny.edu",
+        "phone": "",
+        "twitter": "https://x.com/baruchathletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-cuny-city-college",
+    "schoolName": "CUNY City College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Scott Losche",
+        "title": "Head Coach - Baseball",
+        "email": "slosche@ccny.cuny.edu",
+        "phone": "917-510-6954",
+        "twitter": "https://x.com/CCNYBaseball",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Christopher Jimenez",
+        "title": "Assistant Coach - Baseball",
+        "email": "cjimenez@ccny.cuny.edu",
+        "phone": "",
+        "twitter": "https://x.com/CCNYBaseball",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Jerry Sidman",
+        "title": "Assistant Coach - Baseball",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/CCNYBaseball",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-cuny-john-jay",
+    "schoolName": "CUNY John Jay College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Clemente Sosa",
+        "title": "Head Coach",
+        "email": "csosa@jjay.cuny.edu",
+        "phone": "",
+        "twitter": "https://x.com/JJayAthletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Siddeeq Ali",
+        "title": "Assistant Head Coach",
+        "email": "sali@jjay.cuny.edu",
+        "phone": "",
+        "twitter": "https://x.com/JJayAthletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Liam Sabino",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/JJayAthletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-manhattanville-university",
+    "schoolName": "Manhattanville University",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Jeff Caulfield",
+        "title": "Head Coach",
+        "email": "jeffrey.caulfield@mville.edu",
+        "phone": "914-323-7284",
+        "twitter": "https://x.com/mvillebase",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Anthony Barone",
+        "title": "Assistant Coach",
+        "email": "anthony.barone@mville.edu",
+        "phone": "",
+        "twitter": "https://x.com/mvillebase",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Chris Nardozzi",
+        "title": "Assistant Coach",
+        "email": "christopher.nardozzi@mville.edu",
+        "phone": "",
+        "twitter": "https://x.com/mvillebase",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "V.J. Collins",
+        "title": "Pitching Coach",
+        "email": "Vincent.Collins@mville.edu",
+        "phone": "",
+        "twitter": "https://x.com/mvillebase",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-mount-saint-mary-college",
+    "schoolName": "Mount Saint Mary College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Trevor Purcell",
+        "title": "Head Coach",
+        "email": "trevor.purcell@msmc.edu",
+        "phone": "845-569-3684",
+        "twitter": "https://x.com/MSMCKnights",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Clint Boettcher",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/MSMCKnights",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Brian Rosenberger",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/MSMCKnights",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Derek Damiano",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/MSMCKnights",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Will Chomicki",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/MSMCKnights",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-st-josephs-university-new-york",
+    "schoolName": "St. Joseph's University-New York",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Tom Caputo",
+        "title": "Head Coach",
+        "email": "tcaputo@sjny.edu",
+        "phone": "631-687-5110",
+        "twitter": "https://x.com/SJLIAthletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Elliot Robles",
+        "title": "Assistant Coach",
+        "email": "erobles@sjny.edu",
+        "phone": "631-687-5110",
+        "twitter": "https://x.com/SJLIAthletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Phil Krpata",
+        "title": "Assistant Coach",
+        "email": "pkrpata@sjny.edu",
+        "phone": "631-687-5110",
+        "twitter": "https://x.com/SJLIAthletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-university-of-mount-saint-vincent",
+    "schoolName": "University of Mount Saint Vincent",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Matthew Rienzi",
+        "title": "Head Coach",
+        "email": "matthew.rienzi@umsv.edu",
+        "phone": "718-405-3778",
+        "twitter": "https://x.com/cmsvathletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Eric Zimmermann",
+        "title": "Hitting Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/cmsvathletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Joe Curto",
+        "title": "First Base Coach / Outfield Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/cmsvathletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Justin Ciccotelli",
+        "title": "Pitching Coach / Recruiting Coordinator",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/cmsvathletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-yeshiva-university",
+    "schoolName": "Yeshiva University",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Jeremy Renna",
+        "title": "Head Coach",
+        "email": "jeremy.renna@yu.edu",
+        "phone": "",
+        "twitter": "https://x.com/YUathletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Eric Amkraut",
+        "title": "Assistant Coach",
+        "email": "eric.amkraut@yu.edu",
+        "phone": "856-979-1628",
+        "twitter": "https://x.com/YUathletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Mendy Kanofsky",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/YUathletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "Ben Greissman",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/YUathletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      },
+      {
+        "name": "DJ Sharabi",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/YUathletics",
+        "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
   }
 ]

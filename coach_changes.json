@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 76,
+    "version": 77,
     "lastUpdated": "2026-07-14",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2640,6 +2640,25 @@
       "createdAt": "2026-07-14",
       "isPersistent": false,
       "expiresAt": null
+    },
+    {
+      "id": "HhqOXIGuGEwAOKj0FsLj",
+      "schoolId": "CO-colorado-school-of-mines",
+      "schoolName": "Colorado School of Mines",
+      "coachFirstName": "Justin",
+      "coachLastName": "Durnil",
+      "role": "Pitching Coach",
+      "changeType": "new_hire",
+      "priority": "standard",
+      "effectiveDate": "2026-07-14",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Justin Durnil hired as Pitching Coach at Colorado School of Mines.",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-14",
+      "isPersistent": false,
+      "expiresAt": "2026-09-12"
     }
   ]
 }

@@ -75,35 +75,19 @@
     "coaches": [
       {
         "name": "Bruce DelTondo",
-        "title": "",
-        "email": "",
+        "title": "Head Baseball Coach",
+        "email": "bdeltond@adams.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "Chaz Lopez",
-        "title": "",
-        "email": "",
+        "title": "Assistant Baseball Coach",
+        "email": "clopez@adams.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Madyson Schliep",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Payton Brown",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       }
     ]
   },
@@ -115,12 +99,36 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Dom Scala",
+        "name": "Mike Gaffney",
         "title": "Head Coach",
-        "email": "dscala@adelphi.edu",
-        "phone": "516-877-4257",
+        "email": "mgaffney@adelphi.edu",
+        "phone": "516-877-3957",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+      },
+      {
+        "name": "Pat McCabe",
+        "title": "Pitching Coach",
+        "email": "patmccabe@adelphi.edu",
+        "phone": "516-877-3957",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+      },
+      {
+        "name": "Rob Cafiero",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "516-877-3957",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+      },
+      {
+        "name": "Tom Tolan",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "516-877-3957",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       }
     ]
   },
@@ -281,26 +289,26 @@
       {
         "name": "Scot Hemmings",
         "title": "Head Coach",
-        "email": "shemmings@asurams.edu",
-        "phone": "229-500-2847",
+        "email": "brandon.hemmings@asurams.edu",
+        "phone": "229-500-2848",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "Jason Townsend",
-        "title": "",
-        "email": "",
+        "title": "Assistant Baseball Coach",
+        "email": "jason.townsend@asurams.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "Luis Martinez",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "title": "Assistant Baseball Coach",
+        "email": "luis.martinez@asurams.edu",
+        "phone": "229-500-2857",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       }
     ]
   },
@@ -461,27 +469,27 @@
     "coaches": [
       {
         "name": "Christian Lalomia",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "title": "Assistant Baseball Coach",
+        "email": "Christian.Lalomia@aic.edu",
+        "phone": "413-205-3078",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "Nick Callini",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "title": "Head Baseball Coach",
+        "email": "Nick.Callini@aic.edu",
+        "phone": "413-205-3078",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "Zach Theulen",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "title": "Head Club Baseball Coach / Assistant Baseball Coach",
+        "email": "Zachary.Theulen@aic.edu",
+        "phone": "413-205-3078",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       }
     ]
   },
@@ -537,9 +545,9 @@
         "name": "P.J. Zocchi",
         "title": "Head Coach",
         "email": "pzocchi@andersonuniversity.edu",
-        "phone": "(864) 231-2013",
+        "phone": "864-231-2013",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "Dylan Southerland",
@@ -547,15 +555,7 @@
         "email": "dsoutherland@andersonuniversity.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Jaxon Stewart",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "Michael Skelly",
@@ -563,15 +563,7 @@
         "email": "mskelly@andersonuniversity.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Ryan Whitt",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "Will Cheatham",
@@ -619,9 +611,25 @@
         "name": "Kevin Brooks",
         "title": "Head Coach",
         "email": "kevin.brooks@angelo.edu",
-        "phone": "325-942-2264",
+        "phone": "325-486-6899",
         "twitter": "@KBrooks15",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+      },
+      {
+        "name": "Adam Foster",
+        "title": "Assistant Coach",
+        "email": "adam.foster@angelo.edu",
+        "phone": "325-486-6900",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+      },
+      {
+        "name": "Sam Mote",
+        "title": "Assistant Coach",
+        "email": "sam.mote@angelo.edu",
+        "phone": "325-942-2264",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       }
     ]
   },
@@ -855,43 +863,19 @@
     "coaches": [
       {
         "name": "Dave Dawson",
-        "title": "Dave Dawson Head Baseball Coach",
-        "email": "",
-        "phone": "",
+        "title": "Head Coach",
+        "email": "ddawson3@atu.edu",
+        "phone": "479-968-0648",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Drew Vega",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Joe Kinneberg",
-        "title": "Graduate Assistant",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Markos Cabranes",
-        "title": "Graduate Assistant",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "Michael Mueller",
         "title": "Assistant Coach",
-        "email": "",
+        "email": "mmueller1@atu.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       }
     ]
   },
@@ -921,11 +905,27 @@
     "coaches": [
       {
         "name": "John Schaly",
-        "title": "Head Coach",
+        "title": "Head Baseball Coach",
         "email": "jschaly@ashland.edu",
         "phone": "419-289-5444",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+      },
+      {
+        "name": "Brady Cottom",
+        "title": "Associate Head Baseball Coach",
+        "email": "bcottom@ashland.edu",
+        "phone": "419-289-5476",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+      },
+      {
+        "name": "Jason Reitenbach",
+        "title": "Assistant Baseball Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       }
     ]
   },
@@ -937,36 +937,20 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Joe Powers",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "name": "Mike Rocco",
+        "title": "Head Coach",
+        "email": "ma.rocco@assumption.edu",
+        "phone": "508-767-7490",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "Matt Elliott",
-        "title": "",
-        "email": "",
+        "title": "Assistant Coach",
+        "email": "m.elliott@assumption.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Mike Rocco",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Mitch Crory",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       }
     ]
   },
@@ -1027,28 +1011,20 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Baseball Head",
+        "name": "Franklin Bush",
         "title": "Head Coach",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
-        "name": "Baseball Assistant",
+        "name": "Tanner Bradley",
         "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
+        "email": "tbradl12@aum.edu",
+        "phone": "334-244-3236",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Baseball Graduate",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       }
     ]
   },
@@ -1078,35 +1054,35 @@
     "coaches": [
       {
         "name": "Chris Howell",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "title": "Head Coach",
+        "email": "chris.howell@augusta.edu",
+        "phone": "706-731-7917",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "John Friday",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "title": "Assistant Coach",
+        "email": "jfriday@augusta.edu",
+        "phone": "706-731-7915",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "Preston Joye",
-        "title": "",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "Richard Marte",
-        "title": "",
+        "title": "Pitching Coach",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       }
     ]
   },
@@ -1180,47 +1156,31 @@
         "email": "tim.huber@augie.edu",
         "phone": "605-274-5541",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Arlen Peters",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "Caleb Thielbar",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "title": "Assistant Coach",
+        "email": "caleb.thielbar@augie.edu",
+        "phone": "605-274-5443",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "JT Mix",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "John Nolan",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "title": "Assistant Coach",
+        "email": "john.nolan@augie.edu",
+        "phone": "605-274-5443",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "Zach Dibble",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "title": "Assistant Coach",
+        "email": "zach.dibble@augie.edu",
+        "phone": "605-274-5443",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       }
     ]
   },
@@ -1343,7 +1303,23 @@
         "email": "knieuwenhuis@apu.edu",
         "phone": "626-815-2181",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+      },
+      {
+        "name": "Jerry Peña",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+      },
+      {
+        "name": "Bobby O'Neill",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       }
     ]
   },
@@ -1499,39 +1475,23 @@
         "email": "dprice@barry.edu",
         "phone": "305-899-3539",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Ben Terwilliger",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Brian Cortina",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "Dean Kanganis",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "title": "Associate Head Coach",
+        "email": "dkanganis@barry.edu",
+        "phone": "305-899-3558",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
-        "name": "Dennis Jezek, Jr.",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "name": "Ben Terwilliger",
+        "title": "Assistant Coach / Pitching Coach",
+        "email": "bterwilliger@barry.edu",
+        "phone": "305-899-3538",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       }
     ]
   },
@@ -1545,10 +1505,10 @@
       {
         "name": "Jeff May",
         "title": "Head Coach",
-        "email": "",
-        "phone": "",
+        "email": "jwmay@barton.edu",
+        "phone": "252-991-6680",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "Buddy Bleasdale",
@@ -1562,14 +1522,6 @@
         "name": "Ethan Chavis",
         "title": "Assistant Coach",
         "email": "edchavis@barton.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Maria Taylor",
-        "title": "",
-        "email": "",
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
@@ -9112,7 +9064,40 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Rodney Bennett",
+        "title": "Head Coach",
+        "email": "rbennett@frederick.edu",
+        "phone": "301-846-2501",
+        "twitter": "https://twitter.com/FCC_Cougars",
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+      },
+      {
+        "name": "Steve Insley",
+        "title": "Assistant Coach",
+        "email": "SInsley@frederick.edu",
+        "phone": "240-629-7908",
+        "twitter": "https://twitter.com/FCC_Cougars",
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+      },
+      {
+        "name": "Dan Gerjets",
+        "title": "Assistant Coach",
+        "email": "DGerjets@frederick.edu",
+        "phone": "240-315-4270",
+        "twitter": "https://twitter.com/FCC_Cougars",
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+      },
+      {
+        "name": "Patrick Smith",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+      }
+    ]
   },
   {
     "schoolID": "CA-fresno-city-college",
@@ -9189,67 +9174,27 @@
     "coaches": [
       {
         "name": "Anthony Williams",
-        "title": "Head Coach",
+        "title": "Head Baseball Coach",
         "email": "anwilliams@frostburg.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Baseball Assistant",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Brian Wirth",
-        "title": "Assistant Coach",
-        "email": "brwirth@frostburg.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Cam King",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Cy Probst",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Keegan Runge",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Larry Williams",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       },
       {
         "name": "Michael Austin",
-        "title": "Assistant Coach",
+        "title": "Assistant Baseball Coach",
         "email": "maaustin@frostburg.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+      },
+      {
+        "name": "Cam King",
+        "title": "Baseball Assistant Coach",
+        "email": "cjking02@frostburg.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
       }
     ]
   },
@@ -9382,7 +9327,40 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Eric Hallenbeck",
+        "title": "Head Coach",
+        "email": "eric.hallenbeck@garrettcollege.edu",
+        "phone": "301-387-3331",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+      },
+      {
+        "name": "John Chambers",
+        "title": "Assistant Coach",
+        "email": "john.chambers@garrettcollege.edu",
+        "phone": "301-387-3730",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+      },
+      {
+        "name": "Andrew Catone",
+        "title": "Assistant Coach",
+        "email": "andrew.catone@garrettcollege.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+      },
+      {
+        "name": "Noah Mankin",
+        "title": "Assistant Coach",
+        "email": "noah.mankin@garrettcollege.edu",
+        "phone": "724-963-8419",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+      }
+    ]
   },
   {
     "schoolID": "NY-genesee-community-college",

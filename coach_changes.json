@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 75,
+    "version": 76,
     "lastUpdated": "2026-07-14",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2621,6 +2621,25 @@
       "createdAt": "2026-07-14",
       "isPersistent": false,
       "expiresAt": "2026-09-12"
+    },
+    {
+      "id": "57c8a518-bf37-4407-a53f-ccce2fcd63c6",
+      "schoolId": "",
+      "schoolName": "Colorado School of Mines",
+      "coachFirstName": "",
+      "coachLastName": "",
+      "role": "",
+      "changeType": "new_hire",
+      "priority": "high",
+      "effectiveDate": "2026-07-10",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-14",
+      "isPersistent": false,
+      "expiresAt": null
     }
   ]
 }

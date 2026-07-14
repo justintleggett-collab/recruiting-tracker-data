@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": 74,
-    "lastUpdated": "2026-07-10",
+    "version": 75,
+    "lastUpdated": "2026-07-14",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
   "changes": [
@@ -2602,6 +2602,25 @@
       "createdAt": "2026-07-10",
       "isPersistent": false,
       "expiresAt": "2026-09-08"
+    },
+    {
+      "id": "Sk4BLIwqSFo6Ibq5sj2y",
+      "schoolId": "GA-mercer-university",
+      "schoolName": "Mercer University",
+      "coachFirstName": "Kade",
+      "coachLastName": "McClure",
+      "role": "Pitching Coach",
+      "changeType": "departure",
+      "priority": "standard",
+      "effectiveDate": "2026-07-14",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Auto-detected: isActive changed",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-14",
+      "isPersistent": false,
+      "expiresAt": "2026-09-12"
     }
   ]
 }

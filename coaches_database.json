@@ -3434,7 +3434,32 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Erik Scherer",
+        "title": "Head Coach",
+        "email": "escherer@callutheran.edu",
+        "phone": "805-493-3398",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Eddie Villegas",
+        "title": "Assistant Coach",
+        "email": "evillegas@callutheran.edu",
+        "phone": "805-493-3289",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Cole Mahoney-Bruer",
+        "title": "Volunteer / Program Development",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      }
+    ]
   },
   {
     "schoolID": "CA-cal-poly-pomona",
@@ -4798,44 +4823,36 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Assistant Coach/Recruiting",
+        "name": "Bill Walkenbach",
+        "title": "Head Coach",
+        "email": "bill.walkenbach@cms.claremont.edu",
+        "phone": "909-607-1798",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Quinn Heiner",
+        "title": "Associate Head Coach / Recruiting Coordinator",
+        "email": "quinn.heiner@cms.claremont.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "David Higuera",
+        "title": "Assistant Coach",
+        "email": "david.higuera@cms.claremont.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Keith Walker",
         "title": "Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Bill Walkenbach",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "@CMS_Baseball",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "David Higuera",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Keith Walker",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Quinn Heiner",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
       }
     ]
   },
@@ -7802,12 +7819,44 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Matt Tutlis",
+        "name": "John Raiola",
         "title": "Head Coach",
-        "email": "mtutlis@elms.edu",
-        "phone": "413-265-2369",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "email": "raiolaj@elms.edu",
+        "phone": "413-265-2433",
+        "twitter": "https://x.com/ElmsBlazers",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Tony Dismukes",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "413-265-2433",
+        "twitter": "https://x.com/ElmsBlazers",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Pedro Santiago",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "413-265-2433",
+        "twitter": "https://x.com/ElmsBlazers",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "TJ Alves",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/ElmsBlazers",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Justin Miller",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/ElmsBlazers",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
       }
     ]
   },
@@ -17598,7 +17647,32 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Luke Wetmore",
+        "title": "Head Coach",
+        "email": "wetmorel@oxy.edu",
+        "phone": "323-259-2683",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Cameron McMullen",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "cmcmullen@oxy.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Joey Rosenblum",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      }
+    ]
   },
   {
     "schoolID": "NJ-ocean-county-college",
@@ -24835,7 +24909,64 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Bryan Stark",
+        "title": "Head Coach",
+        "email": "bryan.stark@tufts.edu",
+        "phone": "617-627-5218",
+        "twitter": "https://x.com/TuftsJumbos",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Bob Clarke",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/TuftsJumbos",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Barry Rosen",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/TuftsJumbos",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Kevin Curtin",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/TuftsJumbos",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Pat McGowan",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/TuftsJumbos",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Miles Reid",
+        "title": "Assistant Coach",
+        "email": "Miles.reid@tufts.edu",
+        "phone": "",
+        "twitter": "https://x.com/TuftsJumbos",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Ozzie Fleischer",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/TuftsJumbos",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      }
+    ]
   },
   {
     "schoolID": "LA-tulane-university",
@@ -33244,7 +33375,56 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Matt Husted",
+        "title": "Head Coach",
+        "email": "matt.husted@wheaton.edu",
+        "phone": "630-752-7164",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Daniel Hillyer",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Dylan Brown",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Josiah Livingston",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Brian Kolb",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Josh Williams",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      }
+    ]
   },
   {
     "schoolID": "MA-wheaton-college-ma",
@@ -35156,6 +35336,137 @@
         "phone": "",
         "twitter": "https://x.com/YUathletics",
         "lastVerifiedDate": "2026-07-14T23:21:58Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "CT-albertus-magnus-college",
+    "schoolName": "Albertus Magnus College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Ian Ratchford",
+        "title": "Head Coach",
+        "email": "iratchford@albertus.edu",
+        "phone": "203-773-8534",
+        "twitter": "https://x.com/AlbertusCast",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Conor Farrell",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/AlbertusCast",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "CT-mitchell-college",
+    "schoolName": "Mitchell College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Shawn Gilblair",
+        "title": "Head Coach",
+        "email": "gilblair_s@mitchell.edu",
+        "phone": "860-701-3534",
+        "twitter": "https://x.com/AthleticsMC",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Jeff Nicolosi",
+        "title": "Pitching Coach / Recruiting Coordinator",
+        "email": "nicolosi_j@mitchell.edu",
+        "phone": "",
+        "twitter": "https://x.com/AthleticsMC",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Danny Santos",
+        "title": "Assistant Coach",
+        "email": "santos_d@mitchell.edu",
+        "phone": "",
+        "twitter": "https://x.com/AthleticsMC",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Matt Pindar",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/AthleticsMC",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Inaki Ormaechea",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/AthleticsMC",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Eddie Kaftan",
+        "title": "Assistant Coach",
+        "email": "kaftan_e@mitchell.edu",
+        "phone": "",
+        "twitter": "https://x.com/AthleticsMC",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "CT-trinity-college",
+    "schoolName": "Trinity College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Bryan Adamski",
+        "title": "Head Baseball Coach",
+        "email": "bryan.adamski@trincoll.edu",
+        "phone": "860-297-2066",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Jason Szafarski",
+        "title": "Assistant Baseball Coach",
+        "email": "jason.szafarski@trincoll.edu",
+        "phone": "860-297-4043",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Matt Gedman",
+        "title": "Assistant Baseball Coach",
+        "email": "matthew.gedman@trincoll.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Matt Rondinone",
+        "title": "Assistant Baseball Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      },
+      {
+        "name": "Jacob Tipton",
+        "title": "Assistant Baseball Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-15T00:35:21Z"
       }
     ]
   }

@@ -1190,7 +1190,48 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Adam Stevens",
+        "title": "Head Coach",
+        "email": "astevens@aurora.edu",
+        "phone": "630-844-5115",
+        "twitter": "https://x.com/AUSpartanbase",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Carter Turnquist",
+        "title": "Assistant Coach",
+        "email": "cturnquist@aurora.edu",
+        "phone": "630-844-7565",
+        "twitter": "https://x.com/AUSpartanbase",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Steve Moga",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/AUSpartanbase",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Zack Skog",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/AUSpartanbase",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Nick Baldassano",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/AUSpartanbase",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      }
+    ]
   },
   {
     "schoolID": "TN-austin-peay-state-university",
@@ -5908,14 +5949,6 @@
     ]
   },
   {
-    "schoolID": "MN-930588",
-    "schoolName": "Concordia Collegeâ€“Moorhead",
-    "state": "",
-    "division": "",
-    "conference": "",
-    "coaches": []
-  },
-  {
     "schoolID": "CA-concordia-irvine",
     "schoolName": "Concordia Irvine",
     "state": "",
@@ -5980,12 +6013,20 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Head Assistant",
+        "name": "Matt Smith",
+        "title": "Head Coach",
+        "email": "Matthew.Smith@cuchicago.edu",
+        "phone": "708-209-3081",
+        "twitter": "https://x.com/CUCbaseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Connor Nelson",
         "title": "Assistant Coach",
-        "email": "",
+        "email": "crf_nelsonct@cuchicago.edu",
         "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "twitter": "https://x.com/CUCbaseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
       }
     ]
   },
@@ -11517,7 +11558,40 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "David Valesente",
+        "title": "Head Baseball Coach",
+        "email": "dvalesente@ithaca.edu",
+        "phone": "607-274-3749",
+        "twitter": "https://x.com/ithaca_baseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Cooper Belyea",
+        "title": "Assistant Coach",
+        "email": "cbelyea1@ithaca.edu",
+        "phone": "607-274-3749",
+        "twitter": "https://x.com/ithaca_baseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Ben Landis",
+        "title": "Assistant Coach",
+        "email": "blandis@ithaca.edu",
+        "phone": "",
+        "twitter": "https://x.com/ithaca_baseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Andrew McDermott",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/ithaca_baseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      }
+    ]
   },
   {
     "schoolID": "MI-jackson-college",
@@ -28164,44 +28238,44 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Bill Curtis",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
         "name": "Brendan Eygabroat",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "title": "Head Coach",
+        "email": "Brendan.Eygabroat@umb.edu",
+        "phone": "617-287-7817",
+        "twitter": "http://www.twitter.com/umassbeacons",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
       },
       {
         "name": "Jacqui Reynolds",
-        "title": "",
+        "title": "Assistant Coach - Player Development",
         "email": "",
         "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Luis Atiles",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "twitter": "http://www.twitter.com/umassbeacons",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
       },
       {
         "name": "Ty Cali",
-        "title": "",
+        "title": "Assistant Coach - Recruiting Coordinator",
         "email": "",
         "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "twitter": "http://www.twitter.com/umassbeacons",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Bill Curtis",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "http://www.twitter.com/umassbeacons",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Thomas Kierce",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "http://www.twitter.com/umassbeacons",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
       }
     ]
   },
@@ -28216,9 +28290,49 @@
         "name": "Bob Prince",
         "title": "Head Coach",
         "email": "rprince@umassd.edu",
-        "phone": "508-999-8728",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "phone": "508-999-8721",
+        "twitter": "https://x.com/umassdbaseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Ryan Westmoreland",
+        "title": "Assistant Coach",
+        "email": "rwestmoreland@umassd.edu",
+        "phone": "",
+        "twitter": "https://x.com/umassdbaseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Ryan Bruning",
+        "title": "Assistant Coach",
+        "email": "rbruning@umassd.edu",
+        "phone": "",
+        "twitter": "https://x.com/umassdbaseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Mike Pratt",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/umassdbaseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Josh Rodriques",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/umassdbaseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Adam Horowitz",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/umassdbaseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
       }
     ]
   },
@@ -35467,6 +35581,440 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": "2026-07-15T00:35:21Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-hobart-william-smith-colleges",
+    "schoolName": "Hobart William Smith Colleges",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Brad Cook",
+        "title": "Head Coach",
+        "email": "COOK@hws.edu",
+        "phone": "315-781-4743",
+        "twitter": "https://x.com/Hobart_Baseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Vincent Redmond",
+        "title": "Assistant Coach",
+        "email": "REDMOND@hws.edu",
+        "phone": "315-781-4507",
+        "twitter": "https://x.com/Hobart_Baseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Ed Redmond",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/Hobart_Baseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Nick Serce",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/Hobart_Baseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-vassar-college",
+    "schoolName": "Vassar College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Tad Skelley",
+        "title": "Head Coach",
+        "email": "tskelley@vassar.edu",
+        "phone": "845-437-7803",
+        "twitter": "https://x.com/VassarBaseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Matt Barbieri",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/VassarBaseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Jonathan Caceres",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/VassarBaseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Adam Concadoro",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/VassarBaseball",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "CT-western-connecticut-state-university",
+    "schoolName": "Western Connecticut State University",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Johnny Susi",
+        "title": "Head Coach",
+        "email": "susij@wcsu.edu",
+        "phone": "203-837-8608",
+        "twitter": "https://x.com/Westconnbsbl",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Alex Cordone",
+        "title": "Assistant Coach",
+        "email": "cordone003@wcsu.edu",
+        "phone": "203-837-8608",
+        "twitter": "https://x.com/Westconnbsbl",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Jeff Shaw",
+        "title": "Assistant Coach",
+        "email": "jshaw121260@yahoo.com",
+        "phone": "203-837-8608",
+        "twitter": "https://x.com/Westconnbsbl",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Justin Grullon",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "203-837-8608",
+        "twitter": "https://x.com/Westconnbsbl",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Chris Ehlers",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "203-837-8608",
+        "twitter": "https://x.com/Westconnbsbl",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Chris Arconti",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "203-837-8608",
+        "twitter": "https://x.com/Westconnbsbl",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "WI-saint-norbert-college",
+    "schoolName": "Saint Norbert College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Mike Wallerich",
+        "title": "Assistant Athletic Director / Head Coach",
+        "email": "mike.wallerich@snc.edu",
+        "phone": "920-595-0462",
+        "twitter": "https://twitter.com/baseballSNC",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Grant Maus",
+        "title": "Assistant Coach",
+        "email": "grant.maus@snc.edu",
+        "phone": "",
+        "twitter": "https://twitter.com/baseballSNC",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Kevin Brauer",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://twitter.com/baseballSNC",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Patrick Daniels",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://twitter.com/baseballSNC",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Adam Enwiya",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://twitter.com/baseballSNC",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Noah Lindsley",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://twitter.com/baseballSNC",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Nick Volz",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://twitter.com/baseballSNC",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "WI-wisconsin-lutheran-college",
+    "schoolName": "Wisconsin Lutheran College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Andy Schwall",
+        "title": "Head Coach",
+        "email": "andrew.schwall@wlc.edu",
+        "phone": "414-443-8990",
+        "twitter": "https://x.com/WLC_Base",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Mason Cox",
+        "title": "Assistant Coach",
+        "email": "mason.cox@mail.wlc.edu",
+        "phone": "507-766-0293",
+        "twitter": "https://x.com/WLC_Base",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Julian Skosey-LaLonde",
+        "title": "Assistant Coach",
+        "email": "julian.skoseylaLonde@mail.wlc.edu",
+        "phone": "312-909-2862",
+        "twitter": "https://x.com/WLC_Base",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Spencer Michaelis",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/WLC_Base",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Evan Barbian",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/WLC_Base",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Hruz Wagner",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/WLC_Base",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "WV-bethany-college",
+    "schoolName": "Bethany College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Michael Finlan",
+        "title": "Head Coach",
+        "email": "mfinlan@bethanywv.edu",
+        "phone": "814-470-0640",
+        "twitter": "https://x.com/BethanyWV_Bison",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Peter Toula",
+        "title": "Assistant Coach",
+        "email": "peter.toula@bethanywv.edu",
+        "phone": "",
+        "twitter": "https://x.com/BethanyWV_Bison",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Tyler Shaneyfelt",
+        "title": "Assistant Coach",
+        "email": "tyler.shaneyfelt@bethanywv.edu",
+        "phone": "",
+        "twitter": "https://x.com/BethanyWV_Bison",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Logan Bennett",
+        "title": "Assistant Coach",
+        "email": "lbennett@bethanywv.edu",
+        "phone": "",
+        "twitter": "https://x.com/BethanyWV_Bison",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Riley Brendel",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/BethanyWV_Bison",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "PA-saint-vincent-college",
+    "schoolName": "Saint Vincent College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Mick Janosko",
+        "title": "Head Coach",
+        "email": "mick.janosko@stvincent.edu",
+        "phone": "724-805-2396",
+        "twitter": "https://x.com/BaseballSVC",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Parker Lynn",
+        "title": "Assistant Coach",
+        "email": "parker.lynn@stvincent.edu",
+        "phone": "724-805-2446",
+        "twitter": "https://x.com/BaseballSVC",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "PA-westminster-college",
+    "schoolName": "Westminster College (Pennsylvania)",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Patrick Riley",
+        "title": "Head Coach",
+        "email": "rileype@westminster.edu",
+        "phone": "724-946-6164",
+        "twitter": "https://twitter.com/WC_Titans",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Matt Blanchard",
+        "title": "Assistant Coach",
+        "email": "blanchmr@westminster.edu",
+        "phone": "",
+        "twitter": "https://twitter.com/WC_Titans",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Hunter Alexander",
+        "title": "Assistant Coach",
+        "email": "alexanmh@westminster.edu",
+        "phone": "724-946-6164",
+        "twitter": "https://twitter.com/WC_Titans",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Rich Serignese",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://twitter.com/WC_Titans",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "TX-austin-college",
+    "schoolName": "Austin College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Shawn Counts",
+        "title": "Head Coach",
+        "email": "scounts@austincollege.edu",
+        "phone": "903-813-2516",
+        "twitter": "https://x.com/ACsports",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Drew Lancaster",
+        "title": "Assistant Coach",
+        "email": "dlancaster@austincollege.edu",
+        "phone": "",
+        "twitter": "https://x.com/ACsports",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Kyle Hope",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/ACsports",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "AR-university-of-the-ozarks",
+    "schoolName": "University of the Ozarks",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Chad Harris",
+        "title": "Head Coach",
+        "email": "charris@ozarks.edu",
+        "phone": "479-979-1465",
+        "twitter": "https://x.com/UofOAthletics",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
+      },
+      {
+        "name": "Marshall Owens",
+        "title": "Assistant Coach",
+        "email": "jowens@ozarks.edu",
+        "phone": "",
+        "twitter": "https://x.com/UofOAthletics",
+        "lastVerifiedDate": "2026-07-15T02:24:17Z"
       }
     ]
   }

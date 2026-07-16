@@ -11280,7 +11280,32 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "D.J. Console",
+        "title": "Head Coach",
+        "email": "dconville@hawks.huntingdon.edu",
+        "phone": "334-833-4252",
+        "twitter": "https://x.com/HCHawksSports",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Nick Fletcher",
+        "title": "Assistant Head Coach",
+        "email": "nfletcher@hawks.huntingdon.edu",
+        "phone": "334-833-4501",
+        "twitter": "https://x.com/HCHawksSports",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Ryan Smith",
+        "title": "Assistant Coach",
+        "email": "hc.rsmith@hawks.huntingdon.edu",
+        "phone": "334-833-4501",
+        "twitter": "https://x.com/HCHawksSports",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      }
+    ]
   },
   {
     "schoolID": "ME-husson-university",
@@ -12015,8 +12040,24 @@
         "title": "Head Coach",
         "email": "colby.greenhalgh@jwu.edu",
         "phone": "401-598-1605",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "twitter": "https://x.com/jwupvdbaseball",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Jack Magane",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "jack.magane@jwu.edu",
+        "phone": "401-598-1605",
+        "twitter": "https://x.com/jwupvdbaseball",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Steve Rocchio",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/jwupvdbaseball",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
       }
     ]
   },
@@ -33720,12 +33761,60 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Eric Podbelski",
+        "name": "Dan Tischler",
         "title": "Head Coach",
-        "email": "podbelski_eric@wheatoncollege.edu",
-        "phone": "508-286-3987",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "email": "tischler_dan@wheatoncollege.edu",
+        "phone": "508-286-3394",
+        "twitter": "https://x.com/wheatonbsb",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Patrick Santorella",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "santorella_patrick@wheatoncollege.edu",
+        "phone": "508-286-3351",
+        "twitter": "https://x.com/wheatonbsb",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Pete Pasquarosa",
+        "title": "Assistant Coach / Infield Instructor",
+        "email": "",
+        "phone": "508-286-3394",
+        "twitter": "https://x.com/wheatonbsb",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Liam Goldthwaite",
+        "title": "Pitching Coach",
+        "email": "goldthwaite_liam@wheatoncollege.edu",
+        "phone": "",
+        "twitter": "https://x.com/wheatonbsb",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Tim Wagner",
+        "title": "Assistant Coach",
+        "email": "wagner_tim@wheatoncollege.edu",
+        "phone": "",
+        "twitter": "https://x.com/wheatonbsb",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Joe Mulhern",
+        "title": "Assistant Coach",
+        "email": "mulhern_joe@wheatoncollege.edu",
+        "phone": "",
+        "twitter": "https://x.com/wheatonbsb",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Martin Marintchev",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/wheatonbsb",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
       }
     ]
   },
@@ -36417,6 +36506,294 @@
         "phone": "",
         "twitter": "https://x.com/lycobaseball",
         "lastVerifiedDate": "2026-07-15T20:10:38Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "TX-hardin-simmons-university",
+    "schoolName": "Hardin-Simmons University",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Mitch Wilson",
+        "title": "Head Coach",
+        "email": "mitch.wilson@hsutx.edu",
+        "phone": "325-670-1493",
+        "twitter": "https://www.x.com/hsu_baseball",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Andrew Loudermilk",
+        "title": "Assistant Coach",
+        "email": "andrew.loudermilk@hsutx.edu",
+        "phone": "325-670-1730",
+        "twitter": "https://www.x.com/hsu_baseball",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Austin Vaught",
+        "title": "Assistant Coach",
+        "email": "austin.vaught@hsutx.edu",
+        "phone": "325-670-1723",
+        "twitter": "https://www.x.com/hsu_baseball",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NC-johnson-wales-charlotte",
+    "schoolName": "Johnson & Wales University-Charlotte",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Steve Hucke",
+        "title": "Head Coach",
+        "email": "steve.hucke@jwu.edu",
+        "phone": "980-598-1848",
+        "twitter": "https://x.com/JWUAthleticsCLT",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "WI-carthage-college",
+    "schoolName": "Carthage College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "John Lequia",
+        "title": "Head Coach",
+        "email": "jlequia@carthage.edu",
+        "phone": "262-551-5928",
+        "twitter": "https://x.com/carthagesports",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "John Hasser",
+        "title": "Assistant Coach",
+        "email": "jhasser@carthage.edu",
+        "phone": "262-551-5942",
+        "twitter": "https://x.com/carthagesports",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Joe Stevens",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/carthagesports",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Ethan Engelfried",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/carthagesports",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Jacob DeLabio",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/carthagesports",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-russell-sage-college",
+    "schoolName": "Russell Sage College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Matt Marsh",
+        "title": "Head Coach",
+        "email": "marshm7@sage.edu",
+        "phone": "",
+        "twitter": "https://x.com/SageGators",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Matt McGowan",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "mcgowm@sage.edu",
+        "phone": "",
+        "twitter": "https://x.com/SageGators",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Smoke Allard",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/SageGators",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Nick Lemire",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/SageGators",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "PA-delaware-valley-university",
+    "schoolName": "Delaware Valley University",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Jimmy Gulden",
+        "title": "Head Coach",
+        "email": "James.Gulden@delval.edu",
+        "phone": "",
+        "twitter": "https://twitter.com/DVU_baseball",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Kevin Bray",
+        "title": "Assistant Coach (Outfield)",
+        "email": "",
+        "phone": "",
+        "twitter": "https://twitter.com/DVU_baseball",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Nick Bon Tempo",
+        "title": "Assistant Coach (Catchers)",
+        "email": "",
+        "phone": "",
+        "twitter": "https://twitter.com/DVU_baseball",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Greg Young",
+        "title": "Assistant Coach (Hitting)",
+        "email": "",
+        "phone": "",
+        "twitter": "https://twitter.com/DVU_baseball",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Tyler Young",
+        "title": "Assistant Coach (Infield)",
+        "email": "",
+        "phone": "",
+        "twitter": "https://twitter.com/DVU_baseball",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NJ-william-paterson-university",
+    "schoolName": "William Paterson University",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Mike Lauterhahn",
+        "title": "Head Coach",
+        "email": "lauterhahnm@wpunj.edu",
+        "phone": "973-720-2210",
+        "twitter": "https://x.com/wpupioneers",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Tom Gaccione",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/wpupioneers",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Mike Santana",
+        "title": "Assistant Coach",
+        "email": "santanam2@wpunj.edu",
+        "phone": "",
+        "twitter": "https://x.com/wpupioneers",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Colin Lombardo",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/wpupioneers",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "VA-mary-baldwin-university",
+    "schoolName": "Mary Baldwin University",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Scott Hearn",
+        "title": "Head Coach",
+        "email": "smhearn@marybaldwin.edu",
+        "phone": "540-887-7195",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Bryce Mackey",
+        "title": "Assistant Coach",
+        "email": "bcmackey@marybaldwin.edu",
+        "phone": "540-887-7195",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "IL-blackburn-college",
+    "schoolName": "Blackburn College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Dalton Fisher",
+        "title": "Head Coach",
+        "email": "dalton.fisher@blackburn.edu",
+        "phone": "",
+        "twitter": "https://x.com/beaverblackburn",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Christian Padilla",
+        "title": "Assistant Coach",
+        "email": "christian.padilla-martinez@blackburn.edu",
+        "phone": "",
+        "twitter": "https://x.com/beaverblackburn",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
+      },
+      {
+        "name": "Jason Hedges",
+        "title": "Assistant Coach",
+        "email": "jason.hedges@blackburn.edu",
+        "phone": "",
+        "twitter": "https://x.com/beaverblackburn",
+        "lastVerifiedDate": "2026-07-16T03:06:48Z"
       }
     ]
   }

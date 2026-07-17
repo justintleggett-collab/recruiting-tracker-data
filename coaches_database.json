@@ -1034,16 +1034,7 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": [
-      {
-        "name": "Keith Bateman",
-        "title": "Head Coach",
-        "email": "batemank@augsburg.edu",
-        "phone": "612-330-1395",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      }
-    ]
+    "coaches": []
   },
   {
     "schoolID": "GA-augusta-university",

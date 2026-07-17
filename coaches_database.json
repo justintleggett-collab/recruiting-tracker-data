@@ -583,12 +583,12 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Tyler Rubasky",
+        "name": "Ryan Doheny",
         "title": "Head Coach",
-        "email": "trubasky@anderson.edu",
-        "phone": "765-641-4481",
+        "email": "",
+        "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
       }
     ]
   },
@@ -1011,12 +1011,12 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Franklin Bush",
+        "name": "Tanner Gordon",
         "title": "Head Coach",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-14T20:59:25Z"
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
       },
       {
         "name": "Tanner Bradley",
@@ -3632,14 +3632,6 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Mike Cummins",
-        "title": "Head Coach",
-        "email": "mike.cummins@csueastbay.edu",
-        "phone": "510-885-3046",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
         "name": "Cole Coffey",
         "title": "Assistant Baseball Coach",
         "email": "cole.coffey@csueastbay.edu",
@@ -4354,7 +4346,16 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Pat Hall",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
+      }
+    ]
   },
   {
     "schoolID": "MI-central-michigan-university",
@@ -4929,6 +4930,14 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Drew Latner",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
+      },
+      {
         "name": "Asa Waites",
         "title": "",
         "email": "",
@@ -4938,14 +4947,6 @@
       },
       {
         "name": "Corwin Latner",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Trennis Grant",
         "title": "",
         "email": "",
         "phone": "",
@@ -6660,12 +6661,12 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Brett Ripley",
-        "title": "",
+        "name": "Justin Salge",
+        "title": "Head Coach",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
       },
       {
         "name": "Heath Broughton",
@@ -13249,14 +13250,6 @@
         "lastVerifiedDate": ""
       },
       {
-        "name": "Mike Vucsko",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
         "name": "Mikey Kocen",
         "title": "",
         "email": "",
@@ -17738,6 +17731,14 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Eric Cruz",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
+      },
+      {
         "name": "Luca Dalatri",
         "title": "Head Coach",
         "email": "ldalatri@nova.edu",
@@ -18924,12 +18925,12 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Ryan McIntosh",
+        "name": "Andy Theriault",
         "title": "Head Coach",
-        "email": "rmcintosh@plymouth.edu",
-        "phone": "603-535-2756",
+        "email": "",
+        "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
       }
     ]
   },
@@ -19268,6 +19269,14 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Ryan Forrest",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
+      },
+      {
         "name": "Joe Haumacher",
         "title": "Assistant Coach",
         "email": "jh2745@princeton.edu",
@@ -19514,6 +19523,14 @@
     "division": "",
     "conference": "",
     "coaches": [
+      {
+        "name": "James Cullinane",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
+      },
       {
         "name": "Conrad Felks Jr.",
         "title": "",
@@ -21263,14 +21280,6 @@
         "lastVerifiedDate": ""
       },
       {
-        "name": "Jacob Garsez",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
         "name": "Ryan Linden",
         "title": "",
         "email": "",
@@ -21441,16 +21450,7 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": [
-      {
-        "name": "TJ Ward",
-        "title": "Head Coach",
-        "email": "tward1@saintpeters.edu",
-        "phone": "201-761-7306",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      }
-    ]
+    "coaches": []
   },
   {
     "schoolID": "NJ-131018",
@@ -23524,12 +23524,12 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Matt McDonald",
+        "name": "Mark Moriarty",
         "title": "Head Coach",
-        "email": "mcdonamc@stolaf.edu",
-        "phone": "507-786-3638",
+        "email": "",
+        "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
       }
     ]
   },
@@ -23681,14 +23681,6 @@
       },
       {
         "name": "Nick Restaino",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Steve Trimper",
         "title": "",
         "email": "",
         "phone": "",
@@ -24770,6 +24762,14 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Jarad Carney",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
+      },
+      {
         "name": "Director of",
         "title": "",
         "email": "",
@@ -24795,14 +24795,6 @@
       },
       {
         "name": "Matt Rodriguez",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Pat Horvath",
         "title": "",
         "email": "",
         "phone": "",
@@ -26227,15 +26219,15 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Alex Aden",
-        "title": "",
+        "name": "Wes Timmons",
+        "title": "Head Coach",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
       },
       {
-        "name": "Casey McGehee",
+        "name": "Alex Aden",
         "title": "",
         "email": "",
         "phone": "",
@@ -26274,16 +26266,7 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": [
-      {
-        "name": "Mike Kazlausky",
-        "title": "Head Coach",
-        "email": "Michael.kazlausky@afacademy.af.edu",
-        "phone": "719-333-0835",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      }
-    ]
+    "coaches": []
   },
   {
     "schoolID": "NY-united-states-military-academy",
@@ -27409,14 +27392,6 @@
         "lastVerifiedDate": ""
       },
       {
-        "name": "Matt Whitting",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
         "name": "Scott Hatten",
         "title": "Hitting Coach",
         "email": "",
@@ -28114,6 +28089,14 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Alec DeMaria",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
+      },
+      {
         "name": "Asst. Baseball",
         "title": "",
         "email": "",
@@ -28147,14 +28130,6 @@
       },
       {
         "name": "Nick Emanuel",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Tanner Spencer",
         "title": "",
         "email": "",
         "phone": "",
@@ -28385,14 +28360,6 @@
       },
       {
         "name": "Andrew Brown",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Brandon Shileikis",
         "title": "",
         "email": "",
         "phone": "",
@@ -30963,14 +30930,6 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Brent Porche",
-        "title": "Head Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-03T15:30:19Z"
-      },
-      {
         "name": "Taylor White",
         "title": "Associate Head Coach / Recruiting Coordinator",
         "email": "TaylorWhite@uttyler.edu",
@@ -31884,14 +31843,6 @@
         "lastVerifiedDate": ""
       },
       {
-        "name": "Cade Peters",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
         "name": "Dominic Alejandre",
         "title": "",
         "email": "",
@@ -32699,12 +32650,12 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Harley Douglas",
+        "name": "Connor Crimmins",
         "title": "Head Coach",
-        "email": "harley.douglas@washburn.edu",
-        "phone": "785-670-1496",
+        "email": "",
+        "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
       }
     ]
   },
@@ -36778,5 +36729,166 @@
         "lastVerifiedDate": "2026-07-16T03:06:48Z"
       }
     ]
+  },
+  {
+    "schoolID": "CA-university-of-california-riverside",
+    "schoolName": "University of California-Riverside",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Gregg Wallis",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "ND-university-of-jamestown",
+    "schoolName": "University of Jamestown",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Ryan Iliff",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "WA-central-washington-university",
+    "schoolName": "Central Washington University",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Aaron Vaughn",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "HI-university-of-hawaii-at-hilo",
+    "schoolName": "University of Hawaii at Hilo",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Elliot Cribby",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "PA-pennsylvania-college-of-technology",
+    "schoolName": "Pennsylvania College of Technology",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Brett Marks",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-lehman-college",
+    "schoolName": "Lehman College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Joe Curto",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-keuka-college",
+    "schoolName": "Keuka College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Daniel Steve",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "AR-lyon-college",
+    "schoolName": "Lyon College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "David Butterfield",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "NH-beloit-college",
+    "schoolName": "Beloit College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": [
+      {
+        "name": "Ryan Kaveney",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-17T16:04:57Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "MN-ripon-college",
+    "schoolName": "Ripon College",
+    "state": "",
+    "division": "",
+    "conference": "",
+    "coaches": []
   }
 ]

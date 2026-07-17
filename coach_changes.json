@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "version": 79,
+    "version": 80,
     "lastUpdated": "2026-07-17",
     "description": "Baseball Recruiting Tracker — Coaching Change Log"
   },
@@ -2692,6 +2692,25 @@
       "previousSchool": "",
       "destinationSchool": "",
       "notes": "Auto-detected: isActive changed",
+      "isVerified": true,
+      "isMidSeason": false,
+      "createdAt": "2026-07-17",
+      "isPersistent": false,
+      "expiresAt": "2026-09-15"
+    },
+    {
+      "id": "5e6548f6-33e6-4d15-9aa8-1eb49f4d59d9",
+      "schoolId": "TX-university-of-houston",
+      "schoolName": "University of Houston",
+      "coachFirstName": "Will",
+      "coachLastName": "Davis",
+      "role": "Head Coach",
+      "changeType": "new_hire",
+      "priority": "high",
+      "effectiveDate": "2026-07-17",
+      "previousSchool": "",
+      "destinationSchool": "",
+      "notes": "Will Davis hired as Head Coach at University of Houston.",
       "isVerified": true,
       "isMidSeason": false,
       "createdAt": "2026-07-17",

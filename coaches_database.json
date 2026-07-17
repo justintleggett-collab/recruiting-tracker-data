@@ -4363,16 +4363,7 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": [
-      {
-        "name": "Charlie Hickey",
-        "title": "Head Coach",
-        "email": "hickeyc@ccsu.edu",
-        "phone": "860-832-3074",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      }
-    ]
+    "coaches": []
   },
   {
     "schoolID": "MI-central-michigan-university",

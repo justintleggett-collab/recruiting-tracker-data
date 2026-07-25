@@ -27588,6 +27588,14 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": "2026-07-25T13:30:58Z"
+      },
+      {
+        "name": "Ryan Fineman",
+        "title": "Recruiting Coordinator",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-25T14:03:58Z"
       }
     ]
   },
@@ -28831,44 +28839,28 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Jason Kelly",
+        "name": "Eddie Smith",
         "title": "Head Coach",
-        "email": "jkelly@uw.edu",
-        "phone": "206-543-2210",
+        "email": "baseball@uw.edu",
+        "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-25T14:04:00Z"
       },
       {
         "name": "Connor Lambert",
-        "title": "",
-        "email": "",
+        "title": "Pitching Coach",
+        "email": "lambo35@uw.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-25T14:04:01Z"
       },
       {
         "name": "Damon Lessler",
-        "title": "",
-        "email": "",
+        "title": "Assistant Coach",
+        "email": "lessler5@uw.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Eddie Smith",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Jake Rook",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-25T14:04:02Z"
       },
       {
         "name": "Joseph Boschee",
@@ -28880,27 +28872,19 @@
       },
       {
         "name": "Justin Jacobs",
-        "title": "",
-        "email": "",
+        "title": "Recruiting Coordinator",
+        "email": "jjac@uw.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-25T14:04:01Z"
       },
       {
         "name": "Kade Kryzsko",
         "title": "Assistant Coach",
-        "email": "",
+        "email": "kadekryz@uw.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Scott Junck",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-25T14:04:02Z"
       }
     ]
   },

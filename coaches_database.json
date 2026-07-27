@@ -265,6 +265,31 @@
     ]
   },
   {
+    "schoolID": "CT-albertus-magnus-college",
+    "schoolName": "Albertus Magnus College",
+    "state": "CT",
+    "division": "D3",
+    "conference": "NAC",
+    "coaches": [
+      {
+        "name": "Ian Ratchford",
+        "title": "Head Coach",
+        "email": "iratchford@albertus.edu",
+        "phone": "203-773-8534",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:09Z"
+      },
+      {
+        "name": "Conor Farrell",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:09Z"
+      }
+    ]
+  },
+  {
     "schoolID": "MI-albion-college",
     "schoolName": "Albion College",
     "state": "",
@@ -3448,6 +3473,260 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
+      }
+    ]
+  },
+  {
+    "schoolID": "CA-california-state-polytechnic-universitypomona",
+    "schoolName": "California State Polytechnic University-Pomona",
+    "state": "CA",
+    "division": "D2",
+    "conference": "CCAA",
+    "coaches": [
+      {
+        "name": "Randy Betten",
+        "title": "Head Coach",
+        "email": "rbetten@cpp.edu",
+        "phone": "909-869-2829",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:38:53Z"
+      },
+      {
+        "name": "Jenzen Torres",
+        "title": "Associate Head Coach",
+        "email": "jenzentorres@cpp.edu",
+        "phone": "909-869-2774",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:38:54Z"
+      },
+      {
+        "name": "Anthony Mizrahi",
+        "title": "Assistant Coach",
+        "email": "ajmizrahi@cpp.edu",
+        "phone": "909-869-2774",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:38:54Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "CA-california-state-universitychico",
+    "schoolName": "California State University-Chico",
+    "state": "CA",
+    "division": "D2",
+    "conference": "CCAA",
+    "coaches": [
+      {
+        "name": "Dave Taylor",
+        "title": "Head Baseball Coach",
+        "email": "dmtaylor@csuchico.edu",
+        "phone": "530-898-4374",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:38:55Z"
+      },
+      {
+        "name": "Mark Taylor",
+        "title": "Assistant Baseball Coach",
+        "email": "mtaylor79@csuchico.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:38:55Z"
+      },
+      {
+        "name": "Patrick Barnum",
+        "title": "Assistant Baseball Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:38:56Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "CA-california-state-universitydominguez-hills",
+    "schoolName": "California State University-Dominguez Hills",
+    "state": "CA",
+    "division": "D2",
+    "conference": "CCAA",
+    "coaches": [
+      {
+        "name": "Tyler Wright",
+        "title": "Head Coach",
+        "email": "twright@csudh.edu",
+        "phone": "310-243-3759",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:38:56Z"
+      },
+      {
+        "name": "Connor Bell",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:38:58Z"
+      },
+      {
+        "name": "Esteban Contreras",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "econtreras@csudh.edu",
+        "phone": "213-808-2408",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:38:57Z"
+      },
+      {
+        "name": "Greg Humbert",
+        "title": "Assistant Coach",
+        "email": "ghumbert1@csudh.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:38:57Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "CA-california-state-universityeast-bay",
+    "schoolName": "California State University-East Bay",
+    "state": "CA",
+    "division": "D2",
+    "conference": "CCAA",
+    "coaches": [
+      {
+        "name": "Mike Cummins",
+        "title": "Head Baseball Coach",
+        "email": "",
+        "phone": "510-885-3046",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:38:58Z"
+      },
+      {
+        "name": "Cole Coffey",
+        "title": "Assistant Baseball Coach",
+        "email": "cole.coffey@csueastbay.edu",
+        "phone": "510-885-4381",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:38:59Z"
+      },
+      {
+        "name": "Enrique Nunez",
+        "title": "Assistant Baseball Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:00Z"
+      },
+      {
+        "name": "Matt Page",
+        "title": "Assistant Baseball Coach",
+        "email": "",
+        "phone": "510-885-3046",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:38:59Z"
+      },
+      {
+        "name": "Nick White",
+        "title": "Assistant Baseball Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:00Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "CA-california-state-universitymonterey-bay",
+    "schoolName": "California State University-Monterey Bay",
+    "state": "CA",
+    "division": "D2",
+    "conference": "CCAA",
+    "coaches": [
+      {
+        "name": "Walt White",
+        "title": "Head Baseball Coach",
+        "email": "wawhite@csumb.edu",
+        "phone": "831-582-3720",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:01Z"
+      },
+      {
+        "name": "Dennis Peters",
+        "title": "Assistant Coach",
+        "email": "dpeters@csumb.edu",
+        "phone": "831-582-4276",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:02Z"
+      },
+      {
+        "name": "Derek Bell",
+        "title": "Assistant Coach",
+        "email": "dbell@csumb.edu",
+        "phone": "831-582-4276",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:01Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "CA-california-state-universitysan-bernardino",
+    "schoolName": "California State University-San Bernardino",
+    "state": "CA",
+    "division": "D2",
+    "conference": "CCAA",
+    "coaches": [
+      {
+        "name": "Mike Nadeau",
+        "title": "Head Coach",
+        "email": "michael.nadeau@csusb.edu",
+        "phone": "909-537-5021",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:02Z"
+      },
+      {
+        "name": "Jeff James",
+        "title": "Associate Head Coach / Recruiting Coordinator",
+        "email": "jeffrey.james@csusb.edu",
+        "phone": "909-537-5021",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:03Z"
+      },
+      {
+        "name": "Abraham Garcia-Pacheco",
+        "title": "Assistant Coach",
+        "email": "abraham.garcia-pacheco@csusb.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:03Z"
+      },
+      {
+        "name": "Art Salazar",
+        "title": "Assistant Coach",
+        "email": "arturo.salazar@csusb.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:04Z"
+      },
+      {
+        "name": "Colby Scheuber",
+        "title": "Assistant Coach",
+        "email": "colby.scheuber@csusb.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:05Z"
+      },
+      {
+        "name": "Jason Shedlock",
+        "title": "Assistant Coach",
+        "email": "jason.shedlock@csusb.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:05Z"
+      },
+      {
+        "name": "Matt Gonzales",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:04Z"
       }
     ]
   },
@@ -6844,6 +7123,31 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": "2026-07-03T15:33:47Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "PA-east-stroudsburg-university-of-pennsylvania",
+    "schoolName": "East Stroudsburg University of Pennsylvania",
+    "state": "PA",
+    "division": "D2",
+    "conference": "PSAC",
+    "coaches": [
+      {
+        "name": "John Kochmansky",
+        "title": "Head Coach",
+        "email": "jkochmansky@esu.edu",
+        "phone": "570-422-3263",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:06Z"
+      },
+      {
+        "name": "Joe Baran",
+        "title": "Assistant Coach / Pitching",
+        "email": "jbaran1@esu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:06Z"
       }
     ]
   },
@@ -20568,6 +20872,47 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": "2026-07-03T15:33:48Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "PA-slippery-rock-university-of-pennsylvania",
+    "schoolName": "Slippery Rock University of Pennsylvania",
+    "state": "PA",
+    "division": "D2",
+    "conference": "PSAC",
+    "coaches": [
+      {
+        "name": "Jeff Messer",
+        "title": "Head Coach",
+        "email": "jeffrey.messer@sru.edu",
+        "phone": "724-738-2813",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:07Z"
+      },
+      {
+        "name": "Billy Herman",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:08Z"
+      },
+      {
+        "name": "Billy Messer",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "william.messer@sru.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:07Z"
+      },
+      {
+        "name": "Ricky Mineo",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T23:39:08Z"
       }
     ]
   },

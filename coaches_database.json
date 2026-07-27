@@ -2369,12 +2369,28 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Baseball Head",
+        "name": "Justin Dedman",
         "title": "Head Coach",
-        "email": "",
+        "email": "jdedman@bradley.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-27T20:34:40Z"
+      },
+      {
+        "name": "Curtis Kellogg",
+        "title": "Recruiting Coordinator",
+        "email": "ckellogg1@bradley.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T20:34:41Z"
+      },
+      {
+        "name": "Jeff Bolen",
+        "title": "Pitching Coach",
+        "email": "jbolen@bradley.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T20:34:42Z"
       }
     ]
   },
@@ -7783,26 +7799,60 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Recruiting Coordinator/Assistant",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
         "name": "Chris Langan",
         "title": "Head Coach",
-        "email": "",
+        "email": "LanganC@felician.edu",
+        "phone": "732-500-4251",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T20:34:47Z"
+      },
+      {
+        "name": "Dustin Javins",
+        "title": "Recruiting Coordinator / Assistant Coach",
+        "email": "JavinsD@felician.edu",
+        "phone": "201-559-6185",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T20:34:48Z"
+      },
+      {
+        "name": "Gary Puente",
+        "title": "Assistant Coach / Outfield",
+        "email": "PuenteG@felician.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T20:34:51Z"
       },
       {
         "name": "John Cooley",
         "title": "Pitching Coach / Recruiting",
-        "email": "",
+        "email": "CooleyJ@felician.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T20:34:50Z"
+      },
+      {
+        "name": "Michael Gonzalez",
+        "title": "Assistant Coach / Infield",
+        "email": "GonzalezMi@felician.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T20:34:52Z"
+      },
+      {
+        "name": "Mike Atan",
+        "title": "Assistant Coach / NY Area Recruiting",
+        "email": "MJAtanasio@yahoo.com",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T20:34:50Z"
+      },
+      {
+        "name": "Steve Langan",
+        "title": "Hitting / Third Base Coach",
+        "email": "langans@felician.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T20:34:49Z"
       }
     ]
   },
@@ -12286,44 +12336,28 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Baseball Assistant",
-        "title": "Assistant Coach",
-        "email": "",
+        "name": "PJ Finigan",
+        "title": "Head Coach",
+        "email": "pfinigan@lindenwood.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-27T20:34:45Z"
       },
       {
         "name": "Chandler Purcell",
-        "title": "",
+        "title": "Assistant Coach / Hitting",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-27T20:34:46Z"
       },
       {
         "name": "Denton McNamee",
-        "title": "",
-        "email": "",
+        "title": "Assistant Coach / Pitching",
+        "email": "dmcnamee@lindenwood.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "John Stallcup",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "PJ Finigan",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-27T20:34:45Z"
       }
     ]
   },
@@ -16076,19 +16110,20 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Assistant Coach/Recruiting",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
         "name": "Tony Jandron",
         "title": "Head Coach",
-        "email": "",
+        "email": "jandron@nwmissouri.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T20:34:53Z"
+      },
+      {
+        "name": "Theo Bartolomeo",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "theob@nwmissouri.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T20:34:53Z"
       }
     ]
   },
@@ -26360,19 +26395,28 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Assistant Coach/Recruiting",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
+        "name": "Ivey Starling",
+        "title": "Associate Head Coach",
+        "email": "istarlin@montevallo.edu",
+        "phone": "205-665-6594",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-07-27T20:34:55Z"
+      },
+      {
+        "name": "Ben Chajet",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "bchajet@montevallo.edu",
+        "phone": "205-665-6594",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T20:34:56Z"
       },
       {
         "name": "Chandler Rose",
         "title": "Head Coach / Assistant Athletic Director",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "email": "cnrose@montevallo.edu",
+        "phone": "205-665-6594",
+        "twitter": "",
+        "lastVerifiedDate": "2026-07-27T20:34:54Z"
       }
     ]
   },

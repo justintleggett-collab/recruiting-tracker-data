@@ -405,7 +405,7 @@
       },
       {
         "name": "Greg Stauffer",
-        "title": "",
+        "title": "Assistant Coach / Catching",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -1538,7 +1538,7 @@
       },
       {
         "name": "Dale Plummer",
-        "title": "",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -2660,7 +2660,7 @@
     "coaches": [
       {
         "name": "Brayden Polzien",
-        "title": "",
+        "title": "Pitching Coach",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -3355,7 +3355,7 @@
       },
       {
         "name": "Jerry Gamone",
-        "title": "",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -3922,7 +3922,7 @@
       },
       {
         "name": "Jacob Nitch",
-        "title": "",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -4793,7 +4793,7 @@
       },
       {
         "name": "Nick Croce",
-        "title": "",
+        "title": "Associate Head Coach / Recruiting Coordinator",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -5418,7 +5418,7 @@
       },
       {
         "name": "Dana Gomez",
-        "title": "",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -5950,14 +5950,6 @@
     "division": "",
     "conference": "",
     "coaches": [
-      {
-        "name": "Assistant Coach/Recruiting",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
       {
         "name": "Colin Konicek",
         "title": "",
@@ -16811,7 +16803,7 @@
       },
       {
         "name": "Nolan Soete",
-        "title": "",
+        "title": "Head Coach",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -18502,7 +18494,7 @@
     "coaches": [
       {
         "name": "Andy Goodridge",
-        "title": "",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -19068,7 +19060,7 @@
       },
       {
         "name": "Marcus Cashman",
-        "title": "",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -21268,14 +21260,6 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Assistant Coach/Recruiting",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
         "name": "Cooper French",
         "title": "",
         "email": "",
@@ -22445,7 +22429,7 @@
       },
       {
         "name": "Kyle Kingsbury",
-        "title": "",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -25189,7 +25173,7 @@
     "coaches": [
       {
         "name": "Chris Rodriguez",
-        "title": "",
+        "title": "Head Coach",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -25394,7 +25378,7 @@
       },
       {
         "name": "Keith Prager",
-        "title": "",
+        "title": "Assistant Coach / Recruiting Coordinator",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -27244,7 +27228,7 @@
       },
       {
         "name": "Jeff Halstead",
-        "title": "",
+        "title": "Head Coach",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -27260,7 +27244,7 @@
       },
       {
         "name": "Tegan Aden",
-        "title": "",
+        "title": "Assistant Pitching Coach",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -27761,7 +27745,7 @@
     "coaches": [
       {
         "name": "Brady Desjardins",
-        "title": "",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -30132,7 +30116,7 @@
       },
       {
         "name": "Kase Lawson",
-        "title": "",
+        "title": "Assistant Baseball Coach / Pitching Coach",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -30950,7 +30934,7 @@
       },
       {
         "name": "Kaden Fowler",
-        "title": "",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -31492,7 +31476,7 @@
     "coaches": [
       {
         "name": "Ben Krueger",
-        "title": "",
+        "title": "Head Coach",
         "email": "",
         "phone": "",
         "twitter": "",
@@ -31537,6 +31521,13 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
+      },
+      {
+        "name": "Jordan Cameron",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
       }
     ]
   },

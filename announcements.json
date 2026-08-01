@@ -39,6 +39,16 @@
       "stopDate": "2026-07-06",
       "active": true,
       "color": "red"
+    },
+    {
+      "id": "ann-005",
+      "message": "8/1-8/17 D1 Contact Open ",
+      "linkText": "Learn More - Division I Baseball Calendar",
+      "linkURL": "https://ncaaorg.s3.amazonaws.com/compliance/recruiting/calendar/2025-26/2025-26D1Rec_MBARecruitingCalendar.pdf",
+      "startDate": "2026-08-01",
+      "stopDate": "2026-08-18",
+      "active": true,
+      "color": "blue"
     }
   ]
 }

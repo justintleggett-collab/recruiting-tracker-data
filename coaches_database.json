@@ -20434,7 +20434,15 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Harrison Barlow",
+        "title": "Assistant Coach / Assistant Recruiting Coordinator",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "TX-sam-houston-state-university",

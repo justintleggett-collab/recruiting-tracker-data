@@ -1714,9 +1714,18 @@
       {
         "name": "Brent Biggs",
         "title": "Head Coach",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "email": "BiggsB@bartonccc.edu",
+        "phone": "620-792-9373",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:03Z"
+      },
+      {
+        "name": "Brett McBride",
+        "title": "Assistant Coach",
+        "email": "McbrideB@bartonccc.edu",
+        "phone": "620-792-9262",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:03Z"
       }
     ]
   },
@@ -1767,7 +1776,32 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Jonathan Parker",
+        "title": "Head Coach",
+        "email": "parkerj5@mybrcc.edu",
+        "phone": "225-216-8023",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:04Z"
+      },
+      {
+        "name": "Braxton Boudoin",
+        "title": "Assistant Coach",
+        "email": "boudoinb@mybrcc.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:04Z"
+      },
+      {
+        "name": "Chase Honeycutt",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:04Z"
+      }
+    ]
   },
   {
     "schoolID": "TX-baylor-university",
@@ -1858,7 +1892,40 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Mark Yoshino",
+        "title": "Head Coach",
+        "email": "mark.yoshino@bellevuecollege.edu",
+        "phone": "425-564-2356",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:04Z"
+      },
+      {
+        "name": "Abe Affholter",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:05Z"
+      },
+      {
+        "name": "Ian Parmley",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:05Z"
+      },
+      {
+        "name": "Jake Terao",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:05Z"
+      }
+    ]
   },
   {
     "schoolID": "NC-belmont-abbey-college",
@@ -2190,7 +2257,32 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Steve Woodard",
+        "title": "Head Coach",
+        "email": "Steve.Woodard@BSCC.edu",
+        "phone": "256-214-1277",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:05Z"
+      },
+      {
+        "name": "Chad Tucker",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:06Z"
+      },
+      {
+        "name": "Josh Moore",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:06Z"
+      }
+    ]
   },
   {
     "schoolID": "WA-big-bend-community-college",
@@ -2297,7 +2389,40 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "James Hattenstein",
+        "title": "Head Coach",
+        "email": "jhattenstein@bishop.edu",
+        "phone": "251-405-7038",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:06Z"
+      },
+      {
+        "name": "Chandler Farley",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:07Z"
+      },
+      {
+        "name": "Jeremy Hunt",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:06Z"
+      },
+      {
+        "name": "William Pitts",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:07Z"
+      }
+    ]
   },
   {
     "schoolID": "ND-bismarck-state-college",
@@ -2374,11 +2499,28 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Derek Bettinson",
+        "title": "Head Coach",
+        "email": "dbettinson@bluecc.edu",
+        "phone": "541-278-5937",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:07Z"
+      },
+      {
+        "name": "Rog Gonzales",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:07Z"
+      },
+      {
         "name": "Tyson Wicklander",
         "title": "Assistant Coach",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:08Z"
       }
     ]
   },
@@ -2404,7 +2546,32 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Bobby Gilliam",
+        "title": "Head Coach",
+        "email": "bgilliam@bpcc.edu",
+        "phone": "318-678-6319",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:08Z"
+      },
+      {
+        "name": "Andrew Mercer",
+        "title": "Assistant Coach / Pitching Coach",
+        "email": "amercer@bpcc.edu",
+        "phone": "318-678-6533",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:08Z"
+      },
+      {
+        "name": "Bryant Bowen",
+        "title": "Assistant Coach / Hitting Coach",
+        "email": "bbowen@bpcc.edu",
+        "phone": "318-678-6319",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:08Z"
+      }
+    ]
   },
   {
     "schoolID": "MA-boston-college",
@@ -2677,7 +2844,32 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Johnny Johnson",
+        "title": "Head Coach",
+        "email": "jjohnson@brookdalecc.edu",
+        "phone": "732-224-2377",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:09Z"
+      },
+      {
+        "name": "Gerald Malanga",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "732-224-2377",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:09Z"
+      },
+      {
+        "name": "Jay Blackwell",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "732-224-2377",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:09Z"
+      }
+    ]
   },
   {
     "schoolID": "RI-brown-university",
@@ -2726,7 +2918,40 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Robert Allen",
+        "title": "Head Coach",
+        "email": "allenr@brunswickcc.edu",
+        "phone": "910-755-7321",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:09Z"
+      },
+      {
+        "name": "Davis Kirkpatrick",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "kirkpatrickd@brunswickcc.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:09Z"
+      },
+      {
+        "name": "Gary Rabon",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:10Z"
+      },
+      {
+        "name": "Pete Hughes",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:10Z"
+      }
+    ]
   },
   {
     "schoolID": "VA-bryant-stratton-college-virginia-beach",
@@ -2738,9 +2963,34 @@
       {
         "name": "Paul Bottigliero",
         "title": "Head Coach",
+        "email": "pebottigliero@bryantstratton.edu",
+        "phone": "757-499-7900",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:10Z"
+      },
+      {
+        "name": "Kelon Wesley",
+        "title": "Associate Head Coach / Recruiting Coordinator",
+        "email": "kuwesley@bryantstratton.edu",
+        "phone": "757-499-7900",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:10Z"
+      },
+      {
+        "name": "Gary Lavelle",
+        "title": "Assistant Pitching Coach",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:11Z"
+      },
+      {
+        "name": "Trovin Valdez",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:11Z"
       }
     ]
   },
@@ -2873,7 +3123,40 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Kurt Dreher",
+        "title": "Head Coach",
+        "email": "kurt.dreher@bhcc.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:11Z"
+      },
+      {
+        "name": "Anthony Asenjo",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "anthony.asenjo@bhcc.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:12Z"
+      },
+      {
+        "name": "Frank Morrissey",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:12Z"
+      },
+      {
+        "name": "Larry Torres",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:11Z"
+      }
+    ]
   },
   {
     "schoolID": "KS-butler-community-college",
@@ -2881,7 +3164,32 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Seth Wheeler",
+        "title": "Head Coach",
+        "email": "swheeler5@butlercc.edu",
+        "phone": "316-322-3196",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:12Z"
+      },
+      {
+        "name": "Breon Horne",
+        "title": "Assistant Coach",
+        "email": "bhorne@butlercc.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:12Z"
+      },
+      {
+        "name": "Micah Grover",
+        "title": "Assistant Coach",
+        "email": "mgrover2@butlercc.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:12Z"
+      }
+    ]
   },
   {
     "schoolID": "IN-butler-university",
@@ -2930,7 +3238,48 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Anthony Ferro",
+        "title": "Head Coach",
+        "email": "ferroan@butte.edu",
+        "phone": "530-895-2475",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:13Z"
+      },
+      {
+        "name": "Frankie Cleary",
+        "title": "Associate Head Coach",
+        "email": "clearyfr@butte.edu",
+        "phone": "530-895-2459",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:13Z"
+      },
+      {
+        "name": "Alex Garcia",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "530-895-2459",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:14Z"
+      },
+      {
+        "name": "Dave O'Hair",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "530-895-2459",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:13Z"
+      },
+      {
+        "name": "Eric Robles",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "530-895-2459",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:13Z"
+      }
+    ]
   },
   {
     "schoolID": "PA-cc-of-allegheny-county-boyce",
@@ -2938,7 +3287,32 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Austin Long",
+        "title": "Head Coach",
+        "email": "along@ccac.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:14Z"
+      },
+      {
+        "name": "Dale Bricker",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:14Z"
+      },
+      {
+        "name": "Ray Santos",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:14Z"
+      }
+    ]
   },
   {
     "schoolID": "PA-cc-of-allegheny-county-south",
@@ -2954,7 +3328,32 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Dan Blue",
+        "title": "Head Coach",
+        "email": "dblue@ccbcmd.edu",
+        "phone": "443-840-4996",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:14Z"
+      },
+      {
+        "name": "Alex Elliott",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:15Z"
+      },
+      {
+        "name": "Mike DelGaudio",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:15Z"
+      }
+    ]
   },
   {
     "schoolID": "MD-ccbc-dundalk",
@@ -3298,7 +3697,40 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Erik Scherer",
+        "title": "Head Coach",
+        "email": "escherer@callutheran.edu",
+        "phone": "805-493-3398",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:15Z"
+      },
+      {
+        "name": "Alec Iniguez",
+        "title": "Outfield Coach / 1B Coach / Baserunning Coordinator",
+        "email": "ainiguez@callutheran.edu",
+        "phone": "805-493-3289",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:16Z"
+      },
+      {
+        "name": "Collin Crowl",
+        "title": "Infield Coach / Offensive Coordinator / Recruiting Coordinator",
+        "email": "ccrowl@callutheran.edu",
+        "phone": "805-493-3289",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:15Z"
+      },
+      {
+        "name": "Eddie Villegas",
+        "title": "Catchers Coach / 3B Coach / Facility Coordinator",
+        "email": "evillegas@callutheran.edu",
+        "phone": "805-493-3289",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:15Z"
+      }
+    ]
   },
   {
     "schoolID": "CA-cal-poly-pomona",
@@ -3503,7 +3935,32 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Tyler Deaton",
+        "title": "Head Coach",
+        "email": "tdeaton@cccti.edu",
+        "phone": "828-726-2417",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:16Z"
+      },
+      {
+        "name": "Cody Penny",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:16Z"
+      },
+      {
+        "name": "Lane Hoover",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:16Z"
+      }
+    ]
   },
   {
     "schoolID": "NJ-caldwell-university",
@@ -3552,7 +4009,24 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Cameron Chafetz",
+        "title": "Head Coach - Baseball",
+        "email": "cameron.chafetz@calhoun.edu",
+        "phone": "256-306-2840",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:17Z"
+      },
+      {
+        "name": "Cooper Williams",
+        "title": "Assistant Coach / Pitching",
+        "email": "cooper.williams@calhoun.edu",
+        "phone": "256-306-2840",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:17Z"
+      }
+    ]
   },
   {
     "schoolID": "CA-california-southern",
@@ -3908,11 +4382,36 @@
     "conference": "",
     "coaches": [
       {
+        "name": "John Scanzano",
+        "title": "Head Coach",
+        "email": "jscanzano@camdencc.edu",
+        "phone": "856-889-3434",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:17Z"
+      },
+      {
+        "name": "Brian Gallante",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:17Z"
+      },
+      {
+        "name": "Matt Brewer",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:18Z"
+      },
+      {
         "name": "Scott Shaw",
         "title": "Assistant Coach",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:17Z"
       }
     ]
   },
@@ -3965,11 +4464,52 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Tony Lucca",
+        "title": "Head Coach",
+        "email": "luccat@smccd.edu",
+        "phone": "650-306-3269",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:18Z"
+      },
+      {
         "name": "Mikey Smith",
         "title": "Associate Head Coach",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:18Z"
+      },
+      {
+        "name": "Dan Palladino",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:18Z"
+      },
+      {
+        "name": "Joe Conti",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:19Z"
+      },
+      {
+        "name": "Paul Terra",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:19Z"
+      },
+      {
+        "name": "Tyler Condie",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:49:18Z"
       }
     ]
   },

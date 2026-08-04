@@ -1137,12 +1137,12 @@
         "lastVerifiedDate": "2026-08-04T20:08:59Z"
       },
       {
-        "name": "Tanner Gordon",
-        "title": "Head Coach",
-        "email": "",
-        "phone": "",
+        "name": "Tanner Bradley",
+        "title": "Baseball Assistant Coach",
+        "email": "tbradl12@aum.edu",
+        "phone": "334-244-3236",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-17T16:05:56Z"
+        "lastVerifiedDate": "2026-08-04T20:59:37Z"
       }
     ]
   },
@@ -3345,7 +3345,24 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Nick Ritko",
+        "title": "Head Coach",
+        "email": "lionsbaseball@ccbcmd.edu",
+        "phone": "443-248-3188",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T20:59:35Z"
+      },
+      {
+        "name": "Creed Mourey",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T20:59:35Z"
+      }
+    ]
   },
   {
     "schoolID": "MD-ccbc-essex",
@@ -3353,7 +3370,32 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Sean O'Connor",
+        "title": "Head Coach",
+        "email": "knightsbaseball@ccbcmd.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T20:59:35Z"
+      },
+      {
+        "name": "Izzy Taylor",
+        "title": "Assistant Coach/Hitting Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T20:59:36Z"
+      },
+      {
+        "name": "Tommy Peifley",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T20:59:36Z"
+      }
+    ]
   },
   {
     "schoolID": "CA-csu-bakersfield",
@@ -4635,6 +4677,14 @@
         "phone": "865-471-3465",
         "twitter": "",
         "lastVerifiedDate": ""
+      },
+      {
+        "name": "Brendan Krob",
+        "title": "Assistant Coach/Recruiting Coordinator",
+        "email": "bkrob@cn.edu",
+        "phone": "865-471-3526",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:06Z"
       }
     ]
   },
@@ -4652,7 +4702,32 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Matt Englander",
+        "title": "Head Coach",
+        "email": "matthew.englander@case.edu",
+        "phone": "216-368-5379",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:07Z"
+      },
+      {
+        "name": "Matt Johnson",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:07Z"
+      },
+      {
+        "name": "Steve Gruenberg",
+        "title": "Assistant Coach",
+        "email": "stephen.gruenberg@case.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:07Z"
+      }
+    ]
   },
   {
     "schoolID": "VT-castleton-university",
@@ -8340,7 +8415,48 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Bryan Haley",
+        "title": "Head Coach",
+        "email": "bhaley@endicott.edu",
+        "phone": "978-232-2304",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:08Z"
+      },
+      {
+        "name": "Alex Loparco",
+        "title": "Assistant Coach",
+        "email": "aloparco@endicott.edu",
+        "phone": "978-232-5238",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:08Z"
+      },
+      {
+        "name": "Ian Brown",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:09Z"
+      },
+      {
+        "name": "Steve Busby",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:08Z"
+      },
+      {
+        "name": "Tom Muratore",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:09Z"
+      }
+    ]
   },
   {
     "schoolID": "AL-enterprise-state-community-college",
@@ -11003,7 +11119,32 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Brennan Fisher",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:09Z"
+      },
+      {
+        "name": "Rick Huisman",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:10Z"
+      },
+      {
+        "name": "Ryan Dorow",
+        "title": "Assistant Coach",
+        "email": "dorow@hope.edu",
+        "phone": "616-395-7070",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:09Z"
+      }
+    ]
   },
   {
     "schoolID": "TX-houston-christian-university",
@@ -11438,7 +11579,40 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "David Valesente",
+        "title": "Head Coach",
+        "email": "dvalesente@ithaca.edu",
+        "phone": "607-274-3749",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:10Z"
+      },
+      {
+        "name": "Andrew McDermott",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:11Z"
+      },
+      {
+        "name": "Ben Landis",
+        "title": "Assistant Coach",
+        "email": "blandis@ithaca.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:11Z"
+      },
+      {
+        "name": "Cooper Belyea",
+        "title": "Assistant Coach",
+        "email": "cbelyea1@ithaca.edu",
+        "phone": "607-274-3749",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:10Z"
+      }
+    ]
   },
   {
     "schoolID": "MI-jackson-college",
@@ -14089,6 +14263,14 @@
         "phone": "618-537-6906",
         "twitter": "",
         "lastVerifiedDate": "2026-07-28T21:30:31Z"
+      },
+      {
+        "name": "Hayden Crabtree",
+        "title": "Recruiting Coordinator",
+        "email": "hscrabtree@mckendree.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:06Z"
       }
     ]
   },
@@ -17056,7 +17238,24 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Luke Wetmore",
+        "title": "Head Baseball Coach",
+        "email": "wetmorel@oxy.edu",
+        "phone": "323-259-2683",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:11Z"
+      },
+      {
+        "name": "Cameron McMullen",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "cmcmullen@oxy.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:11Z"
+      }
+    ]
   },
   {
     "schoolID": "NJ-ocean-county-college",
@@ -18089,6 +18288,14 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": "2026-07-28T19:50:58Z"
+      },
+      {
+        "name": "Caleb Millikan",
+        "title": "Assistant Coach",
+        "email": "Caleb.Millikan@pomona.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:17Z"
       },
       {
         "name": "Jason Staub",
@@ -20426,7 +20633,56 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Eric Cirella",
+        "title": "Head Coach",
+        "email": "eric.cirella@salve.edu",
+        "phone": "401-341-2267",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:12Z"
+      },
+      {
+        "name": "Chris Ursillo",
+        "title": "Assistant Coach",
+        "email": "christopher.ursillo@salve.edu",
+        "phone": "401-341-2267",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:13Z"
+      },
+      {
+        "name": "Dirk Baker",
+        "title": "Assistant Coach",
+        "email": "dirk.baker@salve.edu",
+        "phone": "401-341-2267",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:13Z"
+      },
+      {
+        "name": "Harrison Barlow",
+        "title": "Assistant Coach / Assistant Recruiting Coordinator",
+        "email": "harrison.barlow@salve.edu",
+        "phone": "401-341-3258",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:12Z"
+      },
+      {
+        "name": "Peter Clays",
+        "title": "Assistant Coach",
+        "email": "peter.clays@salve.edu",
+        "phone": "401-341-2267",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:13Z"
+      },
+      {
+        "name": "Zach Clesas",
+        "title": "Pitching Coach / Recruiting Coordinator",
+        "email": "zachary.clesas@salve.edu",
+        "phone": "401-341-3258",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:12Z"
+      }
+    ]
   },
   {
     "schoolID": "TX-sam-houston-state-university",
@@ -22080,43 +22336,19 @@
     "coaches": [
       {
         "name": "Frank Kellner",
-        "title": "",
+        "title": "Head Coach",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Interim Assistant",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Jake Robles",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Lee Tunnell",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-08-04T20:59:37Z"
       },
       {
         "name": "Zach Diaz",
-        "title": "",
+        "title": "Interim Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-08-04T20:59:37Z"
       }
     ]
   },
@@ -23486,7 +23718,64 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Bryan Stark",
+        "title": "Head Coach",
+        "email": "bryan.stark@tufts.edu",
+        "phone": "617-627-5218",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:13Z"
+      },
+      {
+        "name": "Barry Rosen",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:14Z"
+      },
+      {
+        "name": "Bob Clarke",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:14Z"
+      },
+      {
+        "name": "Kevin Curtin",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:14Z"
+      },
+      {
+        "name": "Miles Reid",
+        "title": "Assistant Coach",
+        "email": "Miles.reid@tufts.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:15Z"
+      },
+      {
+        "name": "Ozzie Fleischer",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:15Z"
+      },
+      {
+        "name": "Pat McGowan",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:14Z"
+      }
+    ]
   },
   {
     "schoolID": "LA-tulane-university",
@@ -30909,7 +31198,72 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Matt Husted",
+        "title": "Head Baseball Coach",
+        "email": "matt.husted@wheaton.edu",
+        "phone": "630-752-7164",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:15Z"
+      },
+      {
+        "name": "Brian Kolb",
+        "title": "Assistant Baseball Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:17Z"
+      },
+      {
+        "name": "Daniel Hillyer",
+        "title": "Assistant Baseball Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:16Z"
+      },
+      {
+        "name": "Dylan Brown",
+        "title": "Assistant Baseball Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:16Z"
+      },
+      {
+        "name": "Josh Williams",
+        "title": "Assistant Baseball Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:17Z"
+      },
+      {
+        "name": "Josiah Livingston",
+        "title": "Assistant Baseball Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:16Z"
+      },
+      {
+        "name": "Matt Nelson",
+        "title": "Assistant Baseball Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:17Z"
+      },
+      {
+        "name": "Tim Munz",
+        "title": "Assistant Baseball Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T23:29:15Z"
+      }
+    ]
   },
   {
     "schoolID": "MA-wheaton-college-ma",

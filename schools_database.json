@@ -105,7 +105,8 @@
     "roomAndBoard": 23746,
     "outOfStateTuition": 28024,
     "nilPolicyURL": null,
-    "pellGrantRate": 41.8
+    "pellGrantRate": 41.8,
+    "active": false
   },
   {
     "retentionRate": 50.7,
@@ -27720,7 +27721,8 @@
     "roomAndBoard": 22266,
     "outOfStateTuition": 20550,
     "nilPolicyURL": null,
-    "pellGrantRate": 42.2
+    "pellGrantRate": 42.2,
+    "active": false
   },
   {
     "booksAndSupplies": 980,

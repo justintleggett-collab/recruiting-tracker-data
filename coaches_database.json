@@ -1129,12 +1129,12 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Baseball Head",
-        "title": "Head Coach",
+        "name": "Franklin Bush",
+        "title": "Head Baseball Coach",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-08-04T20:08:59Z"
       },
       {
         "name": "Tanner Gordon",
@@ -1145,20 +1145,12 @@
         "lastVerifiedDate": "2026-07-17T16:05:56Z"
       },
       {
-        "name": "Baseball Assistant",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
+        "name": "Tanner Bradley",
+        "title": "Assistant Baseball Coach",
+        "email": "tbradl12@aum.edu",
+        "phone": "334-244-3236",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Baseball Graduate",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-08-04T20:09:00Z"
       }
     ]
   },
@@ -12734,23 +12726,23 @@
         "email": "mbrew@leeuniversity.edu",
         "phone": "423-614-8638",
         "twitter": "@LeeU_Baseball",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Baseball Assistant",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-08-04T20:09:03Z"
       },
       {
         "name": "Jorge Saez",
         "title": "Associate Head Coach / Recruiting Coordinator",
-        "email": "",
-        "phone": "",
+        "email": "jsaez@leeuniversity.edu",
+        "phone": "423-614-8031",
         "twitter": "@jsaez12",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-08-04T20:09:03Z"
+      },
+      {
+        "name": "Micah Kaczor",
+        "title": "Assistant Coach",
+        "email": "mkaczor@leeuniversity.edu",
+        "phone": "423-614-8031",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T20:09:03Z"
       }
     ]
   },
@@ -30506,43 +30498,28 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Merrill Morgan",
+        "name": "Sean Loyd",
         "title": "Head Coach",
-        "email": "mmorgan@vsu.edu",
-        "phone": "804-524-5816",
+        "email": "loyds@wvstateu.edu",
+        "phone": "304-766-3238",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Assistant Coach/Recruiting",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-08-04T20:09:11Z"
       },
       {
         "name": "Greg Keaton",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "gk1530@yahoo.com",
+        "phone": "803-840-2012",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-08-04T20:09:12Z"
       },
       {
         "name": "Steve Crosier",
-        "title": "",
-        "email": "",
-        "phone": "",
+        "title": "Assistant Coach",
+        "email": "scrosier9@gmail.com",
+        "phone": "304-807-0535",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Sean Loyd",
-        "title": "Head Coach",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "lastVerifiedDate": "2026-08-04T20:09:12Z"
       }
     ]
   },

@@ -1825,6 +1825,22 @@
         "phone": "502-272-8380",
         "twitter": "",
         "lastVerifiedDate": ""
+      },
+      {
+        "name": "Ross Goldschlag",
+        "title": "Assistant Coach / Pitching Coach",
+        "email": "rgoldschlag@bellarmine.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:19:11Z"
+      },
+      {
+        "name": "Seth Sweet-Chick",
+        "title": "Assistant Coach",
+        "email": "ssweet-chick@bellarmine.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:19:11Z"
       }
     ]
   },
@@ -4262,6 +4278,22 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": "2026-08-03T14:17:02Z"
+      },
+      {
+        "name": "Bob Nenna",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:19:12Z"
+      },
+      {
+        "name": "Rob Bono",
+        "title": "Assistant Coach",
+        "email": "rbono@ccsu.edu",
+        "phone": "860-832-3579",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:19:12Z"
       }
     ]
   },
@@ -18012,6 +18044,14 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": "2026-07-24T18:58:48Z"
+      },
+      {
+        "name": "Christian Bourne",
+        "title": "Assistant Baseball Coach",
+        "email": "cbourne@radford.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:19:11Z"
       }
     ]
   },
@@ -19988,11 +20028,28 @@
         "lastVerifiedDate": ""
       },
       {
+        "name": "Thomas Walker",
+        "title": "Associate Head Coach",
+        "email": "thomas.walker@sjsu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:19:12Z"
+      },
+      {
         "name": "Jarron Silva",
         "title": "Assistant Coach",
-        "email": "",
+        "email": "jarron.silva@sjsu.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:19:13Z"
+      },
+      {
+        "name": "Joshua Pike",
+        "title": "Assistant Coach",
+        "email": "josh.pike@sjsu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-04T00:19:13Z"
       }
     ]
   },

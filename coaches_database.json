@@ -3345,15 +3345,7 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": [
-      {
-        "name": "Nick Ritko",
-        "title": "Head Coach",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      }
-    ]
+    "coaches": []
   },
   {
     "schoolID": "MD-ccbc-essex",

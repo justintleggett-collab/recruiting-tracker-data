@@ -957,35 +957,11 @@
     "coaches": [
       {
         "name": "Dave Dawson",
-        "title": "Dave Dawson Head Baseball Coach",
+        "title": "Head Coach",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Drew Vega",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Joe Kinneberg",
-        "title": "Graduate Assistant",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Markos Cabranes",
-        "title": "Graduate Assistant",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-08-05T00:21:35Z"
       },
       {
         "name": "Michael Mueller",
@@ -13481,20 +13457,12 @@
     "conference": "",
     "coaches": [
       {
-        "name": "Blake Herring",
+        "name": "William Hardin",
         "title": "Head Coach",
-        "email": "bherring@louisburg.edu",
-        "phone": "(919) 497-3328",
+        "email": "whardin@louisburg.edu",
+        "phone": "919-497-3328",
         "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Bryce Myers",
-        "title": "Bryce Myers Interim Head Baseball Coach bmyers",
-        "email": "bmyers@louisburg.edu",
-        "phone": "(919) 497-3328",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-08-05T00:05:34Z"
       },
       {
         "name": "Shane Bogli",

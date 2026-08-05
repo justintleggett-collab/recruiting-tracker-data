@@ -1344,6 +1344,14 @@
     ]
   },
   {
+    "schoolID": "TX-austin-college",
+    "schoolName": "Austin College",
+    "state": "TX",
+    "division": "D3",
+    "conference": "Southern Collegiate Athletic Conference (SCAC)",
+    "coaches": []
+  },
+  {
     "schoolID": "TN-austin-peay-state-university",
     "schoolName": "Austin Peay State University",
     "state": "",
@@ -2137,6 +2145,14 @@
     ]
   },
   {
+    "schoolID": "WV-bethany-college",
+    "schoolName": "Bethany College",
+    "state": "WV",
+    "division": "D3",
+    "conference": "Presidents' Athletic Conference (PAC)",
+    "coaches": []
+  },
+  {
     "schoolID": "MN-bethany-lutheran-college",
     "schoolName": "Bethany Lutheran College",
     "state": "",
@@ -2408,6 +2424,14 @@
         "lastVerifiedDate": "2026-07-29T00:44:04Z"
       }
     ]
+  },
+  {
+    "schoolID": "IL-blackburn-college",
+    "schoolName": "Blackburn College",
+    "state": "IL",
+    "division": "D3",
+    "conference": "St. Louis Intercollegiate Athletic Conference (SLIAC)",
+    "coaches": []
   },
   {
     "schoolID": "NJ-bloomfield-college-of-montclair-state-university",
@@ -3653,6 +3677,38 @@
     ]
   },
   {
+    "schoolID": "NY-cuny-bernard-m-baruch-college",
+    "schoolName": "CUNY Bernard M Baruch College",
+    "state": "NY",
+    "division": "D3",
+    "conference": "City University of New York Athletic Conference (CUNYAC)",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-cuny-city-college",
+    "schoolName": "CUNY City College",
+    "state": "NY",
+    "division": "D3",
+    "conference": "City University of New York Athletic Conference (CUNYAC)",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-cuny-john-jay-college-of-criminal-justice",
+    "schoolName": "CUNY John Jay College of Criminal Justice",
+    "state": "NY",
+    "division": "D3",
+    "conference": "City University of New York Athletic Conference (CUNYAC)",
+    "coaches": []
+  },
+  {
+    "schoolID": "PA-cairn-universitylanghorne",
+    "schoolName": "Cairn University-Langhorne",
+    "state": "PA",
+    "division": "D3",
+    "conference": "United East Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "CA-cal-baptist",
     "schoolName": "Cal Baptist",
     "state": "",
@@ -4673,6 +4729,14 @@
     "coaches": []
   },
   {
+    "schoolID": "WI-carthage-college",
+    "schoolName": "Carthage College",
+    "state": "WI",
+    "division": "D3",
+    "conference": "College Conference of Illinois and Wisconsin (CCIW)",
+    "coaches": []
+  },
+  {
     "schoolID": "OH-case-western-reserve-university",
     "schoolName": "Case Western Reserve University",
     "state": "",
@@ -5412,6 +5476,14 @@
     "coaches": []
   },
   {
+    "schoolID": "CA-claremont-mckennaharvey-muddscripps",
+    "schoolName": "Claremont McKenna-Harvey Mudd-Scripps",
+    "state": "CA",
+    "division": "D3",
+    "conference": "Southern California Intercollegiate Athletic Conference (SCIAC)",
+    "coaches": []
+  },
+  {
     "schoolID": "CA-claremont-mudd-scripps",
     "schoolName": "Claremont-Mudd-Scripps",
     "state": "",
@@ -5935,6 +6007,14 @@
     "state": "",
     "division": "",
     "conference": "",
+    "coaches": []
+  },
+  {
+    "schoolID": "MA-college-of-our-lady-of-the-elms",
+    "schoolName": "College of Our Lady of the Elms",
+    "state": "MA",
+    "division": "D3",
+    "conference": "Great Northeast Athletic Conference (GNAC)",
     "coaches": []
   },
   {
@@ -7239,6 +7319,14 @@
     "coaches": []
   },
   {
+    "schoolID": "PA-delaware-valley-university",
+    "schoolName": "Delaware Valley University",
+    "state": "PA",
+    "division": "D3",
+    "conference": "MAC Freedom",
+    "coaches": []
+  },
+  {
     "schoolID": "MS-delta-state-university",
     "schoolName": "Delta State University",
     "state": "",
@@ -7924,6 +8012,14 @@
     ]
   },
   {
+    "schoolID": "MA-eastern-nazarene-college",
+    "schoolName": "Eastern Nazarene College",
+    "state": "MA",
+    "division": "D3",
+    "conference": "Great Northeast Athletic Conference (GNAC)",
+    "coaches": []
+  },
+  {
     "schoolID": "NM-eastern-new-mexico-university",
     "schoolName": "Eastern New Mexico University",
     "state": "",
@@ -8094,6 +8190,14 @@
     "state": "",
     "division": "",
     "conference": "",
+    "coaches": []
+  },
+  {
+    "schoolID": "PA-elizabethtown-college",
+    "schoolName": "Elizabethtown College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Landmark Conference",
     "coaches": []
   },
   {
@@ -10565,6 +10669,14 @@
     ]
   },
   {
+    "schoolID": "TX-hardinsimmons-university",
+    "schoolName": "Hardin-Simmons University",
+    "state": "TX",
+    "division": "D3",
+    "conference": "American Southwest Conference (ASC)",
+    "coaches": []
+  },
+  {
     "schoolID": "MD-harford-community-college",
     "schoolName": "Harford Community College",
     "state": "",
@@ -10959,6 +11071,14 @@
     ]
   },
   {
+    "schoolID": "NY-hobart-william-smith-colleges",
+    "schoolName": "Hobart William Smith Colleges",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Liberty League",
+    "coaches": []
+  },
+  {
     "schoolID": "OH-hocking-college",
     "schoolName": "Hocking College",
     "state": "",
@@ -11097,6 +11217,14 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Ryan Dorow",
+        "title": "Head Coach",
+        "email": "dorow@hope.edu",
+        "phone": "616-395-7070",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-05T01:04:52Z"
+      },
+      {
         "name": "Brennan Fisher",
         "title": "Assistant Coach / Recruiting Coordinator",
         "email": "",
@@ -11111,14 +11239,6 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": "2026-08-04T23:29:10Z"
-      },
-      {
-        "name": "Ryan Dorow",
-        "title": "Assistant Coach",
-        "email": "dorow@hope.edu",
-        "phone": "616-395-7070",
-        "twitter": "",
-        "lastVerifiedDate": "2026-08-04T23:29:09Z"
       }
     ]
   },
@@ -11178,7 +11298,32 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "D.J. Conville",
+        "title": "Head Coach",
+        "email": "dconville@hawks.huntingdon.edu",
+        "phone": "334-833-4252",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-05T01:04:52Z"
+      },
+      {
+        "name": "Nick Fletcher",
+        "title": "Assistant Head Coach",
+        "email": "nfletcher@hawks.huntingdon.edu",
+        "phone": "334-833-4501",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-05T01:04:52Z"
+      },
+      {
+        "name": "Ryan Smith",
+        "title": "Assistant Coach",
+        "email": "hc.rsmith@hawks.huntingdon.edu",
+        "phone": "334-833-4501",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-05T01:04:53Z"
+      }
+    ]
   },
   {
     "schoolID": "ME-husson-university",
@@ -11893,6 +12038,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "NC-johnson-wales-universitycharlotte",
+    "schoolName": "Johnson & Wales University-Charlotte",
+    "state": "NC",
+    "division": "D3",
+    "conference": "Coast to Coast Athletic Conference (C2C)",
+    "coaches": []
   },
   {
     "schoolID": "KS-johnson-county-community-college",
@@ -12690,6 +12843,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "PA-lancaster-bible-college",
+    "schoolName": "Lancaster Bible College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "United East Conference",
+    "coaches": []
   },
   {
     "schoolID": "SC-lander-university",
@@ -13624,6 +13785,14 @@
     ]
   },
   {
+    "schoolID": "PA-lycoming-college",
+    "schoolName": "Lycoming College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Landmark Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "FL-lynn-university",
     "schoolName": "Lynn University",
     "state": "",
@@ -13771,6 +13940,22 @@
         "lastVerifiedDate": "2026-07-24T01:33:24Z"
       }
     ]
+  },
+  {
+    "schoolID": "NY-manhattanville-university",
+    "schoolName": "Manhattanville University",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Skyline Conference",
+    "coaches": []
+  },
+  {
+    "schoolID": "WI-maranatha-baptist-university",
+    "schoolName": "Maranatha Baptist University",
+    "state": "WI",
+    "division": "D3",
+    "conference": "Independent",
+    "coaches": []
   },
   {
     "schoolID": "WI-marian-university-wi",
@@ -13969,6 +14154,14 @@
         "lastVerifiedDate": "2026-07-30T21:08:18Z"
       }
     ]
+  },
+  {
+    "schoolID": "VA-mary-baldwin-university",
+    "schoolName": "Mary Baldwin University",
+    "state": "VA",
+    "division": "D3",
+    "conference": "USA South Athletic Conference",
+    "coaches": []
   },
   {
     "schoolID": "TN-maryville-college",
@@ -15328,6 +15521,14 @@
     ]
   },
   {
+    "schoolID": "CT-mitchell-college",
+    "schoolName": "Mitchell College",
+    "state": "CT",
+    "division": "D3",
+    "conference": "Great Northeast Athletic Conference (GNAC)",
+    "coaches": []
+  },
+  {
     "schoolID": "CA-modesto-junior",
     "schoolName": "Modesto Junior",
     "state": "",
@@ -15644,6 +15845,22 @@
     "state": "",
     "division": "",
     "conference": "",
+    "coaches": []
+  },
+  {
+    "schoolID": "PA-mount-aloysius-college",
+    "schoolName": "Mount Aloysius College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Allegheny Mountain Collegiate Conference (AMCC)",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-mount-saint-mary-college",
+    "schoolName": "Mount Saint Mary College",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Skyline Conference",
     "coaches": []
   },
   {
@@ -16056,6 +16273,14 @@
         "lastVerifiedDate": "2026-08-03T14:17:23Z"
       }
     ]
+  },
+  {
+    "schoolID": "NY-new-york-university",
+    "schoolName": "New York University",
+    "state": "NY",
+    "division": "D3",
+    "conference": "University Athletic Association (UAA)",
+    "coaches": []
   },
   {
     "schoolID": "SC-newberry-college",
@@ -16894,6 +17119,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "WI-northland-college",
+    "schoolName": "Northland College",
+    "state": "WI",
+    "division": "D3",
+    "conference": "Upper Midwest Athletic Conference (UMAC)",
+    "coaches": []
   },
   {
     "schoolID": "FL-northwest-florida-state-college",
@@ -17928,6 +18161,54 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "PA-pennsylvania-state-universitypenn-state-abington",
+    "schoolName": "Pennsylvania State University-Penn State Abington",
+    "state": "PA",
+    "division": "D3",
+    "conference": "United East Conference",
+    "coaches": []
+  },
+  {
+    "schoolID": "PA-pennsylvania-state-universitypenn-state-altoona",
+    "schoolName": "Pennsylvania State University-Penn State Altoona",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Allegheny Mountain Collegiate Conference (AMCC)",
+    "coaches": []
+  },
+  {
+    "schoolID": "PA-pennsylvania-state-universitypenn-state-berks",
+    "schoolName": "Pennsylvania State University-Penn State Berks",
+    "state": "PA",
+    "division": "D3",
+    "conference": "United East Conference",
+    "coaches": []
+  },
+  {
+    "schoolID": "PA-pennsylvania-state-universitypenn-state-brandywine",
+    "schoolName": "Pennsylvania State University-Penn State Brandywine",
+    "state": "PA",
+    "division": "D3",
+    "conference": "United East Conference",
+    "coaches": []
+  },
+  {
+    "schoolID": "PA-pennsylvania-state-universitypenn-state-eriebehrend-college",
+    "schoolName": "Pennsylvania State University-Penn State Erie-Behrend College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Allegheny Mountain Collegiate Conference (AMCC)",
+    "coaches": []
+  },
+  {
+    "schoolID": "PA-pennsylvania-state-universitypenn-state-harrisburg",
+    "schoolName": "Pennsylvania State University-Penn State Harrisburg",
+    "state": "PA",
+    "division": "D3",
+    "conference": "United East Conference",
+    "coaches": []
   },
   {
     "schoolID": "PA-pennsylvania-western-university-california-pa",
@@ -19485,6 +19766,14 @@
     ]
   },
   {
+    "schoolID": "NY-russell-sage-college",
+    "schoolName": "Russell Sage College",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Empire 8",
+    "coaches": []
+  },
+  {
     "schoolID": "NJ-rutgers-university",
     "schoolName": "Rutgers University",
     "state": "",
@@ -19715,6 +20004,30 @@
     ]
   },
   {
+    "schoolID": "NY-suny-college-of-agriculture-and-technology-at-cobleskill",
+    "schoolName": "SUNY College of Agriculture and Technology at Cobleskill",
+    "state": "NY",
+    "division": "D3",
+    "conference": "North Atlantic Conference",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-suny-college-of-technology-at-alfred",
+    "schoolName": "SUNY College of Technology at Alfred",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Allegheny Mountain Collegiate Conference (AMCC)",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-suny-college-of-technology-at-canton",
+    "schoolName": "SUNY College of Technology at Canton",
+    "state": "NY",
+    "division": "D3",
+    "conference": "State University of New York Athletic Conference (SUNYAC)",
+    "coaches": []
+  },
+  {
     "schoolID": "NY-suny-cortland",
     "schoolName": "SUNY Cortland",
     "state": "",
@@ -19757,6 +20070,14 @@
     ]
   },
   {
+    "schoolID": "NY-suny-maritime-college",
+    "schoolName": "SUNY Maritime College",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Skyline Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "NY-suny-new-paltz",
     "schoolName": "SUNY New Paltz",
     "state": "",
@@ -19780,6 +20101,14 @@
         "lastVerifiedDate": "2026-08-03T14:17:49Z"
       }
     ]
+  },
+  {
+    "schoolID": "NY-suny-old-westbury",
+    "schoolName": "SUNY Old Westbury",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Skyline Conference",
+    "coaches": []
   },
   {
     "schoolID": "NY-suny-oneonta",
@@ -19903,6 +20232,14 @@
         "lastVerifiedDate": "2026-07-28T21:30:47Z"
       }
     ]
+  },
+  {
+    "schoolID": "NY-suny-at-purchase-college",
+    "schoolName": "SUNY at Purchase College",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Skyline Conference",
+    "coaches": []
   },
   {
     "schoolID": "CA-sacramento-city",
@@ -20415,6 +20752,14 @@
     ]
   },
   {
+    "schoolID": "WI-saint-norbert-college",
+    "schoolName": "Saint Norbert College",
+    "state": "WI",
+    "division": "D3",
+    "conference": "Northern Athletics Collegiate Conference (NACC)",
+    "coaches": []
+  },
+  {
     "schoolID": "NJ-saint-peter-s-university",
     "schoolName": "Saint Peter's University",
     "state": "",
@@ -20503,6 +20848,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "PA-saint-vincent-college",
+    "schoolName": "Saint Vincent College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Presidents' Athletic Conference (PAC)",
+    "coaches": []
   },
   {
     "schoolID": "MA-salem-state-university",
@@ -22255,6 +22608,14 @@
     "coaches": []
   },
   {
+    "schoolID": "NY-st-josephs-universitynew-york",
+    "schoolName": "St. Joseph's University-New York",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Skyline Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "MO-st-louis-community-college",
     "schoolName": "St. Louis Community College",
     "state": "",
@@ -22409,6 +22770,38 @@
     "state": "",
     "division": "",
     "conference": "",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-state-university-of-new-york-at-cortland",
+    "schoolName": "State University of New York at Cortland",
+    "state": "NY",
+    "division": "D3",
+    "conference": "State University of New York Athletic Conference (SUNYAC)",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-state-university-of-new-york-at-new-paltz",
+    "schoolName": "State University of New York at New Paltz",
+    "state": "NY",
+    "division": "D3",
+    "conference": "State University of New York Athletic Conference (SUNYAC)",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-state-university-of-new-york-at-oswego",
+    "schoolName": "State University of New York at Oswego",
+    "state": "NY",
+    "division": "D3",
+    "conference": "State University of New York Athletic Conference (SUNYAC)",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-state-university-of-new-york-at-plattsburgh",
+    "schoolName": "State University of New York at Plattsburgh",
+    "state": "NY",
+    "division": "D3",
+    "conference": "State University of New York Athletic Conference (SUNYAC)",
     "coaches": []
   },
   {
@@ -23252,6 +23645,14 @@
     ]
   },
   {
+    "schoolID": "TX-the-kings-university",
+    "schoolName": "The King's University",
+    "state": "TX",
+    "division": "D3",
+    "conference": "Southern Collegiate Athletic Conference (SCAC)",
+    "coaches": []
+  },
+  {
     "schoolID": "OH-the-ohio-state-university",
     "schoolName": "The Ohio State University",
     "state": "",
@@ -23316,6 +23717,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "MI-the-university-of-olivet",
+    "schoolName": "The University of Olivet",
+    "state": "MI",
+    "division": "D3",
+    "conference": "Michigan Intercollegiate Athletic Association (MIAA)",
+    "coaches": []
   },
   {
     "schoolID": "ME-thomas-college",
@@ -23572,6 +23981,14 @@
         "lastVerifiedDate": "2026-07-29T00:43:51Z"
       }
     ]
+  },
+  {
+    "schoolID": "CT-trinity-college",
+    "schoolName": "Trinity College",
+    "state": "CT",
+    "division": "D3",
+    "conference": "New England Small College Athletic Conference (NESCAC)",
+    "coaches": []
   },
   {
     "schoolID": "TX-trinity-university-tx",
@@ -24728,6 +25145,14 @@
         "lastVerifiedDate": "2026-08-03T14:17:45Z"
       }
     ]
+  },
+  {
+    "schoolID": "NY-united-states-merchant-marine-academy",
+    "schoolName": "United States Merchant Marine Academy",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Skyline Conference",
+    "coaches": []
   },
   {
     "schoolID": "NY-united-states-military-academy",
@@ -26986,6 +27411,14 @@
     ]
   },
   {
+    "schoolID": "NY-university-of-mount-saint-vincent",
+    "schoolName": "University of Mount Saint Vincent",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Skyline Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "OH-university-of-mount-union",
     "schoolName": "University of Mount Union",
     "state": "",
@@ -28786,6 +29219,14 @@
     ]
   },
   {
+    "schoolID": "PA-university-of-valley-forge",
+    "schoolName": "University of Valley Forge",
+    "state": "PA",
+    "division": "D3",
+    "conference": "United East Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "VT-university-of-vermont",
     "schoolName": "University of Vermont",
     "state": "",
@@ -29504,6 +29945,14 @@
     ]
   },
   {
+    "schoolID": "AR-university-of-the-ozarks",
+    "schoolName": "University of the Ozarks",
+    "state": "AR",
+    "division": "D3",
+    "conference": "Southern Collegiate Athletic Conference (SCAC)",
+    "coaches": []
+  },
+  {
     "schoolID": "CA-university-of-the-pacific",
     "schoolName": "University of the Pacific",
     "state": "",
@@ -29718,6 +30167,14 @@
     ]
   },
   {
+    "schoolID": "PA-valley-forge-military-college",
+    "schoolName": "Valley Forge Military College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Independent",
+    "coaches": []
+  },
+  {
     "schoolID": "IN-valparaiso-university",
     "schoolName": "Valparaiso University",
     "state": "",
@@ -29783,6 +30240,14 @@
         "lastVerifiedDate": "2026-07-03T15:54:38Z"
       }
     ]
+  },
+  {
+    "schoolID": "NY-vassar-college",
+    "schoolName": "Vassar College",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Liberty League",
+    "coaches": []
   },
   {
     "schoolID": "CA-ventura-college",
@@ -30888,6 +31353,14 @@
     ]
   },
   {
+    "schoolID": "CT-western-connecticut-state-university",
+    "schoolName": "Western Connecticut State University",
+    "state": "CT",
+    "division": "D3",
+    "conference": "Little East Conference (LEC)",
+    "coaches": []
+  },
+  {
     "schoolID": "IL-western-illinois-university",
     "schoolName": "Western Illinois University",
     "state": "",
@@ -31144,6 +31617,14 @@
     ]
   },
   {
+    "schoolID": "PA-westminster-college-pennsylvania",
+    "schoolName": "Westminster College (Pennsylvania)",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Presidents' Athletic Conference (PAC)",
+    "coaches": []
+  },
+  {
     "schoolID": "CA-westmont-college",
     "schoolName": "Westmont College",
     "state": "",
@@ -31249,6 +31730,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "MA-wheaton-college-massachusetts",
+    "schoolName": "Wheaton College (Massachusetts)",
+    "state": "MA",
+    "division": "D3",
+    "conference": "New England Women's and Men's Athletic Conference (NEWMAC)",
+    "coaches": []
   },
   {
     "schoolID": "WV-wheeling-university",
@@ -31465,6 +31954,14 @@
         "lastVerifiedDate": "2026-07-28T19:51:19Z"
       }
     ]
+  },
+  {
+    "schoolID": "NJ-william-paterson-university-of-new-jersey",
+    "schoolName": "William Paterson University of New Jersey",
+    "state": "NJ",
+    "division": "D3",
+    "conference": "New Jersey Athletic Conference (NJAC)",
+    "coaches": []
   },
   {
     "schoolID": "NC-william-peace-university",
@@ -31728,6 +32225,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "WI-wisconsin-lutheran-college",
+    "schoolName": "Wisconsin Lutheran College",
+    "state": "WI",
+    "division": "D3",
+    "conference": "Northern Athletics Collegiate Conference (NACC)",
+    "coaches": []
   },
   {
     "schoolID": "OH-wittenberg-university",
@@ -32041,6 +32546,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "NY-yeshiva-university",
+    "schoolName": "Yeshiva University",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Skyline Conference",
+    "coaches": []
   },
   {
     "schoolID": "PA-york-college-of-pennsylvania",

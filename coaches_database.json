@@ -24557,6 +24557,55 @@
     ]
   },
   {
+    "schoolID": "SC-usc-beaufort",
+    "schoolName": "USC Beaufort",
+    "state": "SC",
+    "division": "D2",
+    "conference": "Peach Belt Conference",
+    "coaches": [
+      {
+        "name": "Brian Lewis",
+        "title": "Head Coach",
+        "email": "bl52@uscb.edu",
+        "phone": "843-208-8062",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-05T21:17:20Z"
+      },
+      {
+        "name": "Chris Rooney",
+        "title": "Pitching Coach",
+        "email": "cr156@uscb.edu",
+        "phone": "843-208-8053",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-05T21:17:21Z"
+      },
+      {
+        "name": "Jacob Pusateri",
+        "title": "Assistant Coach / Catching",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-05T21:17:23Z"
+      },
+      {
+        "name": "Oneill Burgos",
+        "title": "Assistant Coach / Hitting",
+        "email": "burgosr@uscb.edu",
+        "phone": "843-208-8089",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-05T21:17:20Z"
+      },
+      {
+        "name": "Wesley Ambrose",
+        "title": "Assistant Coach / Infield",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-05T21:17:22Z"
+      }
+    ]
+  },
+  {
     "schoolID": "SC-usc-upstate",
     "schoolName": "USC Upstate",
     "state": "",

@@ -13694,7 +13694,15 @@
     "state": "PA",
     "division": "D3",
     "conference": "Landmark Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Rick Oliveri",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "FL-lynn-university",

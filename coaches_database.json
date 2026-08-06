@@ -11012,7 +11012,15 @@
     "state": "NY",
     "division": "D3",
     "conference": "Liberty League",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Nick Serce",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "OH-hocking-college",

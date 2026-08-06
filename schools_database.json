@@ -10366,7 +10366,7 @@
     "athleticScholarshipLimit": 0,
     "stadiumCapacity": null,
     "city": "Quincy",
-    "lastModified": null,
+    "lastModified": "2026-08-05",
     "website": "https://www.enc.edu",
     "aliases": "ENC, Lions",
     "academicHighlights": null,
@@ -10383,7 +10383,8 @@
     "roomAndBoard": null,
     "createdAt": "2026-07-16T03:29:36Z",
     "nilPolicyURL": null,
-    "pellGrantRate": null
+    "pellGrantRate": null,
+    "active": false
   },
   {
     "booksAndSupplies": null,

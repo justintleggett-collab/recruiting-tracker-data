@@ -2134,7 +2134,15 @@
     "state": "WV",
     "division": "D3",
     "conference": "Presidents' Athletic Conference (PAC)",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Michael Finlan",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "MN-bethany-lutheran-college",

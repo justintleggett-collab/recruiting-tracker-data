@@ -3642,7 +3642,15 @@
     "state": "NY",
     "division": "D3",
     "conference": "City University of New York Athletic Conference (CUNYAC)",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Oswaldo Roman",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "NY-cuny-city-college",

@@ -8142,7 +8142,15 @@
     "state": "PA",
     "division": "D3",
     "conference": "Landmark Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Eric Yoder",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "IL-elmhurst-university",

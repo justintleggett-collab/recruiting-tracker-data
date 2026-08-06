@@ -5975,7 +5975,15 @@
     "state": "MA",
     "division": "D3",
     "conference": "Great Northeast Athletic Conference (GNAC)",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "TJ Alves",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "MN-college-of-saint-scholastica",

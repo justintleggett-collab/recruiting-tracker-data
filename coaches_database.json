@@ -20557,7 +20557,15 @@
     "state": "NY",
     "division": "D3",
     "conference": "Skyline Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "John Carrick",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "NY-suny-new-paltz",

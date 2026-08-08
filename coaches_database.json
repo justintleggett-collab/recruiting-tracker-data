@@ -20229,7 +20229,15 @@
     "state": "NY",
     "division": "D3",
     "conference": "Empire 8",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Nick Lemire",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "NJ-rutgers-university",

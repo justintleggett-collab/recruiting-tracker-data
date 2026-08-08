@@ -18658,7 +18658,15 @@
     "state": "PA",
     "division": "D3",
     "conference": "Allegheny Mountain Collegiate Conference (AMCC)",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Ryan Smith",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "PA-pennsylvania-state-universitypenn-state-harrisburg",

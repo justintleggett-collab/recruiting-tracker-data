@@ -20491,7 +20491,15 @@
     "state": "NY",
     "division": "D3",
     "conference": "Allegheny Mountain Collegiate Conference (AMCC)",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Aydan Rolph",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "NY-suny-college-of-technology-at-canton",

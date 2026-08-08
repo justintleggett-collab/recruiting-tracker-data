@@ -20598,7 +20598,15 @@
     "state": "NY",
     "division": "D3",
     "conference": "Skyline Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Thomas Beirne",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "NY-suny-oneonta",

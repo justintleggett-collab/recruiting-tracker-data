@@ -18674,7 +18674,15 @@
     "state": "PA",
     "division": "D3",
     "conference": "United East Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Austin Lescanec",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "PA-pennsylvania-western-university-california-pa",

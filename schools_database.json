@@ -23307,7 +23307,7 @@
     "athleticScholarshipLimit": 0,
     "stadiumCapacity": null,
     "city": "Ashland",
-    "lastModified": null,
+    "lastModified": "2026-08-05",
     "website": "https://www.northland.edu",
     "aliases": "Northland, Lumberjacks",
     "academicHighlights": null,
@@ -23324,7 +23324,8 @@
     "roomAndBoard": null,
     "createdAt": "2026-07-16T03:29:37Z",
     "nilPolicyURL": null,
-    "pellGrantRate": null
+    "pellGrantRate": null,
+    "active": false
   },
   {
     "booksAndSupplies": 1440,

@@ -23110,7 +23110,15 @@
     "state": "NY",
     "division": "D3",
     "conference": "Skyline Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Shane Hewlette",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "MO-st-louis-community-college",

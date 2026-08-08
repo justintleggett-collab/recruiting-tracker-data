@@ -23315,7 +23315,15 @@
     "state": "NY",
     "division": "D3",
     "conference": "State University of New York Athletic Conference (SUNYAC)",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Rene Colon",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "TX-stephen-f-austin-state-university",

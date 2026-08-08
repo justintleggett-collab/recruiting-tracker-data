@@ -16329,7 +16329,15 @@
     "state": "PA",
     "division": "D3",
     "conference": "Allegheny Mountain Collegiate Conference (AMCC)",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Patrick Gully",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "NY-mount-saint-mary-college",

@@ -23291,7 +23291,15 @@
     "state": "NY",
     "division": "D3",
     "conference": "State University of New York Athletic Conference (SUNYAC)",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Anthony Gonzalez",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "NY-state-university-of-new-york-at-oswego",

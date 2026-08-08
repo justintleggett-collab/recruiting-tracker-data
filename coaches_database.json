@@ -21247,7 +21247,15 @@
     "state": "WI",
     "division": "D3",
     "conference": "Northern Athletics Collegiate Conference (NACC)",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Mike Wallerich",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "NJ-saint-peter-s-university",

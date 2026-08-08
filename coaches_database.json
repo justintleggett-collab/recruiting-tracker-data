@@ -18619,7 +18619,15 @@
     "state": "PA",
     "division": "D3",
     "conference": "United East Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Boomer Barry",
+        "title": "Interim Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "PA-pennsylvania-state-universitypenn-state-brandywine",

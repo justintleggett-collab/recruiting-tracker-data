@@ -24237,7 +24237,15 @@
     "state": "MI",
     "division": "D3",
     "conference": "Michigan Intercollegiate Athletic Association (MIAA)",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Steve Wendry",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "ME-thomas-college",

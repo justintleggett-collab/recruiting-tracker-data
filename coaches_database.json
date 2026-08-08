@@ -16748,7 +16748,15 @@
     "state": "NY",
     "division": "D3",
     "conference": "University Athletic Association (UAA)",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Doug Kimbler",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "SC-newberry-college",

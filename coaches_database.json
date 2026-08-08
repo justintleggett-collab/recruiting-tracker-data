@@ -20475,7 +20475,15 @@
     "state": "NY",
     "division": "D3",
     "conference": "North Atlantic Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Austin Straub",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "NY-suny-college-of-technology-at-alfred",

@@ -9828,7 +9828,15 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Rodney Bennett",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "CA-fresno-city-college",

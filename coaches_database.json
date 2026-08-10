@@ -5673,7 +5673,15 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Andrew Smith",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "OR-clackamas-community-college",

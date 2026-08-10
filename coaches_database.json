@@ -33526,7 +33526,15 @@
     "state": "WI",
     "division": "D3",
     "conference": "Northern Athletics Collegiate Conference (NACC)",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Hruz Wagner",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "OH-wittenberg-university",

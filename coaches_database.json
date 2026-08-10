@@ -6361,7 +6361,15 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Joey Cirelli",
+        "title": "Assistant Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "ID-college-of-southern-idaho",

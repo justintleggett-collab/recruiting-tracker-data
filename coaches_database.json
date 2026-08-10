@@ -33031,7 +33031,15 @@
     "state": "MA",
     "division": "D3",
     "conference": "New England Women's and Men's Athletic Conference (NEWMAC)",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Patrick Santorella",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "WV-wheeling-university",

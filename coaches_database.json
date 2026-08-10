@@ -6247,7 +6247,15 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Rich Janeway",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "MA-college-of-our-lady-of-the-elms",

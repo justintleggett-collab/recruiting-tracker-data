@@ -31533,7 +31533,15 @@
     "state": "NY",
     "division": "D3",
     "conference": "Liberty League",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Matt Barbieri",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "CA-ventura-college",

@@ -33263,7 +33263,15 @@
     "state": "NJ",
     "division": "D3",
     "conference": "New Jersey Athletic Conference (NJAC)",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Tom Gaccione",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "NC-william-peace-university",

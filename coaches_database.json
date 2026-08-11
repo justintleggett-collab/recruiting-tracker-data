@@ -10789,7 +10789,15 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Jordan Plasencia",
+        "title": "Hitting Coach / Outfielders",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "WV-glenville-state-university",

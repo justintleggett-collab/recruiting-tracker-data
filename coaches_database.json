@@ -11480,7 +11480,15 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Andru Holguin",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "MA-harvard-university",

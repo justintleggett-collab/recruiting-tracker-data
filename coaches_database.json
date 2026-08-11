@@ -14424,7 +14424,15 @@
     "state": "",
     "division": "",
     "conference": "",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Bob Ralston",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "NC-louisburg-college",

@@ -1,5 +1,86 @@
 [
   {
+    "id": "amy-goldsmith-kindred-nutrition",
+    "contact": {
+      "title": "Sports Nutritionist",
+      "name": "Amy Goldsmith, RDN",
+      "xHandle": "@Kindrednutritio"
+    },
+    "description": "Nutrition guidance designed for student athletes to fuel performance, recovery, and long-term health.",
+    "featured": true,
+    "dateAdded": "2026-08-19",
+    "offering": {
+      "hasOffering": false,
+      "title": null,
+      "code": null,
+      "expiresAt": null,
+      "details": null
+    },
+    "isActive": true,
+    "company": {
+      "url": "https://kindrednutrition.com",
+      "category": "nutrition",
+      "name": "Kindred Nutrition",
+      "logoSourceURL": null,
+      "logoURL": null
+    },
+    "sortOrder": 1
+  },
+  {
+    "id": "brandon-guyer-major-league-mindset",
+    "contact": {
+      "title": "7-Year MLB Player, Mental Strength Coach",
+      "name": "Brandon Guyer",
+      "xHandle": "@BrandonGuyer"
+    },
+    "description": "Mental performance coaching that helps athletes build confidence, resilience, and a championship mindset.",
+    "featured": true,
+    "dateAdded": "2026-08-19",
+    "offering": {
+      "hasOffering": false,
+      "title": null,
+      "code": null,
+      "expiresAt": null,
+      "details": null
+    },
+    "isActive": true,
+    "company": {
+      "url": "https://brandonguyer.com",
+      "category": "mindset",
+      "name": "Major League Mindset",
+      "logoSourceURL": null,
+      "logoURL": null
+    },
+    "sortOrder": 2
+  },
+  {
+    "id": "frank-jarboe-rs-will-group",
+    "contact": {
+      "title": "Wealth Management & Financial Planning",
+      "name": "Frank Jarboe, Sr., CFP®",
+      "xHandle": null
+    },
+    "description": "Comprehensive financial planning for athletes and families to build, protect, and pass on wealth.",
+    "featured": true,
+    "dateAdded": "2026-08-19",
+    "offering": {
+      "hasOffering": false,
+      "title": null,
+      "code": null,
+      "expiresAt": null,
+      "details": null
+    },
+    "isActive": true,
+    "company": {
+      "url": "https://rswill.com",
+      "category": "financial",
+      "name": "RS Will Group",
+      "logoSourceURL": null,
+      "logoURL": null
+    },
+    "sortOrder": 3
+  },
+  {
     "id": "test-resource",
     "contact": {
       "name": "Test Contact",

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "test-resource",
+    "company": {
+      "logoURL": null,
+      "name": "Test Co",
+      "category": "nutrition",
+      "logoSourceURL": null,
+      "url": "https://example.com"
+    },
+    "isActive": true,
+    "contact": {
+      "name": "Test Contact",
+      "title": "Test",
+      "xHandle": null
+    },
+    "offering": {
+      "title": null,
+      "hasOffering": false,
+      "expiresAt": null,
+      "code": null,
+      "details": null
+    },
+    "description": "Test entry — safe to delete after verifying the Cloud Function.",
+    "featured": false,
+    "dateAdded": "2026-08-18",
+    "sortOrder": 99
+  }
+]

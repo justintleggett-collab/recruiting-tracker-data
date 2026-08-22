@@ -1,83 +1,83 @@
 [
   {
-    "id": "amy-goldsmith-kindred-nutrition",
+    "dateAdded": "2026-08-19",
+    "description": "Nutrition guidance designed for student athletes to fuel performance, recovery, and long-term health.",
+    "isActive": true,
     "contact": {
       "title": "Sports Nutritionist",
-      "name": "Amy Goldsmith, RDN",
-      "xHandle": "@Kindrednutritio"
+      "xHandle": "@Kindrednutritio",
+      "name": "Amy Goldsmith, RDN"
     },
-    "description": "Nutrition guidance designed for student athletes to fuel performance, recovery, and long-term health.",
     "featured": true,
-    "dateAdded": "2026-08-19",
-    "offering": {
-      "hasOffering": false,
-      "title": null,
-      "code": null,
-      "expiresAt": null,
-      "details": null
-    },
-    "isActive": true,
     "company": {
-      "url": "https://kindrednutrition.com",
-      "category": "nutrition",
-      "name": "Kindred Nutrition",
       "logoSourceURL": null,
+      "name": "Kindred Nutrition",
+      "category": "nutrition",
+      "url": "https://kindrednutrition.com",
       "logoURL": null
     },
-    "sortOrder": 1
+    "sortOrder": 1,
+    "offering": {
+      "title": null,
+      "expiresAt": null,
+      "hasOffering": false,
+      "details": null,
+      "code": null
+    },
+    "id": "amy-goldsmith-kindred-nutrition"
   },
   {
-    "id": "brandon-guyer-major-league-mindset",
+    "dateAdded": "2026-08-19",
+    "description": "Mental performance coaching that helps athletes build confidence, resilience, and a championship mindset.",
+    "isActive": true,
     "contact": {
       "title": "7-Year MLB Player, Mental Strength Coach",
-      "name": "Brandon Guyer",
-      "xHandle": "@BrandonGuyer"
+      "xHandle": "@BrandonGuyer",
+      "name": "Brandon Guyer"
     },
-    "description": "Mental performance coaching that helps athletes build confidence, resilience, and a championship mindset.",
     "featured": true,
-    "dateAdded": "2026-08-19",
-    "offering": {
-      "hasOffering": false,
-      "title": null,
-      "code": null,
-      "expiresAt": null,
-      "details": null
-    },
-    "isActive": true,
     "company": {
-      "url": "https://brandonguyer.com",
-      "category": "mindset",
-      "name": "Major League Mindset",
       "logoSourceURL": null,
+      "name": "Major League Mindset",
+      "category": "mindset",
+      "url": "https://brandonguyer.com",
       "logoURL": null
     },
-    "sortOrder": 2
+    "sortOrder": 2,
+    "offering": {
+      "title": null,
+      "expiresAt": null,
+      "hasOffering": false,
+      "details": null,
+      "code": null
+    },
+    "id": "brandon-guyer-major-league-mindset"
   },
   {
-    "id": "frank-jarboe-rs-will-group",
+    "dateAdded": "2026-08-19",
+    "description": "Comprehensive financial planning for athletes and families to build, protect, and pass on wealth.",
+    "isActive": true,
     "contact": {
       "title": "Wealth Management & Financial Planning",
-      "name": "Frank Jarboe, Sr., CFP®",
-      "xHandle": null
+      "xHandle": null,
+      "name": "Frank Jarboe, Sr., CFP®"
     },
-    "description": "Comprehensive financial planning for athletes and families to build, protect, and pass on wealth.",
     "featured": true,
-    "dateAdded": "2026-08-19",
-    "offering": {
-      "hasOffering": false,
-      "title": null,
-      "code": null,
-      "expiresAt": null,
-      "details": null
-    },
-    "isActive": true,
     "company": {
-      "url": "https://rswill.com",
-      "category": "financial",
-      "name": "RS Will Group",
       "logoSourceURL": null,
+      "name": "RS Will Group",
+      "category": "financial",
+      "url": "https://rswill.com",
       "logoURL": null
     },
-    "sortOrder": 3
+    "sortOrder": 3,
+    "offering": {
+      "title": null,
+      "expiresAt": null,
+      "hasOffering": false,
+      "details": null,
+      "code": null
+    },
+    "id": "frank-jarboe-rs-will-group"
   }
 ]

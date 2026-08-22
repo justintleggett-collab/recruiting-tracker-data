@@ -8,5 +8,6 @@
   "minAppVersion": "1.0.0",
   "lastUpdated": "2026-08-22",
   "forceReimportVersion": 34,
-  "resources": 3
+  "resources": 3,
+  "resourcesForceReimportVersion": 1
 }

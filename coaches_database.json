@@ -35140,6 +35140,39 @@
     ]
   },
   {
+    "schoolID": "PA-wilson-college",
+    "schoolName": "Wilson College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "United East Conference",
+    "coaches": [
+      {
+        "name": "Vaughn Parker",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "717-264-2679",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-25T13:41:47Z"
+      },
+      {
+        "name": "Miles Nicholson",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-08-25T13:41:48Z"
+      },
+      {
+        "name": "Patrick Duffy",
+        "title": "Assistant Coach",
+        "email": "patrick.duffy@wilson.edu",
+        "phone": "",
+        "twitter": "https://x.com/CoachDuffy10",
+        "lastVerifiedDate": "2026-08-25T13:41:48Z"
+      }
+    ]
+  },
+  {
     "schoolID": "NC-wingate-university",
     "schoolName": "Wingate University",
     "state": "",

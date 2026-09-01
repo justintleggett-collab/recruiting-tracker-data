@@ -299,6 +299,14 @@
     ]
   },
   {
+    "schoolID": "PA-albright-college",
+    "schoolName": "Albright College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Middle Atlantic Conference Commonwealth",
+    "coaches": []
+  },
+  {
     "schoolID": "MS-alcorn-state-university",
     "schoolName": "Alcorn State University",
     "state": "",
@@ -453,6 +461,14 @@
         "lastVerifiedDate": "2026-07-28T19:51:25Z"
       }
     ]
+  },
+  {
+    "schoolID": "PA-alvernia-university",
+    "schoolName": "Alvernia University",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Middle Atlantic Conference Commonwealth",
+    "coaches": []
   },
   {
     "schoolID": "MA-american-international-college",
@@ -1600,6 +1616,14 @@
     ]
   },
   {
+    "schoolID": "NY-bard-college",
+    "schoolName": "Bard College",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Liberty League",
+    "coaches": []
+  },
+  {
     "schoolID": "FL-barry-university",
     "schoolName": "Barry University",
     "state": "",
@@ -1787,6 +1811,14 @@
         "lastVerifiedDate": "2026-08-04T00:49:04Z"
       }
     ]
+  },
+  {
+    "schoolID": "VA-batten-university",
+    "schoolName": "Batten University",
+    "state": "VA",
+    "division": "D3",
+    "conference": "Old Dominion Athletic Conf.",
+    "coaches": []
   },
   {
     "schoolID": "TX-baylor-university",
@@ -2009,6 +2041,14 @@
         "lastVerifiedDate": "2026-07-23T23:32:54Z"
       }
     ]
+  },
+  {
+    "schoolID": "WI-beloit-college",
+    "schoolName": "Beloit College",
+    "state": "WI",
+    "division": "D3",
+    "conference": "Midwest Conference",
+    "coaches": []
   },
   {
     "schoolID": "MN-bemidji-state-university",
@@ -2600,11 +2640,52 @@
     "coaches": []
   },
   {
+    "schoolID": "WV-bluefield-state-university",
+    "schoolName": "Bluefield State University",
+    "state": "WV",
+    "division": "D2",
+    "conference": "Independent",
+    "coaches": [
+      {
+        "name": "Scott Considine",
+        "title": "Head Coach",
+        "email": "sconsidine@bluefieldstate.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:06Z"
+      },
+      {
+        "name": "Luke Scherzer",
+        "title": "Associate Head Coach / Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:06Z"
+      },
+      {
+        "name": "Ty Sizemore",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:06Z"
+      }
+    ]
+  },
+  {
     "schoolID": "KY-bluegrass-community-technical-college",
     "schoolName": "Bluegrass Community & Technical College",
     "state": "",
     "division": "",
     "conference": "",
+    "coaches": []
+  },
+  {
+    "schoolID": "OH-bluffton-university",
+    "schoolName": "Bluffton University",
+    "state": "OH",
+    "division": "D3",
+    "conference": "Heartland Collegiate Athletic Conference",
     "coaches": []
   },
   {
@@ -4625,6 +4706,31 @@
     ]
   },
   {
+    "schoolID": "OK-cameron-university",
+    "schoolName": "Cameron University",
+    "state": "OK",
+    "division": "D2",
+    "conference": "Lone Star Conference",
+    "coaches": [
+      {
+        "name": "Holden Capps",
+        "title": "Head Coach",
+        "email": "hcapps@cameron.edu",
+        "phone": "580-581-3119",
+        "twitter": "https://x.com/_CoachCapps",
+        "lastVerifiedDate": "2026-09-01T14:54:00Z"
+      },
+      {
+        "name": "Charles Weber",
+        "title": "Assistant Coach",
+        "email": "cweber@cameron.edu",
+        "phone": "580-581-7959",
+        "twitter": "https://x.com/CoachWeb1988",
+        "lastVerifiedDate": "2026-09-01T14:54:00Z"
+      }
+    ]
+  },
+  {
     "schoolID": "NC-campbell-university",
     "schoolName": "Campbell University",
     "state": "",
@@ -4796,6 +4902,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "PA-carlow-university",
+    "schoolName": "Carlow University",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Allegheny Mountain Collegiate Conference",
+    "coaches": []
   },
   {
     "schoolID": "WI-carroll-university",
@@ -5563,6 +5677,14 @@
     ]
   },
   {
+    "schoolID": "PA-chatham-university",
+    "schoolName": "Chatham University",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Presidents' Athletic Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "AL-chattahoochee-valley-community-college",
     "schoolName": "Chattahoochee Valley Community College",
     "state": "",
@@ -5847,6 +5969,39 @@
     "division": "",
     "conference": "",
     "coaches": []
+  },
+  {
+    "schoolID": "SC-claflin-university",
+    "schoolName": "Claflin University",
+    "state": "SC",
+    "division": "D2",
+    "conference": "Peach Belt Conference",
+    "coaches": [
+      {
+        "name": "Gerardric Dobbs",
+        "title": "Head Coach",
+        "email": "gdobbs@claflin.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:03Z"
+      },
+      {
+        "name": "Nate Caldwell",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:04Z"
+      },
+      {
+        "name": "Payton Dawkins",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:04Z"
+      }
+    ]
   },
   {
     "schoolID": "CA-claremont-mckennaharvey-muddscripps",
@@ -8810,6 +8965,14 @@
     "coaches": []
   },
   {
+    "schoolID": "PA-eastern-university",
+    "schoolName": "Eastern University",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Middle Atlantic Conference Commonwealth",
+    "coaches": []
+  },
+  {
     "schoolID": "WY-eastern-wyoming-college",
     "schoolName": "Eastern Wyoming College",
     "state": "",
@@ -9087,6 +9250,14 @@
         "lastVerifiedDate": "2026-07-28T13:43:30Z"
       }
     ]
+  },
+  {
+    "schoolID": "NY-elmira-college",
+    "schoolName": "Elmira College",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Empire 8",
+    "coaches": []
   },
   {
     "schoolID": "MA-elms-college",
@@ -9451,6 +9622,14 @@
     ]
   },
   {
+    "schoolID": "IL-eureka-college",
+    "schoolName": "Eureka College",
+    "state": "IL",
+    "division": "D3",
+    "conference": "St. Louis Intercollegiate Athletic Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "WA-everett-community-college",
     "schoolName": "Everett Community College",
     "state": "",
@@ -9556,6 +9735,14 @@
         "lastVerifiedDate": "2026-07-28T21:30:20Z"
       }
     ]
+  },
+  {
+    "schoolID": "NY-farmingdale-state-college",
+    "schoolName": "Farmingdale State College",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Skyline Conference",
+    "coaches": []
   },
   {
     "schoolID": "NC-fayetteville-technical-community-college",
@@ -10733,6 +10920,14 @@
     "coaches": []
   },
   {
+    "schoolID": "PA-geneva-college",
+    "schoolName": "Geneva College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Presidents' Athletic Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "OR-george-fox-university",
     "schoolName": "George Fox University",
     "state": "",
@@ -11589,6 +11784,14 @@
     ]
   },
   {
+    "schoolID": "PA-grove-city-college",
+    "schoolName": "Grove City College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Presidents' Athletic Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "NC-guilford-college",
     "schoolName": "Guilford College",
     "state": "",
@@ -11661,6 +11864,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "PA-gwynedd-mercy-university",
+    "schoolName": "Gwynedd Mercy University",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Atlantic East Conference",
+    "coaches": []
   },
   {
     "schoolID": "MD-hagerstown-community-college",
@@ -11841,6 +12052,47 @@
         "phone": "325-670-1723",
         "twitter": "",
         "lastVerifiedDate": "2026-08-06T01:52:04Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "AR-harding-university",
+    "schoolName": "Harding University",
+    "state": "AR",
+    "division": "D2",
+    "conference": "Great American Conference",
+    "coaches": [
+      {
+        "name": "Dr. Patrick McGaha",
+        "title": "Head Coach",
+        "email": "pmcgaha@harding.edu",
+        "phone": "501-593-6790",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:52Z"
+      },
+      {
+        "name": "Steven Markowitz",
+        "title": "Assistant Coach",
+        "email": "smarkowitz@harding.edu",
+        "phone": "501-279-5132",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:53Z"
+      },
+      {
+        "name": "Zach Beasley",
+        "title": "Assistant Head Coach/Recruiting Coordinator",
+        "email": "zbeasley@harding.edu",
+        "phone": "501-279-5132",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:52Z"
+      },
+      {
+        "name": "Zack Honey",
+        "title": "Assistant Coach",
+        "email": "zhoney@harding.edu",
+        "phone": "501-279-5132",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:53Z"
       }
     ]
   },
@@ -12182,6 +12434,14 @@
     ]
   },
   {
+    "schoolID": "NY-hilbert-college",
+    "schoolName": "Hilbert College",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Allegheny Mountain Collegiate Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "TX-hill-college",
     "schoolName": "Hill College",
     "state": "",
@@ -12477,6 +12737,14 @@
     ]
   },
   {
+    "schoolID": "NY-houghton-university",
+    "schoolName": "Houghton University",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Empire 8",
+    "coaches": []
+  },
+  {
     "schoolID": "TX-houston-christian-university",
     "schoolName": "Houston Christian University",
     "state": "",
@@ -12500,6 +12768,14 @@
         "lastVerifiedDate": "2026-08-03T14:17:14Z"
       }
     ]
+  },
+  {
+    "schoolID": "TX-howard-payne-university",
+    "schoolName": "Howard Payne University",
+    "state": "TX",
+    "division": "D3",
+    "conference": "American Southwest Conference",
+    "coaches": []
   },
   {
     "schoolID": "DC-howard-university",
@@ -12739,6 +13015,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "PA-immaculata-university",
+    "schoolName": "Immaculata University",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Atlantic East Conference",
+    "coaches": []
   },
   {
     "schoolID": "CA-imperial-valley",
@@ -13216,6 +13500,39 @@
     "coaches": []
   },
   {
+    "schoolID": "CA-jessup-university",
+    "schoolName": "Jessup University",
+    "state": "CA",
+    "division": "D2",
+    "conference": "Pacific West Conference",
+    "coaches": [
+      {
+        "name": "Trevor Paine",
+        "title": "Head Coach",
+        "email": "tpaine@jessup.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:54Z"
+      },
+      {
+        "name": "Brock Ragatz",
+        "title": "Assistant Coach / Pitching & Recruiting",
+        "email": "bragatz@jessup.edu",
+        "phone": "605-789-9883",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:54Z"
+      },
+      {
+        "name": "Kreighton Tsuruda-Gaspar",
+        "title": "Assistant Coach",
+        "email": "ktsurudagaspar@jessup.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:55Z"
+      }
+    ]
+  },
+  {
     "schoolID": "IL-john-a-logan-college",
     "schoolName": "John A. Logan College",
     "state": "",
@@ -13682,6 +13999,47 @@
         "phone": "740-427-5907",
         "twitter": "",
         "lastVerifiedDate": ""
+      }
+    ]
+  },
+  {
+    "schoolID": "NY-keuka-college",
+    "schoolName": "Keuka College",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Empire 8",
+    "coaches": []
+  },
+  {
+    "schoolID": "PA-keystone-college",
+    "schoolName": "Keystone College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "United East Conference",
+    "coaches": []
+  },
+  {
+    "schoolID": "TN-king-university",
+    "schoolName": "King University",
+    "state": "TN",
+    "division": "D2",
+    "conference": "Conference Carolinas",
+    "coaches": [
+      {
+        "name": "Brad Hill",
+        "title": "Head Coach",
+        "email": "Jbhill1@king.edu",
+        "phone": "423-652-6347",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:04Z"
+      },
+      {
+        "name": "Ray Berry",
+        "title": "Pitching Coach",
+        "email": "rnberry1@king.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:04Z"
       }
     ]
   },
@@ -14228,6 +14586,31 @@
     ]
   },
   {
+    "schoolID": "TN-lane-college",
+    "schoolName": "Lane College",
+    "state": "TN",
+    "division": "D2",
+    "conference": "Southern Intercol. Ath. Conf.",
+    "coaches": [
+      {
+        "name": "Jeff De La Concha",
+        "title": "Head Coach",
+        "email": "JDeLaConcha@lanecollege.edu",
+        "phone": "727-504-6262",
+        "twitter": "https://x.com/de_la26656",
+        "lastVerifiedDate": "2026-09-01T14:54:05Z"
+      },
+      {
+        "name": "Jeremy Moore",
+        "title": "Assistant Coach",
+        "email": "jmmoore@lanecollege.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:05Z"
+      }
+    ]
+  },
+  {
     "schoolID": "OR-lane-community-college",
     "schoolName": "Lane Community College",
     "state": "",
@@ -14286,6 +14669,14 @@
     ]
   },
   {
+    "schoolID": "WI-lawrence-university",
+    "schoolName": "Lawrence University",
+    "state": "WI",
+    "division": "D3",
+    "conference": "Midwest Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "AL-lawson-state-community-college",
     "schoolName": "Lawson State Community College",
     "state": "",
@@ -14323,6 +14714,23 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": "2026-07-24T01:33:07Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "TN-lemoyne-owen-college",
+    "schoolName": "LeMoyne-Owen College",
+    "state": "TN",
+    "division": "D2",
+    "conference": "Southern Intercol. Ath. Conf.",
+    "coaches": [
+      {
+        "name": "Trennis Grant",
+        "title": "Head Coach",
+        "email": "Trennis_Grant@loc.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:05Z"
       }
     ]
   },
@@ -14432,6 +14840,14 @@
         "lastVerifiedDate": "2026-07-24T21:03:46Z"
       }
     ]
+  },
+  {
+    "schoolID": "NY-lehman-college",
+    "schoolName": "Lehman College",
+    "state": "NY",
+    "division": "D3",
+    "conference": "City University of New York Athletic Conference",
+    "coaches": []
   },
   {
     "schoolID": "NC-lenoir-community-college",
@@ -15252,6 +15668,14 @@
     ]
   },
   {
+    "schoolID": "AR-lyon-college",
+    "schoolName": "Lyon College",
+    "state": "AR",
+    "division": "D3",
+    "conference": "St. Louis Intercollegiate Athletic Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "MN-macalester-college",
     "schoolName": "Macalester College",
     "state": "",
@@ -15731,6 +16155,14 @@
     ]
   },
   {
+    "schoolID": "PA-marywood-university",
+    "schoolName": "Marywood University",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Middle Atlantic Conference Freedom",
+    "coaches": []
+  },
+  {
     "schoolID": "MA-massachusetts-college-of-liberal-arts",
     "schoolName": "Massachusetts College of Liberal Arts",
     "state": "",
@@ -15953,6 +16385,14 @@
     "coaches": []
   },
   {
+    "schoolID": "TX-mcmurry-university",
+    "schoolName": "McMurry University",
+    "state": "TX",
+    "division": "D3",
+    "conference": "American Southwest Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "LA-mcneese-state-university",
     "schoolName": "McNeese State University",
     "state": "",
@@ -15966,6 +16406,31 @@
         "phone": "337-475-5486",
         "twitter": "",
         "lastVerifiedDate": ""
+      }
+    ]
+  },
+  {
+    "schoolID": "CA-menlo-college",
+    "schoolName": "Menlo College",
+    "state": "CA",
+    "division": "D2",
+    "conference": "California Collegiate Athletic Association",
+    "coaches": [
+      {
+        "name": "Mike Givens",
+        "title": "Head Coach",
+        "email": "mike.givens@menlo.edu",
+        "phone": "650-543-3762",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:55Z"
+      },
+      {
+        "name": "Kris Mims",
+        "title": "Assistant Coach",
+        "email": "kristopher.mims@menlo.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:55Z"
       }
     ]
   },
@@ -16719,6 +17184,14 @@
     ]
   },
   {
+    "schoolID": "PA-misericordia-university",
+    "schoolName": "Misericordia University",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Middle Atlantic Conference Freedom",
+    "coaches": []
+  },
+  {
     "schoolID": "MS-mississippi-college",
     "schoolName": "Mississippi College",
     "state": "",
@@ -17335,6 +17808,14 @@
     ]
   },
   {
+    "schoolID": "PA-moravian-university",
+    "schoolName": "Moravian University",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Landmark Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "KY-morehead-state-university",
     "schoolName": "Morehead State University",
     "state": "",
@@ -17825,6 +18306,14 @@
     "state": "",
     "division": "",
     "conference": "",
+    "coaches": []
+  },
+  {
+    "schoolID": "PA-neumann-university",
+    "schoolName": "Neumann University",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Middle Atlantic Conference Commonwealth",
     "coaches": []
   },
   {
@@ -18671,6 +19160,55 @@
         "phone": "662-720-7180",
         "twitter": "",
         "lastVerifiedDate": "2026-07-30T21:08:22Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "OK-northeastern-state-university",
+    "schoolName": "Northeastern State University",
+    "state": "OK",
+    "division": "D2",
+    "conference": "Mid-America Intercollegiate Athletics Association",
+    "coaches": [
+      {
+        "name": "Kyle Williams",
+        "title": "Head Coach",
+        "email": "willi528@nsuok.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:00Z"
+      },
+      {
+        "name": "Adam Scoggins",
+        "title": "Pitching Coach / Player Development",
+        "email": "scoggina@nsuok.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:01Z"
+      },
+      {
+        "name": "Cole White",
+        "title": "Pitching/Recruiting Coordinator",
+        "email": "white177@nsuok.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:01Z"
+      },
+      {
+        "name": "Logan Rutledge",
+        "title": "Catchers/Outfielders Coach",
+        "email": "Rutled06@nsuok.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:01Z"
+      },
+      {
+        "name": "Matthew Schilling",
+        "title": "Infielders/Hitting Assistant Coach",
+        "email": "schillin@nsuok.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:01Z"
       }
     ]
   },
@@ -19663,12 +20201,86 @@
     ]
   },
   {
+    "schoolID": "AR-ouachita-baptist-university",
+    "schoolName": "Ouachita Baptist University",
+    "state": "AR",
+    "division": "D2",
+    "conference": "Great American Conference",
+    "coaches": [
+      {
+        "name": "Luke Howard",
+        "title": "Head Coach",
+        "email": "howardl@obu.edu",
+        "phone": "870-245-5278",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:53Z"
+      },
+      {
+        "name": "Beau Burson",
+        "title": "Assistant Coach",
+        "email": "bursonb@obu.edu",
+        "phone": "870-245-4255",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:54Z"
+      },
+      {
+        "name": "Dave Brown",
+        "title": "Pitching Coach / Recruiting Coordinator",
+        "email": "brownd@obu.edu",
+        "phone": "870-245-4255",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:53Z"
+      },
+      {
+        "name": "Tallon Heine",
+        "title": "Assistant Coach",
+        "email": "heinet@obu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:54Z"
+      }
+    ]
+  },
+  {
     "schoolID": "OH-owens-community-college",
     "schoolName": "Owens Community College",
     "state": "",
     "division": "",
     "conference": "",
     "coaches": []
+  },
+  {
+    "schoolID": "NY-pace-university",
+    "schoolName": "Pace University",
+    "state": "NY",
+    "division": "D2",
+    "conference": "Northeast 10 Conference",
+    "coaches": [
+      {
+        "name": "Hank Manning",
+        "title": "Head Coach",
+        "email": "hmanning@pace.edu",
+        "phone": "914-773-3413",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:59Z"
+      },
+      {
+        "name": "Pete Raimondi",
+        "title": "Assistant Coach",
+        "email": "baseball@pace.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:00Z"
+      },
+      {
+        "name": "Tim Bausher",
+        "title": "Assistant Coach",
+        "email": "tbausher@pace.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:00Z"
+      }
+    ]
   },
   {
     "schoolID": "WA-pacific-lutheran-university",
@@ -20465,6 +21077,55 @@
     ]
   },
   {
+    "schoolID": "PA-point-park-university",
+    "schoolName": "Point Park University",
+    "state": "PA",
+    "division": "D2",
+    "conference": "Mountain East Conference",
+    "coaches": [
+      {
+        "name": "Loren Torres",
+        "title": "Head Coach",
+        "email": "ltorres@pointpark.edu",
+        "phone": "412-392-3845",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:02Z"
+      },
+      {
+        "name": "Rocky Capobianco",
+        "title": "Associate Head Coach",
+        "email": "vcapobianco@pointpark.edu",
+        "phone": "412-392-3845",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:02Z"
+      },
+      {
+        "name": "Clay Groff",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:03Z"
+      },
+      {
+        "name": "Jason Kim",
+        "title": "Assistant Coach/Recruiting Coordinator",
+        "email": "jkim@pointpark.edu",
+        "phone": "412-392-3845",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:03Z"
+      },
+      {
+        "name": "Nick Beardsley",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:03Z"
+      }
+    ]
+  },
+  {
     "schoolID": "FL-polk-state-college",
     "schoolName": "Polk State College",
     "state": "",
@@ -21197,6 +21858,14 @@
     "coaches": []
   },
   {
+    "schoolID": "VA-regent-university",
+    "schoolName": "Regent University",
+    "state": "VA",
+    "division": "D3",
+    "conference": "Coast-To-Coast Athletic Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "CO-regis-university",
     "schoolName": "Regis University",
     "state": "",
@@ -21235,6 +21904,14 @@
     "state": "",
     "division": "",
     "conference": "",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-rensselaer-polytechnic-institute",
+    "schoolName": "Rensselaer Polytechnic Institute",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Liberty League",
     "coaches": []
   },
   {
@@ -21394,6 +22071,14 @@
     "coaches": []
   },
   {
+    "schoolID": "WI-ripon-college",
+    "schoolName": "Ripon College",
+    "state": "WI",
+    "division": "D3",
+    "conference": "Midwest Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "MN-riverland-community-college",
     "schoolName": "Riverland Community College",
     "state": "",
@@ -21492,6 +22177,14 @@
         "lastVerifiedDate": "2026-07-30T21:08:27Z"
       }
     ]
+  },
+  {
+    "schoolID": "IL-rockford-university",
+    "schoolName": "Rockford University",
+    "state": "IL",
+    "division": "D3",
+    "conference": "Northern Athletics Collegiate Conference",
+    "coaches": []
   },
   {
     "schoolID": "MO-rockhurst-university",
@@ -21686,6 +22379,55 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
+      }
+    ]
+  },
+  {
+    "schoolID": "IL-roosevelt-university",
+    "schoolName": "Roosevelt University",
+    "state": "IL",
+    "division": "D2",
+    "conference": "Great Lakes Intercollegiate Athletic Conference",
+    "coaches": [
+      {
+        "name": "Jason Becker",
+        "title": "Head Coach",
+        "email": "jbecker11@roosevelt.edu",
+        "phone": "708-259-9082",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:57Z"
+      },
+      {
+        "name": "Tyler Martin",
+        "title": "Associate Head Coach",
+        "email": "tmartin20@roosevelt.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:57Z"
+      },
+      {
+        "name": "Kevin Johnson",
+        "title": "Assistant Coach",
+        "email": "kjohnson135@roosevelt.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:57Z"
+      },
+      {
+        "name": "Nate Soria",
+        "title": "Assistant Coach",
+        "email": "nsoria@roosevelt.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:57Z"
+      },
+      {
+        "name": "Scott Tierney",
+        "title": "Assistant Coach",
+        "email": "stierney03@roosevelt.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:58Z"
       }
     ]
   },
@@ -22649,6 +23391,14 @@
         "lastVerifiedDate": "2026-07-30T21:08:29Z"
       }
     ]
+  },
+  {
+    "schoolID": "NJ-saint-elizabeth-university",
+    "schoolName": "Saint Elizabeth University",
+    "state": "NJ",
+    "division": "D3",
+    "conference": "Atlantic East Conference",
+    "coaches": []
   },
   {
     "schoolID": "PA-saint-francis-university-pa",
@@ -23620,6 +24370,14 @@
     ]
   },
   {
+    "schoolID": "TX-schreiner-university",
+    "schoolName": "Schreiner University",
+    "state": "TX",
+    "division": "D3",
+    "conference": "American Southwest Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "AZ-scottsdale-comm-college",
     "schoolName": "Scottsdale Comm. College",
     "state": "",
@@ -23830,6 +24588,31 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
+      }
+    ]
+  },
+  {
+    "schoolID": "WV-shepherd-university",
+    "schoolName": "Shepherd University",
+    "state": "WV",
+    "division": "D2",
+    "conference": "Pennsylvania State Athletic Conference",
+    "coaches": [
+      {
+        "name": "Andrew Kowalo",
+        "title": "Head Coach",
+        "email": "akowalo@shepherd.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:06Z"
+      },
+      {
+        "name": "Zach Guth",
+        "title": "Assistant Coach",
+        "email": "zguth@shepherd.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:07Z"
       }
     ]
   },
@@ -24434,6 +25217,39 @@
     ]
   },
   {
+    "schoolID": "OK-southern-nazarene-university",
+    "schoolName": "Southern Nazarene University",
+    "state": "OK",
+    "division": "D2",
+    "conference": "Great American Conference",
+    "coaches": [
+      {
+        "name": "Chris Moddelmog",
+        "title": "Head Coach",
+        "email": "cmoddelmog@mail.snu.edu",
+        "phone": "970-658-6316",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:02Z"
+      },
+      {
+        "name": "Carson Kinnaird",
+        "title": "Assistant Coach",
+        "email": "ckinnaird@mail.snu.edu",
+        "phone": "580-606-7730",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:02Z"
+      },
+      {
+        "name": "Tyler Stevens",
+        "title": "Assistant Coach",
+        "email": "tstevens@mail.snu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:02Z"
+      }
+    ]
+  },
+  {
     "schoolID": "NH-southern-new-hampshire-university",
     "schoolName": "Southern New Hampshire University",
     "state": "",
@@ -25009,6 +25825,14 @@
     ]
   },
   {
+    "schoolID": "NY-st-lawrence-university",
+    "schoolName": "St. Lawrence University",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Liberty League",
+    "coaches": []
+  },
+  {
     "schoolID": "MO-st-louis-community-college",
     "schoolName": "St. Louis Community College",
     "state": "",
@@ -25390,6 +26214,14 @@
     ]
   },
   {
+    "schoolID": "NJ-stockton-university",
+    "schoolName": "Stockton University",
+    "state": "NJ",
+    "division": "D3",
+    "conference": "New Jersey Athletic Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "MA-stonehill-college",
     "schoolName": "Stonehill College",
     "state": "",
@@ -25493,6 +26325,23 @@
         "phone": "617-305-1744",
         "twitter": "",
         "lastVerifiedDate": ""
+      }
+    ]
+  },
+  {
+    "schoolID": "TX-sul-ross-state-university",
+    "schoolName": "Sul Ross State University",
+    "state": "TX",
+    "division": "D2",
+    "conference": "Lone Star Conference",
+    "coaches": [
+      {
+        "name": "Matthew Torrez",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:54:05Z"
       }
     ]
   },
@@ -26294,6 +27143,14 @@
     ]
   },
   {
+    "schoolID": "PA-thiel-college",
+    "schoolName": "Thiel College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Presidents' Athletic Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "ME-thomas-college",
     "schoolName": "Thomas College",
     "state": "",
@@ -26860,6 +27717,14 @@
         "lastVerifiedDate": "2026-08-03T14:17:51Z"
       }
     ]
+  },
+  {
+    "schoolID": "CT-us-coast-guard-academy",
+    "schoolName": "U.S. Coast Guard Academy",
+    "state": "CT",
+    "division": "D3",
+    "conference": "New England Women's and Men's Athletic Conference",
+    "coaches": []
   },
   {
     "schoolID": "CA-uc-berkeley-cal",
@@ -28987,6 +29852,63 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
+      }
+    ]
+  },
+  {
+    "schoolID": "ND-university-of-jamestown",
+    "schoolName": "University of Jamestown",
+    "state": "ND",
+    "division": "D2",
+    "conference": "Northern Sun Intercollegiate Conference",
+    "coaches": [
+      {
+        "name": "Ryan Iliff",
+        "title": "Head Coach",
+        "email": "ryan.iliff@uj.edu",
+        "phone": "701-252-3467",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:58Z"
+      },
+      {
+        "name": "Ben Patton",
+        "title": "Assistant Coach",
+        "email": "Benjamin.Patton@uj.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:58Z"
+      },
+      {
+        "name": "Elias Sablan",
+        "title": "Assistant Coach",
+        "email": "Elias.Sablan@uj.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:59Z"
+      },
+      {
+        "name": "JT Sprague",
+        "title": "Assistant Coach",
+        "email": "Jack.Sprague@uj.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:59Z"
+      },
+      {
+        "name": "Jason Schutt",
+        "title": "Assistant Coach",
+        "email": "Jason.Schutt@uj.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:59Z"
+      },
+      {
+        "name": "Tre Chatman",
+        "title": "Assistant Coach",
+        "email": "Charles.Chatman@uj.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:58Z"
       }
     ]
   },
@@ -31131,6 +32053,14 @@
     ]
   },
   {
+    "schoolID": "PA-university-of-scranton",
+    "schoolName": "University of Scranton",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Landmark Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "SD-university-of-sioux-falls",
     "schoolName": "University of Sioux Falls",
     "state": "",
@@ -31511,6 +32441,55 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": "2026-08-03T14:17:34Z"
+      }
+    ]
+  },
+  {
+    "schoolID": "FL-university-of-tampa",
+    "schoolName": "University of Tampa",
+    "state": "FL",
+    "division": "D2",
+    "conference": "Sunshine State Conference",
+    "coaches": [
+      {
+        "name": "Joe Urso",
+        "title": "Head Coach",
+        "email": "jurso@ut.edu",
+        "phone": "813-257-3488",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:56Z"
+      },
+      {
+        "name": "Sam Militello",
+        "title": "Associate Head Coach",
+        "email": "smilitello@ut.edu",
+        "phone": "813-257-3673",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:56Z"
+      },
+      {
+        "name": "Christopher Rosenbaum",
+        "title": "Assistant Coach",
+        "email": "christopherrosenbaum@ut.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:56Z"
+      },
+      {
+        "name": "Daniel Mercado",
+        "title": "Assistant Coach",
+        "email": "dmercado@tampaspartans.com",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:56Z"
+      },
+      {
+        "name": "Jose Jimenez",
+        "title": "Assistant Coach/Recruiting Director",
+        "email": "jjimenez@ut.edu",
+        "phone": "813-257-3487",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-01T14:53:56Z"
       }
     ]
   },
@@ -32929,6 +33908,14 @@
     ]
   },
   {
+    "schoolID": "PA-ursinus-college",
+    "schoolName": "Ursinus College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Centennial Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "UT-utah-state-university-eastern",
     "schoolName": "Utah State University Eastern",
     "state": "",
@@ -33034,6 +34021,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "NY-utica-university",
+    "schoolName": "Utica University",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Empire 8",
+    "coaches": []
   },
   {
     "schoolID": "GA-valdosta-state-university",
@@ -33982,6 +34977,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "PA-waynesburg-university",
+    "schoolName": "Waynesburg University",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Presidents' Athletic Conference",
+    "coaches": []
   },
   {
     "schoolID": "TX-weatherford-college",
@@ -34954,6 +35957,22 @@
         "lastVerifiedDate": "2026-07-24T21:03:10Z"
       }
     ]
+  },
+  {
+    "schoolID": "PA-widener-university",
+    "schoolName": "Widener University",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Middle Atlantic Conference Commonwealth",
+    "coaches": []
+  },
+  {
+    "schoolID": "PA-wilkes-university",
+    "schoolName": "Wilkes University",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Landmark Conference",
+    "coaches": []
   },
   {
     "schoolID": "OR-willamette-university",

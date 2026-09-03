@@ -6,7 +6,10 @@
     "contact": {
       "title": "Sports Nutritionist",
       "xHandle": "@Kindrednutritio",
-      "name": "Amy Goldsmith, RDN"
+      "name": "Amy Goldsmith, RDN",
+      "email": null,
+      "phone": null,
+      "linkedInURL": null
     },
     "featured": true,
     "company": {
@@ -33,7 +36,10 @@
     "contact": {
       "title": "7-Year MLB Player, Mental Strength Coach",
       "xHandle": "@BrandonGuyer",
-      "name": "Brandon Guyer"
+      "name": "Brandon Guyer",
+      "email": null,
+      "phone": null,
+      "linkedInURL": null
     },
     "featured": true,
     "company": {
@@ -58,9 +64,12 @@
     "description": "Comprehensive financial planning for athletes and families to build, protect, and pass on wealth.",
     "isActive": true,
     "contact": {
-      "title": "Wealth Management & Financial Planning",
+      "title": "Partner | Wealth Management Advisor",
       "xHandle": null,
-      "name": "Frank Jarboe, Sr., CFP®"
+      "name": "Frank Jarboe, Sr., CFP\u00ae",
+      "email": null,
+      "phone": null,
+      "linkedInURL": "https://www.linkedin.com/company/rs-will-wealth-management"
     },
     "featured": true,
     "company": {
@@ -79,5 +88,65 @@
       "code": null
     },
     "id": "frank-jarboe-rs-will-group"
+  },
+  {
+    "dateAdded": "2026-09-03",
+    "description": "Comprehensive financial planning for athletes and families to build, protect, and pass on wealth.",
+    "isActive": true,
+    "contact": {
+      "title": "Partner | Wealth Management Advisor (NFLPA Registered Player Financial Advisor)",
+      "xHandle": null,
+      "name": "Bill Coffey, CFP\u00ae",
+      "email": "william.coffey@rswill.com",
+      "phone": "301-360-4477",
+      "linkedInURL": "https://www.linkedin.com/company/rs-will-wealth-management"
+    },
+    "featured": true,
+    "company": {
+      "logoSourceURL": null,
+      "name": "RS Will Group",
+      "category": "financial",
+      "url": "https://rswill.com",
+      "logoURL": null
+    },
+    "sortOrder": 4,
+    "offering": {
+      "title": null,
+      "expiresAt": null,
+      "hasOffering": false,
+      "details": null,
+      "code": null
+    },
+    "id": "bill-coffey-rs-will-group"
+  },
+  {
+    "dateAdded": "2026-09-03",
+    "description": "Comprehensive financial planning for athletes and families to build, protect, and pass on wealth.",
+    "isActive": true,
+    "contact": {
+      "title": "Financial Advisor",
+      "xHandle": null,
+      "name": "Ian Eversull",
+      "email": "ian.eversull@rswill.com",
+      "phone": "301-360-4477",
+      "linkedInURL": "https://www.linkedin.com/company/rs-will-wealth-management"
+    },
+    "featured": true,
+    "company": {
+      "logoSourceURL": null,
+      "name": "RS Will Group",
+      "category": "financial",
+      "url": "https://rswill.com",
+      "logoURL": null
+    },
+    "sortOrder": 5,
+    "offering": {
+      "title": null,
+      "expiresAt": null,
+      "hasOffering": false,
+      "details": null,
+      "code": null
+    },
+    "id": "ian-eversull-rs-will-group"
   }
 ]

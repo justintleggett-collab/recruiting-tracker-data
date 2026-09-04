@@ -304,7 +304,64 @@
     "state": "PA",
     "division": "D3",
     "conference": "Middle Atlantic Conference Commonwealth",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Justin Perry",
+        "title": "Head Coach",
+        "email": "jwperry@albright.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:54:56Z"
+      },
+      {
+        "name": "Dale Murphy",
+        "title": "Assistant Coach/Recruiting Coordinator",
+        "email": "dmurphy@albright.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:54:57Z"
+      },
+      {
+        "name": "Danny Louveiux",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:54:57Z"
+      },
+      {
+        "name": "Dominic Yeager",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:54:58Z"
+      },
+      {
+        "name": "Gary Yeager, Jr.",
+        "title": "Assistant Coach",
+        "email": "gyeager@albright.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:54:56Z"
+      },
+      {
+        "name": "Nick Sklenarik",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:54:56Z"
+      },
+      {
+        "name": "Patrick Causa",
+        "title": "Assistant Coach",
+        "email": "pcausa@albright.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:54:57Z"
+      }
+    ]
   },
   {
     "schoolID": "MS-alcorn-state-university",
@@ -8994,7 +9051,72 @@
     "state": "PA",
     "division": "D3",
     "conference": "Middle Atlantic Conference Commonwealth",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Scott Renauro",
+        "title": "Head Coach",
+        "email": "srenauro@eastern.edu",
+        "phone": "609-319-6290",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:54:58Z"
+      },
+      {
+        "name": "Joe Clancy",
+        "title": "Associate Head Coach",
+        "email": "jclancy1@eastern.edu",
+        "phone": "347-276-1114",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:54:58Z"
+      },
+      {
+        "name": "Chris Medei",
+        "title": "Assistant Coach",
+        "email": "christopher.medei@eastern.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:55:00Z"
+      },
+      {
+        "name": "Kyle Friebolin",
+        "title": "Assistant Coach",
+        "email": "Kyle.Friebolin@eastern.edu",
+        "phone": "484-661-9757",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:54:59Z"
+      },
+      {
+        "name": "Luca Marinucci",
+        "title": "Assistant Coach",
+        "email": "luca.marinucci@eastern.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:54:59Z"
+      },
+      {
+        "name": "Matt Esquijerosa",
+        "title": "Assistant Coach/Recruiting Coordinator",
+        "email": "matthew.esquijerosa@eastern.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:54:59Z"
+      },
+      {
+        "name": "Nicholas Millets",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:55:00Z"
+      },
+      {
+        "name": "Will Algard",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:55:00Z"
+      }
+    ]
   },
   {
     "schoolID": "WY-eastern-wyoming-college",
@@ -13713,11 +13835,28 @@
     "conference": "",
     "coaches": [
       {
+        "name": "Pat Christopher",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "814-641-5328",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:55:01Z"
+      },
+      {
+        "name": "Eamonn Andre",
+        "title": "Assistant Coach",
+        "email": "eta100@juniata.edu",
+        "phone": "814-641-3587",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:55:01Z"
+      },
+      {
         "name": "Tye Levy",
         "title": "Assistant Coach",
-        "email": "",
+        "email": "levyt@juniata.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-03T23:04:19Z"
       }
     ]
   },
@@ -16686,6 +16825,14 @@
         "lastVerifiedDate": ""
       },
       {
+        "name": "Ben Weaver",
+        "title": "Assistant Coach",
+        "email": "bjweaver@messiah.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:55:01Z"
+      },
+      {
         "name": "Joey Nieves-Markee",
         "title": "Assistant Coach",
         "email": "",
@@ -16696,10 +16843,10 @@
       {
         "name": "Josh Monturo",
         "title": "Assistant Coach",
-        "email": "",
+        "email": "jmonturo@messiah.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-09-04T03:55:02Z"
       },
       {
         "name": "Reed Wagner",
@@ -16708,6 +16855,14 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
+      },
+      {
+        "name": "Ryan Clark",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-04T03:55:01Z"
       }
     ]
   },

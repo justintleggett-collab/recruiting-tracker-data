@@ -1690,9 +1690,26 @@
       {
         "name": "Andy Salvatore",
         "title": "Head Coach",
-        "email": "",
+        "email": "asalvatore@bard.edu",
+        "phone": "845-758-4489",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:14Z"
+      },
+      {
+        "name": "Justin Gomez",
+        "title": "Associate Head Coach",
+        "email": "jugomez@bard.edu",
+        "phone": "845-758-4489",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:15Z"
+      },
+      {
+        "name": "Andrew Bonilla",
+        "title": "Assistant Coach",
+        "email": "abonilla@bard.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:15Z"
       }
     ]
   },
@@ -9411,7 +9428,48 @@
     "state": "NY",
     "division": "D3",
     "conference": "Empire 8",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Anthony Goncalves",
+        "title": "Head Coach",
+        "email": "agoncalves@elmira.edu",
+        "phone": "607-735-1837",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:15Z"
+      },
+      {
+        "name": "Adam Winchell",
+        "title": "Assistant Coach",
+        "email": "awinchell@elmira.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:16Z"
+      },
+      {
+        "name": "Cameron Heggie",
+        "title": "Assistant Coach",
+        "email": "cheggie18@elmira.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:16Z"
+      },
+      {
+        "name": "Jack Donnelly",
+        "title": "Assistant Coach",
+        "email": "jdonnelly19@elmira.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:15Z"
+      },
+      {
+        "name": "Ryan Scott",
+        "title": "Assistant Coach",
+        "email": "rscott@elmira.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:16Z"
+      }
+    ]
   },
   {
     "schoolID": "MA-elms-college",
@@ -9783,11 +9841,36 @@
     "conference": "St. Louis Intercollegiate Athletic Conference",
     "coaches": [
       {
+        "name": "Noah Suarez",
+        "title": "Head Coach",
+        "email": "nsuarez@eureka.edu",
+        "phone": "330-727-1702",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:08Z"
+      },
+      {
         "name": "Brandt King",
+        "title": "Assistant Coach",
+        "email": "bking@eureka.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:08Z"
+      },
+      {
+        "name": "Ethan Hedge",
         "title": "Assistant Coach",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:08Z"
+      },
+      {
+        "name": "Ryan Bredeson",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:08Z"
       }
     ]
   },
@@ -9904,7 +9987,40 @@
     "state": "NY",
     "division": "D3",
     "conference": "Skyline Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Keith Osik",
+        "title": "Head Coach",
+        "email": "osikk@farmingdale.edu",
+        "phone": "934-420-2123",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:16Z"
+      },
+      {
+        "name": "Anthony Zitaglio",
+        "title": "Assistant Coach",
+        "email": "zitaglam@farmingdale.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:17Z"
+      },
+      {
+        "name": "Jordan Lambert",
+        "title": "Assistant Coach",
+        "email": "lambjt1@farmingdale.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:17Z"
+      },
+      {
+        "name": "Mike McCabe",
+        "title": "Assistant Coach",
+        "email": "mccabemg@farmingdale.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:17Z"
+      }
+    ]
   },
   {
     "schoolID": "NC-fayetteville-technical-community-college",
@@ -12603,11 +12719,28 @@
     "conference": "Allegheny Mountain Collegiate Conference",
     "coaches": [
       {
+        "name": "Drew Fittry",
+        "title": "Head Coach",
+        "email": "dfittry@hilbert.edu",
+        "phone": "716-926-8798",
+        "twitter": "https://x.com/baseballHilbert",
+        "lastVerifiedDate": "2026-09-05T00:56:17Z"
+      },
+      {
         "name": "Brendan Toughey",
         "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "email": "btoughey@hilbert.edu",
+        "phone": "716-926-8798",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:17Z"
+      },
+      {
+        "name": "Joe Reitebach",
+        "title": "Assistant Coach",
+        "email": "jreitebach240@hilbert.edu",
+        "phone": "716-926-8798",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:18Z"
       }
     ]
   },
@@ -15859,7 +15992,32 @@
     "state": "AR",
     "division": "D3",
     "conference": "St. Louis Intercollegiate Athletic Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "David Butterfield",
+        "title": "Head Coach",
+        "email": "david.butterfield@lyon.edu",
+        "phone": "870-307-7337",
+        "twitter": "https://x.com/d__butterfield",
+        "lastVerifiedDate": "2026-09-05T00:56:05Z"
+      },
+      {
+        "name": "Brandon Schmidt",
+        "title": "Recruiting Coordinator & Pitching Coach",
+        "email": "brandon.schmidt@lyon.edu",
+        "phone": "",
+        "twitter": "https://x.com/branschm26",
+        "lastVerifiedDate": "2026-09-05T00:56:06Z"
+      },
+      {
+        "name": "Kooper McCoy",
+        "title": "Assistant Coach",
+        "email": "riley.mccoy@lyon.edu",
+        "phone": "870-307-7338",
+        "twitter": "https://x.com/kooper_mccoy24",
+        "lastVerifiedDate": "2026-09-05T00:56:06Z"
+      }
+    ]
   },
   {
     "schoolID": "MN-macalester-college",
@@ -22380,11 +22538,76 @@
     "conference": "Northern Athletics Collegiate Conference",
     "coaches": [
       {
+        "name": "Bob Koopmann",
+        "title": "Head Coach",
+        "email": "rkoopmann@rockford.edu",
+        "phone": "815-394-5062",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:09Z"
+      },
+      {
+        "name": "Dennis Kehrer",
+        "title": "Assistant Coach",
+        "email": "dkehrer@rockford.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:10Z"
+      },
+      {
+        "name": "Jason Hunter",
+        "title": "Assistant Coach",
+        "email": "jhunter@rockford.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:10Z"
+      },
+      {
+        "name": "Jim Hawrysko",
+        "title": "Assistant Coach",
+        "email": "jhawrysko@rockford.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:10Z"
+      },
+      {
+        "name": "Justin Hallberg",
+        "title": "Assistant Coach",
+        "email": "jhallberg@rockford.edu",
+        "phone": "815-394-5063",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:09Z"
+      },
+      {
         "name": "Marty Miller",
         "title": "Assistant Coach",
-        "email": "",
+        "email": "mmiller@Rockford.edu",
+        "phone": "815-394-5006",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:11Z"
+      },
+      {
+        "name": "Spencer Lentz",
+        "title": "Assistant Coach",
+        "email": "slentz@rockford.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:10Z"
+      },
+      {
+        "name": "Tanner Kehrer",
+        "title": "Assistant Coach",
+        "email": "tkehrer@rockford.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:11Z"
+      },
+      {
+        "name": "Will Hissong",
+        "title": "Assistant Coach",
+        "email": "whissong@rockford.edu",
+        "phone": "815-394-3726",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:09Z"
       }
     ]
   },
@@ -23600,7 +23823,48 @@
     "state": "NJ",
     "division": "D3",
     "conference": "Atlantic East Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Dan Furbeck",
+        "title": "Head Coach",
+        "email": "dfurbeck@steu.edu",
+        "phone": "973-290-4213",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:11Z"
+      },
+      {
+        "name": "Brad Edwards Jr.",
+        "title": "Assistant Coach- Pitching Coach / Hitting Coach / IF Coach",
+        "email": "bedwards@steu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:12Z"
+      },
+      {
+        "name": "Joe Centrone",
+        "title": "Recruiting Coordinator / Assistant Coach",
+        "email": "jgcentrone@steu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:12Z"
+      },
+      {
+        "name": "Mosess Menendez",
+        "title": "Assistant Coach- Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:12Z"
+      },
+      {
+        "name": "Ray Orta",
+        "title": "Assistant Coach- 3B Coach / Offensive Coordinator / OF Coach",
+        "email": "rorta@steu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:11Z"
+      }
+    ]
   },
   {
     "schoolID": "PA-saint-francis-university-pa",
@@ -26445,7 +26709,72 @@
     "state": "NJ",
     "division": "D3",
     "conference": "New Jersey Athletic Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Rich Gawlak",
+        "title": "Head Coach",
+        "email": "gawlakr@stockton.edu",
+        "phone": "609-626-6013",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:12Z"
+      },
+      {
+        "name": "Brian Robertson",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:14Z"
+      },
+      {
+        "name": "Jason Leta",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:14Z"
+      },
+      {
+        "name": "LT Struble",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:13Z"
+      },
+      {
+        "name": "Phil Kahn",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:13Z"
+      },
+      {
+        "name": "Sean Donovan",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:14Z"
+      },
+      {
+        "name": "Steve Bucci",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:13Z"
+      },
+      {
+        "name": "Steve Struble",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:13Z"
+      }
+    ]
   },
   {
     "schoolID": "MA-stonehill-college",
@@ -27954,9 +28283,26 @@
       {
         "name": "Brian Casey",
         "title": "Head Coach",
-        "email": "",
+        "email": "brian.w.casey@uscga.edu",
+        "phone": "860-444-8509",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:07Z"
+      },
+      {
+        "name": "Eric Degre",
+        "title": "Assistant Coach",
+        "email": "eric.a.degre@uscga.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:07Z"
+      },
+      {
+        "name": "Luke Broadhurst",
+        "title": "Assistant Coach",
+        "email": "Luke.F.Broadhurst@uscga.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-05T00:56:07Z"
       }
     ]
   },

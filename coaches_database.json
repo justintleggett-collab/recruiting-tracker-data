@@ -12593,7 +12593,15 @@
     "state": "NY",
     "division": "D3",
     "conference": "Allegheny Mountain Collegiate Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Brendan Toughey",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "TX-hill-college",

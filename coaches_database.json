@@ -9781,7 +9781,15 @@
     "state": "IL",
     "division": "D3",
     "conference": "St. Louis Intercollegiate Athletic Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Brandt King",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "WA-everett-community-college",

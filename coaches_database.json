@@ -27918,7 +27918,15 @@
     "state": "CT",
     "division": "D3",
     "conference": "New England Women's and Men's Athletic Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Brian Casey",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "CA-uc-berkeley-cal",

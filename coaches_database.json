@@ -22354,7 +22354,15 @@
     "state": "IL",
     "division": "D3",
     "conference": "Northern Athletics Collegiate Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Marty Miller",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "MO-rockhurst-university",

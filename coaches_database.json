@@ -1686,7 +1686,15 @@
     "state": "NY",
     "division": "D3",
     "conference": "Liberty League",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Andy Salvatore",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "FL-barry-university",

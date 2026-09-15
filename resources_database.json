@@ -64,12 +64,12 @@
     "description": "Comprehensive financial planning for athletes and families to build, protect, and pass on wealth.",
     "isActive": true,
     "contact": {
-      "title": "Partner | Wealth Management Advisor",
+      "title": "Wealth Management & Financial Planning",
       "xHandle": null,
-      "name": "Frank Jarboe, Sr., CFP\u00ae",
+      "name": "Frank Jarboe, Sr., CFP®",
       "email": null,
       "phone": null,
-      "linkedInURL": "https://www.linkedin.com/company/rs-will-wealth-management"
+      "linkedInURL": null
     },
     "featured": true,
     "company": {
@@ -90,23 +90,23 @@
     "id": "frank-jarboe-rs-will-group"
   },
   {
-    "dateAdded": "2026-09-03",
-    "description": "Comprehensive financial planning for athletes and families to build, protect, and pass on wealth.",
+    "dateAdded": "2026-09-15",
+    "description": "NIL news, deal tracker, and a school-by-school revenue-sharing tracker for families navigating the NIL and revenue-share era of college athletics.",
     "isActive": true,
     "contact": {
-      "title": "Partner | Wealth Management Advisor (NFLPA Registered Player Financial Advisor)",
-      "xHandle": null,
-      "name": "Bill Coffey, CFP\u00ae",
-      "email": "william.coffey@rswill.com",
-      "phone": "301-360-4477",
-      "linkedInURL": "https://www.linkedin.com/company/rs-will-wealth-management"
+      "title": "NIL News & Resources",
+      "xHandle": "@NILNewsstand",
+      "name": "NILNewsstand",
+      "email": null,
+      "phone": null,
+      "linkedInURL": null
     },
-    "featured": true,
+    "featured": false,
     "company": {
       "logoSourceURL": null,
-      "name": "RS Will Group",
-      "category": "financial",
-      "url": "https://rswill.com",
+      "name": "NILNewsstand",
+      "category": "other",
+      "url": "https://www.nilnewsstand.com",
       "logoURL": null
     },
     "sortOrder": 4,
@@ -117,26 +117,26 @@
       "details": null,
       "code": null
     },
-    "id": "bill-coffey-rs-will-group"
+    "id": "nilnewsstand-nil-news"
   },
   {
-    "dateAdded": "2026-09-03",
-    "description": "Comprehensive financial planning for athletes and families to build, protect, and pass on wealth.",
+    "dateAdded": "2026-09-15",
+    "description": "Free, evidence-based fueling and hydration guidance from Team USA's own sports dietitians — athlete-plate handouts and performance nutrition basics, no product to sell.",
     "isActive": true,
     "contact": {
-      "title": "Financial Advisor",
+      "title": "Performance Nutrition Team",
       "xHandle": null,
-      "name": "Ian Eversull",
-      "email": "ian.eversull@rswill.com",
-      "phone": "301-360-4477",
-      "linkedInURL": "https://www.linkedin.com/company/rs-will-wealth-management"
+      "name": "U.S. Olympic & Paralympic Committee",
+      "email": null,
+      "phone": null,
+      "linkedInURL": null
     },
-    "featured": true,
+    "featured": false,
     "company": {
       "logoSourceURL": null,
-      "name": "RS Will Group",
-      "category": "financial",
-      "url": "https://rswill.com",
+      "name": "USOPC Performance Nutrition",
+      "category": "nutrition",
+      "url": "https://www.usopc.org/nutrition",
       "logoURL": null
     },
     "sortOrder": 5,
@@ -147,6 +147,66 @@
       "details": null,
       "code": null
     },
-    "id": "ian-eversull-rs-will-group"
+    "id": "usopc-performance-nutrition"
+  },
+  {
+    "dateAdded": "2026-09-15",
+    "description": "Directory to find a credentialed Registered Dietitian near you — filter for a Board Certified Specialist in Sports Dietetics (CSSD) for one-on-one help with a young athlete's fueling plan.",
+    "isActive": true,
+    "contact": {
+      "title": "Find a Nutrition Expert",
+      "xHandle": null,
+      "name": "Academy of Nutrition and Dietetics",
+      "email": null,
+      "phone": null,
+      "linkedInURL": null
+    },
+    "featured": false,
+    "company": {
+      "logoSourceURL": null,
+      "name": "EatRight.org",
+      "category": "nutrition",
+      "url": "https://www.eatright.org/find-a-nutrition-expert",
+      "logoURL": null
+    },
+    "sortOrder": 6,
+    "offering": {
+      "title": null,
+      "expiresAt": null,
+      "hasOffering": false,
+      "details": null,
+      "code": null
+    },
+    "id": "eatright-find-a-nutrition-expert"
+  },
+  {
+    "dateAdded": "2026-09-15",
+    "description": "The federal government's baseline nutrition framework — a simple, no-cost starting point for family meal planning before a specialized sports-nutrition consult.",
+    "isActive": true,
+    "contact": {
+      "title": "Nutrition Basics",
+      "xHandle": null,
+      "name": "U.S. Department of Agriculture",
+      "email": null,
+      "phone": null,
+      "linkedInURL": null
+    },
+    "featured": false,
+    "company": {
+      "logoSourceURL": null,
+      "name": "MyPlate",
+      "category": "nutrition",
+      "url": "https://www.myplate.gov",
+      "logoURL": null
+    },
+    "sortOrder": 7,
+    "offering": {
+      "title": null,
+      "expiresAt": null,
+      "hasOffering": false,
+      "details": null,
+      "code": null
+    },
+    "id": "myplate-usda"
   }
 ]

@@ -5092,14 +5092,6 @@
     ]
   },
   {
-    "schoolID": "TN-815774",
-    "schoolName": "Carson–Newman University",
-    "state": "TN",
-    "division": "D2",
-    "conference": "South Atlantic Conference (SAC)",
-    "coaches": []
-  },
-  {
     "schoolID": "WI-carthage-college",
     "schoolName": "Carthage College",
     "state": "WI",
@@ -5463,19 +5455,11 @@
     "coaches": []
   },
   {
-    "schoolID": "OR-centralia-college",
-    "schoolName": "Centralia College",
-    "state": "WA",
-    "division": "JUCO D1",
-    "conference": "NWAC",
-    "coaches": []
-  },
-  {
     "schoolID": "WA-centralia-college",
     "schoolName": "Centralia College",
-    "state": "WA",
-    "division": "JUCO D1",
-    "conference": "NWAC",
+    "state": "",
+    "division": "",
+    "conference": "",
     "coaches": []
   },
   {
@@ -7268,19 +7252,11 @@
     ]
   },
   {
-    "schoolID": "OR-columbia-basin-college",
-    "schoolName": "Columbia Basin College",
-    "state": "WA",
-    "division": "JUCO D1",
-    "conference": "NWAC",
-    "coaches": []
-  },
-  {
     "schoolID": "WA-columbia-basin-college",
     "schoolName": "Columbia Basin College",
-    "state": "WA",
-    "division": "JUCO D1",
-    "conference": "NWAC",
+    "state": "",
+    "division": "",
+    "conference": "",
     "coaches": []
   },
   {
@@ -7470,14 +7446,6 @@
         "lastVerifiedDate": "2026-08-06T01:52:12Z"
       }
     ]
-  },
-  {
-    "schoolID": "MN-930588",
-    "schoolName": "Concordia College–Moorhead",
-    "state": "MN",
-    "division": "D3",
-    "conference": "Minnesota Intercollegiate Athletic Conference (MIAC)",
-    "coaches": []
   },
   {
     "schoolID": "CA-concordia-irvine",
@@ -8622,14 +8590,6 @@
     "state": "TN",
     "division": "JUCO D2",
     "conference": "NJCAA Region 7 (DII)",
-    "coaches": []
-  },
-  {
-    "schoolID": "NY-484865",
-    "schoolName": "D’Youville University",
-    "state": "NY",
-    "division": "D2",
-    "conference": "ECC",
     "coaches": []
   },
   {
@@ -23328,63 +23288,6 @@
     ]
   },
   {
-    "schoolID": "NJ-272555",
-    "schoolName": "Rutgers University–Camden",
-    "state": "NJ",
-    "division": "D3",
-    "conference": "NJAC",
-    "coaches": []
-  },
-  {
-    "schoolID": "NJ-346923",
-    "schoolName": "Rutgers University–Newark",
-    "state": "NJ",
-    "division": "D3",
-    "conference": "NJAC",
-    "coaches": [
-      {
-        "name": "Brandon Lopez",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Conor Kortmann",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Gino Mirabella",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Jon Rosado",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Justin Kessler",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      }
-    ]
-  },
-  {
     "schoolID": "CA-sf-state",
     "schoolName": "SF State",
     "state": "CA",
@@ -24574,61 +24477,20 @@
         "lastVerifiedDate": "2026-08-06T01:52:10Z"
       },
       {
+        "name": "Recruiting Coordinator/Assistant",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:07:56Z"
+      },
+      {
         "name": "Tyler DeClusin",
         "title": "Outfield / Assistant Coach",
         "email": "tdeclusin@saintpeters.edu",
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": "2026-08-06T01:52:10Z"
-      }
-    ]
-  },
-  {
-    "schoolID": "NJ-131018",
-    "schoolName": "Saint Peter’s University",
-    "state": "NJ",
-    "division": "D1",
-    "conference": "Metro Atlantic Athletic Conference",
-    "coaches": [
-      {
-        "name": "Alex Fishberg",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Jeremy Duran",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Recruiting Coordinator/Assistant",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "TJ Ward",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Tyler DeClusin",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
       }
     ]
   },
@@ -31929,19 +31791,11 @@
     ]
   },
   {
-    "schoolID": "NE-692121",
-    "schoolName": "University of Nebraska–Lincoln",
-    "state": "NE",
-    "division": "D1",
-    "conference": "Big Ten Conference",
-    "coaches": []
-  },
-  {
     "schoolID": "NE-university-of-nebraska-lincoln",
     "schoolName": "University of Nebraska–Lincoln",
-    "state": "NE",
-    "division": "D1",
-    "conference": "Big Ten Conference",
+    "state": "",
+    "division": "",
+    "conference": "",
     "coaches": [
       {
         "name": "Will Bolt",
@@ -34015,12 +33869,60 @@
     "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
     "coaches": [
       {
+        "name": "Assistant Head",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:07:56Z"
+      },
+      {
         "name": "Ryan Knudson",
         "title": "Head Coach",
         "email": "knudson.ryan@uwlax.edu",
         "phone": "608-785-8698",
         "twitter": "",
         "lastVerifiedDate": ""
+      },
+      {
+        "name": "Chris Schwarz",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "https://x.com/UWL_Baseball",
+        "lastVerifiedDate": "2026-09-15T15:07:56Z"
+      },
+      {
+        "name": "Jared Manske",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:07:56Z"
+      },
+      {
+        "name": "Matt Zieba",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:07:56Z"
+      },
+      {
+        "name": "Scott Gillitzer",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:07:56Z"
+      },
+      {
+        "name": "Travis Hendrickson",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:07:56Z"
       }
     ]
   },
@@ -34040,11 +33942,28 @@
         "lastVerifiedDate": ""
       },
       {
+        "name": "Cory Bigler",
+        "title": "Associate Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:07:56Z"
+      },
+      {
         "name": "Jack Sievers",
         "title": "Assistant Coach",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:07:57Z"
+      },
+      {
+        "name": "Mike Porcaro",
+        "title": "Assistant Coach / Pitching",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:07:56Z"
       }
     ]
   },
@@ -34064,12 +33983,28 @@
         "lastVerifiedDate": "2026-08-10T02:07:31Z"
       },
       {
+        "name": "Assistant Coach/Recruiting",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:07:57Z"
+      },
+      {
         "name": "Garry Maynard",
         "title": "Assistant Coach and Recruiting Coordinator",
         "email": "maynardg@uwosh.edu",
         "phone": "920-424-1226",
         "twitter": "",
         "lastVerifiedDate": "2026-08-10T02:07:31Z"
+      },
+      {
+        "name": "Jennifer Zuberbier",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:07:57Z"
       },
       {
         "name": "Mason Stoltenberg",
@@ -34094,6 +34029,22 @@
         "phone": "920-424-1225",
         "twitter": "",
         "lastVerifiedDate": "2026-08-10T02:07:31Z"
+      },
+      {
+        "name": "Tyler Cassmeyer",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:07:57Z"
+      },
+      {
+        "name": "Tyler Ciulla",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:07:57Z"
       },
       {
         "name": "Zach Taylor",
@@ -34127,6 +34078,22 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": "2026-08-06T01:52:12Z"
+      },
+      {
+        "name": "C.J. Thieleke",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:07:57Z"
+      },
+      {
+        "name": "Marty Pitts",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:07:57Z"
       }
     ]
   },
@@ -34146,6 +34113,14 @@
         "lastVerifiedDate": "2026-08-10T02:05:14Z"
       },
       {
+        "name": "Chad Harris",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:07:57Z"
+      },
+      {
         "name": "Isaac Stanton",
         "title": "Assistant Coach",
         "email": "stantoni@uwplatt.edu",
@@ -34160,6 +34135,22 @@
         "phone": "608-342-6181",
         "twitter": "",
         "lastVerifiedDate": "2026-08-10T02:07:32Z"
+      },
+      {
+        "name": "Kellen Bornbach",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:07:58Z"
+      },
+      {
+        "name": "Marshall Owens",
+        "title": "",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:07:57Z"
       },
       {
         "name": "Zach Demmon",
@@ -34374,307 +34365,6 @@
         "lastVerifiedDate": "2026-08-10T02:07:19Z"
       }
     ]
-  },
-  {
-    "schoolID": "WI-643251",
-    "schoolName": "University of Wisconsin–Eau Claire",
-    "state": "WI",
-    "division": "D3",
-    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
-    "coaches": []
-  },
-  {
-    "schoolID": "WI-127445",
-    "schoolName": "University of Wisconsin–La Crosse",
-    "state": "WI",
-    "division": "D3",
-    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
-    "coaches": [
-      {
-        "name": "Assistant Head",
-        "title": "Head Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Chris Schwarz",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "https://x.com/UWL_Baseball",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Jared Manske",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Matt Zieba",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Scott Gillitzer",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Travis Hendrickson",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      }
-    ]
-  },
-  {
-    "schoolID": "WI-055957",
-    "schoolName": "University of Wisconsin–Milwaukee",
-    "state": "WI",
-    "division": "D1",
-    "conference": "Horizon League",
-    "coaches": [
-      {
-        "name": "Shaun Wegner",
-        "title": "Head Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Cory Bigler",
-        "title": "Associate Head Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Jack Sievers",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Mike Porcaro",
-        "title": "Assistant Coach / Pitching",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      }
-    ]
-  },
-  {
-    "schoolID": "WI-046703",
-    "schoolName": "University of Wisconsin–Oshkosh",
-    "state": "WI",
-    "division": "D3",
-    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
-    "coaches": [
-      {
-        "name": "Assistant Coach/Recruiting",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Garry Maynard",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Jennifer Zuberbier",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Kevin Tomasiewicz",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Skyler Bohn",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Tyler Cassmeyer",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Tyler Ciulla",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      }
-    ]
-  },
-  {
-    "schoolID": "WI-690093",
-    "schoolName": "University of Wisconsin–Parkside",
-    "state": "WI",
-    "division": "D2",
-    "conference": "GLIAC",
-    "coaches": [
-      {
-        "name": "Aaron Cusimano",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "C.J. Thieleke",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Marty Pitts",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Zac Charbonneau",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      }
-    ]
-  },
-  {
-    "schoolID": "WI-368551",
-    "schoolName": "University of Wisconsin–Platteville",
-    "state": "WI",
-    "division": "D3",
-    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
-    "coaches": [
-      {
-        "name": "Chad Harris",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Isaac Stanton",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Karsten Leigvold",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Kellen Bornbach",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Marshall Owens",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Zach Demmon",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      }
-    ]
-  },
-  {
-    "schoolID": "WI-878077",
-    "schoolName": "University of Wisconsin–River Falls",
-    "state": "WI",
-    "division": "D3",
-    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
-    "coaches": []
-  },
-  {
-    "schoolID": "WI-066245",
-    "schoolName": "University of Wisconsin–Stevens Point",
-    "state": "WI",
-    "division": "D3",
-    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
-    "coaches": []
-  },
-  {
-    "schoolID": "WI-941425",
-    "schoolName": "University of Wisconsin–Stout",
-    "state": "WI",
-    "division": "D3",
-    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
-    "coaches": []
-  },
-  {
-    "schoolID": "WI-034259",
-    "schoolName": "University of Wisconsin–Whitewater",
-    "state": "WI",
-    "division": "D3",
-    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
-    "coaches": []
   },
   {
     "schoolID": "TX-university-of-the-incarnate-word",

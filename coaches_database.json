@@ -14327,7 +14327,15 @@
     "state": "PA",
     "division": "D3",
     "conference": "United East Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Jacob Yager",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "TN-king-university",

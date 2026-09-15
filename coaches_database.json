@@ -834,10 +834,10 @@
       {
         "name": "Hayden Cross",
         "title": "Assistant Coach",
-        "email": "",
+        "email": "crossho@appstate.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-08-03T14:16:59Z"
+        "lastVerifiedDate": "2026-09-15T15:38:35Z"
       },
       {
         "name": "Heath Blackmon",
@@ -18664,14 +18664,6 @@
         "lastVerifiedDate": ""
       },
       {
-        "name": "Hayden Cross",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
         "name": "Hunter Wolfe",
         "title": "Assistant Coach",
         "email": "wwolfe@murraystate.edu",
@@ -18680,19 +18672,20 @@
         "lastVerifiedDate": ""
       },
       {
+        "name": "Luke Howard",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:31:05Z"
+      },
+      {
         "name": "Steve Adkins",
         "title": "Assistant Coach",
         "email": "sadkins6@murraystate.edu",
         "phone": "270-809-3475",
         "twitter": "https://x.com/Adkins_29",
         "lastVerifiedDate": "2026-08-06T02:21:27Z"
-      },
-      {
-        "name": "Luke Howard",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": ""
       }
     ]
   },
@@ -20728,20 +20721,20 @@
     "conference": "Great American Conference",
     "coaches": [
       {
+        "name": "Dave Brown",
+        "title": "Interim Head Coach",
+        "email": "brownd@obu.edu",
+        "phone": "870-245-4255",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-15T15:31:17Z"
+      },
+      {
         "name": "Beau Burson",
         "title": "Assistant Coach",
         "email": "bursonb@obu.edu",
         "phone": "870-245-4255",
         "twitter": "",
         "lastVerifiedDate": "2026-09-01T14:53:54Z"
-      },
-      {
-        "name": "Dave Brown",
-        "title": "Interim Head Coach",
-        "email": "brownd@obu.edu",
-        "phone": "870-245-4255",
-        "twitter": "",
-        "lastVerifiedDate": "2026-09-01T14:53:53Z"
       },
       {
         "name": "Tallon Heine",

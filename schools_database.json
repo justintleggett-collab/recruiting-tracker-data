@@ -528,7 +528,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Montgomery",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Alabama State, ASU, Hornets, Bama State",
     "academicHighlights": null,
@@ -569,12 +569,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 5,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -1770,7 +1770,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Boone",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.appstate.edu",
     "aliases": "App State, Appalachian, ASU, Mountaineers",
     "academicHighlights": "Reich College of Education top in the South. Strong sustainability emphasis. Walker College of Business AACSB accredited. #1 Undergraduate Teaching Regional South (U.S. News).",
@@ -1811,7 +1811,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -1917,7 +1917,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Tempe",
-    "lastModified": "2026-09-02",
+    "lastModified": "2026-09-21",
     "website": "https://www.asu.edu",
     "aliases": "ASU, Arizona State, Sun Devils, AState",
     "academicHighlights": "W.P. Carey School of Business — Top 25. #1 in Innovation (U.S. News, 8 consecutive years). Cronkite School of Journalism nationally ranked. Strong Supply Chain Management, Engineering, and Sustainability programs.",
@@ -1958,12 +1958,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 4,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 9,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -2063,7 +2063,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Jonesboro",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "ASU, A-State, Arkansas State, Red Wolves, AState, Arkansas St",
     "academicHighlights": "Opening Arkansas's first College of Veterinary Medicine in Fall 2026. Strong Nursing and Agricultural Sciences programs. Growing research university.",
@@ -2107,9 +2107,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 9,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -2429,7 +2429,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Auburn",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Auburn, War Eagle, Tigers, AU",
     "academicHighlights": "Harbert College of Business — Top 30 public. Raymond J. Harbert College of Engineering strong in Mechanical and Aerospace. Top Veterinary school.",
@@ -2448,34 +2448,34 @@
     "nilPolicyURL": null,
     "pellGrantRate": 12.5,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-07",
+      "totalRosterSize": 20,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 0,
+        "so": 6,
+        "jr": 10,
+        "sr": 3,
+        "gr": 1,
+        "fifthYear": 0
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 5,
+        "outfield": 1,
+        "catcher": 3,
+        "rhp": 6,
+        "lhp": 3,
+        "pitcherUnspecified": 0,
+        "utility": 0,
+        "twoWay": 2,
+        "other": 0
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 5,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -3452,7 +3452,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Muncie",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Ball State, BSU, Cardinals",
     "academicHighlights": null,
@@ -3493,7 +3493,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -4037,7 +4037,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Louisville",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Bellarmine, Knights",
     "academicHighlights": null,
@@ -4078,7 +4078,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -6084,7 +6084,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Boston",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "BC, Eagles",
     "academicHighlights": "Carroll School of Management — Top 25 undergraduate business. Elite Jesuit education. Strong programs in Finance, Economics, Biology, and Nursing. Located in Boston metro.",
@@ -6103,34 +6103,34 @@
     "nilPolicyURL": null,
     "pellGrantRate": 12.9,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-07",
+      "totalRosterSize": 23,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 0,
+        "so": 8,
+        "jr": 11,
+        "sr": 4,
+        "gr": 0,
+        "fifthYear": 0
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 6,
+        "outfield": 3,
+        "catcher": 1,
+        "rhp": 8,
+        "lhp": 4,
+        "pitcherUnspecified": 0,
+        "utility": 0,
+        "twoWay": 1,
+        "other": 0
       }
     },
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -6670,7 +6670,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Provo",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "BYU, Cougars",
     "academicHighlights": "Marriott School of Business — Top 10 recruiter for Big Four accounting firms. Strong programs in Accounting, Computer Science, and Business. LDS Church-affiliated with honor code.",
@@ -6714,9 +6714,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2017
     },
     "recentRecord": {
       "season": null,
@@ -8934,7 +8934,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "San Luis Obispo",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.gopoly.com",
     "aliases": "Cal Poly, CP, Mustangs, San Luis Obispo",
     "academicHighlights": "'Learn by Doing' polytechnic philosophy. Top-ranked Engineering and Architecture programs. #1 public master's university in the West.",
@@ -8975,7 +8975,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -10249,7 +10249,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Buies Creek",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.campbell.edu",
     "aliases": "Campbell, Camels, Fighting Camels",
     "academicHighlights": "Strong Pharmacy, Law, and Business programs. Growing CAA member in Buies Creek, NC.",
@@ -10290,12 +10290,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 2,
+      "championships": 0,
+      "lastRegionalYear": 2022
     },
     "recentRecord": {
       "season": null,
@@ -11563,7 +11563,7 @@
     "athleticScholarshipLimit": 0,
     "stadiumCapacity": null,
     "city": "Pella",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Central, Dutch",
     "academicHighlights": null,
@@ -11607,9 +11607,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2022
     },
     "recentRecord": {
       "season": null,
@@ -11709,7 +11709,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Mount Pleasant",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "CMU, Central Michigan, Chippewas, Chips",
     "academicHighlights": null,
@@ -11750,7 +11750,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -12439,7 +12439,7 @@
     "athleticScholarshipLimit": 0,
     "stadiumCapacity": null,
     "city": "Orange",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.athletics.chapman.edu/sports/baseball",
     "aliases": "Chapman, Panthers",
     "academicHighlights": "Perennial D3 baseball powerhouse. Home to the world-class Dodge College of Film & Media Arts. Strong Business and Communications programs.",
@@ -12480,7 +12480,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -12949,7 +12949,7 @@
     "popularMajors": "Business Administration, Sport Management, Exercise Science, Communications, Criminal Justice, Marketing, Psychology, Biology, Education, Kinesiology, Management, Accounting",
     "athleticScholarshipLimit": 9.0,
     "stadiumCapacity": 4100,
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "city": "Chico",
     "website": "https://www.chicowildcats.com",
     "aliases": "Chico State, Chico, Wildcats, CSU Chico",
@@ -12991,7 +12991,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -13168,7 +13168,7 @@
     "popularMajors": "Business Administration, Exercise Science, Biology, Communications, Psychology, Education, Criminal Justice, History, Sport Management, English, Mathematics, Sociology",
     "athleticScholarshipLimit": 9.0,
     "stadiumCapacity": null,
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "city": "Memphis",
     "website": "",
     "aliases": "CBU, Christian Brothers, Buccaneers",
@@ -13210,7 +13210,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -13900,7 +13900,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Clemson",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.clemson.edu",
     "aliases": "Clemson, Tigers, CU",
     "academicHighlights": "College of Engineering — Top 40. Strong programs in Business, Architecture, and Parks/Recreation/Tourism Management.",
@@ -13941,12 +13941,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 6,
+      "championships": 0,
+      "lastRegionalYear": 2025
     },
     "recentRecord": {
       "season": null,
@@ -14412,7 +14412,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Conway",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.coastal.edu",
     "aliases": "Coastal Carolina, Coastal, CCU, Chanticleers, Chants",
     "academicHighlights": "Marine Science leverages coastal location. Strong Marketing and Exercise Science programs. Resort Tourism unique to the region.",
@@ -14453,12 +14453,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 7,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -17478,7 +17478,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Omaha",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Creighton, Bluejays, Jays",
     "academicHighlights": "Consistently ranked #1 in the Midwest for undergraduate teaching (U.S. News). Heider College of Business strong. Top Nursing and Biology programs. Jesuit university.",
@@ -17522,9 +17522,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2025
     },
     "recentRecord": {
       "season": null,
@@ -18136,7 +18136,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Dallas",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "DBU, Dallas Baptist, Patriots",
     "academicHighlights": "Strong Business, Education, and Ministry programs. Perennial D1 baseball contender. Baptist university in Dallas.",
@@ -18177,12 +18177,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 2,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 3,
+      "championships": 0,
+      "lastRegionalYear": 2023
     },
     "recentRecord": {
       "season": null,
@@ -19597,7 +19597,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Durham",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.duke.edu",
     "aliases": "Duke, Blue Devils, DU",
     "academicHighlights": "Fuqua School of Business — Top 15 MBA. Top programs in Public Policy, Computer Science, and Biomedical Engineering.",
@@ -19641,9 +19641,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 3,
+      "championships": 0,
+      "lastRegionalYear": 2025
     },
     "recentRecord": {
       "season": null,
@@ -19817,7 +19817,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Greenville",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.ecu.edu",
     "aliases": "ECU, East Carolina, Pirates, EC",
     "academicHighlights": "Brody School of Medicine serves eastern NC. Largest nurse/teacher producer in NC. Strong Hospitality and Exercise Science programs.",
@@ -19836,34 +19836,34 @@
     "nilPolicyURL": null,
     "pellGrantRate": 31.8,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-08",
+      "totalRosterSize": 45,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 14,
+        "so": 9,
+        "jr": 8,
+        "sr": 12,
+        "gr": 0,
+        "fifthYear": 2
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 11,
+        "outfield": 8,
+        "catcher": 4,
+        "rhp": 13,
+        "lhp": 6,
+        "pitcherUnspecified": 0,
+        "utility": 0,
+        "twoWay": 3,
+        "other": 0
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 3,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -20328,7 +20328,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Johnson City",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "ETSU, East Tennessee, Buccaneers, Bucs",
     "academicHighlights": null,
@@ -20369,7 +20369,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -20547,7 +20547,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Charleston",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "EIU, Eastern Illinois, Panthers",
     "academicHighlights": null,
@@ -20588,7 +20588,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -22666,7 +22666,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Fairfield",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://fairfieldstags.com",
     "aliases": "Fairfield",
     "academicHighlights": null,
@@ -22710,9 +22710,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2021
     },
     "recentRecord": {
       "season": null,
@@ -23615,7 +23615,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Miami",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.fiu.edu",
     "aliases": "FIU, Florida International, Panthers",
     "academicHighlights": "Strong Hospitality, Business, and International Relations programs. Located in Miami. Large Hispanic-serving institution.",
@@ -23656,7 +23656,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -23835,7 +23835,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Tallahassee",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.fsu.edu",
     "aliases": "FSU, Florida State, Seminoles, Noles, F State",
     "academicHighlights": "College of Business — Top 30 public. Top programs in Criminology (#6 nationally), Film, and Exercise Science.",
@@ -23854,34 +23854,34 @@
     "nilPolicyURL": null,
     "pellGrantRate": 23.0,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-07",
+      "totalRosterSize": 37,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 8,
+        "so": 9,
+        "jr": 10,
+        "sr": 8,
+        "gr": 0,
+        "fifthYear": 2
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 7,
+        "outfield": 6,
+        "catcher": 3,
+        "rhp": 13,
+        "lhp": 7,
+        "pitcherUnspecified": 0,
+        "utility": 0,
+        "twoWay": 1,
+        "other": 0
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 2,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 14,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -23907,7 +23907,7 @@
     "popularMajors": "Business Administration, Exercise Science, Biology, Communications, Psychology, Education, Criminal Justice, History, Sport Management, English, Mathematics, Sociology",
     "athleticScholarshipLimit": 9.0,
     "stadiumCapacity": 500,
-    "lastModified": "2026-08-12",
+    "lastModified": "2026-09-21",
     "city": "Melbourne",
     "website": "https://www.fit.edu",
     "aliases": "Florida Tech, FIT, Panthers",
@@ -23949,7 +23949,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 2,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -25077,7 +25077,7 @@
     "athleticScholarshipLimit": null,
     "stadiumCapacity": null,
     "city": "Fullerton",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.fchornets.com",
     "aliases": "Fullerton College, Hornets",
     "academicHighlights": null,
@@ -25121,9 +25121,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 3,
+      "championships": 0,
+      "lastRegionalYear": 2023
     },
     "recentRecord": {
       "season": null,
@@ -25662,7 +25662,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Fairfax",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "George Mason, GMU, Mason, Patriots",
     "academicHighlights": null,
@@ -25706,9 +25706,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2023
     },
     "recentRecord": {
       "season": null,
@@ -25807,7 +25807,7 @@
     "popularMajors": "Business Administration, Exercise Science, Biology, Communications, Psychology, Education, Criminal Justice, History, Sport Management, English, Mathematics, Sociology",
     "athleticScholarshipLimit": 9.0,
     "stadiumCapacity": null,
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "city": "Milledgeville",
     "website": "",
     "aliases": "GCSU, Georgia & State University, Georgia College & State",
@@ -25852,9 +25852,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 5,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -25955,7 +25955,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Atlanta",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Georgia Tech, GT, Yellow Jackets",
     "academicHighlights": "College of Engineering — Ranked #4 nationally. Top programs in Mechanical, Industrial, Aerospace, and Biomedical Engineering. #8 Computer Science.",
@@ -25999,9 +25999,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 3,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -26028,7 +26028,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Statesboro",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Georgia Southern, GSU, Eagles",
     "academicHighlights": "Strong Engineering, Nursing, and Business programs. Three-campus system. Growing Sun Belt member in Statesboro.",
@@ -26072,9 +26072,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2022
     },
     "recentRecord": {
       "season": null,
@@ -26978,7 +26978,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Phoenix",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.gcu.edu",
     "aliases": "Grand Canyon, GCU, Lopes, Antelopes",
     "academicHighlights": null,
@@ -27019,7 +27019,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -30117,7 +30117,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Houston",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://hcuhuskies.com",
     "aliases": "HCU, Houston Baptist",
     "academicHighlights": null,
@@ -30161,9 +30161,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2025
     },
     "recentRecord": {
       "season": null,
@@ -30701,7 +30701,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Normal",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "ISU, Illinois State, Redbirds",
     "academicHighlights": null,
@@ -30745,9 +30745,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2019
     },
     "recentRecord": {
       "season": null,
@@ -30993,7 +30993,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Terre Haute",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Indiana State, ISU, Sycamores, Ind State",
     "academicHighlights": null,
@@ -31037,9 +31037,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2019
     },
     "recentRecord": {
       "season": null,
@@ -31067,7 +31067,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Bloomington",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Indiana, IU, Hoosiers",
     "academicHighlights": "Kelley School of Business — #5 undergraduate business. Jacobs School of Music — Top 5 globally. Top programs in Finance, Marketing, Supply Chain Management, and Informatics.",
@@ -31086,34 +31086,34 @@
     "nilPolicyURL": null,
     "pellGrantRate": 16.8,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-07",
+      "totalRosterSize": 40,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 14,
+        "so": 10,
+        "jr": 9,
+        "sr": 3,
+        "gr": 0,
+        "fifthYear": 4
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 10,
+        "outfield": 4,
+        "catcher": 5,
+        "rhp": 16,
+        "lhp": 5,
+        "pitcherUnspecified": 0,
+        "utility": 0,
+        "twoWay": 0,
+        "other": 0
       }
     },
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 3,
+      "championships": 0,
+      "lastRegionalYear": 2019
     },
     "recentRecord": {
       "season": null,
@@ -31943,7 +31943,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Jacksonville",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Jacksonville State, Jax State, JSU, Gamecocks",
     "academicHighlights": "Growing C-USA member. Strong Education and Nursing programs. Regional leader in teacher training for northeast Alabama.",
@@ -31984,7 +31984,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -32016,7 +32016,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Jacksonville",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.ju.edu",
     "aliases": "Jacksonville, JU, Dolphins",
     "academicHighlights": "Strong Nursing and Aviation programs. Private university in Jacksonville. Dolphins campus on the St. Johns River.",
@@ -32060,9 +32060,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2021
     },
     "recentRecord": {
       "season": null,
@@ -33112,7 +33112,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Manhattan",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Kansas State, K-State, KSU, Wildcats",
     "academicHighlights": "Global hub for food systems and biosecurity research (home to NBAF — National Bio and Agro-Defense Facility). Top programs in Agriculture, Veterinary Medicine, and Architecture (#1 in KS).",
@@ -33131,34 +33131,34 @@
     "nilPolicyURL": null,
     "pellGrantRate": 20.7,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-07",
+      "totalRosterSize": 36,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 7,
+        "so": 7,
+        "jr": 10,
+        "sr": 8,
+        "gr": 0,
+        "fifthYear": 4
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 6,
+        "outfield": 5,
+        "catcher": 4,
+        "rhp": 15,
+        "lhp": 3,
+        "pitcherUnspecified": 0,
+        "utility": 1,
+        "twoWay": 2,
+        "other": 0
       }
     },
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -33477,7 +33477,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Kent",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Kent State, Kent, Golden Flashes, KSU",
     "academicHighlights": "Strong Fashion Design (#1 in Ohio), Journalism, and Business programs. Located in northeast Ohio.",
@@ -33521,9 +33521,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 5,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -35376,7 +35376,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Syracuse",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Le Moyne, Dolphins",
     "academicHighlights": null,
@@ -35417,7 +35417,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -36034,7 +36034,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Lynchburg",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Liberty, Flames",
     "academicHighlights": "Largest Christian university in the world. Strong Business, Nursing, and Aviation programs. Massive online enrollment alongside residential campus in Lynchburg, VA.",
@@ -36078,9 +36078,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 3,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -36764,7 +36764,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Long Beach",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.longbeachstate.com",
     "aliases": "Long Beach State, LBSU, Beach, Dirtbags, The Beach, 49ers",
     "academicHighlights": "Strong Film, Engineering, and Business programs. Located in the LA metro. Known as 'The Beach.'",
@@ -36805,7 +36805,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 2,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -37203,7 +37203,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Baton Rouge",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "LSU, Louisiana State, Tigers, Geaux Tigers, Baton Rouge",
     "academicHighlights": "World leader in Petroleum Engineering and coastal wetlands restoration research. E.J. Ourso College of Business — Strong Finance and Accounting. Top Sport Administration and Mass Communication programs.",
@@ -37244,12 +37244,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 6,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -38007,7 +38007,7 @@
     "athleticScholarshipLimit": null,
     "stadiumCapacity": null,
     "city": "Madison",
-    "lastModified": null,
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Madison College, WolfPack",
     "academicHighlights": null,
@@ -38051,9 +38051,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 5,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -39686,7 +39686,7 @@
     "athleticScholarshipLimit": null,
     "stadiumCapacity": null,
     "city": "Waco",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "McLennan, MCC, Highlanders",
     "academicHighlights": null,
@@ -39727,7 +39727,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -39759,7 +39759,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Lake Charles",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://mcneesesports.com",
     "aliases": "McNeese",
     "academicHighlights": null,
@@ -39803,9 +39803,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 2,
+      "championships": 0,
+      "lastRegionalYear": 2021
     },
     "recentRecord": {
       "season": null,
@@ -40781,7 +40781,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Oxford",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Miami Ohio, MU, RedHawks, Miami of Ohio",
     "academicHighlights": "Farmer School of Business — Top 20 public undergraduate business. Strong Education and Engineering programs. 'Public Ivy' reputation. Beautiful campus in Oxford, OH.",
@@ -40825,9 +40825,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 6,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -40855,7 +40855,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "East Lansing",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Michigan State, MSU, Spartans, Sparty",
     "academicHighlights": "#1 Supply Chain Management program in the U.S. (multiple decades). Broad College of Business strong. Top programs in Agriculture, Criminal Justice, and Education. Major research university.",
@@ -40896,12 +40896,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 5,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 3,
+      "championships": 0,
+      "lastRegionalYear": 2022
     },
     "recentRecord": {
       "season": null,
@@ -41949,7 +41949,7 @@
     "popularMajors": "Business Administration, Exercise Science, Biology, Communications, Psychology, Education, Criminal Justice, History, Sport Management, English, Mathematics, Sociology",
     "athleticScholarshipLimit": 9.0,
     "stadiumCapacity": 1200,
-    "lastModified": null,
+    "lastModified": "2026-09-21",
     "city": "Clinton",
     "website": "",
     "aliases": "MC, Mississippi College, Choctaws",
@@ -41994,9 +41994,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 7,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -43704,7 +43704,7 @@
     "athleticScholarshipLimit": 0,
     "stadiumCapacity": null,
     "city": "Newburgh",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.msmc.edu",
     "aliases": "MSMC, Knights",
     "academicHighlights": null,
@@ -43748,9 +43748,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2024
     },
     "recentRecord": {
       "season": null,
@@ -44142,7 +44142,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Murray",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Murray State, Murray, MSU, Racers",
     "academicHighlights": null,
@@ -44186,9 +44186,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2025
     },
     "recentRecord": {
       "season": null,
@@ -45383,7 +45383,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Thibodaux",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://geauxcolonels.com",
     "aliases": "Nicholls",
     "academicHighlights": null,
@@ -45427,9 +45427,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 2,
+      "championships": 0,
+      "lastRegionalYear": 2024
     },
     "recentRecord": {
       "season": null,
@@ -45529,7 +45529,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Norfolk",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Norfolk State, NSU, Spartans",
     "academicHighlights": null,
@@ -45573,9 +45573,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2021
     },
     "recentRecord": {
       "season": null,
@@ -45822,7 +45822,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Raleigh",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.ncsu.edu",
     "aliases": "NC State, NCSU, State, Wolfpack, Wolf Pack, N.C. State",
     "academicHighlights": "College of Engineering — Top 30. Strong programs in Computer Science, Textiles (#1), and Agricultural Sciences.",
@@ -45841,34 +45841,34 @@
     "nilPolicyURL": null,
     "pellGrantRate": 19.6,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-07",
+      "totalRosterSize": 37,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 7,
+        "so": 11,
+        "jr": 13,
+        "sr": 4,
+        "gr": 0,
+        "fifthYear": 2
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 6,
+        "outfield": 5,
+        "catcher": 3,
+        "rhp": 15,
+        "lhp": 7,
+        "pitcherUnspecified": 0,
+        "utility": 1,
+        "twoWay": 0,
+        "other": 0
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 8,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -46187,7 +46187,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Fargo",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://gobison.com",
     "aliases": "NDSU, North Dakota State",
     "academicHighlights": "Global leader in Cereal and Food Sciences and wheat research. Strong Agriculture, Engineering, and Pharmacy programs. Major research university.",
@@ -46231,9 +46231,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 2,
+      "championships": 0,
+      "lastRegionalYear": 2025
     },
     "recentRecord": {
       "season": null,
@@ -46698,7 +46698,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Boston",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Northeastern, NEU, Huskies",
     "academicHighlights": "Pioneer of cooperative education (co-op). Strong Engineering, Business, and Computer Science programs. Located in Boston. 97% co-op placement.",
@@ -46742,9 +46742,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2025
     },
     "recentRecord": {
       "season": null,
@@ -47502,7 +47502,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Natchitoches",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://nsudemons.com",
     "aliases": "Northwestern State, NSU",
     "academicHighlights": null,
@@ -47543,7 +47543,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -48380,7 +48380,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Athens",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Ohio, OU, Bobcats, Ohio U",
     "academicHighlights": null,
@@ -48421,7 +48421,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -48527,7 +48527,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Stillwater",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Oklahoma State, OSU, Cowboys, Pokes, OKState, OK State",
     "academicHighlights": "Spearheads national research in unmanned aerial systems (drones). Strong Aerospace Engineering, Agriculture, and Accounting programs. Spears School of Business Top 50.",
@@ -48568,12 +48568,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 3,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 11,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -48600,7 +48600,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Norfolk",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "ODU, Old Dominion, Monarchs",
     "academicHighlights": "Strong Engineering, Cybersecurity, and Maritime programs. Located in Norfolk near major military installations. Growing Sun Belt athletics.",
@@ -48644,9 +48644,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2021
     },
     "recentRecord": {
       "season": null,
@@ -48819,7 +48819,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Tulsa",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "ORU, Oral Roberts, Golden Eagles",
     "academicHighlights": "Strong Business, Nursing, and Ministry programs. Christian university in Tulsa. Known for strong D1 basketball and baseball.",
@@ -48863,9 +48863,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2023
     },
     "recentRecord": {
       "season": null,
@@ -48965,7 +48965,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Corvallis",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Oregon State, OSU, Beavers",
     "academicHighlights": "Global powerhouse in Forestry and Agricultural Sciences. Ecampus (online) ranked #1 nationally for multiple years. Strong Engineering and Business programs. Land-grant and sea-grant institution.",
@@ -49006,12 +49006,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 2,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 9,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -49037,7 +49037,7 @@
     "popularMajors": "Business Administration, Exercise Science, Biology, Communications, Psychology, Education, Criminal Justice, History, Sport Management, English, Mathematics, Sociology",
     "athleticScholarshipLimit": 9.0,
     "stadiumCapacity": null,
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "city": "Klamath Falls",
     "website": "",
     "aliases": "OT",
@@ -49082,9 +49082,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 3,
+      "championships": 0,
+      "lastRegionalYear": 2023
     },
     "recentRecord": {
       "season": null,
@@ -50207,7 +50207,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "University Park",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Penn State, PSU, Nittany Lions",
     "academicHighlights": "Smeal College of Business — Top 20 Supply Chain Management. Strong Engineering programs. World campus for online degrees.",
@@ -50226,26 +50226,26 @@
     "nilPolicyURL": null,
     "pellGrantRate": 13.9,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-07",
+      "totalRosterSize": 38,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 15,
+        "so": 5,
+        "jr": 8,
+        "sr": 8,
+        "gr": 1,
+        "fifthYear": 1
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 10,
+        "outfield": 4,
+        "catcher": 4,
+        "rhp": 17,
+        "lhp": 3,
+        "pitcherUnspecified": 0,
+        "utility": 0,
+        "twoWay": 0,
+        "other": 0
       }
     },
     "draftPicksLast10Years": null,
@@ -52398,7 +52398,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "West Lafayette",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Purdue, Boilermakers, Boilers",
     "academicHighlights": "College of Engineering — Top 10 nationally. Known as the 'Cradle of Astronauts' (25+ astronaut alumni). Top programs in Aerospace Engineering, Computer Science, Aviation/Flight Training (#1), and Agriculture.",
@@ -52417,34 +52417,34 @@
     "nilPolicyURL": null,
     "pellGrantRate": 13.0,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-07",
+      "totalRosterSize": 40,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 8,
+        "so": 5,
+        "jr": 13,
+        "sr": 12,
+        "gr": 2,
+        "fifthYear": 0
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 11,
+        "outfield": 4,
+        "catcher": 4,
+        "rhp": 15,
+        "lhp": 5,
+        "pitcherUnspecified": 0,
+        "utility": 0,
+        "twoWay": 1,
+        "other": 0
       }
     },
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2018
     },
     "recentRecord": {
       "season": null,
@@ -53712,7 +53712,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Houston",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Rice, Owls",
     "academicHighlights": "George R. Brown School of Engineering — Top 20. Strong programs in Computer Science, Kinesiology, and Architecture. 6:1 student-faculty ratio.",
@@ -53731,29 +53731,29 @@
     "nilPolicyURL": null,
     "pellGrantRate": 17.0,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-08",
+      "totalRosterSize": 45,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 11,
+        "so": 9,
+        "jr": 10,
+        "sr": 11,
+        "gr": 3,
+        "fifthYear": 0
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 7,
+        "outfield": 7,
+        "catcher": 6,
+        "rhp": 17,
+        "lhp": 5,
+        "pitcherUnspecified": 0,
+        "utility": 0,
+        "twoWay": 3,
+        "other": 0
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -55319,7 +55319,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Piscataway",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Rutgers, Scarlet Knights, RU",
     "academicHighlights": "Business School — Top 30 public. Strong programs in Pharmacy (#1 in NJ), Engineering, and Communications.",
@@ -55360,7 +55360,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -57364,7 +57364,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "St. Louis",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "SLU, Saint Louis, St. Louis, Billikens",
     "academicHighlights": "Strong Business, Law, and Health Sciences programs. Chaifetz School of Business respected. Jesuit university in St. Louis.",
@@ -57405,7 +57405,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -58314,7 +58314,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Birmingham",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Samford, Bulldogs",
     "academicHighlights": "Top-ranked regional university in Alabama (U.S. News). Strong Pharmacy, Nursing, and Business programs. Baptist-affiliated in Birmingham.",
@@ -58358,9 +58358,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2021
     },
     "recentRecord": {
       "season": null,
@@ -58534,7 +58534,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "San Diego",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.goaztecs.com",
     "aliases": "SDSU, San Diego State, Aztecs",
     "academicHighlights": "Strong Business, Engineering, and Public Health programs. Fowler College of Business growing. Beautiful Southern California campus.",
@@ -58575,12 +58575,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 2,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2018
     },
     "recentRecord": {
       "season": null,
@@ -58607,7 +58607,7 @@
     "athleticScholarshipLimit": null,
     "stadiumCapacity": null,
     "city": "Pasadena",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "San Jac, SJC, Gators",
     "academicHighlights": null,
@@ -58648,7 +58648,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -61162,7 +61162,7 @@
     "athleticScholarshipLimit": null,
     "stadiumCapacity": null,
     "city": "Avon Park",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.southflorida.edu",
     "aliases": "South Florida State, SFSC, Panthers",
     "academicHighlights": null,
@@ -61203,7 +61203,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 2,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -61600,7 +61600,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Hammond",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://lionsports.net",
     "aliases": "Southeastern Louisiana",
     "academicHighlights": "Strong Nursing, Business, and Education programs. Located in Hammond, LA. Growing Southland member.",
@@ -61644,9 +61644,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2022
     },
     "recentRecord": {
       "season": null,
@@ -62768,7 +62768,7 @@
     "athleticScholarshipLimit": null,
     "stadiumCapacity": null,
     "city": "Chula Vista",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.swcjaguars.com",
     "aliases": "Southwestern CA, Jaguars",
     "academicHighlights": null,
@@ -62812,9 +62812,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 2,
+      "championships": 0,
+      "lastRegionalYear": 2021
     },
     "recentRecord": {
       "season": null,
@@ -64302,7 +64302,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Stanford",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.gostanford.com",
     "aliases": "Stanford, Cardinal, The Farm",
     "academicHighlights": "School of Engineering — Top 3 nationally. #1 Computer Science. Located in Silicon Valley. World-renowned for ROI and elite STEM research. Strong programs in Human Biology, Economics, and Management Science.",
@@ -64321,34 +64321,34 @@
     "nilPolicyURL": null,
     "pellGrantRate": 19.2,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-07",
+      "totalRosterSize": 25,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 0,
+        "so": 10,
+        "jr": 8,
+        "sr": 7,
+        "gr": 0,
+        "fifthYear": 0
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 5,
+        "outfield": 2,
+        "catcher": 3,
+        "rhp": 8,
+        "lhp": 4,
+        "pitcherUnspecified": 0,
+        "utility": 0,
+        "twoWay": 3,
+        "other": 0
       }
     },
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 4,
+      "championships": 0,
+      "lastRegionalYear": 2023
     },
     "recentRecord": {
       "season": null,
@@ -65617,7 +65617,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Fort Worth",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "TCU, Texas Christian, Horned Frogs, Frogs",
     "academicHighlights": "Neeley School of Business — Top 30. Strong programs in Communications, Nursing, and Supply Chain Management.",
@@ -65636,7 +65636,7 @@
     "nilPolicyURL": null,
     "pellGrantRate": 14.3,
     "rosterSnapshot": {
-      "asOf": null,
+      "asOf": "2026-09-07",
       "totalRosterSize": null,
       "byClass": {
         "fr": null,
@@ -65658,12 +65658,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 2,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 6,
+      "championships": 0,
+      "lastRegionalYear": 2025
     },
     "recentRecord": {
       "season": null,
@@ -65763,7 +65763,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Stephenville",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://tarletonsports.com",
     "aliases": "Tarleton State, Tarleton",
     "academicHighlights": null,
@@ -65807,9 +65807,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -66056,7 +66056,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "College Station",
-    "lastModified": "2026-08-08",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Texas A&M, TAMU, A&M, Aggies, Aggieland",
     "academicHighlights": "Mays Business School — Top 25 public. Top Engineering school (#10 nationally). Strong Agriculture and Petroleum Engineering programs.",
@@ -66075,7 +66075,7 @@
     "nilPolicyURL": null,
     "pellGrantRate": 19.6,
     "rosterSnapshot": {
-      "asOf": null,
+      "asOf": "2026-09-07",
       "totalRosterSize": null,
       "byClass": {
         "fr": null,
@@ -66097,12 +66097,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 2,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 5,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -66348,7 +66348,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "San Marcos",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Texas State, TXST, Bobcats, TxState",
     "academicHighlights": "Strong Health Sciences, Criminal Justice, and Business programs. Located in San Marcos. Growing Sun Belt member on the I-35 corridor.",
@@ -66389,12 +66389,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 2,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 16,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -66422,7 +66422,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Lubbock",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Texas Tech, Tech, TTU, Red Raiders, Wreck 'Em",
     "academicHighlights": null,
@@ -66463,7 +66463,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -66569,7 +66569,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Charleston",
-    "lastModified": "2026-08-05",
+    "lastModified": "2026-09-21",
     "website": "https://www.citadel.edu",
     "aliases": "Citadel, The Citadel, Bulldogs",
     "academicHighlights": "#1 Public Regional University in the South (U.S. News). Military college with leadership-focused education. Strong Engineering and Criminal Justice programs.",
@@ -66613,9 +66613,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -66862,7 +66862,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Columbus",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Ohio State, OSU, Buckeyes, tOSU, The Ohio State",
     "academicHighlights": "Fisher College of Business — Top 20 public. Massive research engine ($1B+ annually). Strong Engineering, Sport Management, and Communications programs. One of the largest campuses in the U.S.",
@@ -66881,7 +66881,7 @@
     "nilPolicyURL": null,
     "pellGrantRate": 20.2,
     "rosterSnapshot": {
-      "asOf": null,
+      "asOf": "2026-09-07",
       "totalRosterSize": null,
       "byClass": {
         "fr": null,
@@ -67885,7 +67885,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Troy",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Troy, Trojans",
     "academicHighlights": "Known for strong Hospitality, Sport Management, and Aviation programs. Growing Sun Belt research presence. International student hub.",
@@ -67926,12 +67926,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -68105,7 +68105,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "New Orleans",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Tulane, Green Wave",
     "academicHighlights": "School of Public Health & Tropical Medicine — oldest in the United States. Freeman School of Business strong in Finance. Elite private research university in New Orleans.",
@@ -68124,26 +68124,26 @@
     "nilPolicyURL": null,
     "pellGrantRate": 9.8,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-08",
+      "totalRosterSize": 34,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 5,
+        "so": 8,
+        "jr": 15,
+        "sr": 4,
+        "gr": 2,
+        "fifthYear": 0
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 8,
+        "outfield": 4,
+        "catcher": 3,
+        "rhp": 12,
+        "lhp": 6,
+        "pitcherUnspecified": 0,
+        "utility": 0,
+        "twoWay": 1,
+        "other": 0
       }
     },
     "draftPicksLast10Years": null,
@@ -68471,7 +68471,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Irvine",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.ucirvinesports.com",
     "aliases": "UCI, UC Irvine, Anteaters",
     "academicHighlights": "Strong Computer Science, Engineering, and Biological Sciences programs. Top public university in Orange County. Growing research hub.",
@@ -68515,9 +68515,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 3,
+      "championships": 0,
+      "lastRegionalYear": 2025
     },
     "recentRecord": {
       "season": null,
@@ -68617,7 +68617,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "La Jolla",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.ucsdtritons.com",
     "aliases": "UCSD, UC San Diego, Tritons",
     "academicHighlights": "Global leader in oceanography (Scripps Institution) and biotech research. 95% freshman retention rate. Strong programs in Bioengineering, Computer Science, and Marine Biology.",
@@ -68658,7 +68658,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -68691,7 +68691,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Santa Barbara",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.ucsbgauchos.com",
     "aliases": "UCSB, UC Santa Barbara, Gauchos",
     "academicHighlights": "Strong Physics, Engineering, and Marine Science programs. Multiple Nobel laureates on faculty. Beautiful coastal campus.",
@@ -68735,9 +68735,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 2,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -68838,7 +68838,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Los Angeles",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.uclabruins.com",
     "aliases": "UCLA, Bruins, UC Los Angeles",
     "academicHighlights": "#1 most applied-to university in the U.S. Elite public research producing the most MLB draft picks in the West. Strong programs in Economics, Political Science, Psychology, and Computer Science.",
@@ -68882,9 +68882,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 7,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -69277,7 +69277,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Los Angeles",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.usctrojans.com",
     "aliases": "USC, Trojans, Southern Cal, Southern California",
     "academicHighlights": "Marshall School of Business — Top 20. School of Cinematic Arts — #1 Film School. Strong programs in Communications, Engineering, and Business.",
@@ -69318,12 +69318,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 2,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -69496,7 +69496,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "San Antonio",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "UTSA, UT San Antonio, San Antonio, Roadrunners",
     "academicHighlights": "Strong Cybersecurity, Business, and Engineering programs. Located in San Antonio. Fastest-growing university in Texas.",
@@ -69515,7 +69515,7 @@
     "nilPolicyURL": null,
     "pellGrantRate": 44.1,
     "rosterSnapshot": {
-      "asOf": null,
+      "asOf": "2026-09-08",
       "totalRosterSize": null,
       "byClass": {
         "fr": null,
@@ -69540,9 +69540,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2025
     },
     "recentRecord": {
       "season": null,
@@ -70446,7 +70446,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Tucson",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.arizona.edu",
     "aliases": "Arizona, UA, Wildcats, Cats, U of A, Zona",
     "academicHighlights": "Eller College of Management — Top 25 public. World leader in space sciences and planetary research (Lunar and Planetary Lab). Top programs in Astronomy, Mining Engineering (#1 in U.S.), Optical Sciences, and MIS.",
@@ -70465,7 +70465,7 @@
     "nilPolicyURL": null,
     "pellGrantRate": 25.7,
     "rosterSnapshot": {
-      "asOf": null,
+      "asOf": "2026-09-07",
       "totalRosterSize": null,
       "byClass": {
         "fr": null,
@@ -70520,7 +70520,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Fayetteville",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Arkansas, UA, Razorbacks, Hogs, U of A, UArk, Ark",
     "academicHighlights": "Walton College of Business — #5 Supply Chain Management nationally. Strong Architecture program. Top programs in Agriculture, Kinesiology, and Finance.",
@@ -70539,26 +70539,26 @@
     "nilPolicyURL": null,
     "pellGrantRate": 17.8,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-07",
+      "totalRosterSize": 39,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 16,
+        "so": 7,
+        "jr": 12,
+        "sr": 3,
+        "gr": 1,
+        "fifthYear": 0
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 9,
+        "outfield": 6,
+        "catcher": 4,
+        "rhp": 11,
+        "lhp": 7,
+        "pitcherUnspecified": 0,
+        "utility": 1,
+        "twoWay": 1,
+        "other": 0
       }
     },
     "draftPicksLast10Years": null,
@@ -70885,7 +70885,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Conway",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "UCA, Central Arkansas, Bears",
     "academicHighlights": null,
@@ -70926,7 +70926,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -70959,7 +70959,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Orlando",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.ucf.edu",
     "aliases": "UCF, Central Florida, Knights",
     "academicHighlights": "Rosen College of Hospitality Management — #1 in the U.S. Strong programs in Engineering, Game Design, and Business.",
@@ -70978,29 +70978,29 @@
     "nilPolicyURL": null,
     "pellGrantRate": 32.3,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-07",
+      "totalRosterSize": 46,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 11,
+        "so": 14,
+        "jr": 12,
+        "sr": 9,
+        "gr": 0,
+        "fifthYear": 0
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 11,
+        "outfield": 7,
+        "catcher": 3,
+        "rhp": 16,
+        "lhp": 8,
+        "pitcherUnspecified": 0,
+        "utility": 0,
+        "twoWay": 1,
+        "other": 0
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -71031,7 +71031,7 @@
     "popularMajors": "Business Administration, Exercise Science, Biology, Communications, Psychology, Education, Criminal Justice, History, Sport Management, English, Mathematics, Sociology",
     "athleticScholarshipLimit": 9.0,
     "stadiumCapacity": 4500,
-    "lastModified": null,
+    "lastModified": "2026-09-21",
     "city": "Charleston",
     "website": "",
     "aliases": "UC Charleston, Charleston WV, Golden Eagles",
@@ -71073,7 +71073,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -71106,7 +71106,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Cincinnati",
-    "lastModified": "2026-08-05",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Cincinnati, UC, Bearcats, Cincy",
     "academicHighlights": "Founded the professional 'Co-op' (cooperative education) model. Lindner College of Business strong. Top programs in Architecture, Design, Engineering, and Music. DAAP (Design, Architecture, Art, and Planning) nationally ranked.",
@@ -71125,34 +71125,34 @@
     "nilPolicyURL": null,
     "pellGrantRate": 18.8,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-07",
+      "totalRosterSize": 42,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 13,
+        "so": 12,
+        "jr": 11,
+        "sr": 3,
+        "gr": 0,
+        "fifthYear": 3
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 8,
+        "outfield": 6,
+        "catcher": 4,
+        "rhp": 17,
+        "lhp": 5,
+        "pitcherUnspecified": 0,
+        "utility": 1,
+        "twoWay": 1,
+        "other": 0
       }
     },
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 2,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -71252,7 +71252,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Storrs",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "UConn, Connecticut, Huskies",
     "academicHighlights": "Top public research university in New England. Nationally ranked for Actuarial Science and Business. Strong Nursing and Psychology programs.",
@@ -71296,9 +71296,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2018
     },
     "recentRecord": {
       "season": null,
@@ -71544,7 +71544,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Evansville",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Evansville, UE, Purple Aces",
     "academicHighlights": null,
@@ -71588,9 +71588,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2024
     },
     "recentRecord": {
       "season": null,
@@ -71766,7 +71766,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Athens",
-    "lastModified": "2026-08-05",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "UGA, Georgia, Bulldogs, Dawgs",
     "academicHighlights": "Terry College of Business — Top 30. Strong programs in Insurance/Risk Management (#1 nationally), Finance, and Agricultural Business.",
@@ -71785,7 +71785,7 @@
     "nilPolicyURL": null,
     "pellGrantRate": 16.8,
     "rosterSnapshot": {
-      "asOf": null,
+      "asOf": "2026-09-07",
       "totalRosterSize": null,
       "byClass": {
         "fr": null,
@@ -71839,7 +71839,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "West Hartford",
-    "lastModified": "2026-09-04",
+    "lastModified": "2026-09-21",
     "website": null,
     "aliases": "Hartford, Hawks, UHart",
     "academicHighlights": null,
@@ -71883,9 +71883,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2018
     },
     "recentRecord": {
       "season": null,
@@ -72059,7 +72059,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Houston",
-    "lastModified": "2026-08-05",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Houston, UH, Cougars, Coogs",
     "academicHighlights": "Bauer College of Business — Top 50. Strong programs in Engineering (particularly Petroleum), Hotel/Restaurant Management, and Optometry.",
@@ -72078,29 +72078,29 @@
     "nilPolicyURL": null,
     "pellGrantRate": 41.6,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-07",
+      "totalRosterSize": 43,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 6,
+        "so": 8,
+        "jr": 10,
+        "sr": 13,
+        "gr": 0,
+        "fifthYear": 6
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 9,
+        "outfield": 8,
+        "catcher": 3,
+        "rhp": 15,
+        "lhp": 7,
+        "pitcherUnspecified": 0,
+        "utility": 0,
+        "twoWay": 1,
+        "other": 0
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -72133,7 +72133,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Champaign",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Illinois, UIUC, Fighting Illini, Illini, U of I",
     "academicHighlights": "Gies College of Business — Top 15 Accounting. Grainger College of Engineering — Top 10. Computer Science ranked #5 nationally. Strong programs in Civil Engineering and Agricultural Sciences.",
@@ -72152,7 +72152,7 @@
     "nilPolicyURL": null,
     "pellGrantRate": 23.4,
     "rosterSnapshot": {
-      "asOf": null,
+      "asOf": "2026-09-07",
       "totalRosterSize": null,
       "byClass": {
         "fr": null,
@@ -72426,7 +72426,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Iowa City",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Iowa, Hawkeyes, U of I, UIowa",
     "academicHighlights": "Home to the Iowa Writers' Workshop — the world's premier Creative Writing MFA program. Tippie College of Business — Top 30 public. Strong Nursing, Actuarial Science, and Communications programs.",
@@ -72445,34 +72445,34 @@
     "nilPolicyURL": null,
     "pellGrantRate": 18.4,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-07",
+      "totalRosterSize": 38,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 7,
+        "so": 10,
+        "jr": 11,
+        "sr": 6,
+        "gr": 0,
+        "fifthYear": 4
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 7,
+        "outfield": 4,
+        "catcher": 4,
+        "rhp": 13,
+        "lhp": 4,
+        "pitcherUnspecified": 0,
+        "utility": 2,
+        "twoWay": 4,
+        "other": 0
       }
     },
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2023
     },
     "recentRecord": {
       "season": null,
@@ -72574,7 +72574,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Lexington",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Kentucky, UK, Wildcats, Cats, Big Blue",
     "academicHighlights": "Global leader in equine health, business, and thoroughbred research. Gatton College of Business strong. Top Nursing and Pharmacy programs. UK HealthCare is a major academic medical center.",
@@ -72593,7 +72593,7 @@
     "nilPolicyURL": null,
     "pellGrantRate": 22.5,
     "rosterSnapshot": {
-      "asOf": null,
+      "asOf": "2026-09-07",
       "totalRosterSize": null,
       "byClass": {
         "fr": null,
@@ -72615,7 +72615,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 2,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -72867,7 +72867,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Louisville",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Louisville, UofL, U of L, Cardinals, Cards",
     "academicHighlights": "Home to world-class cancer research (Brown Cancer Center) and cardiac medical technology. Speed School of Engineering strong. Top programs in Business and Sport Administration.",
@@ -72908,12 +72908,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 5,
+      "championships": 0,
+      "lastRegionalYear": 2025
     },
     "recentRecord": {
       "season": null,
@@ -73304,7 +73304,7 @@
     "popularMajors": "Business Administration, Exercise Science, Biology, Communications, Psychology, Education, Criminal Justice, History, Sport Management, English, Mathematics, Sociology",
     "athleticScholarshipLimit": 9.0,
     "stadiumCapacity": 2500,
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "city": "Bismarck",
     "website": "",
     "aliases": "Mary, UMary, Marauders",
@@ -73349,9 +73349,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 3,
+      "championships": 0,
+      "lastRegionalYear": 2023
     },
     "recentRecord": {
       "season": null,
@@ -74259,7 +74259,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Minneapolis",
-    "lastModified": "2026-08-05",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Minnesota, U of M, Gophers, Golden Gophers",
     "academicHighlights": "Global leader in medical device innovation and food science research. Carlson School of Management — Top 30. Strong programs in Psychology, Biology, Engineering, and Agriculture.",
@@ -74278,7 +74278,7 @@
     "nilPolicyURL": null,
     "pellGrantRate": 17.6,
     "rosterSnapshot": {
-      "asOf": null,
+      "asOf": "2026-09-07",
       "totalRosterSize": null,
       "byClass": {
         "fr": null,
@@ -74553,7 +74553,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Columbia",
-    "lastModified": "2026-08-05",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Missouri, Mizzou, Tigers, MU, Miz",
     "academicHighlights": "Missouri School of Journalism — oldest in the world (est. 1908). Strong programs in Agriculture, Business, and Plant Science research. Major SEC research university.",
@@ -74572,7 +74572,7 @@
     "nilPolicyURL": null,
     "pellGrantRate": 20.1,
     "rosterSnapshot": {
-      "asOf": null,
+      "asOf": "2026-09-07",
       "totalRosterSize": null,
       "byClass": {
         "fr": null,
@@ -75356,7 +75356,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "New Orleans",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "UNO, New Orleans, Privateers",
     "academicHighlights": null,
@@ -75397,7 +75397,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -75874,7 +75874,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Notre Dame",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Notre Dame, ND, Fighting Irish, Irish",
     "academicHighlights": "Mendoza College of Business — #10 undergraduate business. Strong programs in Finance, Accounting, and Computer Science.",
@@ -75915,7 +75915,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -76022,7 +76022,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Eugene",
-    "lastModified": "2026-08-05",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Oregon, UO, Ducks",
     "academicHighlights": "Lundquist College of Business — home to the Sports Product Management program (only one of its kind). Strong Journalism, Advertising, and Human Physiology programs. Nike co-founder Phil Knight alma mater.",
@@ -76041,7 +76041,7 @@
     "nilPolicyURL": null,
     "pellGrantRate": 21.3,
     "rosterSnapshot": {
-      "asOf": null,
+      "asOf": "2026-09-07",
       "totalRosterSize": null,
       "byClass": {
         "fr": null,
@@ -76066,9 +76066,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 3,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -76973,7 +76973,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Columbia",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.sc.edu",
     "aliases": "South Carolina, USC, Gamecocks, Carolina, UofSC",
     "academicHighlights": "Sport & Entertainment Management program — #1 in the world (multiple rankings). Darla Moore School of Business — Top 25 International Business.",
@@ -76992,7 +76992,7 @@
     "nilPolicyURL": null,
     "pellGrantRate": 39.2,
     "rosterSnapshot": {
-      "asOf": null,
+      "asOf": "2026-09-07",
       "totalRosterSize": null,
       "byClass": {
         "fr": null,
@@ -77017,9 +77017,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 4,
+      "championships": 0,
+      "lastRegionalYear": 2024
     },
     "recentRecord": {
       "season": null,
@@ -77339,7 +77339,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Hattiesburg",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Southern Miss, USM, Golden Eagles",
     "academicHighlights": null,
@@ -77383,9 +77383,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 5,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -77413,7 +77413,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Knoxville",
-    "lastModified": "2026-08-05",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Tennessee, UT, Vols, Volunteers, UTK, Big Orange",
     "academicHighlights": "Haslam College of Business — Top 30 Supply Chain Management. Strong programs in Kinesiology and Communications.",
@@ -77432,7 +77432,7 @@
     "nilPolicyURL": null,
     "pellGrantRate": 18.9,
     "rosterSnapshot": {
-      "asOf": null,
+      "asOf": "2026-09-07",
       "totalRosterSize": null,
       "byClass": {
         "fr": null,
@@ -77454,12 +77454,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 2,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 7,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -77706,7 +77706,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Austin",
-    "lastModified": "2026-08-05",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Texas, UT, Longhorns, Horns, Hook 'Em",
     "academicHighlights": "McCombs School of Business — Top 20. Cockrell School of Engineering — Top 15. Top programs in Communications and Computer Science.",
@@ -77725,7 +77725,7 @@
     "nilPolicyURL": null,
     "pellGrantRate": 25.9,
     "rosterSnapshot": {
-      "asOf": null,
+      "asOf": "2026-09-07",
       "totalRosterSize": null,
       "byClass": {
         "fr": null,
@@ -78438,7 +78438,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Charlottesville",
-    "lastModified": "2026-08-05",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "UVA, Virginia, Cavaliers, Wahoos, Hoos",
     "academicHighlights": "McIntire School of Commerce — #3 undergraduate business (U.S. News). Top programs in Finance, Marketing, and IT. Strong Engineering school.",
@@ -78479,12 +78479,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 2,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 5,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -78512,7 +78512,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Seattle",
-    "lastModified": "2026-08-05",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "UW, Washington, Huskies",
     "academicHighlights": "Foster School of Business — Top 20. Top-tier global research engine with elite medical and tech industry partnerships (Amazon, Microsoft, Boeing corridor). Strong Computer Science (#6 nationally), Engineering, and Information Science programs.",
@@ -78553,12 +78553,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 2,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 3,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -80265,7 +80265,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Nashville",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Vanderbilt, Vandy, Commodores, Dores",
     "academicHighlights": "Owen Graduate School of Management — Top 25 MBA. Top programs in Economics, Medicine/Health/Society, and Engineering.",
@@ -80306,12 +80306,12 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 4,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 7,
+      "championships": 0,
+      "lastRegionalYear": 2025
     },
     "recentRecord": {
       "season": null,
@@ -81069,7 +81069,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Blacksburg",
-    "lastModified": "2026-08-05",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Virginia Tech, VT, Hokies, VPI",
     "academicHighlights": "College of Engineering — Top 15 public. Strong programs in Architecture (#4), Business, and Computer Science.",
@@ -81088,34 +81088,34 @@
     "nilPolicyURL": null,
     "pellGrantRate": 15.3,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-07",
+      "totalRosterSize": 41,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 14,
+        "so": 8,
+        "jr": 9,
+        "sr": 8,
+        "gr": 1,
+        "fifthYear": 1
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 12,
+        "outfield": 4,
+        "catcher": 4,
+        "rhp": 0,
+        "lhp": 0,
+        "pitcherUnspecified": 19,
+        "utility": 0,
+        "twoWay": 2,
+        "other": 0
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 2,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -81361,7 +81361,7 @@
     "athleticScholarshipLimit": null,
     "stadiumCapacity": null,
     "city": "Mt. Carmel",
-    "lastModified": null,
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Wabash Valley, WVC, Warriors",
     "academicHighlights": null,
@@ -81402,7 +81402,7 @@
         "other": null
       }
     },
-    "draftPicksLast10Years": null,
+    "draftPicksLast10Years": 1,
     "draftHistory": [],
     "postseasonHistory": {
       "regionalAppearances": null,
@@ -81508,7 +81508,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Winston-Salem",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "https://www.wfu.edu",
     "aliases": "Wake Forest, Wake, Demon Deacons, Deacs, WFU",
     "academicHighlights": "School of Business — Top 30. Strong programs in Finance, Accounting, and Health & Exercise Science.",
@@ -81527,34 +81527,34 @@
     "nilPolicyURL": null,
     "pellGrantRate": 10.1,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-07",
+      "totalRosterSize": 35,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 13,
+        "so": 6,
+        "jr": 12,
+        "sr": 2,
+        "gr": 2,
+        "fifthYear": 0
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 6,
+        "outfield": 5,
+        "catcher": 2,
+        "rhp": 13,
+        "lhp": 3,
+        "pitcherUnspecified": 0,
+        "utility": 6,
+        "twoWay": 0,
+        "other": 0
       }
     },
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 3,
+      "championships": 0,
+      "lastRegionalYear": 2024
     },
     "recentRecord": {
       "season": null,
@@ -83408,7 +83408,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Morgantown",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "WVU, West Virginia, Mountaineers, Eers",
     "academicHighlights": "Forensic & Investigative Science program with sophisticated labs — one of the few accredited programs nationally. Strong Engineering and Energy programs. John Chambers College of Business growing.",
@@ -83452,9 +83452,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 6,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -85087,7 +85087,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Wichita",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Wichita State, Wichita, WSU, Shockers",
     "academicHighlights": "Strong Aerospace Engineering, Business, and Health Sciences. Located near major aircraft manufacturers (Spirit AeroSystems, Textron). Innovation Campus partnerships.",
@@ -85106,26 +85106,26 @@
     "nilPolicyURL": null,
     "pellGrantRate": 30.6,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
+      "asOf": "2026-09-08",
+      "totalRosterSize": 37,
       "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+        "fr": 2,
+        "so": 6,
+        "jr": 17,
+        "sr": 12,
+        "gr": 0,
+        "fifthYear": 0
       },
       "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
+        "infield": 10,
+        "outfield": 5,
+        "catcher": 4,
+        "rhp": 11,
+        "lhp": 7,
+        "pitcherUnspecified": 0,
+        "utility": 0,
+        "twoWay": 0,
+        "other": 0
       }
     },
     "draftPicksLast10Years": null,
@@ -86329,7 +86329,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Fairborn",
-    "lastModified": "2026-08-05",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Wright State, WSU, Raiders",
     "academicHighlights": null,
@@ -86373,9 +86373,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2021
     },
     "recentRecord": {
       "season": null,
@@ -86548,7 +86548,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "New Haven",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-09-21",
     "website": "",
     "aliases": "Yale, Bulldogs, Elis",
     "academicHighlights": "Ivy League. School of Drama — #1 MFA program nationally. School of Law consistently #1. Top programs in Economics, Political Science, History, and Computer Science.",
@@ -86592,9 +86592,9 @@
     "draftPicksLast10Years": null,
     "draftHistory": [],
     "postseasonHistory": {
-      "regionalAppearances": null,
-      "championships": null,
-      "lastRegionalYear": null
+      "regionalAppearances": 1,
+      "championships": 0,
+      "lastRegionalYear": 2026
     },
     "recentRecord": {
       "season": null,
@@ -92029,8 +92029,31 @@
     "ncaaUnitID": 181464,
     "nilPolicyURL": "",
     "financialAidURL": "",
-    "lastModified": "2026-09-09",
-    "createdAt": "2026-09-09T16:01:59.009970+00:00"
+    "lastModified": "2026-09-21",
+    "createdAt": "2026-09-09T16:01:59.009970+00:00",
+    "rosterSnapshot": {
+      "asOf": "2026-09-07",
+      "totalRosterSize": null,
+      "byClass": {
+        "fr": null,
+        "so": null,
+        "jr": null,
+        "sr": null,
+        "gr": null,
+        "fifthYear": null
+      },
+      "byPosition": {
+        "infield": null,
+        "outfield": null,
+        "catcher": null,
+        "rhp": null,
+        "lhp": null,
+        "pitcherUnspecified": null,
+        "utility": null,
+        "twoWay": null,
+        "other": null
+      }
+    }
   },
   {
     "schoolID": "CO-colorado-state-university-pueblo",

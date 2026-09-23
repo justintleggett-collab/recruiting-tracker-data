@@ -49,6 +49,26 @@
       "stopDate": "2026-08-18",
       "active": true,
       "color": "blue"
+    },
+    {
+      "id": "ann-006",
+      "message": "App Reviews",
+      "linkText": "Enjoying the Baseball Recruiting Tracker App? Please consider giving us a 5 star review!",
+      "linkURL": "https://apps.apple.com/us/app/baseball-recruiting-tracker/id6759700686?action=write-review",
+      "startDate": "2026-09-22",
+      "stopDate": "2026-09-26",
+      "active": true,
+      "color": "Blue"
+    },
+    {
+      "id": "ann-007",
+      "message": "Update Camp & Showcase Data",
+      "linkText": "My Metrics",
+      "linkURL": "app://my-metrics",
+      "startDate": "2026-09-29",
+      "stopDate": "2026-10-02",
+      "active": true,
+      "color": "blue"
     }
   ]
 }

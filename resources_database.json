@@ -81,6 +81,126 @@
     "sortOrder": 3
   },
   {
+    "id": "nilnewsstand-nil-news",
+    "sortOrder": 4,
+    "contact": {
+      "name": "NILNewsstand",
+      "phone": null,
+      "linkedInURL": null,
+      "title": "NIL News & Resources",
+      "email": null,
+      "xHandle": "@NILNewsstand"
+    },
+    "featured": false,
+    "description": "NIL news, deal tracker, and a school-by-school revenue-sharing tracker for families navigating the NIL and revenue-share era of college athletics.",
+    "dateAdded": "2026-09-15",
+    "company": {
+      "logoURL": null,
+      "name": "NILNewsstand",
+      "logoSourceURL": null,
+      "category": "other",
+      "url": "https://www.nilnewsstand.com"
+    },
+    "offering": {
+      "code": null,
+      "expiresAt": null,
+      "details": null,
+      "title": null,
+      "hasOffering": false
+    },
+    "isActive": true
+  },
+  {
+    "id": "usopc-performance-nutrition",
+    "sortOrder": 5,
+    "contact": {
+      "name": "U.S. Olympic & Paralympic Committee",
+      "phone": null,
+      "linkedInURL": null,
+      "title": "Performance Nutrition Team",
+      "email": null,
+      "xHandle": null
+    },
+    "featured": false,
+    "description": "Free, evidence-based fueling and hydration guidance from Team USA's own sports dietitians — athlete-plate handouts and performance nutrition basics, no product to sell.",
+    "dateAdded": "2026-09-15",
+    "company": {
+      "logoURL": null,
+      "name": "USOPC Performance Nutrition",
+      "logoSourceURL": null,
+      "category": "nutrition",
+      "url": "https://www.usopc.org/nutrition"
+    },
+    "offering": {
+      "code": null,
+      "expiresAt": null,
+      "details": null,
+      "title": null,
+      "hasOffering": false
+    },
+    "isActive": true
+  },
+  {
+    "id": "eatright-find-a-nutrition-expert",
+    "sortOrder": 6,
+    "contact": {
+      "name": "Academy of Nutrition and Dietetics",
+      "phone": null,
+      "linkedInURL": null,
+      "title": "Find a Nutrition Expert",
+      "email": null,
+      "xHandle": null
+    },
+    "featured": false,
+    "description": "Directory to find a credentialed Registered Dietitian near you — filter for a Board Certified Specialist in Sports Dietetics (CSSD) for one-on-one help with a young athlete's fueling plan.",
+    "dateAdded": "2026-09-15",
+    "company": {
+      "logoURL": null,
+      "name": "EatRight.org",
+      "logoSourceURL": null,
+      "category": "nutrition",
+      "url": "https://www.eatright.org/find-a-nutrition-expert"
+    },
+    "offering": {
+      "code": null,
+      "expiresAt": null,
+      "details": null,
+      "title": null,
+      "hasOffering": false
+    },
+    "isActive": true
+  },
+  {
+    "id": "myplate-usda",
+    "sortOrder": 7,
+    "contact": {
+      "name": "U.S. Department of Agriculture",
+      "phone": null,
+      "linkedInURL": null,
+      "title": "Nutrition Basics",
+      "email": null,
+      "xHandle": null
+    },
+    "featured": false,
+    "description": "The federal government's baseline nutrition framework — a simple, no-cost starting point for family meal planning before a specialized sports-nutrition consult.",
+    "dateAdded": "2026-09-15",
+    "company": {
+      "logoURL": null,
+      "name": "MyPlate",
+      "logoSourceURL": null,
+      "category": "nutrition",
+      "url": "https://www.myplate.gov"
+    },
+    "offering": {
+      "code": null,
+      "expiresAt": null,
+      "details": null,
+      "title": null,
+      "hasOffering": false
+    },
+    "isActive": true
+  },
+  {
     "id": "proplayai-video-analysis",
     "isActive": true,
     "description": "Smartphone-based biomechanics and mechanics analysis used to evaluate movement for pitchers and hitters without a traditional motion-capture lab.",

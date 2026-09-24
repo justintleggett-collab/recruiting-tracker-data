@@ -1,212 +1,150 @@
 [
   {
-    "dateAdded": "2026-08-19",
-    "description": "Nutrition guidance designed for student athletes to fuel performance, recovery, and long-term health.",
-    "isActive": true,
+    "id": "amy-goldsmith-kindred-nutrition",
     "contact": {
       "title": "Sports Nutritionist",
-      "xHandle": "@Kindrednutritio",
       "name": "Amy Goldsmith, RDN",
-      "email": null,
-      "phone": null,
-      "linkedInURL": null
+      "xHandle": "@Kindrednutritio"
     },
+    "description": "Nutrition guidance designed for student athletes to fuel performance, recovery, and long-term health.",
     "featured": true,
+    "dateAdded": "2026-08-19",
+    "offering": {
+      "hasOffering": false,
+      "title": null,
+      "code": null,
+      "expiresAt": null,
+      "details": null
+    },
+    "isActive": true,
     "company": {
-      "logoSourceURL": null,
-      "name": "Kindred Nutrition",
-      "category": "nutrition",
       "url": "https://kindrednutrition.com",
+      "category": "nutrition",
+      "name": "Kindred Nutrition",
+      "logoSourceURL": null,
       "logoURL": null
     },
-    "sortOrder": 1,
-    "offering": {
-      "title": null,
-      "expiresAt": null,
-      "hasOffering": false,
-      "details": null,
-      "code": null
-    },
-    "id": "amy-goldsmith-kindred-nutrition"
+    "sortOrder": 1
   },
   {
-    "dateAdded": "2026-08-19",
-    "description": "Mental performance coaching that helps athletes build confidence, resilience, and a championship mindset.",
-    "isActive": true,
+    "id": "brandon-guyer-major-league-mindset",
     "contact": {
       "title": "7-Year MLB Player, Mental Strength Coach",
-      "xHandle": "@BrandonGuyer",
       "name": "Brandon Guyer",
-      "email": null,
-      "phone": null,
-      "linkedInURL": null
+      "xHandle": "@BrandonGuyer"
     },
+    "description": "Mental performance coaching that helps athletes build confidence, resilience, and a championship mindset.",
     "featured": true,
+    "dateAdded": "2026-08-19",
+    "offering": {
+      "hasOffering": false,
+      "title": null,
+      "code": null,
+      "expiresAt": null,
+      "details": null
+    },
+    "isActive": true,
     "company": {
-      "logoSourceURL": null,
-      "name": "Major League Mindset",
-      "category": "mindset",
       "url": "https://brandonguyer.com",
+      "category": "mindset",
+      "name": "Major League Mindset",
+      "logoSourceURL": null,
       "logoURL": null
     },
-    "sortOrder": 2,
-    "offering": {
-      "title": null,
-      "expiresAt": null,
-      "hasOffering": false,
-      "details": null,
-      "code": null
-    },
-    "id": "brandon-guyer-major-league-mindset"
+    "sortOrder": 2
   },
   {
-    "dateAdded": "2026-08-19",
-    "description": "Comprehensive financial planning for athletes and families to build, protect, and pass on wealth.",
-    "isActive": true,
+    "id": "frank-jarboe-rs-will-group",
     "contact": {
       "title": "Wealth Management & Financial Planning",
-      "xHandle": null,
       "name": "Frank Jarboe, Sr., CFP®",
-      "email": null,
-      "phone": null,
-      "linkedInURL": null
+      "xHandle": null
     },
+    "description": "Comprehensive financial planning for athletes and families to build, protect, and pass on wealth.",
     "featured": true,
+    "dateAdded": "2026-08-19",
+    "offering": {
+      "hasOffering": false,
+      "title": null,
+      "code": null,
+      "expiresAt": null,
+      "details": null
+    },
+    "isActive": true,
     "company": {
-      "logoSourceURL": null,
-      "name": "RS Will Group",
-      "category": "financial",
       "url": "https://rswill.com",
-      "logoURL": null
-    },
-    "sortOrder": 3,
-    "offering": {
-      "title": null,
-      "expiresAt": null,
-      "hasOffering": false,
-      "details": null,
-      "code": null
-    },
-    "id": "frank-jarboe-rs-will-group"
-  },
-  {
-    "dateAdded": "2026-09-15",
-    "description": "NIL news, deal tracker, and a school-by-school revenue-sharing tracker for families navigating the NIL and revenue-share era of college athletics.",
-    "isActive": true,
-    "contact": {
-      "title": "NIL News & Resources",
-      "xHandle": "@NILNewsstand",
-      "name": "NILNewsstand",
-      "email": null,
-      "phone": null,
-      "linkedInURL": null
-    },
-    "featured": false,
-    "company": {
+      "category": "financial",
+      "name": "RS Will Group",
       "logoSourceURL": null,
-      "name": "NILNewsstand",
-      "category": "other",
-      "url": "https://www.nilnewsstand.com",
       "logoURL": null
     },
-    "sortOrder": 4,
-    "offering": {
-      "title": null,
-      "expiresAt": null,
-      "hasOffering": false,
-      "details": null,
-      "code": null
-    },
-    "id": "nilnewsstand-nil-news"
+    "sortOrder": 3
   },
   {
-    "dateAdded": "2026-09-15",
-    "description": "Free, evidence-based fueling and hydration guidance from Team USA's own sports dietitians — athlete-plate handouts and performance nutrition basics, no product to sell.",
+    "id": "proplayai-video-analysis",
     "isActive": true,
+    "description": "Smartphone-based biomechanics and mechanics analysis used to evaluate movement for pitchers and hitters without a traditional motion-capture lab.",
+    "company": {
+      "name": "ProPlayAI",
+      "logoURL": null,
+      "categories": [
+        "videoAnalysis",
+        "mobileApp"
+      ],
+      "category": "videoAnalysis",
+      "url": "https://proplayai.com/",
+      "logoSourceURL": null
+    },
+    "sortOrder": 8,
     "contact": {
-      "title": "Performance Nutrition Team",
+      "name": "ProPlayAI",
+      "phone": null,
+      "linkedInURL": null,
+      "title": "Video Analysis & Mobile App",
       "xHandle": null,
-      "name": "U.S. Olympic & Paralympic Committee",
-      "email": null,
-      "phone": null,
-      "linkedInURL": null
+      "email": null
     },
     "featured": false,
-    "company": {
-      "logoSourceURL": null,
-      "name": "USOPC Performance Nutrition",
-      "category": "nutrition",
-      "url": "https://www.usopc.org/nutrition",
-      "logoURL": null
-    },
-    "sortOrder": 5,
+    "dateAdded": "2026-09-24",
     "offering": {
-      "title": null,
+      "code": null,
       "expiresAt": null,
       "hasOffering": false,
       "details": null,
-      "code": null
-    },
-    "id": "usopc-performance-nutrition"
+      "title": null
+    }
   },
   {
-    "dateAdded": "2026-09-15",
-    "description": "Directory to find a credentialed Registered Dietitian near you — filter for a Board Certified Specialist in Sports Dietetics (CSSD) for one-on-one help with a young athlete's fueling plan.",
+    "id": "austin-ehrlicher-pitching",
     "isActive": true,
+    "description": "Online pitching coaching for youth pitchers — video breakdowns and personalized development plans from minor league pitcher Austin Ehrlicher.",
+    "company": {
+      "name": "Pitcher Development Plan",
+      "logoURL": null,
+      "categories": [
+        "playerDevelopment"
+      ],
+      "category": "playerDevelopment",
+      "url": "https://www.baseballrecruitingtracker.com/wp-content/uploads/2026/09/pitcher-plan-baseball-recruiting-tracker.pdf",
+      "logoSourceURL": null
+    },
+    "sortOrder": 9,
     "contact": {
-      "title": "Find a Nutrition Expert",
-      "xHandle": null,
-      "name": "Academy of Nutrition and Dietetics",
-      "email": null,
+      "name": "Austin Ehrlicher",
       "phone": null,
-      "linkedInURL": null
+      "linkedInURL": null,
+      "title": "Minor League Pitcher, Pitching Coach",
+      "xHandle": null,
+      "email": null
     },
     "featured": false,
-    "company": {
-      "logoSourceURL": null,
-      "name": "EatRight.org",
-      "category": "nutrition",
-      "url": "https://www.eatright.org/find-a-nutrition-expert",
-      "logoURL": null
-    },
-    "sortOrder": 6,
+    "dateAdded": "2026-09-24",
     "offering": {
-      "title": null,
+      "code": null,
       "expiresAt": null,
       "hasOffering": false,
       "details": null,
-      "code": null
-    },
-    "id": "eatright-find-a-nutrition-expert"
-  },
-  {
-    "dateAdded": "2026-09-15",
-    "description": "The federal government's baseline nutrition framework — a simple, no-cost starting point for family meal planning before a specialized sports-nutrition consult.",
-    "isActive": true,
-    "contact": {
-      "title": "Nutrition Basics",
-      "xHandle": null,
-      "name": "U.S. Department of Agriculture",
-      "email": null,
-      "phone": null,
-      "linkedInURL": null
-    },
-    "featured": false,
-    "company": {
-      "logoSourceURL": null,
-      "name": "MyPlate",
-      "category": "nutrition",
-      "url": "https://www.myplate.gov",
-      "logoURL": null
-    },
-    "sortOrder": 7,
-    "offering": {
-      "title": null,
-      "expiresAt": null,
-      "hasOffering": false,
-      "details": null,
-      "code": null
-    },
-    "id": "myplate-usda"
+      "title": null
+    }
   }
 ]

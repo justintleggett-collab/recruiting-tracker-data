@@ -266,5 +266,138 @@
       "details": null,
       "title": null
     }
+  },
+  {
+    "id": "prosight-sports-vision",
+    "sortOrder": 10,
+    "contact": {
+      "linkedInURL": null,
+      "title": "Sports Vision Training App",
+      "name": "ProSight Sports Vision",
+      "xHandle": null,
+      "phone": null,
+      "email": null
+    },
+    "featured": false,
+    "description": "Sports-vision app for reaction time, visual search, decision speed, visual memory and timing.",
+    "dateAdded": "2026-09-25",
+    "company": {
+      "logoURL": null,
+      "category": "mobileApp",
+      "name": "ProSight Sports Vision",
+      "logoSourceURL": null,
+      "url": "https://apps.apple.com/us/app/prosight-sports-vision/id6765955406",
+      "categories": [
+        "mobileApp"
+      ]
+    },
+    "isActive": true,
+    "offering": {
+      "title": null,
+      "expiresAt": null,
+      "hasOffering": false,
+      "code": null,
+      "details": null
+    }
+  },
+  {
+    "id": "hyperice-recovery",
+    "sortOrder": 11,
+    "contact": {
+      "linkedInURL": null,
+      "title": "Recovery Technology",
+      "name": "Hyperice",
+      "xHandle": null,
+      "phone": null,
+      "email": null
+    },
+    "featured": false,
+    "description": "Recovery technology including percussion, compression and mobility products.",
+    "dateAdded": "2026-09-25",
+    "company": {
+      "logoURL": null,
+      "category": "products",
+      "name": "Hyperice",
+      "logoSourceURL": null,
+      "url": "https://hyperice.com/",
+      "categories": [
+        "products",
+        "mobileApp"
+      ]
+    },
+    "isActive": true,
+    "offering": {
+      "title": null,
+      "expiresAt": null,
+      "hasOffering": false,
+      "code": null,
+      "details": null
+    }
+  },
+  {
+    "id": "arm-strong-performance-lessons",
+    "sortOrder": 12,
+    "contact": {
+      "linkedInURL": null,
+      "title": "Remote Throwing Programs",
+      "name": "Arm-Strong Performance",
+      "xHandle": null,
+      "phone": null,
+      "email": null
+    },
+    "featured": false,
+    "description": "Remote throwing programs with drill packages, Zoom feedback, mechanical breakdowns and optional TrackMan analysis.",
+    "dateAdded": "2026-09-25",
+    "company": {
+      "logoURL": null,
+      "category": "playerDevelopment",
+      "name": "Arm-Strong Performance Lessons",
+      "logoSourceURL": null,
+      "url": "https://www.arm-strongperformance.com/",
+      "categories": [
+        "playerDevelopment"
+      ]
+    },
+    "isActive": true,
+    "offering": {
+      "title": null,
+      "expiresAt": null,
+      "hasOffering": false,
+      "code": null,
+      "details": null
+    }
+  },
+  {
+    "id": "armored-heat",
+    "sortOrder": 13,
+    "contact": {
+      "linkedInURL": null,
+      "title": "Arm Care & Strength App",
+      "name": "Armored Heat",
+      "xHandle": null,
+      "phone": null,
+      "email": null
+    },
+    "featured": false,
+    "description": "Strengthening, mobility and recovery exercises built specifically for baseball players, targeting the muscle groups behind arm strength and arm health.",
+    "dateAdded": "2026-09-25",
+    "company": {
+      "logoURL": null,
+      "category": "mobileApp",
+      "name": "Armored Heat",
+      "logoSourceURL": null,
+      "url": "https://armoredheat.com/",
+      "categories": [
+        "mobileApp"
+      ]
+    },
+    "isActive": true,
+    "offering": {
+      "title": null,
+      "expiresAt": null,
+      "hasOffering": false,
+      "code": null,
+      "details": null
+    }
   }
 ]

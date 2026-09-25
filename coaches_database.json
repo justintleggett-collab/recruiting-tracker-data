@@ -837,7 +837,7 @@
         "email": "crossho@appstate.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-09-15T15:38:35Z"
+        "lastVerifiedDate": "2026-09-15T16:24:35Z"
       },
       {
         "name": "Heath Blackmon",
@@ -5206,18 +5206,20 @@
         "lastVerifiedDate": ""
       },
       {
-        "name": "Jeremy Simpson",
-        "title": "Assistant Coach & Recruiting Coordinator",
-        "email": "",
-        "phone": "",
-        "twitter": ""
-      },
-      {
         "name": "Cole Hales",
         "title": "Pitching Coach",
-        "email": "",
+        "email": "dchales22@catawba.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-22T14:18:45Z"
+      },
+      {
+        "name": "Jeremy Simpson",
+        "title": "Assistant Coach & Recruiting Coordinator",
+        "email": "jbsimpso14@catawba.edu",
+        "phone": "704-637-4227",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-22T14:18:40Z"
       }
     ]
   },
@@ -11007,9 +11009,10 @@
       {
         "name": "Matt Rehfeldt",
         "title": "Assistant Coach - Pitching Coach",
-        "email": "",
+        "email": "mdrehfeldt@frostburg.edu",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-24T15:41:44Z"
       }
     ]
   },
@@ -13046,32 +13049,16 @@
         "title": "Head Coach",
         "email": "victory@hood.edu",
         "phone": "978-846-5213",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Jack Patterson",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "twitter": "@Coach_Victory",
+        "lastVerifiedDate": "2026-09-22T14:15:09Z"
       },
       {
         "name": "James Gruenfelder",
         "title": "Assistant Coach / Recruiting Coordinator / Pitching Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Matt Stout",
-        "title": "",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "email": "gruenfelder@hood.edu",
+        "phone": "631-416-0773",
+        "twitter": "@JamesGroony",
+        "lastVerifiedDate": "2026-09-22T14:15:10Z"
       }
     ]
   },
@@ -27946,28 +27933,28 @@
         "lastVerifiedDate": ""
       },
       {
-        "name": "Brendan McGowan",
-        "title": "Assistant Coach",
-        "email": "",
+        "name": "Phil Disher",
+        "title": "Associate Head Coach",
+        "email": "pdisher@towson.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-08-03T14:17:38Z"
+        "lastVerifiedDate": "2026-09-22T14:14:17Z"
+      },
+      {
+        "name": "Brendan McGowan",
+        "title": "Assistant Coach",
+        "email": "bmcgowan@towson.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-22T14:14:22Z"
       },
       {
         "name": "Chris Kahler",
-        "title": "Pitching Coach",
-        "email": "",
+        "title": "Assistant Coach",
+        "email": "ckahler@towson.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-08-03T14:17:38Z"
-      },
-      {
-        "name": "Phil Disher",
-        "title": "Associate Head Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-08-03T14:17:37Z"
+        "lastVerifiedDate": "2026-09-22T14:14:20Z"
       }
     ]
   },
@@ -31169,11 +31156,20 @@
         "lastVerifiedDate": "2026-09-08T15:12:46Z"
       },
       {
-        "name": "Michael Austin",
-        "title": "Recruiting Coordinator/Pitching Coach",
+        "name": "Jayson Kramer",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-22T14:05:02Z"
+      },
+      {
+        "name": "Michael Austin",
+        "title": "Recruiting Coordinator/Pitching Coach",
+        "email": "maustin1@umbc.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-22T14:04:54Z"
       }
     ]
   },
@@ -31309,12 +31305,20 @@
     "conference": "American Athletic Conference",
     "coaches": [
       {
+        "name": "Matt Riser",
+        "title": "Head Coach",
+        "email": "jmriser@memphis.edu",
+        "phone": "",
+        "twitter": "@MattRiser17",
+        "lastVerifiedDate": "2026-09-22T14:17:54Z"
+      },
+      {
         "name": "Cory Barton",
         "title": "Associate Head Coach",
-        "email": "corybarton8cbarton1@memphis.edu",
+        "email": "cbarton1@memphis.edu",
         "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "twitter": "@corybarton8",
+        "lastVerifiedDate": "2026-09-23T11:13:52Z"
       },
       {
         "name": "Julius McDougal",
@@ -31322,22 +31326,15 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-09-22T14:17:44Z"
       },
       {
         "name": "Kyle Cameron",
         "title": "Pitching Coach",
-        "email": "KyleCameron05jkcmeron@memphis.edu",
+        "email": "jkcmeron@memphis.edu",
         "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Matt Riser",
-        "title": "Head Coach",
-        "email": "",
-        "phone": "",
-        "twitter": ""
+        "twitter": "@KyleCameron05",
+        "lastVerifiedDate": "2026-09-22T14:17:43Z"
       }
     ]
   },

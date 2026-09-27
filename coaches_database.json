@@ -11248,10 +11248,10 @@
       {
         "name": "Shawn Camp",
         "title": "Head Coach",
-        "email": "",
+        "email": "scamp4@gmu.edu",
         "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
+        "twitter": "@shawncamppitch",
+        "lastVerifiedDate": "2026-09-27T00:00:33Z"
       },
       {
         "name": "Tyler Nelin",
@@ -16811,8 +16811,8 @@
         "title": "Assistant Coach",
         "email": "amartinez@mcdaniel.edu",
         "phone": "410-857-2583",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-28T21:30:30Z"
+        "twitter": "@CoachTreyM",
+        "lastVerifiedDate": "2026-09-27T00:00:33Z"
       }
     ]
   },
@@ -20077,6 +20077,63 @@
         "phone": "802-485-2230",
         "twitter": "",
         "lastVerifiedDate": ""
+      }
+    ]
+  },
+  {
+    "schoolID": "MD-notre-dame-of-maryland-university",
+    "schoolName": "Notre Dame of Maryland University",
+    "state": "MD",
+    "division": "D3",
+    "conference": "United East Conference",
+    "coaches": [
+      {
+        "name": "Matt Backert",
+        "title": "Head Coach",
+        "email": "mbackert@ndm.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-27T00:12:47Z"
+      },
+      {
+        "name": "DJ Gargano",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-27T00:12:47Z"
+      },
+      {
+        "name": "Ethan Wallace",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-27T00:12:48Z"
+      },
+      {
+        "name": "Michael Newsome",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-27T00:12:49Z"
+      },
+      {
+        "name": "Reed Adams",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-27T00:12:48Z"
+      },
+      {
+        "name": "Riley Burroughs",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-27T00:12:48Z"
       }
     ]
   },
@@ -25906,6 +25963,14 @@
     "state": "AL",
     "division": "JUCO D1",
     "conference": "Alabama Community College Conference (ACCC)",
+    "coaches": []
+  },
+  {
+    "schoolID": "LA-southern-university",
+    "schoolName": "Southern University",
+    "state": "LA",
+    "division": "D1",
+    "conference": "SWAC",
     "coaches": []
   },
   {
@@ -33169,6 +33234,14 @@
     ]
   },
   {
+    "schoolID": "MN-university-of-st-thomas",
+    "schoolName": "University of St. Thomas",
+    "state": "MN",
+    "division": "D1",
+    "conference": "Summit League",
+    "coaches": []
+  },
+  {
     "schoolID": "FL-university-of-tampa",
     "schoolName": "University of Tampa",
     "state": "FL",
@@ -34857,8 +34930,8 @@
         "title": "Assistant Coach / Pitching / Recruiting Coordinator",
         "email": "mrusso09@villanova.edu",
         "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-07-27T15:29:05Z"
+        "twitter": "@MikeRusso27",
+        "lastVerifiedDate": "2026-09-27T00:00:33Z"
       }
     ]
   },

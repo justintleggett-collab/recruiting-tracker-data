@@ -795,28 +795,20 @@
     "conference": "Heartland Collegiate Athletic Conference (HCAC)",
     "coaches": [
       {
-        "name": "Cliff Allred",
-        "title": "Assistant Coach",
-        "email": "callred@andersonuniversity.edu",
-        "phone": "",
+        "name": "Ryan Doheny",
+        "title": "Head Coach",
+        "email": "rddoheny@anderson.edu",
+        "phone": "765-641-4085",
         "twitter": "",
-        "lastVerifiedDate": "2026-09-30T16:25:38Z"
+        "lastVerifiedDate": "2026-09-30T17:05:34Z"
       },
       {
-        "name": "Patrick Frick",
-        "title": "Assistant Coach",
-        "email": "pfrick@andersonuniversity.edu",
+        "name": "Landen Southern",
+        "title": "Pitching Coach",
+        "email": "lssouthern@anderson.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-09-30T16:25:38Z"
-      },
-      {
-        "name": "Will Cheatham",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-09-30T16:25:38Z"
+        "lastVerifiedDate": "2026-09-30T17:05:34Z"
       }
     ]
   },

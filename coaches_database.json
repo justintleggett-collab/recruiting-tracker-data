@@ -99,14 +99,46 @@
     "conference": "NE10",
     "coaches": [
       {
-        "name": "Dom Scala",
+        "name": "Mike Gaffney",
         "title": "Head Coach",
-        "email": "dscala@adelphi.edu",
-        "phone": "516-877-4257",
+        "email": "mgaffney@adelphi.edu",
+        "phone": "516-877-3957",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-09-30T16:25:35Z"
+      },
+      {
+        "name": "Pat McCabe",
+        "title": "Pitching Coach",
+        "email": "patmccabe@adelphi.edu",
+        "phone": "516-877-3957",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:36Z"
+      },
+      {
+        "name": "Rob Cafiero",
+        "title": "Assistant Coach",
+        "email": "rcafiero@adelphi.edu",
+        "phone": "516-877-3957",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:36Z"
+      },
+      {
+        "name": "Tom Tolan",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "516-877-3957",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:36Z"
       }
     ]
+  },
+  {
+    "schoolID": "NY-adirondack-community-college",
+    "schoolName": "Adirondack Community College",
+    "state": "NY",
+    "division": "JUCO",
+    "conference": "NJCAA Region 3",
+    "coaches": []
   },
   {
     "schoolID": "MI-adrian-college",
@@ -295,6 +327,14 @@
         "phone": "517-629-0579",
         "twitter": "",
         "lastVerifiedDate": ""
+      },
+      {
+        "name": "Gordie Theisen",
+        "title": "Assistant Coach",
+        "email": "gtheisen@albion.edu",
+        "phone": "",
+        "twitter": "@gordietheisen",
+        "lastVerifiedDate": "2026-09-30T16:25:37Z"
       }
     ]
   },
@@ -389,6 +429,22 @@
     ]
   },
   {
+    "schoolID": "ZZ-alexandria-tech",
+    "schoolName": "Alexandria Tech",
+    "state": "",
+    "division": "JUCO",
+    "conference": "NJCAA Region 13",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-alfred-university",
+    "schoolName": "Alfred University",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Empire 8 Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "MD-allegany-college-of-maryland",
     "schoolName": "Allegany College of Maryland",
     "state": "MD",
@@ -471,6 +527,14 @@
     ]
   },
   {
+    "schoolID": "KS-allen-county-community-college",
+    "schoolName": "Allen County Community College",
+    "state": "KS",
+    "division": "JUCO",
+    "conference": "Kansas Jayhawk Community College Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "MI-alma-college",
     "schoolName": "Alma College",
     "state": "MI",
@@ -525,6 +589,14 @@
     "state": "PA",
     "division": "D3",
     "conference": "Middle Atlantic Conference Commonwealth",
+    "coaches": []
+  },
+  {
+    "schoolID": "TX-alvin-community-college",
+    "schoolName": "Alvin Community College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 14",
     "coaches": []
   },
   {
@@ -723,12 +795,36 @@
     "conference": "Heartland Collegiate Athletic Conference (HCAC)",
     "coaches": [
       {
-        "name": "Ryan Doheny",
+        "name": "P.J. Zocchi",
         "title": "Head Coach",
+        "email": "pzocchi@andersonuniversity.edu",
+        "phone": "864-231-2013",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:38Z"
+      },
+      {
+        "name": "Cliff Allred",
+        "title": "Assistant Coach",
+        "email": "callred@andersonuniversity.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:38Z"
+      },
+      {
+        "name": "Patrick Frick",
+        "title": "Assistant Coach",
+        "email": "pfrick@andersonuniversity.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:38Z"
+      },
+      {
+        "name": "Will Cheatham",
+        "title": "Assistant Coach",
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-17T16:05:56Z"
+        "lastVerifiedDate": "2026-09-30T16:25:38Z"
       }
     ]
   },
@@ -746,8 +842,32 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": "2026-08-03T14:18:06Z"
+      },
+      {
+        "name": "Hunter Johnson",
+        "title": "Assistant Coach",
+        "email": "hunterjohnson@andrewcollege.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:39Z"
+      },
+      {
+        "name": "Jake Lindmeier",
+        "title": "Assistant Coach",
+        "email": "JakeLindmeier@andrewcollege.edu",
+        "phone": "229-732-5934",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:39Z"
       }
     ]
+  },
+  {
+    "schoolID": "TX-angelina-college",
+    "schoolName": "Angelina College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 14",
+    "coaches": []
   },
   {
     "schoolID": "TX-angelo-state-university",
@@ -763,6 +883,22 @@
         "phone": "325-942-2264",
         "twitter": "https://x.com/KBrooks15",
         "lastVerifiedDate": ""
+      },
+      {
+        "name": "Adam Foster",
+        "title": "Assistant Coach",
+        "email": "adam.foster@angelo.edu",
+        "phone": "325-486-6900",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:39Z"
+      },
+      {
+        "name": "Sam Mote",
+        "title": "Assistant Coach",
+        "email": "sam.mote@angelo.edu",
+        "phone": "325-942-2264",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:39Z"
       }
     ]
   },
@@ -1022,6 +1158,22 @@
     ]
   },
   {
+    "schoolID": "AR-arkansas-state-university-mountain-home",
+    "schoolName": "Arkansas State University Mountain Home",
+    "state": "AR",
+    "division": "JUCO",
+    "conference": "NJCAA Region 2",
+    "coaches": []
+  },
+  {
+    "schoolID": "AR-arkansas-state-university-newport",
+    "schoolName": "Arkansas State University-Newport",
+    "state": "AR",
+    "division": "JUCO",
+    "conference": "NJCAA Region 2",
+    "coaches": []
+  },
+  {
     "schoolID": "AR-arkansas-tech-university",
     "schoolName": "Arkansas Tech University",
     "state": "AR",
@@ -1060,6 +1212,30 @@
         "phone": "859-858-3511",
         "twitter": "",
         "lastVerifiedDate": ""
+      },
+      {
+        "name": "Colton Back",
+        "title": "Assistant Coach",
+        "email": "colton.back@asbury.edu",
+        "phone": "859-858-3511",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:40Z"
+      },
+      {
+        "name": "Jackson Cole",
+        "title": "Assistant Coach",
+        "email": "jackson.cole@asbury.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:40Z"
+      },
+      {
+        "name": "Kaden Dugle",
+        "title": "Assistant Coach",
+        "email": "kaden.dugle@asbury.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:40Z"
       }
     ]
   },
@@ -1079,11 +1255,20 @@
         "lastVerifiedDate": ""
       },
       {
+        "name": "Brady Cottom",
+        "title": "Associate Baseball Coach",
+        "email": "bcottom@ashland.edu",
+        "phone": "419-289-5476",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:41Z"
+      },
+      {
         "name": "Jason Reitenbach",
         "title": "Assistant Coach",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:41Z"
       }
     ]
   },
@@ -1208,6 +1393,38 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": ""
+      },
+      {
+        "name": "Jacob Meiners",
+        "title": "Assistant Coach",
+        "email": "meinersj@augsburg.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:41Z"
+      },
+      {
+        "name": "Jeff Stomberg",
+        "title": "Assistant Coach",
+        "email": "stomberg@augsburg.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:41Z"
+      },
+      {
+        "name": "Kyle Nutting",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:42Z"
+      },
+      {
+        "name": "Troy Deden",
+        "title": "Assistant Coach",
+        "email": "deden@augsburg.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:41Z"
       }
     ]
   },
@@ -1544,6 +1761,22 @@
         "phone": "626-815-2181",
         "twitter": "",
         "lastVerifiedDate": ""
+      },
+      {
+        "name": "Bobby O'Neill",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:42Z"
+      },
+      {
+        "name": "Jerry Peña",
+        "title": "Assistant Coach/Recruiting Coordinator",
+        "email": "gpena@apu.edu",
+        "phone": "626-815-4596",
+        "twitter": "",
+        "lastVerifiedDate": "2026-09-30T16:25:42Z"
       }
     ]
   },
@@ -2629,6 +2862,14 @@
     ]
   },
   {
+    "schoolID": "IL-black-hawk-college",
+    "schoolName": "Black Hawk College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
+  },
+  {
     "schoolID": "IL-blackburn-college",
     "schoolName": "Blackburn College",
     "state": "IL",
@@ -2660,6 +2901,14 @@
         "lastVerifiedDate": "2026-08-06T01:51:55Z"
       }
     ]
+  },
+  {
+    "schoolID": "TX-blinn-college",
+    "schoolName": "Blinn College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 14",
+    "coaches": []
   },
   {
     "schoolID": "NJ-bloomfield-college-of-montclair-state-university",
@@ -2783,6 +3032,14 @@
     "state": "OH",
     "division": "D3",
     "conference": "Heartland Collegiate Athletic Conference",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-borough-of-manhattan-community-college",
+    "schoolName": "Borough of Manhattan Community College",
+    "state": "NY",
+    "division": "JUCO",
+    "conference": "NJCAA Region 15",
     "coaches": []
   },
   {
@@ -3068,6 +3325,14 @@
     ]
   },
   {
+    "schoolID": "NY-bronx",
+    "schoolName": "Bronx",
+    "state": "NY",
+    "division": "JUCO",
+    "conference": "NJCAA Region 15",
+    "coaches": []
+  },
+  {
     "schoolID": "NJ-brookdale-community-college",
     "schoolName": "Brookdale Community College",
     "state": "NJ",
@@ -3099,6 +3364,22 @@
         "lastVerifiedDate": "2026-08-04T00:49:09Z"
       }
     ]
+  },
+  {
+    "schoolID": "TX-brookhaven-college",
+    "schoolName": "Brookhaven College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 5",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-broome-community-college",
+    "schoolName": "Broome Community College",
+    "state": "NY",
+    "division": "JUCO",
+    "conference": "NJCAA Region 3",
+    "coaches": []
   },
   {
     "schoolID": "RI-brown-university",
@@ -3224,6 +3505,14 @@
     ]
   },
   {
+    "schoolID": "OH-bryant-and-stratton-college-oh",
+    "schoolName": "Bryant & Stratton College OH",
+    "state": "OH",
+    "division": "JUCO",
+    "conference": "NJCAA Region 12",
+    "coaches": []
+  },
+  {
     "schoolID": "RI-bryant-university",
     "schoolName": "Bryant University",
     "state": "RI",
@@ -3263,6 +3552,22 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "VA-bryant-and-stratton-college-va",
+    "schoolName": "Bryant and Stratton College (VA)",
+    "state": "VA",
+    "division": "JUCO",
+    "conference": "NJCAA Region 10",
+    "coaches": []
+  },
+  {
+    "schoolID": "WI-bryant-and-stratton-college-wi",
+    "schoolName": "Bryant and Stratton College (WI)",
+    "state": "WI",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
   },
   {
     "schoolID": "PA-bucknell-university",
@@ -4005,6 +4310,14 @@
     ]
   },
   {
+    "schoolID": "CA-cabrillo-college",
+    "schoolName": "Cabrillo College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Coast Conference South",
+    "coaches": []
+  },
+  {
     "schoolID": "PA-cairn-universitylanghorne",
     "schoolName": "Cairn University-Langhorne",
     "state": "PA",
@@ -4325,6 +4638,14 @@
     ]
   },
   {
+    "schoolID": "CA-cal-state-los-angeles",
+    "schoolName": "Cal State Los Angeles",
+    "state": "CA",
+    "division": "D2",
+    "conference": "California Collegiate Athletic Association",
+    "coaches": []
+  },
+  {
     "schoolID": "NC-caldwell-cc-technical-institute",
     "schoolName": "Caldwell CC & Technical Institute",
     "state": "NC",
@@ -4356,6 +4677,14 @@
         "lastVerifiedDate": "2026-08-04T00:49:16Z"
       }
     ]
+  },
+  {
+    "schoolID": "NC-caldwell-tech",
+    "schoolName": "Caldwell Tech",
+    "state": "NC",
+    "division": "JUCO",
+    "conference": "NJCAA Region 10",
+    "coaches": []
   },
   {
     "schoolID": "NJ-caldwell-university",
@@ -4422,6 +4751,14 @@
         "lastVerifiedDate": "2026-08-04T00:49:17Z"
       }
     ]
+  },
+  {
+    "schoolID": "CA-california-lutheran-university",
+    "schoolName": "California Lutheran University",
+    "state": "CA",
+    "division": "D3",
+    "conference": "Southern California Intercollegiate Athletic Conference",
+    "coaches": []
   },
   {
     "schoolID": "CA-california-southern",
@@ -4992,6 +5329,22 @@
     ]
   },
   {
+    "schoolID": "OK-carl-albert-state-college",
+    "schoolName": "Carl Albert State College",
+    "state": "OK",
+    "division": "JUCO",
+    "conference": "NJCAA Region 2",
+    "coaches": []
+  },
+  {
+    "schoolID": "IL-carl-sandburg-college",
+    "schoolName": "Carl Sandburg College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
+  },
+  {
     "schoolID": "MN-carleton-college",
     "schoolName": "Carleton College",
     "state": "MN",
@@ -5181,6 +5534,14 @@
     ]
   },
   {
+    "schoolID": "VT-castleton-state-college",
+    "schoolName": "Castleton State College",
+    "state": "VT",
+    "division": "D3",
+    "conference": "Little East Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "VT-castleton-university",
     "schoolName": "Castleton University",
     "state": "VT",
@@ -5239,11 +5600,27 @@
     "coaches": []
   },
   {
+    "schoolID": "NY-cayuga-county-community-college",
+    "schoolName": "Cayuga County Community College",
+    "state": "NY",
+    "division": "JUCO",
+    "conference": "NJCAA Region 3",
+    "coaches": []
+  },
+  {
     "schoolID": "MD-cecil-college",
     "schoolName": "Cecil College",
     "state": "MD",
     "division": "JUCO D2",
     "conference": "NJCAA Region 20 / MD JUCO",
+    "coaches": []
+  },
+  {
+    "schoolID": "TX-cedar-valley-college",
+    "schoolName": "Cedar Valley College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 5",
     "coaches": []
   },
   {
@@ -5286,6 +5663,14 @@
         "lastVerifiedDate": "2026-07-29T00:44:05Z"
       }
     ]
+  },
+  {
+    "schoolID": "LA-centenary-college-la",
+    "schoolName": "Centenary College LA",
+    "state": "LA",
+    "division": "D3",
+    "conference": "Southern Collegiate Athletic Conference",
+    "coaches": []
   },
   {
     "schoolID": "LA-centenary-college-of-louisiana",
@@ -5429,6 +5814,14 @@
     ]
   },
   {
+    "schoolID": "MN-central-lakes-college-brainerd",
+    "schoolName": "Central Lakes College-Brainerd",
+    "state": "MN",
+    "division": "JUCO",
+    "conference": "NJCAA Region 13",
+    "coaches": []
+  },
+  {
     "schoolID": "MI-central-michigan-university",
     "schoolName": "Central Michigan University",
     "state": "MI",
@@ -5468,6 +5861,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "WA-central-washington-university",
+    "schoolName": "Central Washington University",
+    "state": "WA",
+    "division": "D2",
+    "conference": "Great Northwest Athletic Conference",
+    "coaches": []
   },
   {
     "schoolID": "WY-central-wyoming-college",
@@ -5574,6 +5975,14 @@
         "lastVerifiedDate": "2026-08-10T02:07:33Z"
       }
     ]
+  },
+  {
+    "schoolID": "CA-cerro-coso-community-college",
+    "schoolName": "Cerro Coso Community College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Inland Empire Athletic",
+    "coaches": []
   },
   {
     "schoolID": "CA-chabot-college",
@@ -5706,6 +6115,14 @@
         "lastVerifiedDate": "2026-07-28T19:51:32Z"
       }
     ]
+  },
+  {
+    "schoolID": "AZ-chandler-gilbert-community-college",
+    "schoolName": "Chandler-Gilbert Community College",
+    "state": "AZ",
+    "division": "JUCO",
+    "conference": "NJCAA Region 1",
+    "coaches": []
   },
   {
     "schoolID": "CA-chapman-university",
@@ -6003,6 +6420,14 @@
     ]
   },
   {
+    "schoolID": "TX-cisco-junior-college",
+    "schoolName": "Cisco Junior College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 5",
+    "coaches": []
+  },
+  {
     "schoolID": "CA-citrus-college",
     "schoolName": "Citrus College",
     "state": "CA",
@@ -6066,6 +6491,22 @@
         "lastVerifiedDate": "2026-08-10T02:07:38Z"
       }
     ]
+  },
+  {
+    "schoolID": "NY-city-college-of-new-york",
+    "schoolName": "City College of New York",
+    "state": "NY",
+    "division": "D3",
+    "conference": "City University of New York Athletic Conference",
+    "coaches": []
+  },
+  {
+    "schoolID": "CA-city-college-of-san-francisco",
+    "schoolName": "City College of San Francisco",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Coast Conference North",
+    "coaches": []
   },
   {
     "schoolID": "OR-clackamas-community-college",
@@ -6191,6 +6632,14 @@
     ]
   },
   {
+    "schoolID": "TX-clarendon-college",
+    "schoolName": "Clarendon College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 5",
+    "coaches": []
+  },
+  {
     "schoolID": "PA-clarion-university",
     "schoolName": "Clarion University",
     "state": "PA",
@@ -6239,6 +6688,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "OH-clark-state-community-college",
+    "schoolName": "Clark State Community College",
+    "state": "OH",
+    "division": "JUCO",
+    "conference": "NJCAA Region 12",
+    "coaches": []
   },
   {
     "schoolID": "MA-clark-university",
@@ -6364,11 +6821,27 @@
     "coaches": []
   },
   {
+    "schoolID": "KS-cloud-county-community-college",
+    "schoolName": "Cloud County Community College",
+    "state": "KS",
+    "division": "JUCO",
+    "conference": "NJCAA Region 6",
+    "coaches": []
+  },
+  {
     "schoolID": "MS-coahoma-community-college",
     "schoolName": "Coahoma Community College",
     "state": "MS",
     "division": "JUCO D1",
     "conference": "MACCC",
+    "coaches": []
+  },
+  {
+    "schoolID": "AL-coastal-alabama-community-college",
+    "schoolName": "Coastal Alabama Community College",
+    "state": "AL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 22",
     "coaches": []
   },
   {
@@ -6454,6 +6927,22 @@
     ]
   },
   {
+    "schoolID": "AL-coastal-alabama-monroeville",
+    "schoolName": "Coastal Alabama-Monroeville",
+    "state": "AL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 22",
+    "coaches": []
+  },
+  {
+    "schoolID": "TX-coastal-bend-college",
+    "schoolName": "Coastal Bend College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 14",
+    "coaches": []
+  },
+  {
     "schoolID": "SC-coastal-carolina-university",
     "schoolName": "Coastal Carolina University",
     "state": "SC",
@@ -6501,6 +6990,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "AZ-cochise-college",
+    "schoolName": "Cochise College",
+    "state": "AZ",
+    "division": "JUCO",
+    "conference": "NJCAA Region 1",
+    "coaches": []
   },
   {
     "schoolID": "IA-coe-college",
@@ -6568,6 +7065,14 @@
         "lastVerifiedDate": "2026-07-28T13:43:23Z"
       }
     ]
+  },
+  {
+    "schoolID": "KS-colby-community-college",
+    "schoolName": "Colby Community College",
+    "state": "KS",
+    "division": "JUCO",
+    "conference": "NJCAA Region 6",
+    "coaches": []
   },
   {
     "schoolID": "NH-colby-sawyer-college",
@@ -6660,6 +7165,22 @@
     "coaches": []
   },
   {
+    "schoolID": "UT-college-of-eastern-utah",
+    "schoolName": "College of Eastern Utah",
+    "state": "UT",
+    "division": "JUCO",
+    "conference": "NJCAA Region 18",
+    "coaches": []
+  },
+  {
+    "schoolID": "IL-college-of-lake-county",
+    "schoolName": "College of Lake County",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
+  },
+  {
     "schoolID": "CA-college-of-marin",
     "schoolName": "College of Marin",
     "state": "CA",
@@ -6715,6 +7236,14 @@
         "lastVerifiedDate": "2026-08-10T02:07:39Z"
       }
     ]
+  },
+  {
+    "schoolID": "OH-college-of-mount-st-joseph",
+    "schoolName": "College of Mount St. Joseph",
+    "state": "OH",
+    "division": "D3",
+    "conference": "Heartland Collegiate Athletic Conference",
+    "coaches": []
   },
   {
     "schoolID": "MA-college-of-our-lady-of-the-elms",
@@ -7003,6 +7532,14 @@
     ]
   },
   {
+    "schoolID": "CA-college-of-the-siskiyous",
+    "schoolName": "College of The Siskiyous",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Golden Valley",
+    "coaches": []
+  },
+  {
     "schoolID": "OH-college-of-wooster",
     "schoolName": "College of Wooster",
     "state": "OH",
@@ -7069,6 +7606,14 @@
     ]
   },
   {
+    "schoolID": "CA-college-of-the-desert",
+    "schoolName": "College of the Desert",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Inland Empire Athletic",
+    "coaches": []
+  },
+  {
     "schoolID": "MA-college-of-the-holy-cross",
     "schoolName": "College of the Holy Cross",
     "state": "MA",
@@ -7100,6 +7645,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "CA-college-of-the-redwoods",
+    "schoolName": "College of the Redwoods",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Golden Valley",
+    "coaches": []
   },
   {
     "schoolID": "CA-college-of-the-sequoias",
@@ -7215,6 +7768,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "CO-colorado-northwestern-community-college",
+    "schoolName": "Colorado Northwestern Community College",
+    "state": "CO",
+    "division": "JUCO",
+    "conference": "NJCAA Region 18",
+    "coaches": []
   },
   {
     "schoolID": "CO-colorado-school-of-mines",
@@ -7371,6 +7932,38 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "CA-community-christian",
+    "schoolName": "Community Christian",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "NJCAA Region 1",
+    "coaches": []
+  },
+  {
+    "schoolID": "PA-community-college-of-allegheny-county",
+    "schoolName": "Community College of Allegheny County",
+    "state": "PA",
+    "division": "JUCO",
+    "conference": "NJCAA Region 20",
+    "coaches": []
+  },
+  {
+    "schoolID": "MD-community-college-of-baltimore-county-catonsville",
+    "schoolName": "Community College of Baltimore County-Catonsville",
+    "state": "MD",
+    "division": "JUCO",
+    "conference": "NJCAA Region 20",
+    "coaches": []
+  },
+  {
+    "schoolID": "RI-community-college-of-rhode-island",
+    "schoolName": "Community College of Rhode Island",
+    "state": "RI",
+    "division": "JUCO",
+    "conference": "NJCAA Region 21",
+    "coaches": []
   },
   {
     "schoolID": "WV-concord-university",
@@ -7611,6 +8204,14 @@
     "coaches": []
   },
   {
+    "schoolID": "CA-contra-costa-college",
+    "schoolName": "Contra Costa College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Bay Valley Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "MS-copiah-lincoln-community-college",
     "schoolName": "Copiah-Lincoln Community College",
     "state": "MS",
@@ -7715,6 +8316,22 @@
     "state": "NY",
     "division": "JUCO D3",
     "conference": "NJCAA Region 3 (DIII)",
+    "coaches": []
+  },
+  {
+    "schoolID": "CA-cosumnes-river-college",
+    "schoolName": "Cosumnes River College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Big 8 California",
+    "coaches": []
+  },
+  {
+    "schoolID": "NJ-county-college-of-morris",
+    "schoolName": "County College of Morris",
+    "state": "NJ",
+    "division": "JUCO",
+    "conference": "NJCAA Region 19",
     "coaches": []
   },
   {
@@ -7875,6 +8492,14 @@
     ]
   },
   {
+    "schoolID": "OH-cuyahoga-community-college",
+    "schoolName": "Cuyahoga Community College",
+    "state": "OH",
+    "division": "JUCO",
+    "conference": "NJCAA Region 12",
+    "coaches": []
+  },
+  {
     "schoolID": "CA-cypress-college",
     "schoolName": "Cypress College",
     "state": "CA",
@@ -8006,6 +8631,14 @@
     "coaches": []
   },
   {
+    "schoolID": "MN-dakota-county-technical-college",
+    "schoolName": "Dakota County Technical College",
+    "state": "MN",
+    "division": "JUCO",
+    "conference": "NJCAA Region 13",
+    "coaches": []
+  },
+  {
     "schoolID": "TX-dallas-baptist-university",
     "schoolName": "Dallas Baptist University",
     "state": "TX",
@@ -8045,6 +8678,14 @@
         "lastVerifiedDate": "2026-08-03T14:17:05Z"
       }
     ]
+  },
+  {
+    "schoolID": "IL-danville-area-community-college",
+    "schoolName": "Danville Area Community College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 24",
+    "coaches": []
   },
   {
     "schoolID": "NH-dartmouth-college",
@@ -8179,11 +8820,27 @@
     ]
   },
   {
+    "schoolID": "MT-dawson-community-college",
+    "schoolName": "Dawson Community College",
+    "state": "MT",
+    "division": "JUCO",
+    "conference": "NJCAA Region 13",
+    "coaches": []
+  },
+  {
     "schoolID": "FL-daytona-state-college",
     "schoolName": "Daytona State College",
     "state": "FL",
     "division": "JUCO D1",
     "conference": "NJCAA Region 8 / Mid-Florida",
+    "coaches": []
+  },
+  {
+    "schoolID": "CA-de-anza-college",
+    "schoolName": "De Anza College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Coast Conference North",
     "coaches": []
   },
   {
@@ -8278,6 +8935,14 @@
     ]
   },
   {
+    "schoolID": "PA-delaware-county-community-college",
+    "schoolName": "Delaware County Community College",
+    "state": "PA",
+    "division": "JUCO",
+    "conference": "NJCAA Region 19",
+    "coaches": []
+  },
+  {
     "schoolID": "DE-delaware-state-university",
     "schoolName": "Delaware State University",
     "state": "DE",
@@ -8368,6 +9033,14 @@
     ]
   },
   {
+    "schoolID": "LA-delgado-community-college",
+    "schoolName": "Delgado Community College",
+    "state": "LA",
+    "division": "JUCO",
+    "conference": "NJCAA Region 23",
+    "coaches": []
+  },
+  {
     "schoolID": "MS-delta-state-university",
     "schoolName": "Delta State University",
     "state": "MS",
@@ -8426,6 +9099,14 @@
     "coaches": []
   },
   {
+    "schoolID": "CA-diablo-valley-college",
+    "schoolName": "Diablo Valley College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Big 8 California",
+    "coaches": []
+  },
+  {
     "schoolID": "PA-dickinson-college",
     "schoolName": "Dickinson College",
     "state": "PA",
@@ -8465,6 +9146,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "KS-dodge-city-community-college",
+    "schoolName": "Dodge City Community College",
+    "state": "KS",
+    "division": "JUCO",
+    "conference": "NJCAA Region 6",
+    "coaches": []
   },
   {
     "schoolID": "IL-dominican-university-il",
@@ -8608,6 +9297,14 @@
     ]
   },
   {
+    "schoolID": "NY-dutchess-community-college",
+    "schoolName": "Dutchess Community College",
+    "state": "NY",
+    "division": "JUCO",
+    "conference": "NJCAA Region 15",
+    "coaches": []
+  },
+  {
     "schoolID": "TN-dyersburg-state-community-college",
     "schoolName": "Dyersburg State Community College",
     "state": "TN",
@@ -8672,6 +9369,14 @@
         "lastVerifiedDate": "2026-08-08T00:55:41Z"
       }
     ]
+  },
+  {
+    "schoolID": "MO-east-central-cc-mo",
+    "schoolName": "East Central CC MO",
+    "state": "MO",
+    "division": "JUCO",
+    "conference": "NJCAA Region 16",
+    "coaches": []
   },
   {
     "schoolID": "MS-east-central-community-college",
@@ -8771,6 +9476,14 @@
         "lastVerifiedDate": "2026-08-03T00:33:23Z"
       }
     ]
+  },
+  {
+    "schoolID": "CA-east-los-angeles-college",
+    "schoolName": "East Los Angeles College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "South Coast",
+    "coaches": []
   },
   {
     "schoolID": "MS-east-mississippi-community-college",
@@ -8895,6 +9608,22 @@
         "lastVerifiedDate": "2026-07-28T21:30:17Z"
       }
     ]
+  },
+  {
+    "schoolID": "AZ-eastern-arizona-college",
+    "schoolName": "Eastern Arizona College",
+    "state": "AZ",
+    "division": "JUCO",
+    "conference": "NJCAA Region 1",
+    "coaches": []
+  },
+  {
+    "schoolID": "CT-eastern-connecticut-state-university",
+    "schoolName": "Eastern Connecticut State University",
+    "state": "CT",
+    "division": "D3",
+    "conference": "Little East Conference",
+    "coaches": []
   },
   {
     "schoolID": "FL-eastern-florida-state-college",
@@ -9159,6 +9888,14 @@
     "coaches": []
   },
   {
+    "schoolID": "TX-eastfield-college",
+    "schoolName": "Eastfield College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 5",
+    "coaches": []
+  },
+  {
     "schoolID": "FL-eckerd-college",
     "schoolName": "Eckerd College",
     "state": "FL",
@@ -9258,6 +9995,14 @@
     "coaches": []
   },
   {
+    "schoolID": "WA-edmonds-community-college",
+    "schoolName": "Edmonds Community College",
+    "state": "WA",
+    "division": "JUCO",
+    "conference": "Northwest Athletic Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "FL-edward-waters-university",
     "schoolName": "Edward Waters University",
     "state": "FL",
@@ -9324,6 +10069,30 @@
     ]
   },
   {
+    "schoolID": "CA-el-camino-compton-center",
+    "schoolName": "El Camino-Compton Center",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "South Coast",
+    "coaches": []
+  },
+  {
+    "schoolID": "TX-el-paso-community-college",
+    "schoolName": "El Paso Community College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 5",
+    "coaches": []
+  },
+  {
+    "schoolID": "IL-elgin-community-college",
+    "schoolName": "Elgin Community College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
+  },
+  {
     "schoolID": "PA-elizabethtown-college",
     "schoolName": "Elizabethtown College",
     "state": "PA",
@@ -9371,6 +10140,14 @@
         "lastVerifiedDate": "2026-08-06T01:52:04Z"
       }
     ]
+  },
+  {
+    "schoolID": "IA-ellsworth-community-college",
+    "schoolName": "Ellsworth Community College",
+    "state": "IA",
+    "division": "JUCO",
+    "conference": "NJCAA Region 11",
+    "coaches": []
   },
   {
     "schoolID": "IL-elmhurst-university",
@@ -9948,6 +10725,14 @@
     ]
   },
   {
+    "schoolID": "NJ-fairleigh-dickinson-florham",
+    "schoolName": "Fairleigh Dickinson-Florham",
+    "state": "NJ",
+    "division": "D3",
+    "conference": "Middle Atlantic Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "WV-fairmont-state-university",
     "schoolName": "Fairmont State University",
     "state": "WV",
@@ -10243,6 +11028,14 @@
     ]
   },
   {
+    "schoolID": "SC-florence-darlington-technical-college",
+    "schoolName": "Florence-Darlington Technical College",
+    "state": "SC",
+    "division": "JUCO",
+    "conference": "NJCAA Region 10",
+    "coaches": []
+  },
+  {
     "schoolID": "FL-florida-am-university",
     "schoolName": "Florida A&M University",
     "state": "FL",
@@ -10438,6 +11231,22 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "FL-florida-state-college-at-jacksonville",
+    "schoolName": "Florida State College at Jacksonville",
+    "state": "FL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 8",
+    "coaches": []
+  },
+  {
+    "schoolID": "FL-florida-state-college-at-jacksonville-2",
+    "schoolName": "Florida State College at Jacksonville",
+    "state": "FL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 8",
+    "coaches": []
   },
   {
     "schoolID": "FL-florida-state-university",
@@ -10652,6 +11461,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "KS-fort-scott-community-college",
+    "schoolName": "Fort Scott Community College",
+    "state": "KS",
+    "division": "JUCO",
+    "conference": "NJCAA Region 6",
+    "coaches": []
   },
   {
     "schoolID": "WI-fox-valley-technical-college",
@@ -10950,6 +11767,14 @@
     ]
   },
   {
+    "schoolID": "CA-fresno-pacific-university",
+    "schoolName": "Fresno Pacific University",
+    "state": "CA",
+    "division": "D2",
+    "conference": "Pacific West Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "CA-fresno-state",
     "schoolName": "Fresno State",
     "state": "CA",
@@ -10997,6 +11822,22 @@
         "lastVerifiedDate": "2026-07-24T21:02:53Z"
       }
     ]
+  },
+  {
+    "schoolID": "CO-front-range-community-college",
+    "schoolName": "Front Range Community College",
+    "state": "CO",
+    "division": "JUCO",
+    "conference": "NJCAA Region 9",
+    "coaches": []
+  },
+  {
+    "schoolID": "IL-frontier-community-college",
+    "schoolName": "Frontier Community College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 24",
+    "coaches": []
   },
   {
     "schoolID": "MD-frostburg-state-university",
@@ -11089,6 +11930,14 @@
     ]
   },
   {
+    "schoolID": "NY-fulton-montgomery-community-college",
+    "schoolName": "Fulton-Montgomery Community College",
+    "state": "NY",
+    "division": "JUCO",
+    "conference": "NJCAA Region 3",
+    "coaches": []
+  },
+  {
     "schoolID": "SC-furman-university",
     "schoolName": "Furman University",
     "state": "SC",
@@ -11104,6 +11953,30 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "AL-gadsden-state-community-college",
+    "schoolName": "Gadsden State Community College",
+    "state": "AL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 22",
+    "coaches": []
+  },
+  {
+    "schoolID": "TX-galveston-college",
+    "schoolName": "Galveston College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 14",
+    "coaches": []
+  },
+  {
+    "schoolID": "TX-galveston-college-2",
+    "schoolName": "Galveston College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 14",
+    "coaches": []
   },
   {
     "schoolID": "PA-gannon-university",
@@ -11211,6 +12084,46 @@
         "lastVerifiedDate": "2026-08-10T02:07:16Z"
       }
     ]
+  },
+  {
+    "schoolID": "NC-gaston",
+    "schoolName": "Gaston",
+    "state": "NC",
+    "division": "JUCO",
+    "conference": "NJCAA Region 10",
+    "coaches": []
+  },
+  {
+    "schoolID": "NC-gaston-college",
+    "schoolName": "Gaston College",
+    "state": "NC",
+    "division": "JUCO",
+    "conference": "NJCAA Region 10",
+    "coaches": []
+  },
+  {
+    "schoolID": "AZ-gateway-community-college",
+    "schoolName": "Gateway Community College",
+    "state": "AZ",
+    "division": "JUCO",
+    "conference": "NJCAA Region 1",
+    "coaches": []
+  },
+  {
+    "schoolID": "AZ-gateway-community-college-az",
+    "schoolName": "Gateway Community College AZ",
+    "state": "AZ",
+    "division": "JUCO",
+    "conference": "NJCAA Region 1",
+    "coaches": []
+  },
+  {
+    "schoolID": "CA-gavilan",
+    "schoolName": "Gavilan",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Coast Conference South",
+    "coaches": []
   },
   {
     "schoolID": "NY-genesee-community-college",
@@ -11639,6 +12552,22 @@
     ]
   },
   {
+    "schoolID": "MI-glen-oaks-community-college",
+    "schoolName": "Glen Oaks Community College",
+    "state": "MI",
+    "division": "JUCO",
+    "conference": "NJCAA Region 12",
+    "coaches": []
+  },
+  {
+    "schoolID": "MI-glen-oaks-community-college-2",
+    "schoolName": "Glen Oaks Community College",
+    "state": "MI",
+    "division": "JUCO",
+    "conference": "NJCAA Region 12",
+    "coaches": []
+  },
+  {
     "schoolID": "CA-glendale-community",
     "schoolName": "Glendale Community",
     "state": "CA",
@@ -11688,6 +12617,22 @@
     ]
   },
   {
+    "schoolID": "AZ-glendale-community-college-az",
+    "schoolName": "Glendale Community College AZ",
+    "state": "AZ",
+    "division": "JUCO",
+    "conference": "NJCAA Region 1",
+    "coaches": []
+  },
+  {
+    "schoolID": "AZ-glendale-community-college-az-2",
+    "schoolName": "Glendale Community College AZ",
+    "state": "AZ",
+    "division": "JUCO",
+    "conference": "NJCAA Region 1",
+    "coaches": []
+  },
+  {
     "schoolID": "WV-glenville-state-university",
     "schoolName": "Glenville State University",
     "state": "WV",
@@ -11719,6 +12664,14 @@
         "lastVerifiedDate": "2026-07-28T21:30:24Z"
       }
     ]
+  },
+  {
+    "schoolID": "MI-gogebic-community-college",
+    "schoolName": "Gogebic Community College",
+    "state": "MI",
+    "division": "JUCO",
+    "conference": "NJCAA Region 13",
+    "coaches": []
   },
   {
     "schoolID": "CA-golden-west-college",
@@ -12054,6 +13007,14 @@
     "state": "WA",
     "division": "JUCO D1",
     "conference": "NWAC",
+    "coaches": []
+  },
+  {
+    "schoolID": "TX-grayson-county-college",
+    "schoolName": "Grayson County College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 5",
     "coaches": []
   },
   {
@@ -12503,6 +13464,14 @@
     ]
   },
   {
+    "schoolID": "IL-harper-college",
+    "schoolName": "Harper College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
+  },
+  {
     "schoolID": "CA-hartnell-college",
     "schoolName": "Hartnell College",
     "state": "CA",
@@ -12651,6 +13620,14 @@
     ]
   },
   {
+    "schoolID": "IL-heartland-community-college",
+    "schoolName": "Heartland Community College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 24",
+    "coaches": []
+  },
+  {
     "schoolID": "OH-heidelberg-university",
     "schoolName": "Heidelberg University",
     "state": "OH",
@@ -12750,11 +13727,27 @@
     ]
   },
   {
+    "schoolID": "MI-henry-ford-community-college",
+    "schoolName": "Henry Ford Community College",
+    "state": "MI",
+    "division": "JUCO",
+    "conference": "NJCAA Region 12",
+    "coaches": []
+  },
+  {
     "schoolID": "NY-herkimer-college",
     "schoolName": "Herkimer College",
     "state": "NY",
     "division": "JUCO D3",
     "conference": "NJCAA Region 3 (DIII)",
+    "coaches": []
+  },
+  {
+    "schoolID": "MN-hibbing-community-college",
+    "schoolName": "Hibbing Community College",
+    "state": "MN",
+    "division": "JUCO",
+    "conference": "NJCAA Region 13",
     "coaches": []
   },
   {
@@ -12797,6 +13790,22 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "KS-highland-community-college",
+    "schoolName": "Highland Community College",
+    "state": "KS",
+    "division": "JUCO",
+    "conference": "NJCAA Region 6",
+    "coaches": []
+  },
+  {
+    "schoolID": "IL-highland-community-college-il",
+    "schoolName": "Highland Community College IL",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
   },
   {
     "schoolID": "NY-hilbert-college",
@@ -13284,6 +14293,14 @@
     ]
   },
   {
+    "schoolID": "IL-illinois-central-college",
+    "schoolName": "Illinois Central College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 24",
+    "coaches": []
+  },
+  {
     "schoolID": "IL-illinois-college",
     "schoolName": "Illinois College",
     "state": "IL",
@@ -13323,6 +14340,14 @@
         "lastVerifiedDate": "2026-07-28T13:43:38Z"
       }
     ]
+  },
+  {
+    "schoolID": "IL-illinois-institute-of-technology",
+    "schoolName": "Illinois Institute of Technology",
+    "state": "IL",
+    "division": "D3",
+    "conference": "Northern Athletics Collegiate Conference",
+    "coaches": []
   },
   {
     "schoolID": "IL-illinois-state-university",
@@ -13366,6 +14391,14 @@
     ]
   },
   {
+    "schoolID": "IL-illinois-valley-community-college",
+    "schoolName": "Illinois Valley Community College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
+  },
+  {
     "schoolID": "IL-illinois-wesleyan-university",
     "schoolName": "Illinois Wesleyan University",
     "state": "IL",
@@ -13396,6 +14429,14 @@
     "state": "CA",
     "division": "JUCO 1",
     "conference": "Pacific Coast",
+    "coaches": []
+  },
+  {
+    "schoolID": "IA-indian-hills-community-college-centerville",
+    "schoolName": "Indian Hills Community College-Centerville",
+    "state": "IA",
+    "division": "JUCO",
+    "conference": "NJCAA Region 11",
     "coaches": []
   },
   {
@@ -13547,6 +14588,14 @@
     "coaches": []
   },
   {
+    "schoolID": "IA-iowa-lakes-community-college",
+    "schoolName": "Iowa Lakes Community College",
+    "state": "IA",
+    "division": "JUCO",
+    "conference": "NJCAA Region 11",
+    "coaches": []
+  },
+  {
     "schoolID": "IA-iowa-western-community-college",
     "schoolName": "Iowa Western Community College",
     "state": "IA",
@@ -13692,6 +14741,14 @@
         "lastVerifiedDate": "2026-07-29T00:44:11Z"
       }
     ]
+  },
+  {
+    "schoolID": "MI-jackson-community-college",
+    "schoolName": "Jackson Community College",
+    "state": "MI",
+    "division": "JUCO",
+    "conference": "NJCAA Region 12",
+    "coaches": []
   },
   {
     "schoolID": "TN-jackson-state-community-college",
@@ -13866,6 +14923,14 @@
     "coaches": []
   },
   {
+    "schoolID": "NY-jefferson-community-college-ny",
+    "schoolName": "Jefferson Community College NY",
+    "state": "NY",
+    "division": "JUCO",
+    "conference": "NJCAA Region 3",
+    "coaches": []
+  },
+  {
     "schoolID": "CA-jessup-university",
     "schoolName": "Jessup University",
     "state": "CA",
@@ -13922,6 +14987,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "IL-john-wood-community-college",
+    "schoolName": "John Wood Community College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 24",
+    "coaches": []
   },
   {
     "schoolID": "MD-johns-hopkins-university",
@@ -14032,6 +15105,14 @@
     ]
   },
   {
+    "schoolID": "RI-johnson-and-wales-university",
+    "schoolName": "Johnson and Wales University",
+    "state": "RI",
+    "division": "D3",
+    "conference": "Conference of New England",
+    "coaches": []
+  },
+  {
     "schoolID": "IL-joliet-junior-college",
     "schoolName": "Joliet Junior College",
     "state": "IL",
@@ -14098,11 +15179,27 @@
     ]
   },
   {
+    "schoolID": "MI-kalamazoo-valley-community-college",
+    "schoolName": "Kalamazoo Valley Community College",
+    "state": "MI",
+    "division": "JUCO",
+    "conference": "NJCAA Region 12",
+    "coaches": []
+  },
+  {
     "schoolID": "IL-kankakee-community-college",
     "schoolName": "Kankakee Community College",
     "state": "IL",
     "division": "JUCO D2",
     "conference": "NJCAA Region 4 (DII)",
+    "coaches": []
+  },
+  {
+    "schoolID": "KS-kansas-city-community-college",
+    "schoolName": "Kansas City Community College",
+    "state": "KS",
+    "division": "JUCO",
+    "conference": "NJCAA Region 6",
     "coaches": []
   },
   {
@@ -14137,6 +15234,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "IL-kaskaskia-college",
+    "schoolName": "Kaskaskia College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 24",
+    "coaches": []
   },
   {
     "schoolID": "NJ-kean-university",
@@ -14253,6 +15358,14 @@
     "coaches": []
   },
   {
+    "schoolID": "IL-kennedy-king-college",
+    "schoolName": "Kennedy-King College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
+  },
+  {
     "schoolID": "GA-kennesaw-state-university",
     "schoolName": "Kennesaw State University",
     "state": "GA",
@@ -14333,6 +15446,14 @@
         "lastVerifiedDate": "2026-08-21T03:00:16Z"
       }
     ]
+  },
+  {
+    "schoolID": "KY-kentucky-state-university",
+    "schoolName": "Kentucky State University",
+    "state": "KY",
+    "division": "D2",
+    "conference": "Southern Intercollegiate Athletic Conference",
+    "coaches": []
   },
   {
     "schoolID": "KY-kentucky-wesleyan-college",
@@ -14483,11 +15604,27 @@
     ]
   },
   {
+    "schoolID": "PA-king-s-college",
+    "schoolName": "King's College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Middle Atlantic Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "IA-kirkwood-community-college",
     "schoolName": "Kirkwood Community College",
     "state": "IA",
     "division": "JUCO D2",
     "conference": "NJCAA Region 11 (DII)",
+    "coaches": []
+  },
+  {
+    "schoolID": "IL-kishwaukee-college",
+    "schoolName": "Kishwaukee College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
     "coaches": []
   },
   {
@@ -14599,6 +15736,14 @@
     ]
   },
   {
+    "schoolID": "PA-la-roche-college",
+    "schoolName": "La Roche College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Allegheny Mountain Collegiate Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "PA-la-salle-university",
     "schoolName": "La Salle University",
     "state": "PA",
@@ -14671,6 +15816,14 @@
         "lastVerifiedDate": "2026-08-03T00:33:29Z"
       }
     ]
+  },
+  {
+    "schoolID": "KS-labette-community-college",
+    "schoolName": "Labette Community College",
+    "state": "KS",
+    "division": "JUCO",
+    "conference": "NJCAA Region 6",
+    "coaches": []
   },
   {
     "schoolID": "PA-lackawanna-college",
@@ -14835,6 +15988,30 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "IL-lake-land-college",
+    "schoolName": "Lake Land College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 24",
+    "coaches": []
+  },
+  {
+    "schoolID": "MI-lake-michigan-college",
+    "schoolName": "Lake Michigan College",
+    "state": "MI",
+    "division": "JUCO",
+    "conference": "NJCAA Region 12",
+    "coaches": []
+  },
+  {
+    "schoolID": "ND-lake-region-state-college",
+    "schoolName": "Lake Region State College",
+    "state": "ND",
+    "division": "JUCO",
+    "conference": "NJCAA Region 13",
+    "coaches": []
   },
   {
     "schoolID": "FL-lake-sumter-state-college",
@@ -15058,6 +16235,14 @@
     "coaches": []
   },
   {
+    "schoolID": "CA-laney-college",
+    "schoolName": "Laney College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Bay Valley Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "MI-lansing-community-college",
     "schoolName": "Lansing Community College",
     "state": "MI",
@@ -15106,6 +16291,14 @@
         "lastVerifiedDate": "2026-08-11T21:34:13Z"
       }
     ]
+  },
+  {
+    "schoolID": "CA-lassen-community-college",
+    "schoolName": "Lassen Community College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Golden Valley",
+    "coaches": []
   },
   {
     "schoolID": "WI-lawrence-university",
@@ -15213,6 +16406,14 @@
         "lastVerifiedDate": "2026-07-30T21:08:17Z"
       }
     ]
+  },
+  {
+    "schoolID": "PA-lebanon-valley-college",
+    "schoolName": "Lebanon Valley College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Middle Atlantic Conference",
+    "coaches": []
   },
   {
     "schoolID": "TN-lee-university",
@@ -15421,6 +16622,14 @@
     ]
   },
   {
+    "schoolID": "IL-lewis-and-clark-community-college-il",
+    "schoolName": "Lewis and Clark Community College IL",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 24",
+    "coaches": []
+  },
+  {
     "schoolID": "VA-liberty-university",
     "schoolName": "Liberty University",
     "state": "VA",
@@ -15495,6 +16704,14 @@
     ]
   },
   {
+    "schoolID": "IL-lincoln-land-community-college",
+    "schoolName": "Lincoln Land Community College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 24",
+    "coaches": []
+  },
+  {
     "schoolID": "TN-lincoln-memorial-university",
     "schoolName": "Lincoln Memorial University",
     "state": "TN",
@@ -15510,6 +16727,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "IL-lincoln-trail-college",
+    "schoolName": "Lincoln Trail College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 24",
+    "coaches": []
   },
   {
     "schoolID": "MO-lincoln-university-mo",
@@ -15535,6 +16760,22 @@
         "lastVerifiedDate": "2026-07-03T15:54:34Z"
       }
     ]
+  },
+  {
+    "schoolID": "MO-lincoln-university-of-missouri",
+    "schoolName": "Lincoln University of Missouri",
+    "state": "MO",
+    "division": "D2",
+    "conference": "Great Lakes Valley Conference",
+    "coaches": []
+  },
+  {
+    "schoolID": "PA-lincoln-university-of-pennsylvania",
+    "schoolName": "Lincoln University of Pennsylvania",
+    "state": "PA",
+    "division": "D2",
+    "conference": "Central Atlantic Collegiate Conference",
+    "coaches": []
   },
   {
     "schoolID": "MO-lindenwood-university",
@@ -15817,6 +17058,14 @@
     ]
   },
   {
+    "schoolID": "OH-lorain-community-college",
+    "schoolName": "Lorain Community College",
+    "state": "OH",
+    "division": "JUCO",
+    "conference": "NJCAA Region 12",
+    "coaches": []
+  },
+  {
     "schoolID": "IA-loras-college",
     "schoolName": "Loras College",
     "state": "IA",
@@ -15840,6 +17089,30 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "CA-los-angeles-harbor-college",
+    "schoolName": "Los Angeles Harbor College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "South Coast",
+    "coaches": []
+  },
+  {
+    "schoolID": "CA-los-angeles-mission-college",
+    "schoolName": "Los Angeles Mission College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Western State South",
+    "coaches": []
+  },
+  {
+    "schoolID": "CA-los-angeles-pierce-college",
+    "schoolName": "Los Angeles Pierce College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Western State North",
+    "coaches": []
   },
   {
     "schoolID": "CA-los-medanos-college",
@@ -15966,6 +17239,14 @@
     ]
   },
   {
+    "schoolID": "LA-louisiana-state-university-eunice",
+    "schoolName": "Louisiana State University-Eunice",
+    "state": "LA",
+    "division": "JUCO",
+    "conference": "NJCAA Region 23",
+    "coaches": []
+  },
+  {
     "schoolID": "LA-louisiana-tech-university",
     "schoolName": "Louisiana Tech University",
     "state": "LA",
@@ -16030,6 +17311,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "NM-luna-community-college",
+    "schoolName": "Luna Community College",
+    "state": "NM",
+    "division": "JUCO",
+    "conference": "NJCAA Region 9",
+    "coaches": []
   },
   {
     "schoolID": "AL-lurleen-b-wallace-community-college",
@@ -16321,6 +17610,14 @@
     ]
   },
   {
+    "schoolID": "PA-mansfield-university-of-pennsylvania",
+    "schoolName": "Mansfield University of Pennsylvania",
+    "state": "PA",
+    "division": "D2",
+    "conference": "Pennylvania State Athletic Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "WI-maranatha-baptist-university",
     "schoolName": "Maranatha Baptist University",
     "state": "WI",
@@ -16511,6 +17808,14 @@
     ]
   },
   {
+    "schoolID": "IA-marshalltown-community-college",
+    "schoolName": "Marshalltown Community College",
+    "state": "IA",
+    "division": "JUCO",
+    "conference": "NJCAA Region 11",
+    "coaches": []
+  },
+  {
     "schoolID": "MN-martin-luther-college",
     "schoolName": "Martin Luther College",
     "state": "MN",
@@ -16567,6 +17872,14 @@
         "lastVerifiedDate": "2026-08-06T01:52:08Z"
       }
     ]
+  },
+  {
+    "schoolID": "VA-marymount-university",
+    "schoolName": "Marymount University",
+    "state": "VA",
+    "division": "D3",
+    "conference": "Atlantic East Conference",
+    "coaches": []
   },
   {
     "schoolID": "TN-maryville-college",
@@ -16824,6 +18137,14 @@
     ]
   },
   {
+    "schoolID": "IL-mchenry-county-college",
+    "schoolName": "McHenry County College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
+  },
+  {
     "schoolID": "IL-mckendree-university",
     "schoolName": "McKendree University",
     "state": "IL",
@@ -16880,6 +18201,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "CA-mendocino-college",
+    "schoolName": "Mendocino College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Bay Valley Conference",
+    "coaches": []
   },
   {
     "schoolID": "CA-menlo-college",
@@ -17112,6 +18441,14 @@
     "coaches": []
   },
   {
+    "schoolID": "MN-mesabi-range-community-and-technical-college",
+    "schoolName": "Mesabi Range Community and Technical College",
+    "state": "MN",
+    "division": "JUCO",
+    "conference": "NJCAA Region 13",
+    "coaches": []
+  },
+  {
     "schoolID": "PA-messiah-university",
     "schoolName": "Messiah University",
     "state": "PA",
@@ -17317,6 +18654,30 @@
     ]
   },
   {
+    "schoolID": "MI-mid-michigan-college",
+    "schoolName": "Mid Michigan College",
+    "state": "MI",
+    "division": "JUCO",
+    "conference": "NJCAA Region 12",
+    "coaches": []
+  },
+  {
+    "schoolID": "NE-mid-plains-community-college-mccook-campus",
+    "schoolName": "Mid-Plains Community College-McCook Campus",
+    "state": "NE",
+    "division": "JUCO",
+    "conference": "NJCAA Region 9",
+    "coaches": []
+  },
+  {
+    "schoolID": "GA-middle-georgia-state-university",
+    "schoolName": "Middle Georgia State University",
+    "state": "GA",
+    "division": "D2",
+    "conference": "Peach Belt Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "TN-middle-tennessee-state-university",
     "schoolName": "Middle Tennessee State University",
     "state": "TN",
@@ -17380,6 +18741,22 @@
     "state": "NJ",
     "division": "JUCO D3",
     "conference": "NJCAA Region 19 (DIII)",
+    "coaches": []
+  },
+  {
+    "schoolID": "NJ-middlesex-community-college",
+    "schoolName": "Middlesex Community College",
+    "state": "NJ",
+    "division": "JUCO",
+    "conference": "NJCAA Region 19",
+    "coaches": []
+  },
+  {
+    "schoolID": "TX-midland-college",
+    "schoolName": "Midland College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 5",
     "coaches": []
   },
   {
@@ -17598,6 +18975,14 @@
     "coaches": []
   },
   {
+    "schoolID": "MN-minnesota-state-community-and-technical-college",
+    "schoolName": "Minnesota State Community and Technical College",
+    "state": "MN",
+    "division": "JUCO",
+    "conference": "NJCAA Region 13",
+    "coaches": []
+  },
+  {
     "schoolID": "MN-minnesota-state-university-mankato",
     "schoolName": "Minnesota State University, Mankato",
     "state": "MN",
@@ -17629,6 +19014,14 @@
         "lastVerifiedDate": "2026-07-25T00:49:56Z"
       }
     ]
+  },
+  {
+    "schoolID": "MN-minnesota-west-community-and-technical-college",
+    "schoolName": "Minnesota West Community & Technical College",
+    "state": "MN",
+    "division": "JUCO",
+    "conference": "NJCAA Region 13",
+    "coaches": []
   },
   {
     "schoolID": "ND-minot-state-university",
@@ -17669,6 +19062,14 @@
     "state": "PA",
     "division": "D3",
     "conference": "Middle Atlantic Conference Freedom",
+    "coaches": []
+  },
+  {
+    "schoolID": "MS-mississippi-christian-university",
+    "schoolName": "Mississippi Christian University",
+    "state": "MS",
+    "division": "D2",
+    "conference": "Gulf South Conference",
     "coaches": []
   },
   {
@@ -17993,6 +19394,14 @@
     ]
   },
   {
+    "schoolID": "MO-moberly-area",
+    "schoolName": "Moberly Area",
+    "state": "MO",
+    "division": "JUCO",
+    "conference": "NJCAA Region 16",
+    "coaches": []
+  },
+  {
     "schoolID": "CA-modesto-junior",
     "schoolName": "Modesto Junior",
     "state": "CA",
@@ -18032,6 +19441,14 @@
         "lastVerifiedDate": "2026-08-11T21:38:32Z"
       }
     ]
+  },
+  {
+    "schoolID": "NY-mohawk-valley-community-college",
+    "schoolName": "Mohawk Valley Community College",
+    "state": "NY",
+    "division": "JUCO",
+    "conference": "NJCAA Region 3",
+    "coaches": []
   },
   {
     "schoolID": "NY-molloy-university",
@@ -18181,6 +19598,14 @@
     ]
   },
   {
+    "schoolID": "NY-monroe-college-bronx",
+    "schoolName": "Monroe College-Bronx",
+    "state": "NY",
+    "division": "JUCO",
+    "conference": "NJCAA Region 15",
+    "coaches": []
+  },
+  {
     "schoolID": "NY-monroe-community-college",
     "schoolName": "Monroe Community College",
     "state": "NY",
@@ -18247,11 +19672,27 @@
     ]
   },
   {
+    "schoolID": "CA-monterey-peninsula-college",
+    "schoolName": "Monterey Peninsula College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Coast Conference South",
+    "coaches": []
+  },
+  {
     "schoolID": "MD-montgomery-college",
     "schoolName": "Montgomery College",
     "state": "MD",
     "division": "JUCO D2",
     "conference": "NJCAA Region 20 / MD JUCO",
+    "coaches": []
+  },
+  {
+    "schoolID": "PA-montgomery-county-community-college",
+    "schoolName": "Montgomery County Community College",
+    "state": "PA",
+    "division": "JUCO",
+    "conference": "NJCAA Region 19",
     "coaches": []
   },
   {
@@ -18286,6 +19727,14 @@
         "lastVerifiedDate": "2026-08-11T21:34:17Z"
       }
     ]
+  },
+  {
+    "schoolID": "IL-moraine-valley-community-college",
+    "schoolName": "Moraine Valley Community College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
   },
   {
     "schoolID": "PA-moravian-university",
@@ -18370,11 +19819,27 @@
     ]
   },
   {
+    "schoolID": "IL-morton-college",
+    "schoolName": "Morton College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
+  },
+  {
     "schoolID": "TN-motlow-state-community-college",
     "schoolName": "Motlow State Community College",
     "state": "TN",
     "division": "JUCO D2",
     "conference": "NJCAA Region 7 (DII)",
+    "coaches": []
+  },
+  {
+    "schoolID": "MI-mott-community-college",
+    "schoolName": "Mott Community College",
+    "state": "MI",
+    "division": "JUCO",
+    "conference": "NJCAA Region 12",
     "coaches": []
   },
   {
@@ -18452,6 +19917,14 @@
     ]
   },
   {
+    "schoolID": "NY-mount-st-mary-college",
+    "schoolName": "Mount St. Mary College",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Skyline Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "MD-mount-st-mary-s-university",
     "schoolName": "Mount St. Mary's University",
     "state": "MD",
@@ -18499,6 +19972,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "TX-mountain-view-college",
+    "schoolName": "Mountain View College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 5",
+    "coaches": []
   },
   {
     "schoolID": "OR-mt-hood-community-college",
@@ -18689,6 +20170,14 @@
     ]
   },
   {
+    "schoolID": "MI-muskegon-community-college",
+    "schoolName": "Muskegon Community College",
+    "state": "MI",
+    "division": "JUCO",
+    "conference": "NJCAA Region 12",
+    "coaches": []
+  },
+  {
     "schoolID": "OH-muskingum-university",
     "schoolName": "Muskingum University",
     "state": "OH",
@@ -18764,11 +20253,27 @@
     ]
   },
   {
+    "schoolID": "NY-nassau-community-college",
+    "schoolName": "Nassau Community College",
+    "state": "NY",
+    "division": "JUCO",
+    "conference": "NJCAA Region 15",
+    "coaches": []
+  },
+  {
     "schoolID": "AR-national-park-college",
     "schoolName": "National Park College",
     "state": "AR",
     "division": "JUCO D1",
     "conference": "NJCAA Region 2",
+    "coaches": []
+  },
+  {
+    "schoolID": "TX-navarro-college",
+    "schoolName": "Navarro College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 14",
     "coaches": []
   },
   {
@@ -18951,6 +20456,14 @@
         "lastVerifiedDate": "2026-07-03T15:54:34Z"
       }
     ]
+  },
+  {
+    "schoolID": "NM-new-mexico-junior-college",
+    "schoolName": "New Mexico Junior College",
+    "state": "NM",
+    "division": "JUCO",
+    "conference": "NJCAA Region 5",
+    "coaches": []
   },
   {
     "schoolID": "NM-new-mexico-military-institute",
@@ -19478,6 +20991,14 @@
     "coaches": []
   },
   {
+    "schoolID": "TX-north-central-texas-college",
+    "schoolName": "North Central Texas College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 5",
+    "coaches": []
+  },
+  {
     "schoolID": "MN-north-central-university-mn",
     "schoolName": "North Central University (MN)",
     "state": "MN",
@@ -19493,6 +21014,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "ND-north-dakota-state-college-of-science",
+    "schoolName": "North Dakota State College of Science",
+    "state": "ND",
+    "division": "JUCO",
+    "conference": "NJCAA Region 13",
+    "coaches": []
   },
   {
     "schoolID": "ND-north-dakota-state-university",
@@ -19577,6 +21106,14 @@
     "coaches": []
   },
   {
+    "schoolID": "TX-north-lake-college",
+    "schoolName": "North Lake College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 5",
+    "coaches": []
+  },
+  {
     "schoolID": "IL-north-park-university",
     "schoolName": "North Park University",
     "state": "IL",
@@ -19651,6 +21188,14 @@
     "coaches": []
   },
   {
+    "schoolID": "IA-northeast-iowa-community-college",
+    "schoolName": "Northeast Iowa Community College",
+    "state": "IA",
+    "division": "JUCO",
+    "conference": "NJCAA Region 11",
+    "coaches": []
+  },
+  {
     "schoolID": "MS-northeast-mississippi-community-college",
     "schoolName": "Northeast Mississippi Community College",
     "state": "MS",
@@ -19674,6 +21219,30 @@
         "lastVerifiedDate": "2026-07-30T21:08:22Z"
       }
     ]
+  },
+  {
+    "schoolID": "TX-northeast-texas-community-college",
+    "schoolName": "Northeast Texas Community College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 14",
+    "coaches": []
+  },
+  {
+    "schoolID": "CO-northeastern-junior-college-co",
+    "schoolName": "Northeastern Junior College CO",
+    "state": "CO",
+    "division": "JUCO",
+    "conference": "NJCAA Region 9",
+    "coaches": []
+  },
+  {
+    "schoolID": "OK-northeastern-oklahoma-aandm-college",
+    "schoolName": "Northeastern Oklahoma A&M College",
+    "state": "OK",
+    "division": "JUCO",
+    "conference": "NJCAA Region 2",
+    "coaches": []
   },
   {
     "schoolID": "OK-northeastern-state-university",
@@ -19873,6 +21442,22 @@
     ]
   },
   {
+    "schoolID": "OK-northern-oklahoma-college-enid-campus",
+    "schoolName": "Northern Oklahoma College-Enid Campus",
+    "state": "OK",
+    "division": "JUCO",
+    "conference": "NJCAA Region 2",
+    "coaches": []
+  },
+  {
+    "schoolID": "OK-northern-oklahoma-college-tonkawa-campus",
+    "schoolName": "Northern Oklahoma College-Tonkawa Campus",
+    "state": "OK",
+    "division": "JUCO",
+    "conference": "NJCAA Region 2",
+    "coaches": []
+  },
+  {
     "schoolID": "SD-northern-state-university",
     "schoolName": "Northern State University",
     "state": "SD",
@@ -19920,6 +21505,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "VT-northern-vermont-university-lyndon",
+    "schoolName": "Northern Vermont University-Lyndon",
+    "state": "VT",
+    "division": "D3",
+    "conference": "North Atlantic Conference",
+    "coaches": []
   },
   {
     "schoolID": "WI-northland-college",
@@ -19993,6 +21586,14 @@
     "state": "AL",
     "division": "JUCO D1",
     "conference": "Alabama Community College Conference (ACCC)",
+    "coaches": []
+  },
+  {
+    "schoolID": "OK-northwestern-oklahoma-state-university",
+    "schoolName": "Northwestern Oklahoma State University",
+    "state": "OK",
+    "division": "D2",
+    "conference": "Great American Conference",
     "coaches": []
   },
   {
@@ -20099,8 +21700,8 @@
         "title": "Head Coach",
         "email": "mbackert@ndm.edu",
         "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-09-27T00:12:47Z"
+        "twitter": "@CoachBackert",
+        "lastVerifiedDate": "2026-09-27T11:09:55Z"
       },
       {
         "name": "DJ Gargano",
@@ -20186,6 +21787,14 @@
     ]
   },
   {
+    "schoolID": "LA-nunez-community-college",
+    "schoolName": "Nunez Community College",
+    "state": "LA",
+    "division": "JUCO",
+    "conference": "NJCAA Region 23",
+    "coaches": []
+  },
+  {
     "schoolID": "MI-oakland-university",
     "schoolName": "Oakland University",
     "state": "MI",
@@ -20225,6 +21834,14 @@
         "lastVerifiedDate": "2026-08-03T14:17:25Z"
       }
     ]
+  },
+  {
+    "schoolID": "IL-oakton-community-college",
+    "schoolName": "Oakton Community College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
   },
   {
     "schoolID": "OH-oberlin-college",
@@ -20314,6 +21931,14 @@
     "state": "NJ",
     "division": "JUCO D3",
     "conference": "NJCAA Region 19 (DIII)",
+    "coaches": []
+  },
+  {
+    "schoolID": "TX-odessa-college",
+    "schoolName": "Odessa College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 5",
     "coaches": []
   },
   {
@@ -20457,6 +22082,14 @@
     ]
   },
   {
+    "schoolID": "OH-ohio-wesleyan-university",
+    "schoolName": "Ohio Wesleyan University",
+    "state": "OH",
+    "division": "D3",
+    "conference": "North Coast Athletic Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "CA-ohlone-college",
     "schoolName": "Ohlone College",
     "state": "CA",
@@ -20512,6 +22145,22 @@
         "lastVerifiedDate": "2026-08-11T21:34:21Z"
       }
     ]
+  },
+  {
+    "schoolID": "OK-oklahoma-baptist-university",
+    "schoolName": "Oklahoma Baptist University",
+    "state": "OK",
+    "division": "D2",
+    "conference": "Great American Conference",
+    "coaches": []
+  },
+  {
+    "schoolID": "OK-oklahoma-christian-university",
+    "schoolName": "Oklahoma Christian University",
+    "state": "OK",
+    "division": "D2",
+    "conference": "Lone Star Conference",
+    "coaches": []
   },
   {
     "schoolID": "OK-oklahoma-state-university",
@@ -20572,6 +22221,14 @@
     ]
   },
   {
+    "schoolID": "IL-olive-harvey-college",
+    "schoolName": "Olive-Harvey College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
+  },
+  {
     "schoolID": "MI-olivet-college",
     "schoolName": "Olivet College",
     "state": "MI",
@@ -20587,6 +22244,22 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "IL-olney-central-college",
+    "schoolName": "Olney Central College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 24",
+    "coaches": []
+  },
+  {
+    "schoolID": "WA-olympic-college",
+    "schoolName": "Olympic College",
+    "state": "WA",
+    "division": "JUCO",
+    "conference": "Northwest Athletic Conference",
+    "coaches": []
   },
   {
     "schoolID": "NY-onondaga-community-college",
@@ -20661,6 +22334,14 @@
         "lastVerifiedDate": "2026-08-11T21:34:22Z"
       }
     ]
+  },
+  {
+    "schoolID": "NY-orange-county-community-college",
+    "schoolName": "Orange County Community College",
+    "state": "NY",
+    "division": "JUCO",
+    "conference": "NJCAA Region 15",
+    "coaches": []
   },
   {
     "schoolID": "OR-oregon-state-university",
@@ -20808,6 +22489,14 @@
     "state": "OH",
     "division": "JUCO D2",
     "conference": "NJCAA Region 12 (DII)",
+    "coaches": []
+  },
+  {
+    "schoolID": "CA-oxnard-college",
+    "schoolName": "Oxnard College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Western State North",
     "coaches": []
   },
   {
@@ -20991,6 +22680,30 @@
     "coaches": []
   },
   {
+    "schoolID": "TX-panola-college",
+    "schoolName": "Panola College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 14",
+    "coaches": []
+  },
+  {
+    "schoolID": "AZ-paradise-valley-community-college",
+    "schoolName": "Paradise Valley Community College",
+    "state": "AZ",
+    "division": "JUCO",
+    "conference": "NJCAA Region 1",
+    "coaches": []
+  },
+  {
+    "schoolID": "TX-paris-junior-college",
+    "schoolName": "Paris Junior College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 14",
+    "coaches": []
+  },
+  {
     "schoolID": "IL-parkland-college",
     "schoolName": "Parkland College",
     "state": "IL",
@@ -21080,6 +22793,22 @@
     "coaches": []
   },
   {
+    "schoolID": "PA-penn-state-berks-lehigh-valley-college",
+    "schoolName": "Penn State Berks-Lehigh Valley College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "United East Conference",
+    "coaches": []
+  },
+  {
+    "schoolID": "PA-pennwest-clarion",
+    "schoolName": "PennWest Clarion",
+    "state": "PA",
+    "division": "D2",
+    "conference": "Pennylvania State Athletic Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "PA-pennsylvania-college-of-technology",
     "schoolName": "Pennsylvania College of Technology",
     "state": "PA",
@@ -21111,6 +22840,14 @@
         "lastVerifiedDate": "2026-09-15T02:12:07Z"
       }
     ]
+  },
+  {
+    "schoolID": "PA-pennsylvania-state-univ-erie-the-behrend-college",
+    "schoolName": "Pennsylvania State Univ. Erie, the Behrend College",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Allegheny Mountain Collegiate Conference",
+    "coaches": []
   },
   {
     "schoolID": "PA-pennsylvania-state-university",
@@ -21671,6 +23408,14 @@
     ]
   },
   {
+    "schoolID": "CA-point-loma-nazarene-university",
+    "schoolName": "Point Loma Nazarene University",
+    "state": "CA",
+    "division": "D2",
+    "conference": "Pacific West Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "PA-point-park-university",
     "schoolName": "Point Park University",
     "state": "PA",
@@ -21810,6 +23555,14 @@
     ]
   },
   {
+    "schoolID": "CA-porterville-college",
+    "schoolName": "Porterville College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Central Valley",
+    "coaches": []
+  },
+  {
     "schoolID": "OR-portland-community-college",
     "schoolName": "Portland Community College",
     "state": "OR",
@@ -21900,6 +23653,14 @@
     "coaches": []
   },
   {
+    "schoolID": "IL-prairie-state-college",
+    "schoolName": "Prairie State College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
+  },
+  {
     "schoolID": "TX-prairie-view-am-university",
     "schoolName": "Prairie View A&M University",
     "state": "TX",
@@ -21915,6 +23676,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "KS-pratt-community-college",
+    "schoolName": "Pratt Community College",
+    "state": "KS",
+    "division": "JUCO",
+    "conference": "NJCAA Region 6",
+    "coaches": []
   },
   {
     "schoolID": "SC-presbyterian-college",
@@ -22237,6 +24006,14 @@
     ]
   },
   {
+    "schoolID": "NY-queensborough-community-college",
+    "schoolName": "Queensborough Community College",
+    "state": "NY",
+    "division": "JUCO",
+    "conference": "NJCAA Region 15",
+    "coaches": []
+  },
+  {
     "schoolID": "MA-quincy-college",
     "schoolName": "Quincy College",
     "state": "MA",
@@ -22326,6 +24103,14 @@
         "lastVerifiedDate": "2026-08-31T01:20:51Z"
       }
     ]
+  },
+  {
+    "schoolID": "MN-rainy-river-community-college",
+    "schoolName": "Rainy River Community College",
+    "state": "MN",
+    "division": "JUCO",
+    "conference": "NJCAA Region 13",
+    "coaches": []
   },
   {
     "schoolID": "NJ-ramapo-college-of-new-jersey",
@@ -22441,6 +24226,30 @@
         "lastVerifiedDate": "2026-07-28T19:51:00Z"
       }
     ]
+  },
+  {
+    "schoolID": "TX-ranger-college",
+    "schoolName": "Ranger College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 5",
+    "coaches": []
+  },
+  {
+    "schoolID": "NJ-raritan-valley-community-college",
+    "schoolName": "Raritan Valley Community College",
+    "state": "NJ",
+    "division": "JUCO",
+    "conference": "NJCAA Region 19",
+    "coaches": []
+  },
+  {
+    "schoolID": "OK-redlands-community-college",
+    "schoolName": "Redlands Community College",
+    "state": "OK",
+    "division": "JUCO",
+    "conference": "NJCAA Region 2",
+    "coaches": []
   },
   {
     "schoolID": "CA-reedley-college",
@@ -22615,6 +24424,14 @@
     "coaches": []
   },
   {
+    "schoolID": "TX-richland-college",
+    "schoolName": "Richland College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 5",
+    "coaches": []
+  },
+  {
     "schoolID": "NJ-rider-university",
     "schoolName": "Rider University",
     "state": "NJ",
@@ -22664,6 +24481,14 @@
     "coaches": []
   },
   {
+    "schoolID": "CA-rio-hondo-community-college",
+    "schoolName": "Rio Hondo Community College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "South Coast",
+    "coaches": []
+  },
+  {
     "schoolID": "WI-ripon-college",
     "schoolName": "Ripon College",
     "state": "WI",
@@ -22688,6 +24513,14 @@
     "coaches": []
   },
   {
+    "schoolID": "CA-riverside-community-college",
+    "schoolName": "Riverside Community College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Orange Empire",
+    "coaches": []
+  },
+  {
     "schoolID": "NH-rivier-university",
     "schoolName": "Rivier University",
     "state": "NH",
@@ -22703,6 +24536,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "TN-roane-state-community-college",
+    "schoolName": "Roane State Community College",
+    "state": "TN",
+    "division": "JUCO",
+    "conference": "NJCAA Region 7",
+    "coaches": []
   },
   {
     "schoolID": "VA-roanoke-college",
@@ -22739,6 +24580,14 @@
     ]
   },
   {
+    "schoolID": "NC-robeson-community-college",
+    "schoolName": "Robeson Community College",
+    "state": "NC",
+    "division": "JUCO",
+    "conference": "NJCAA Region 10",
+    "coaches": []
+  },
+  {
     "schoolID": "MN-rochester-community-and-technical-college",
     "schoolName": "Rochester Community and Technical College",
     "state": "MN",
@@ -22770,6 +24619,14 @@
         "lastVerifiedDate": "2026-07-30T21:08:27Z"
       }
     ]
+  },
+  {
+    "schoolID": "IL-rock-valley-college",
+    "schoolName": "Rock Valley College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
   },
   {
     "schoolID": "IL-rockford-university",
@@ -22907,6 +24764,14 @@
     "state": "NC",
     "division": "JUCO D1",
     "conference": "NJCAA Region 10",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-rockland-community-college",
+    "schoolName": "Rockland Community College",
+    "state": "NY",
+    "division": "JUCO",
+    "conference": "NJCAA Region 15",
     "coaches": []
   },
   {
@@ -23098,6 +24963,14 @@
     ]
   },
   {
+    "schoolID": "OK-rose-state-college",
+    "schoolName": "Rose State College",
+    "state": "OK",
+    "division": "JUCO",
+    "conference": "NJCAA Region 2",
+    "coaches": []
+  },
+  {
     "schoolID": "IN-rose-hulman-institute-of-technology",
     "schoolName": "Rose-Hulman Institute of Technology",
     "state": "IN",
@@ -23113,6 +24986,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "PA-rosemont",
+    "schoolName": "Rosemont",
+    "state": "PA",
+    "division": "D3",
+    "conference": "United East Conference",
+    "coaches": []
   },
   {
     "schoolID": "NJ-rowan-college-south-jersey-cumberland",
@@ -23170,6 +25051,14 @@
         "lastVerifiedDate": "2026-07-30T21:08:28Z"
       }
     ]
+  },
+  {
+    "schoolID": "MA-roxbury",
+    "schoolName": "Roxbury",
+    "state": "MA",
+    "division": "JUCO",
+    "conference": "NJCAA Region 21",
+    "coaches": []
   },
   {
     "schoolID": "NY-russell-sage-college",
@@ -23334,6 +25223,14 @@
         "lastVerifiedDate": "2026-08-10T02:07:30Z"
       }
     ]
+  },
+  {
+    "schoolID": "AR-sau-tech",
+    "schoolName": "SAU Tech",
+    "state": "AR",
+    "division": "JUCO",
+    "conference": "NJCAA Region 2",
+    "coaches": []
   },
   {
     "schoolID": "CA-sf-state",
@@ -23829,6 +25726,14 @@
     ]
   },
   {
+    "schoolID": "NY-suny-polytechnic-university",
+    "schoolName": "SUNY Polytechnic University",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Empire 8 Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "NY-suny-at-purchase-college",
     "schoolName": "SUNY at Purchase College",
     "state": "NY",
@@ -23876,6 +25781,30 @@
         "lastVerifiedDate": "2026-08-08T00:53:47Z"
       }
     ]
+  },
+  {
+    "schoolID": "NY-suny-canton",
+    "schoolName": "SUNY-Canton",
+    "state": "NY",
+    "division": "D3",
+    "conference": "State University of NY Athletic Conference",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-suny-farmingdale",
+    "schoolName": "SUNY-Farmingdale",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Skyline Conference",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-suny-jamestown",
+    "schoolName": "SUNY-Jamestown",
+    "state": "NY",
+    "division": "JUCO",
+    "conference": "NJCAA Region 3",
+    "coaches": []
   },
   {
     "schoolID": "CA-sacramento-city",
@@ -24626,6 +26555,14 @@
     ]
   },
   {
+    "schoolID": "WV-salem-university",
+    "schoolName": "Salem University",
+    "state": "WV",
+    "division": "D2",
+    "conference": "Independent Div2",
+    "coaches": []
+  },
+  {
     "schoolID": "MD-salisbury-university",
     "schoolName": "Salisbury University",
     "state": "MD",
@@ -24821,6 +26758,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "CA-san-bernardino-valley-college",
+    "schoolName": "San Bernardino Valley College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Inland Empire Athletic",
+    "coaches": []
   },
   {
     "schoolID": "CA-san-diego-city",
@@ -25019,11 +26964,27 @@
     "coaches": []
   },
   {
+    "schoolID": "FL-santa-fe-community-college",
+    "schoolName": "Santa Fe Community College",
+    "state": "FL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 8",
+    "coaches": []
+  },
+  {
     "schoolID": "CA-santa-rosa-jc",
     "schoolName": "Santa Rosa JC",
     "state": "CA",
     "division": "JUCO 1",
     "conference": "Big 8",
+    "coaches": []
+  },
+  {
+    "schoolID": "IL-sauk-valley-community-college",
+    "schoolName": "Sauk Valley Community College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
     "coaches": []
   },
   {
@@ -25042,6 +27003,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "MI-schoolcraft-college",
+    "schoolName": "Schoolcraft College",
+    "state": "MI",
+    "division": "JUCO",
+    "conference": "NJCAA Region 12",
+    "coaches": []
   },
   {
     "schoolID": "TX-schreiner-university",
@@ -25200,6 +27169,14 @@
     "coaches": []
   },
   {
+    "schoolID": "IL-shawnee-community-college",
+    "schoolName": "Shawnee Community College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 24",
+    "coaches": []
+  },
+  {
     "schoolID": "OH-shawnee-state-university",
     "schoolName": "Shawnee State University",
     "state": "OH",
@@ -25306,6 +27283,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "WA-shoreline-community-college",
+    "schoolName": "Shoreline Community College",
+    "state": "WA",
+    "division": "JUCO",
+    "conference": "Northwest Athletic Conference",
+    "coaches": []
   },
   {
     "schoolID": "GA-shorter-university",
@@ -25432,6 +27417,14 @@
     "coaches": []
   },
   {
+    "schoolID": "CA-skyline-college-ca",
+    "schoolName": "Skyline College CA",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Coast Conference North",
+    "coaches": []
+  },
+  {
     "schoolID": "PA-slippery-rock-university",
     "schoolName": "Slippery Rock University",
     "state": "PA",
@@ -25538,6 +27531,14 @@
     "coaches": []
   },
   {
+    "schoolID": "AR-south-arkansas-community-college",
+    "schoolName": "South Arkansas Community College",
+    "state": "AR",
+    "division": "JUCO",
+    "conference": "NJCAA Region 2",
+    "coaches": []
+  },
+  {
     "schoolID": "SD-south-dakota-mines",
     "schoolName": "South Dakota Mines",
     "state": "SD",
@@ -25612,6 +27613,30 @@
     "coaches": []
   },
   {
+    "schoolID": "AZ-south-mountain-community-college",
+    "schoolName": "South Mountain Community College",
+    "state": "AZ",
+    "division": "JUCO",
+    "conference": "NJCAA Region 1",
+    "coaches": []
+  },
+  {
+    "schoolID": "IL-south-suburban-college",
+    "schoolName": "South Suburban College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
+  },
+  {
+    "schoolID": "AR-southeast-arkansas-college",
+    "schoolName": "Southeast Arkansas College",
+    "state": "AR",
+    "division": "JUCO",
+    "conference": "NJCAA Region 2",
+    "coaches": []
+  },
+  {
     "schoolID": "NE-southeast-community-college",
     "schoolName": "Southeast Community College",
     "state": "NE",
@@ -25669,11 +27694,27 @@
     "coaches": []
   },
   {
+    "schoolID": "IA-southeastern-community-college",
+    "schoolName": "Southeastern Community College",
+    "state": "IA",
+    "division": "JUCO",
+    "conference": "NJCAA Region 11",
+    "coaches": []
+  },
+  {
     "schoolID": "NC-southeastern-community-college-whiteville",
     "schoolName": "Southeastern Community College - Whiteville",
     "state": "NC",
     "division": "JUCO D1",
     "conference": "NJCAA Region 10",
+    "coaches": []
+  },
+  {
+    "schoolID": "IL-southeastern-illinois-college",
+    "schoolName": "Southeastern Illinois College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 24",
     "coaches": []
   },
   {
@@ -25700,6 +27741,14 @@
         "lastVerifiedDate": "2026-08-03T14:17:33Z"
       }
     ]
+  },
+  {
+    "schoolID": "OK-southeastern-oklahoma-state-university",
+    "schoolName": "Southeastern Oklahoma State University",
+    "state": "OK",
+    "division": "D2",
+    "conference": "Great American Conference",
+    "coaches": []
   },
   {
     "schoolID": "AR-southern-arkansas-university",
@@ -25998,6 +28047,14 @@
     ]
   },
   {
+    "schoolID": "VA-southern-virginia-university",
+    "schoolName": "Southern Virginia University",
+    "state": "VA",
+    "division": "D3",
+    "conference": "USA South Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "SC-southern-wesleyan-university",
     "schoolName": "Southern Wesleyan University",
     "state": "SC",
@@ -26145,6 +28202,22 @@
     "coaches": []
   },
   {
+    "schoolID": "IA-southwestern-community-college",
+    "schoolName": "Southwestern Community College",
+    "state": "IA",
+    "division": "JUCO",
+    "conference": "NJCAA Region 11",
+    "coaches": []
+  },
+  {
+    "schoolID": "IL-southwestern-illinois-college",
+    "schoolName": "Southwestern Illinois College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 24",
+    "coaches": []
+  },
+  {
     "schoolID": "OK-southwestern-oklahoma-state-university",
     "schoolName": "Southwestern Oklahoma State University",
     "state": "OK",
@@ -26276,6 +28349,22 @@
     ]
   },
   {
+    "schoolID": "WA-spokane-community-college",
+    "schoolName": "Spokane Community College",
+    "state": "WA",
+    "division": "JUCO",
+    "conference": "Northwest Athletic Conference",
+    "coaches": []
+  },
+  {
+    "schoolID": "IL-spoon-river-college",
+    "schoolName": "Spoon River College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 24",
+    "coaches": []
+  },
+  {
     "schoolID": "AL-spring-hill-college",
     "schoolName": "Spring Hill College",
     "state": "AL",
@@ -26341,6 +28430,14 @@
         "lastVerifiedDate": "2026-08-03T14:17:34Z"
       }
     ]
+  },
+  {
+    "schoolID": "MO-st-charles-community-college",
+    "schoolName": "St. Charles Community College",
+    "state": "MO",
+    "division": "JUCO",
+    "conference": "NJCAA Region 16",
+    "coaches": []
   },
   {
     "schoolID": "MI-st-clair-county-community-college",
@@ -26433,6 +28530,14 @@
     ]
   },
   {
+    "schoolID": "NY-st-john-fisher-college",
+    "schoolName": "St. John Fisher College",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Empire 8 Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "NY-st-john-s-university",
     "schoolName": "St. John's University",
     "state": "NY",
@@ -26471,6 +28576,22 @@
     "state": "FL",
     "division": "JUCO D1",
     "conference": "NJCAA Region 8 / Mid-Florida",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-st-joseph-s-college-brooklyn",
+    "schoolName": "St. Joseph's College-Brooklyn",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Skyline Conference",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-st-joseph-s-college-long-island",
+    "schoolName": "St. Joseph's College-Long Island",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Skyline Conference",
     "coaches": []
   },
   {
@@ -26581,6 +28702,14 @@
     ]
   },
   {
+    "schoolID": "WI-st-norbert-s-college",
+    "schoolName": "St. Norbert's College",
+    "state": "WI",
+    "division": "D3",
+    "conference": "Northern Athletics Collegiate Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "MN-st-olaf-college",
     "schoolName": "St. Olaf College",
     "state": "MN",
@@ -26669,6 +28798,30 @@
     "state": "FL",
     "division": "JUCO D1",
     "conference": "NJCAA Region 8 / Suncoast",
+    "coaches": []
+  },
+  {
+    "schoolID": "FL-state-college-of-florida-manatee-sarasota",
+    "schoolName": "State College of Florida Manatee-Sarasota",
+    "state": "FL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 8",
+    "coaches": []
+  },
+  {
+    "schoolID": "MO-state-fair-community-college",
+    "schoolName": "State Fair Community College",
+    "state": "MO",
+    "division": "JUCO",
+    "conference": "NJCAA Region 16",
+    "coaches": []
+  },
+  {
+    "schoolID": "NY-state-university-college-at-new-paltz",
+    "schoolName": "State University College at New Paltz",
+    "state": "NY",
+    "division": "D3",
+    "conference": "State University of NY Athletic Conference",
     "coaches": []
   },
   {
@@ -27256,6 +29409,22 @@
     ]
   },
   {
+    "schoolID": "WA-tacoma-community-college",
+    "schoolName": "Tacoma Community College",
+    "state": "WA",
+    "division": "JUCO",
+    "conference": "Northwest Athletic Conference",
+    "coaches": []
+  },
+  {
+    "schoolID": "CA-taft-college",
+    "schoolName": "Taft College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Central Valley",
+    "coaches": []
+  },
+  {
     "schoolID": "FL-tallahassee-community-college",
     "schoolName": "Tallahassee Community College",
     "state": "FL",
@@ -27313,6 +29482,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "OH-terra-state-community-college",
+    "schoolName": "Terra State Community College",
+    "state": "OH",
+    "division": "JUCO",
+    "conference": "NJCAA Region 12",
+    "coaches": []
   },
   {
     "schoolID": "TX-texas-am-international-university",
@@ -27453,6 +29630,14 @@
         "lastVerifiedDate": "2026-07-25T00:50:01Z"
       }
     ]
+  },
+  {
+    "schoolID": "TX-texas-lutheran-university",
+    "schoolName": "Texas Lutheran University",
+    "state": "TX",
+    "division": "D3",
+    "conference": "Southern Collegiate Athletic Conference",
+    "coaches": []
   },
   {
     "schoolID": "TX-texas-southern-university",
@@ -27890,6 +30075,14 @@
     ]
   },
   {
+    "schoolID": "VA-the-university-of-virginia-s-college-at-wise",
+    "schoolName": "The University of Virginia's College at Wise",
+    "state": "VA",
+    "division": "D2",
+    "conference": "South Atlantic Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "PA-thiel-college",
     "schoolName": "Thiel College",
     "state": "PA",
@@ -27913,6 +30106,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "ME-thomas-college-me",
+    "schoolName": "Thomas College ME",
+    "state": "ME",
+    "division": "D3",
+    "conference": "North Atlantic Conference",
+    "coaches": []
   },
   {
     "schoolID": "NJ-thomas-jefferson-university",
@@ -27965,6 +30166,14 @@
     "coaches": []
   },
   {
+    "schoolID": "MO-three-rivers-community-college",
+    "schoolName": "Three Rivers Community College",
+    "state": "MO",
+    "division": "JUCO",
+    "conference": "NJCAA Region 16",
+    "coaches": []
+  },
+  {
     "schoolID": "OH-tiffin-university",
     "schoolName": "Tiffin University",
     "state": "OH",
@@ -27988,6 +30197,14 @@
         "lastVerifiedDate": "2026-07-28T21:30:55Z"
       }
     ]
+  },
+  {
+    "schoolID": "NY-tompkins-cortland-community-college",
+    "schoolName": "Tompkins Cortland Community College",
+    "state": "NY",
+    "division": "JUCO",
+    "conference": "NJCAA Region 3",
+    "coaches": []
   },
   {
     "schoolID": "MD-towson-university",
@@ -28062,6 +30279,14 @@
         "lastVerifiedDate": "2026-08-03T00:33:37Z"
       }
     ]
+  },
+  {
+    "schoolID": "OR-treasure-valley-community-college",
+    "schoolName": "Treasure Valley Community College",
+    "state": "OR",
+    "division": "JUCO",
+    "conference": "Northwest Athletic Conference",
+    "coaches": []
   },
   {
     "schoolID": "TN-trevecca-nazarene-university",
@@ -28146,6 +30371,14 @@
     ]
   },
   {
+    "schoolID": "CO-trinidad-state-junior-college",
+    "schoolName": "Trinidad State Junior College",
+    "state": "CO",
+    "division": "JUCO",
+    "conference": "NJCAA Region 9",
+    "coaches": []
+  },
+  {
     "schoolID": "CT-trinity-college",
     "schoolName": "Trinity College",
     "state": "CT",
@@ -28195,6 +30428,14 @@
     ]
   },
   {
+    "schoolID": "CT-trinity-college-ct",
+    "schoolName": "Trinity College CT",
+    "state": "CT",
+    "division": "D3",
+    "conference": "New England Small College Athletic Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "TX-trinity-university-tx",
     "schoolName": "Trinity University (TX)",
     "state": "TX",
@@ -28242,6 +30483,14 @@
         "lastVerifiedDate": "2026-07-30T21:08:36Z"
       }
     ]
+  },
+  {
+    "schoolID": "IL-triton-college",
+    "schoolName": "Triton College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
   },
   {
     "schoolID": "AL-troy-university",
@@ -28458,6 +30707,14 @@
     ]
   },
   {
+    "schoolID": "TX-tyler-junior-college",
+    "schoolName": "Tyler Junior College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 14",
+    "coaches": []
+  },
+  {
     "schoolID": "CT-us-coast-guard-academy",
     "schoolName": "U.S. Coast Guard Academy",
     "state": "CT",
@@ -28489,6 +30746,14 @@
         "lastVerifiedDate": "2026-09-08T15:11:28Z"
       }
     ]
+  },
+  {
+    "schoolID": "NY-u-s-merchant-marine-academy",
+    "schoolName": "U.S. Merchant Marine Academy",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Skyline Conference",
+    "coaches": []
   },
   {
     "schoolID": "CA-uc-berkeley-cal",
@@ -29246,6 +31511,14 @@
     ]
   },
   {
+    "schoolID": "NY-ulster-county-community-college",
+    "schoolName": "Ulster County Community College",
+    "state": "NY",
+    "division": "JUCO",
+    "conference": "NJCAA Region 15",
+    "coaches": []
+  },
+  {
     "schoolID": "OR-umpqua-community-college",
     "schoolName": "Umpqua Community College",
     "state": "OR",
@@ -29293,6 +31566,22 @@
         "lastVerifiedDate": "2026-07-30T21:08:37Z"
       }
     ]
+  },
+  {
+    "schoolID": "NY-union-college-ny",
+    "schoolName": "Union College NY",
+    "state": "NY",
+    "division": "D3",
+    "conference": "Liberty League",
+    "coaches": []
+  },
+  {
+    "schoolID": "NJ-union-community-college",
+    "schoolName": "Union Community College",
+    "state": "NJ",
+    "division": "JUCO",
+    "conference": "NJCAA Region 19",
+    "coaches": []
   },
   {
     "schoolID": "TN-union-university",
@@ -29722,6 +32011,14 @@
     ]
   },
   {
+    "schoolID": "AR-university-of-arkansas-rich-mountain",
+    "schoolName": "University of Arkansas Rich Mountain",
+    "state": "AR",
+    "division": "JUCO",
+    "conference": "NJCAA Region 2",
+    "coaches": []
+  },
+  {
     "schoolID": "AR-university-of-arkansas-at-little-rock",
     "schoolName": "University of Arkansas at Little Rock",
     "state": "AR",
@@ -29795,6 +32092,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "AR-university-of-arkansas-fort-smith",
+    "schoolName": "University of Arkansas-Fort Smith",
+    "state": "AR",
+    "division": "D2",
+    "conference": "Mid-America Intercollegiate Athletic Association",
+    "coaches": []
   },
   {
     "schoolID": "CT-university-of-bridgeport",
@@ -29912,6 +32217,22 @@
     ]
   },
   {
+    "schoolID": "MO-university-of-central-missouri",
+    "schoolName": "University of Central Missouri",
+    "state": "MO",
+    "division": "D2",
+    "conference": "Mid-America Intercollegiate Athletic Association",
+    "coaches": []
+  },
+  {
+    "schoolID": "OK-university-of-central-oklahoma",
+    "schoolName": "University of Central Oklahoma",
+    "state": "OK",
+    "division": "D2",
+    "conference": "Mid-America Intercollegiate Athletic Association",
+    "coaches": []
+  },
+  {
     "schoolID": "WV-university-of-charleston-wv",
     "schoolName": "University of Charleston (WV)",
     "state": "WV",
@@ -29927,6 +32248,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "IL-university-of-chicago",
+    "schoolName": "University of Chicago",
+    "state": "IL",
+    "division": "D3",
+    "conference": "University Athletic Association",
+    "coaches": []
   },
   {
     "schoolID": "OH-university-of-cincinnati",
@@ -30058,6 +32387,22 @@
         "lastVerifiedDate": "2026-07-24T18:59:26Z"
       }
     ]
+  },
+  {
+    "schoolID": "CT-university-of-connecticut-avery-point",
+    "schoolName": "University of Connecticut-Avery Point",
+    "state": "CT",
+    "division": "JUCO",
+    "conference": "NJCAA Region 21",
+    "coaches": []
+  },
+  {
+    "schoolID": "TX-university-of-dallas",
+    "schoolName": "University of Dallas",
+    "state": "TX",
+    "division": "D3",
+    "conference": "Southern Collegiate Athletic Conference",
+    "coaches": []
   },
   {
     "schoolID": "OH-university-of-dayton",
@@ -31584,6 +33929,14 @@
     ]
   },
   {
+    "schoolID": "MN-university-of-minnesota-crookston",
+    "schoolName": "University of Minnesota-Crookston",
+    "state": "MN",
+    "division": "D2",
+    "conference": "Northern Sun Intercollegiate Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "MS-university-of-mississippi-ole-miss",
     "schoolName": "University of Mississippi (Ole Miss)",
     "state": "MS",
@@ -31664,6 +34017,14 @@
         "lastVerifiedDate": "2026-07-27T19:21:07Z"
       }
     ]
+  },
+  {
+    "schoolID": "MO-university-of-missouri-st-louis",
+    "schoolName": "University of Missouri-St. Louis",
+    "state": "MO",
+    "division": "D2",
+    "conference": "Great Lakes Valley Conference",
+    "coaches": []
   },
   {
     "schoolID": "AL-university-of-montevallo",
@@ -32570,6 +34931,22 @@
     ]
   },
   {
+    "schoolID": "PA-university-of-pittsburgh-bradford",
+    "schoolName": "University of Pittsburgh-Bradford",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Allegheny Mountain Collegiate Conference",
+    "coaches": []
+  },
+  {
+    "schoolID": "PA-university-of-pittsburgh-greensburg",
+    "schoolName": "University of Pittsburgh-Greensburg",
+    "state": "PA",
+    "division": "D3",
+    "conference": "Allegheny Mountain Collegiate Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "WA-university-of-puget-sound",
     "schoolName": "University of Puget Sound",
     "state": "WA",
@@ -32757,6 +35134,14 @@
         "lastVerifiedDate": "2026-07-27T19:21:11Z"
       }
     ]
+  },
+  {
+    "schoolID": "CT-university-of-saint-joseph-s-ct",
+    "schoolName": "University of Saint Joseph's CT",
+    "state": "CT",
+    "division": "D3",
+    "conference": "Great Northeast Athletic Conference",
+    "coaches": []
   },
   {
     "schoolID": "CA-university-of-san-diego",
@@ -33002,6 +35387,46 @@
         "lastVerifiedDate": "2026-07-24T21:02:45Z"
       }
     ]
+  },
+  {
+    "schoolID": "SC-university-of-south-carolina-beaufort",
+    "schoolName": "University of South Carolina-Beaufort",
+    "state": "SC",
+    "division": "D2",
+    "conference": "Peach Belt Conference",
+    "coaches": []
+  },
+  {
+    "schoolID": "SC-university-of-south-carolina-lancaster",
+    "schoolName": "University of South Carolina-Lancaster",
+    "state": "SC",
+    "division": "JUCO",
+    "conference": "NJCAA Region 10",
+    "coaches": []
+  },
+  {
+    "schoolID": "SC-university-of-south-carolina-salkehatchie",
+    "schoolName": "University of South Carolina-Salkehatchie",
+    "state": "SC",
+    "division": "JUCO",
+    "conference": "NJCAA Region 10",
+    "coaches": []
+  },
+  {
+    "schoolID": "SC-university-of-south-carolina-sumter",
+    "schoolName": "University of South Carolina-Sumter",
+    "state": "SC",
+    "division": "JUCO",
+    "conference": "NJCAA Region 10",
+    "coaches": []
+  },
+  {
+    "schoolID": "SC-university-of-south-carolina-union",
+    "schoolName": "University of South Carolina-Union",
+    "state": "SC",
+    "division": "JUCO",
+    "conference": "NJCAA Region 10",
+    "coaches": []
   },
   {
     "schoolID": "SD-university-of-south-dakota",
@@ -34390,6 +36815,14 @@
     ]
   },
   {
+    "schoolID": "WI-university-of-wisconsin-superior",
+    "schoolName": "University of Wisconsin-Superior",
+    "state": "WI",
+    "division": "D3",
+    "conference": "Upper Midwest Athletic Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "WI-university-of-wisconsinawhitewater",
     "schoolName": "University of Wisconsin-Whitewater",
     "state": "WI",
@@ -34860,6 +37293,14 @@
     "coaches": []
   },
   {
+    "schoolID": "MN-vermilion-community-college",
+    "schoolName": "Vermilion Community College",
+    "state": "MN",
+    "division": "JUCO",
+    "conference": "NJCAA Region 13",
+    "coaches": []
+  },
+  {
     "schoolID": "VT-vermont-state-university-johnson",
     "schoolName": "Vermont State University - Johnson",
     "state": "VT",
@@ -34892,6 +37333,22 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "TX-vernon-college",
+    "schoolName": "Vernon College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 5",
+    "coaches": []
+  },
+  {
+    "schoolID": "CA-victor-valley-college",
+    "schoolName": "Victor Valley College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Inland Empire Athletic",
+    "coaches": []
   },
   {
     "schoolID": "PA-villanova-university",
@@ -35046,6 +37503,14 @@
     "state": "VA",
     "division": "JUCO D3",
     "conference": "NJCAA Region 10 (DIII)",
+    "coaches": []
+  },
+  {
+    "schoolID": "VA-virginia-state-university",
+    "schoolName": "Virginia State University",
+    "state": "VA",
+    "division": "D2",
+    "conference": "Independent Div2",
     "coaches": []
   },
   {
@@ -35261,6 +37726,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "WA-walla-walla-community-college",
+    "schoolName": "Walla Walla Community College",
+    "state": "WA",
+    "division": "JUCO",
+    "conference": "Northwest Athletic Conference",
+    "coaches": []
   },
   {
     "schoolID": "AL-wallace-community-college-dothan",
@@ -35485,6 +37958,14 @@
     ]
   },
   {
+    "schoolID": "MD-washington-college-md",
+    "schoolName": "Washington College MD",
+    "state": "MD",
+    "division": "D3",
+    "conference": "Centennial Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "WA-washington-state-university",
     "schoolName": "Washington State University",
     "state": "WA",
@@ -35590,6 +38071,14 @@
         "lastVerifiedDate": "2026-07-29T00:43:58Z"
       }
     ]
+  },
+  {
+    "schoolID": "IL-waubonsee-community-college",
+    "schoolName": "Waubonsee Community College",
+    "state": "IL",
+    "division": "JUCO",
+    "conference": "NJCAA Region 4",
+    "coaches": []
   },
   {
     "schoolID": "NE-wayne-state-college-ne",
@@ -35724,6 +38213,14 @@
     ]
   },
   {
+    "schoolID": "CT-wesleyan-university",
+    "schoolName": "Wesleyan University",
+    "state": "CT",
+    "division": "D3",
+    "conference": "New England Small College Athletic Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "PA-west-chester-university",
     "schoolName": "West Chester University",
     "state": "PA",
@@ -35741,6 +38238,14 @@
     ]
   },
   {
+    "schoolID": "CA-west-hills-college",
+    "schoolName": "West Hills College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Central Valley",
+    "coaches": []
+  },
+  {
     "schoolID": "WV-west-liberty-university",
     "schoolName": "West Liberty University",
     "state": "WV",
@@ -35756,6 +38261,14 @@
         "lastVerifiedDate": "2026-08-03T00:33:41Z"
       }
     ]
+  },
+  {
+    "schoolID": "CA-west-los-angeles-college",
+    "schoolName": "West Los Angeles College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Western State South",
+    "coaches": []
   },
   {
     "schoolID": "TX-west-texas-am-university",
@@ -35920,6 +38433,14 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "NY-westchester-community-college",
+    "schoolName": "Westchester Community College",
+    "state": "NY",
+    "division": "JUCO",
+    "conference": "NJCAA Region 15",
+    "coaches": []
   },
   {
     "schoolID": "NC-western-carolina-university",
@@ -36193,6 +38714,14 @@
     ]
   },
   {
+    "schoolID": "OK-western-oklahoma-state-college",
+    "schoolName": "Western Oklahoma State College",
+    "state": "OK",
+    "division": "JUCO",
+    "conference": "NJCAA Region 2",
+    "coaches": []
+  },
+  {
     "schoolID": "OR-western-oregon-university",
     "schoolName": "Western Oregon University",
     "state": "OR",
@@ -36239,6 +38768,14 @@
     "state": "WI",
     "division": "JUCO D3",
     "conference": "NJCAA Region 13 (DIII)",
+    "coaches": []
+  },
+  {
+    "schoolID": "TX-western-texas-college",
+    "schoolName": "Western Texas College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 5",
     "coaches": []
   },
   {
@@ -36332,6 +38869,22 @@
         "lastVerifiedDate": ""
       }
     ]
+  },
+  {
+    "schoolID": "PA-westmoreland-county-community-college",
+    "schoolName": "Westmoreland County Community College",
+    "state": "PA",
+    "division": "JUCO",
+    "conference": "NJCAA Region 20",
+    "coaches": []
+  },
+  {
+    "schoolID": "TX-wharton-county-junior-college",
+    "schoolName": "Wharton County Junior College",
+    "state": "TX",
+    "division": "JUCO",
+    "conference": "NJCAA Region 14",
+    "coaches": []
   },
   {
     "schoolID": "IL-wheaton-college-il",
@@ -36688,6 +39241,14 @@
     ]
   },
   {
+    "schoolID": "CA-william-jessup-university",
+    "schoolName": "William Jessup University",
+    "state": "CA",
+    "division": "D2",
+    "conference": "Pacific West Conference",
+    "coaches": []
+  },
+  {
     "schoolID": "MO-william-jewell-college",
     "schoolName": "William Jewell College",
     "state": "MO",
@@ -36810,6 +39371,14 @@
         "lastVerifiedDate": "2026-07-29T00:43:59Z"
       }
     ]
+  },
+  {
+    "schoolID": "ND-williston-state-college",
+    "schoolName": "Williston State College",
+    "state": "ND",
+    "division": "JUCO",
+    "conference": "NJCAA Region 13",
+    "coaches": []
   },
   {
     "schoolID": "OH-wilmington-college-ohio",
@@ -37613,6 +40182,14 @@
     "state": "CA",
     "division": "JUCO 1",
     "conference": "Bay Valley",
+    "coaches": []
+  },
+  {
+    "schoolID": "CA-yuba-community-college",
+    "schoolName": "Yuba Community College",
+    "state": "CA",
+    "division": "JUCO",
+    "conference": "Bay Valley Conference",
     "coaches": []
   }
 ]

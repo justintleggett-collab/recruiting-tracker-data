@@ -399,5 +399,38 @@
       "code": null,
       "details": null
     }
+  },
+  {
+    "id": "tidal-tank",
+    "description": "A dynamic water-resistance training system designed to build rotational power, core stability, and balance for hitting, pitching and fielding.",
+    "offering": {
+      "expiresAt": null,
+      "title": null,
+      "code": null,
+      "hasOffering": false,
+      "details": null
+    },
+    "sortOrder": 14,
+    "contact": {
+      "phone": null,
+      "xHandle": null,
+      "title": "Rotational Power Training System",
+      "email": null,
+      "name": "Tidal Tank",
+      "linkedInURL": null
+    },
+    "featured": true,
+    "isActive": true,
+    "dateAdded": "2026-10-03",
+    "company": {
+      "categories": [
+        "playerDevelopment"
+      ],
+      "category": "playerDevelopment",
+      "url": "https://www.tidal-tank.com/pages/tidal-tank-baseball",
+      "logoSourceURL": null,
+      "name": "Tidal Tank",
+      "logoURL": null
+    }
   }
 ]

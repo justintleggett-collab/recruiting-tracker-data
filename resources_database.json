@@ -432,5 +432,38 @@
       "name": "Tidal Tank",
       "logoURL": null
     }
+  },
+  {
+    "id": "blast-motion",
+    "contact": {
+      "linkedInURL": null,
+      "title": "Bat Sensor & Swing Analytics",
+      "phone": null,
+      "name": "Blast Motion",
+      "xHandle": null,
+      "email": null
+    },
+    "offering": {
+      "hasOffering": false,
+      "expiresAt": null,
+      "title": null,
+      "code": null,
+      "details": null
+    },
+    "company": {
+      "name": "Blast Motion",
+      "url": "https://blastmotion.com/products/baseball/",
+      "logoURL": null,
+      "logoSourceURL": null,
+      "categories": [
+        "playerDevelopment"
+      ],
+      "category": "playerDevelopment"
+    },
+    "featured": false,
+    "isActive": true,
+    "sortOrder": 15,
+    "dateAdded": "2026-10-04",
+    "description": "Bat sensor that turns any bat into a precision tool, with instant swing data to train with purpose and track real progress."
   }
 ]

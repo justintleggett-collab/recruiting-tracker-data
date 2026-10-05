@@ -28018,7 +28018,15 @@
     "state": "LA",
     "division": "D1",
     "conference": "SWAC",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Wilhelm Allen",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "UT-southern-utah-university",

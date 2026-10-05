@@ -1862,11 +1862,60 @@
         "lastVerifiedDate": ""
       },
       {
-        "name": "Matt Rosinski",
+        "name": "Andrew Morse",
         "title": "Assistant Coach",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:39Z"
+      },
+      {
+        "name": "Brandon Gelpi",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:39Z"
+      },
+      {
+        "name": "Jake Smith",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:38Z"
+      },
+      {
+        "name": "Mark Terlep",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:39Z"
+      },
+      {
+        "name": "Matt Rosinski",
+        "title": "Assistant Coach",
+        "email": "mrosinsk@bw.edu",
+        "phone": "440-826-3702",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:37Z"
+      },
+      {
+        "name": "Mike Louis",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:38Z"
+      },
+      {
+        "name": "Steve Hagen",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "440-826-3702",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:38Z"
       }
     ]
   },
@@ -11763,7 +11812,48 @@
     "state": "CA",
     "division": "D2",
     "conference": "Pacific West Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Oscar Hirschkorn",
+        "title": "Head Coach",
+        "email": "oscar.hirschkorn@fresno.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:45Z"
+      },
+      {
+        "name": "Jaylen Rodriguez",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:45Z"
+      },
+      {
+        "name": "Jordan Smith",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:46Z"
+      },
+      {
+        "name": "Karlan Andrews",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:45Z"
+      },
+      {
+        "name": "Sid Lacy",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:45Z"
+      }
+    ]
   },
   {
     "schoolID": "CA-fresno-state",
@@ -23961,7 +24051,64 @@
     "state": "NY",
     "division": "D2",
     "conference": "ECC",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Chris Reardon",
+        "title": "Head Coach",
+        "email": "chris.reardon@qc.cuny.edu",
+        "phone": "718-997-2752",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:42Z"
+      },
+      {
+        "name": "John Smith",
+        "title": "Associate Head Coach",
+        "email": "john.smith@qc.cuny.edu",
+        "phone": "718-997-2752",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:42Z"
+      },
+      {
+        "name": "Alex Nikolic",
+        "title": "Assistant Coach",
+        "email": "Alex.Nikolic@qc.cuny.edu",
+        "phone": "718-997-2752",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:43Z"
+      },
+      {
+        "name": "Carlos Pena",
+        "title": "Assistant Coach",
+        "email": "carlos.pena@qc.cuny.edu",
+        "phone": "718-997-2752",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:42Z"
+      },
+      {
+        "name": "Edward LaMarr",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "718-997-2752",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:43Z"
+      },
+      {
+        "name": "Paul Sasso",
+        "title": "Assistant Coach",
+        "email": "paul.sasso@qc.cuny.edu",
+        "phone": "718-997-2752",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:42Z"
+      },
+      {
+        "name": "Stephen Castro",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:43Z"
+      }
+    ]
   },
   {
     "schoolID": "NC-queens-university-of-charlotte",
@@ -28020,11 +28167,36 @@
     "conference": "SWAC",
     "coaches": [
       {
+        "name": "Chris Crenshaw",
+        "title": "Head Coach",
+        "email": "christopher.crensh@sus.edu",
+        "phone": "225-771-2713",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:40Z"
+      },
+      {
+        "name": "Auntwan Riggins",
+        "title": "Assistant Coach",
+        "email": "auntwan.riggins@sus.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:40Z"
+      },
+      {
+        "name": "Hampton Hudson",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:40Z"
+      },
+      {
         "name": "Wilhelm Allen",
         "title": "Assistant Coach",
         "email": "",
         "phone": "",
-        "twitter": ""
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:41Z"
       }
     ]
   },
@@ -32098,7 +32270,32 @@
     "state": "AR",
     "division": "D2",
     "conference": "Mid-America Intercollegiate Athletic Association",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Todd Holland",
+        "title": "Head Coach",
+        "email": "todd.holland@uafs.edu",
+        "phone": "479-788-7597",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:43Z"
+      },
+      {
+        "name": "Brayden Johnson",
+        "title": "Assistant Coach",
+        "email": "brayden.johnson@uafs.edu",
+        "phone": "479-788-7593",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:44Z"
+      },
+      {
+        "name": "Hunter Wilson",
+        "title": "Assistant Coach",
+        "email": "hunter.wilson@uafs.edu",
+        "phone": "479-788-7593",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:44Z"
+      }
+    ]
   },
   {
     "schoolID": "CT-university-of-bridgeport",
@@ -35670,7 +35867,32 @@
     "state": "MN",
     "division": "D1",
     "conference": "Summit League",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Chris Olean",
+        "title": "Head Coach",
+        "email": "crolean@stthomas.edu",
+        "phone": "651-962-5924",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:41Z"
+      },
+      {
+        "name": "Packy Casey",
+        "title": "Assistant Coach",
+        "email": "packy.casey@stthomas.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:41Z"
+      },
+      {
+        "name": "Tanner Vavra",
+        "title": "Assistant Coach",
+        "email": "tanner.vavra@stthomas.edu",
+        "phone": "651-962-7915",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-05T01:23:41Z"
+      }
+    ]
   },
   {
     "schoolID": "FL-university-of-tampa",

@@ -17704,7 +17704,15 @@
     "state": "PA",
     "division": "D2",
     "conference": "Pennylvania State Athletic Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Andrew Chalot",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "WI-maranatha-baptist-university",

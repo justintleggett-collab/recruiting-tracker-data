@@ -76,9 +76,9 @@
       "linkText": "Click Here",
       "linkURL": "app://settings",
       "startDate": "2026-10-05",
-      "stopDate": "2026-10-07",
+      "stopDate": "2026-10-09",
       "active": true,
-      "color": "Blue"
+      "color": "blue"
     }
   ]
 }

@@ -16848,7 +16848,15 @@
     "state": "MO",
     "division": "D2",
     "conference": "Great Lakes Valley Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Grant Reynolds",
+        "title": "Head Coach",
+        "email": "",
+        "phone": "",
+        "twitter": ""
+      }
+    ]
   },
   {
     "schoolID": "PA-lincoln-university-of-pennsylvania",

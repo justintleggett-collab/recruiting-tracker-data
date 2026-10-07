@@ -5908,7 +5908,40 @@
     "state": "WA",
     "division": "D2",
     "conference": "Great Northwest Athletic Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Aaron Vaughn",
+        "title": "Head Coach",
+        "email": "aaron.vaughn@cwu.edu",
+        "phone": "509-963-3018",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:30:02Z"
+      },
+      {
+        "name": "Ben Reindel",
+        "title": "Assistant Coach / Hitting and Outfield",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:30:03Z"
+      },
+      {
+        "name": "Garrison Becker",
+        "title": "Pitching Coach and Recruiting Coordinator",
+        "email": "garrison.becker@cwu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:30:02Z"
+      },
+      {
+        "name": "Jim Fisher",
+        "title": "Assistant Coach / Catching",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:30:03Z"
+      }
+    ]
   },
   {
     "schoolID": "WY-central-wyoming-college",
@@ -26948,7 +26981,16 @@
     "state": "WV",
     "division": "D2",
     "conference": "Independent Div2",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Kaiden Zacharias",
+        "title": "Head Coach",
+        "email": "kaiden.zacharias@salemu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:30:03Z"
+      }
+    ]
   },
   {
     "schoolID": "MD-salisbury-university",
@@ -30518,7 +30560,48 @@
     "state": "VA",
     "division": "D2",
     "conference": "South Atlantic Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Brandon Costa",
+        "title": "Head Coach",
+        "email": "bc5yf@uvawise.edu",
+        "phone": "276-376-3426",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:30:00Z"
+      },
+      {
+        "name": "Bill Steven",
+        "title": "Recruiting Coordinator / Hitting Coach",
+        "email": "was3r@uvawise.edu",
+        "phone": "276-376-4504",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:30:00Z"
+      },
+      {
+        "name": "Christian Smith",
+        "title": "Assistant Coach / Pitching Coach",
+        "email": "cjs3jg@uvawise.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:30:01Z"
+      },
+      {
+        "name": "Devon Moring",
+        "title": "Assistant Pitching Coach",
+        "email": "dtm3e@uvawise.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:30:01Z"
+      },
+      {
+        "name": "Mike Miller",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:30:00Z"
+      }
+    ]
   },
   {
     "schoolID": "PA-thiel-college",
@@ -35965,7 +36048,48 @@
     "state": "SC",
     "division": "D2",
     "conference": "Peach Belt Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Brian Lewis",
+        "title": "Head Coach",
+        "email": "bl52@uscb.edu",
+        "phone": "843-208-8062",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:29:58Z"
+      },
+      {
+        "name": "Chris Rooney",
+        "title": "Pitching Coach",
+        "email": "cr156@uscb.edu",
+        "phone": "843-208-8053",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:29:59Z"
+      },
+      {
+        "name": "Jacob Pusateri",
+        "title": "Assistant Coach / Catching",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:30:00Z"
+      },
+      {
+        "name": "Oneill Burgos",
+        "title": "Assistant Coach / Hitting",
+        "email": "burgosr@uscb.edu",
+        "phone": "843-208-8089",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:29:59Z"
+      },
+      {
+        "name": "Wesley Ambrose",
+        "title": "Assistant Coach / Infield",
+        "email": "",
+        "phone": "843-208-8053",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:29:59Z"
+      }
+    ]
   },
   {
     "schoolID": "SC-university-of-south-carolina-lancaster",
@@ -38107,7 +38231,40 @@
     "state": "VA",
     "division": "D2",
     "conference": "Independent Div2",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Merrill Morgan",
+        "title": "Head Coach",
+        "email": "mmorgan@vsu.edu",
+        "phone": "804-524-5816",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:30:01Z"
+      },
+      {
+        "name": "Andre Hawkes",
+        "title": "Assistant Coach",
+        "email": "ahawkes@vsu.edu",
+        "phone": "804-524-5816",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:30:01Z"
+      },
+      {
+        "name": "Marcus Morgan",
+        "title": "Assistant Coach",
+        "email": "mlmorgan@vsu.edu",
+        "phone": "804-524-5816",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:30:02Z"
+      },
+      {
+        "name": "Michael Mallory",
+        "title": "Assistant Coach",
+        "email": "mmallory@vsu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-07T17:30:02Z"
+      }
+    ]
   },
   {
     "schoolID": "VA-virginia-tech",

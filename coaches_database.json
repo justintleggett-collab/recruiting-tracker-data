@@ -17297,31 +17297,6 @@
     ]
   },
   {
-    "schoolID": "MO-lincoln-university-of-missouri",
-    "schoolName": "Lincoln University of Missouri",
-    "state": "MO",
-    "division": "D2",
-    "conference": "Great Lakes Valley Conference",
-    "coaches": [
-      {
-        "name": "Grant Reynolds",
-        "title": "Head Coach",
-        "email": "reynoldsg@lincolnu.edu",
-        "phone": "573-681-5337",
-        "twitter": "",
-        "lastVerifiedDate": "2026-10-06T00:05:40Z"
-      },
-      {
-        "name": "Derek Nicholson",
-        "title": "Assistant Coach",
-        "email": "nicholsond@lincolnu.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-10-06T00:05:40Z"
-      }
-    ]
-  },
-  {
     "schoolID": "PA-lincoln-university-of-pennsylvania",
     "schoolName": "Lincoln University of Pennsylvania",
     "state": "PA",
@@ -23715,39 +23690,6 @@
     "division": "D3",
     "conference": "United East Conference",
     "coaches": []
-  },
-  {
-    "schoolID": "PA-pennwest-clarion",
-    "schoolName": "PennWest Clarion",
-    "state": "PA",
-    "division": "D2",
-    "conference": "Pennylvania State Athletic Conference",
-    "coaches": [
-      {
-        "name": "Johnny Poss",
-        "title": "Head Coach",
-        "email": "poss_j@pennwest.edu",
-        "phone": "814-393-1913",
-        "twitter": "",
-        "lastVerifiedDate": "2026-10-06T00:05:48Z"
-      },
-      {
-        "name": "Manuel Silva",
-        "title": "Assistant Coach / Pitching",
-        "email": "silva_m@pennwest.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-10-06T00:05:49Z"
-      },
-      {
-        "name": "Tanner LaBenne",
-        "title": "Assistant Coach",
-        "email": "lab92894@pennwest.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-10-06T00:05:49Z"
-      }
-    ]
   },
   {
     "schoolID": "PA-pennsylvania-college-of-technology",
@@ -31228,55 +31170,6 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": "2026-08-08T00:53:55Z"
-      }
-    ]
-  },
-  {
-    "schoolID": "VA-the-university-of-virginia-s-college-at-wise",
-    "schoolName": "The University of Virginia's College at Wise",
-    "state": "VA",
-    "division": "D2",
-    "conference": "South Atlantic Conference",
-    "coaches": [
-      {
-        "name": "Brandon Costa",
-        "title": "Head Coach",
-        "email": "bc5yf@uvawise.edu",
-        "phone": "276-376-3426",
-        "twitter": "",
-        "lastVerifiedDate": "2026-10-07T17:30:00Z"
-      },
-      {
-        "name": "Bill Steven",
-        "title": "Recruiting Coordinator / Hitting Coach",
-        "email": "was3r@uvawise.edu",
-        "phone": "276-376-4504",
-        "twitter": "",
-        "lastVerifiedDate": "2026-10-07T17:30:00Z"
-      },
-      {
-        "name": "Christian Smith",
-        "title": "Assistant Coach / Pitching Coach",
-        "email": "cjs3jg@uvawise.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-10-07T17:30:01Z"
-      },
-      {
-        "name": "Devon Moring",
-        "title": "Assistant Pitching Coach",
-        "email": "dtm3e@uvawise.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-10-07T17:30:01Z"
-      },
-      {
-        "name": "Mike Miller",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-10-07T17:30:00Z"
       }
     ]
   },

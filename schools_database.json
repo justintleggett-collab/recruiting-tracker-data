@@ -43056,7 +43056,7 @@
     "popularMajors": "Business Administration, Exercise Science, Biology, Communications, Psychology, Education, Criminal Justice, History, Sport Management, English, Mathematics, Sociology",
     "athleticScholarshipLimit": 9.0,
     "stadiumCapacity": 1200,
-    "lastModified": "2026-09-21",
+    "lastModified": "2026-10-08",
     "city": "Clinton",
     "website": "",
     "aliases": "MC, Mississippi College, Choctaws",
@@ -43111,7 +43111,8 @@
       "losses": null,
       "rpiRank": null
     },
-    "headCoachTenureYears": null
+    "headCoachTenureYears": null,
+    "active": false
   },
   {
     "booksAndSupplies": 1400,
@@ -95172,7 +95173,7 @@
   {
     "schoolID": "MS-mississippi-christian-university",
     "schoolName": "Mississippi Christian University",
-    "aliases": "Mississippi Christian",
+    "aliases": "Mississippi Christian, Mississippi College",
     "division": "D2",
     "conference": "Gulf South Conference",
     "city": "Clinton",

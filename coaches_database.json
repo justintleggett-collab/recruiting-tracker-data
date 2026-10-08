@@ -20922,31 +20922,6 @@
     ]
   },
   {
-    "schoolID": "NJ-njit",
-    "schoolName": "NJIT",
-    "state": "",
-    "division": "",
-    "conference": "",
-    "coaches": [
-      {
-        "name": "Robbie McClellan",
-        "title": "Head Coach",
-        "email": "rmcclell@njit.edu",
-        "phone": "973-596-8396",
-        "twitter": "",
-        "lastVerifiedDate": ""
-      },
-      {
-        "name": "Kevin Putsky",
-        "title": "Assistant Coach",
-        "email": "",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": "2026-08-21T03:03:32Z"
-      }
-    ]
-  },
-  {
     "schoolID": "CA-napa-valley-college",
     "schoolName": "Napa Valley College",
     "state": "CA",

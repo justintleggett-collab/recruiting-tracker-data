@@ -14544,7 +14544,24 @@
     "state": "TX",
     "division": "D3",
     "conference": "American Southwest Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Stephen Lynn",
+        "title": "Head Coach",
+        "email": "slynn@hputx.edu",
+        "phone": "325-649-8117",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:38Z"
+      },
+      {
+        "name": "Tony Heiser",
+        "title": "Assistant Coach",
+        "email": "theiser@hputx.edu",
+        "phone": "325-649-8985",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:38Z"
+      }
+    ]
   },
   {
     "schoolID": "DC-howard-university",
@@ -18793,7 +18810,40 @@
     "state": "TX",
     "division": "D3",
     "conference": "American Southwest Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Josh Lee",
+        "title": "Head Coach",
+        "email": "lee.josh@mcm.edu",
+        "phone": "325-793-4651",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:39Z"
+      },
+      {
+        "name": "Boardman Adams",
+        "title": "Assistant Coach / Recruiting",
+        "email": "adams.roderick@mcm.edu",
+        "phone": "325-793-4729",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:39Z"
+      },
+      {
+        "name": "Dirk Saltzgaber",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:39Z"
+      },
+      {
+        "name": "Reed Hodges",
+        "title": "Assistant Coach",
+        "email": "hodges.reed@mcm.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:39Z"
+      }
+    ]
   },
   {
     "schoolID": "LA-mcneese-state-university",
@@ -21025,7 +21075,48 @@
     "state": "PA",
     "division": "D3",
     "conference": "Middle Atlantic Conference Commonwealth",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Scott Grimes",
+        "title": "Head Coach",
+        "email": "grimes@neumann.edu",
+        "phone": "484-840-4720",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:28Z"
+      },
+      {
+        "name": "David Alvarez",
+        "title": "Assistant Coach",
+        "email": "alvarezd@neumann.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:28Z"
+      },
+      {
+        "name": "Jesse Murphy",
+        "title": "Assistant Coach / Director of Player Development",
+        "email": "murphyj@neumann.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:29Z"
+      },
+      {
+        "name": "John Merkh",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "merkhj@neumann.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:29Z"
+      },
+      {
+        "name": "Johnny McGarvey",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:29Z"
+      }
+    ]
   },
   {
     "schoolID": "NH-new-england-college",
@@ -23803,7 +23894,32 @@
     "state": "PA",
     "division": "D3",
     "conference": "Allegheny Mountain Collegiate Conference (AMCC)",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Tim Fabbri",
+        "title": "Head Coach",
+        "email": "tkf5148@psu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:31Z"
+      },
+      {
+        "name": "Sam Homan",
+        "title": "Assistant Coach",
+        "email": "szh5988@psu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:32Z"
+      },
+      {
+        "name": "Tyreke Green",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:32Z"
+      }
+    ]
   },
   {
     "schoolID": "PA-pennsylvania-state-universitypenn-state-berks",
@@ -27959,7 +28075,40 @@
     "state": "TX",
     "division": "D3",
     "conference": "American Southwest Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Ryan Brisbin",
+        "title": "Head Coach",
+        "email": "rsbrisbin@schreiner.edu",
+        "phone": "830-792-7292",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:40Z"
+      },
+      {
+        "name": "Devin Hooper",
+        "title": "Assistant Coach",
+        "email": "dhooper@schreiner.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:40Z"
+      },
+      {
+        "name": "Grant Beaver",
+        "title": "Assistant Coach",
+        "email": "ghbeaver@schreiner.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:40Z"
+      },
+      {
+        "name": "Steven Beck",
+        "title": "Assistant Coach",
+        "email": "sbeck@schreiner.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:40Z"
+      }
+    ]
   },
   {
     "schoolID": "AZ-scottsdale-comm-college",
@@ -31137,7 +31286,56 @@
     "state": "PA",
     "division": "D3",
     "conference": "Presidents' Athletic Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Joe Schaly",
+        "title": "Head Coach",
+        "email": "jschaly@thiel.edu",
+        "phone": "724-589-2138",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:30Z"
+      },
+      {
+        "name": "Chris Mott",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:31Z"
+      },
+      {
+        "name": "Jim Patterson",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:30Z"
+      },
+      {
+        "name": "Joe Mott",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:31Z"
+      },
+      {
+        "name": "Lynn Jones",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:31Z"
+      },
+      {
+        "name": "Tanner Teconchuk",
+        "title": "Assistant Coach",
+        "email": "tteconchuk@thiel.edu",
+        "phone": "724-589-2019",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:30Z"
+      }
+    ]
   },
   {
     "schoolID": "ME-thomas-college",
@@ -36421,7 +36619,32 @@
     "state": "PA",
     "division": "D3",
     "conference": "Landmark Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Mike Bartoletti",
+        "title": "Head Coach",
+        "email": "michael.bartoletti@scranton.edu",
+        "phone": "570-941-5815",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:32Z"
+      },
+      {
+        "name": "Jason Carpenter",
+        "title": "Assistant Coach / Pitching Coach",
+        "email": "jason.carpenter@scranton.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:33Z"
+      },
+      {
+        "name": "Nick Reposa",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "nicholas.reposa@scranton.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:33Z"
+      }
+    ]
   },
   {
     "schoolID": "SD-university-of-sioux-falls",
@@ -38249,7 +38472,48 @@
     "state": "PA",
     "division": "D3",
     "conference": "Centennial Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Kyle Lindsay",
+        "title": "Head Coach",
+        "email": "klindsay@ursinus.edu",
+        "phone": "610-409-3207",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:33Z"
+      },
+      {
+        "name": "Chris Threadgill",
+        "title": "Assistant Coach",
+        "email": "cthreadgill@ursinus.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:33Z"
+      },
+      {
+        "name": "Dylan Runsdorf",
+        "title": "Assistant Coach / Catchers and Bullpen",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:34Z"
+      },
+      {
+        "name": "Rick Harrison",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "rharrison@ursinus.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:34Z"
+      },
+      {
+        "name": "Rod Johnson",
+        "title": "Assistant Coach / Infield and Third Base",
+        "email": "rjohnson@ursinus.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:33Z"
+      }
+    ]
   },
   {
     "schoolID": "UT-utah-state-university-eastern",
@@ -39450,7 +39714,40 @@
     "state": "PA",
     "division": "D3",
     "conference": "Presidents' Athletic Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Tyler Rubasky",
+        "title": "Head Coach",
+        "email": "tyler.rubasky@waynesburg.edu",
+        "phone": "724-852-3229",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:34Z"
+      },
+      {
+        "name": "Bill Stough",
+        "title": "Bench Coach",
+        "email": "wstough@waynesburg.edu",
+        "phone": "724-852-3458",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:34Z"
+      },
+      {
+        "name": "Luke Kiger",
+        "title": "Pitching Coordinator",
+        "email": "lucas.kiger@waynesburg.edu",
+        "phone": "724-852-3247",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:35Z"
+      },
+      {
+        "name": "Pete Stofcheck",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:35Z"
+      }
+    ]
   },
   {
     "schoolID": "TX-weatherford-college",
@@ -40494,7 +40791,48 @@
     "state": "PA",
     "division": "D3",
     "conference": "Middle Atlantic Conference Commonwealth",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Kevin Burdick",
+        "title": "Head Coach",
+        "email": "kjburdick@widener.edu",
+        "phone": "610-499-4446",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:35Z"
+      },
+      {
+        "name": "Jack Colagiovanni",
+        "title": "Assistant Coach / Pitching",
+        "email": "jacolagiovanni@widener.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:36Z"
+      },
+      {
+        "name": "Jared Moore",
+        "title": "Assistant Coach / Infield",
+        "email": "jwmoore1@widener.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:36Z"
+      },
+      {
+        "name": "Jeff McKenna",
+        "title": "Recruiting Coordinator",
+        "email": "jkmckenna@widener.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:36Z"
+      },
+      {
+        "name": "Steve Carr",
+        "title": "Assistant Coach / Catching",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:35Z"
+      }
+    ]
   },
   {
     "schoolID": "PA-wilkes-university",
@@ -40502,7 +40840,72 @@
     "state": "PA",
     "division": "D3",
     "conference": "Landmark Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Mike Guy",
+        "title": "Head Coach",
+        "email": "michael.guy1@wilkes.edu",
+        "phone": "570-408-4032",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:36Z"
+      },
+      {
+        "name": "Alek Conrad",
+        "title": "Assistant Coach",
+        "email": "aleksander.conrad@wilkes.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:38Z"
+      },
+      {
+        "name": "Kevin Johnson",
+        "title": "Assistant Coach",
+        "email": "kevin.johnson2@wilkes.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:37Z"
+      },
+      {
+        "name": "Kyle Ofier",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:37Z"
+      },
+      {
+        "name": "Mark Modrovsky",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:37Z"
+      },
+      {
+        "name": "Paul Zaffutto",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:38Z"
+      },
+      {
+        "name": "Rob Lemoncelli",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:38Z"
+      },
+      {
+        "name": "Trevor Tellip",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T22:32:37Z"
+      }
+    ]
   },
   {
     "schoolID": "OR-willamette-university",

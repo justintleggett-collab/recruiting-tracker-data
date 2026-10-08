@@ -589,7 +589,56 @@
     "state": "PA",
     "division": "D3",
     "conference": "Middle Atlantic Conference Commonwealth",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Yogi Lutz",
+        "title": "Head Coach",
+        "email": "yogi.lutz@alvernia.edu",
+        "phone": "610-796-8476",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:49Z"
+      },
+      {
+        "name": "Andy Gilmer",
+        "title": "Assistant Coach / Bullpen Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:50Z"
+      },
+      {
+        "name": "John O'Mara",
+        "title": "Assistant Coach / Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:49Z"
+      },
+      {
+        "name": "John Reina",
+        "title": "Assistant Coach / Hitting Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:50Z"
+      },
+      {
+        "name": "Ron Schaeffer",
+        "title": "Assistant Coach / Bench Coach",
+        "email": "ronald.schaeffer@alvernia.edu",
+        "phone": "484-529-8192",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:50Z"
+      },
+      {
+        "name": "Todd Louviaux",
+        "title": "Assistant Coach / Outfield Coach",
+        "email": "todd.louviaux@alvernia.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:49Z"
+      }
+    ]
   },
   {
     "schoolID": "TX-alvin-community-college",
@@ -3072,7 +3121,32 @@
     "state": "OH",
     "division": "D3",
     "conference": "Heartland Collegiate Athletic Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "James Grandey",
+        "title": "Head Coach",
+        "email": "grandeyj@bluffton.edu",
+        "phone": "419-358-3292",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:48Z"
+      },
+      {
+        "name": "Tobie Teke",
+        "title": "Assistant Coach",
+        "email": "teket@bluffton.edu",
+        "phone": "812-584-3876",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:49Z"
+      },
+      {
+        "name": "Tom Ryan",
+        "title": "Assistant Coach",
+        "email": "ryant@bluffton.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:48Z"
+      }
+    ]
   },
   {
     "schoolID": "NY-borough-of-manhattan-community-college",
@@ -5407,7 +5481,24 @@
     "state": "PA",
     "division": "D3",
     "conference": "Allegheny Mountain Collegiate Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "James Rice",
+        "title": "Head Coach",
+        "email": "jjrice@carlow.edu",
+        "phone": "412-578-6028",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:50Z"
+      },
+      {
+        "name": "Robert Klinchock",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:51Z"
+      }
+    ]
   },
   {
     "schoolID": "WI-carroll-university",
@@ -6277,7 +6368,48 @@
     "state": "PA",
     "division": "D3",
     "conference": "Presidents' Athletic Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Nic Rush",
+        "title": "Head Coach",
+        "email": "n.rush@chatham.edu",
+        "phone": "412-365-1545",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:51Z"
+      },
+      {
+        "name": "Adam Fine",
+        "title": "Assistant Coach / Mental Performance Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:52Z"
+      },
+      {
+        "name": "Connor Carr-Matthews",
+        "title": "Assistant Coach",
+        "email": "connor.carrmatthews@chatham.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:51Z"
+      },
+      {
+        "name": "Rob Julian",
+        "title": "Pitching Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:51Z"
+      },
+      {
+        "name": "Sam Schuster",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "samuel.schuster@chatham.edu",
+        "phone": "216-386-2498",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:51Z"
+      }
+    ]
   },
   {
     "schoolID": "AL-chattahoochee-valley-community-college",
@@ -6720,12 +6852,28 @@
     "conference": "Pennsylvania State Athletic Conference (PSAC)",
     "coaches": [
       {
-        "name": "Jeff Santicola",
+        "name": "Johnny Poss",
         "title": "Head Coach",
-        "email": "jsanticola@clarion.edu",
-        "phone": "814-393-2372",
+        "email": "poss_j@pennwest.edu",
+        "phone": "814-393-1913",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-10-08T21:14:03Z"
+      },
+      {
+        "name": "Manuel Silva",
+        "title": "Assistant Coach / Pitching",
+        "email": "silva_m@pennwest.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:14:04Z"
+      },
+      {
+        "name": "Tanner LaBenne",
+        "title": "Assistant Coach",
+        "email": "lab92894@pennwest.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:14:04Z"
       }
     ]
   },
@@ -12253,7 +12401,48 @@
     "state": "PA",
     "division": "D3",
     "conference": "Presidents' Athletic Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Alan Sumner",
+        "title": "Head Coach",
+        "email": "awsumner@geneva.edu",
+        "phone": "724-847-6647",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:52Z"
+      },
+      {
+        "name": "Andy Hiskey",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:52Z"
+      },
+      {
+        "name": "Anthony Wuenstel",
+        "title": "Assistant Coach",
+        "email": "arwuenst@geneva.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:52Z"
+      },
+      {
+        "name": "Mark Overmier",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:53Z"
+      },
+      {
+        "name": "Matt Chubb",
+        "title": "Assistant Coach",
+        "email": "mpchubb1@geneva.edu",
+        "phone": "724-847-6127",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:53Z"
+      }
+    ]
   },
   {
     "schoolID": "OR-george-fox-university",
@@ -13229,7 +13418,24 @@
     "state": "PA",
     "division": "D3",
     "conference": "Presidents' Athletic Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Matt Royer",
+        "title": "Head Coach",
+        "email": "msroyer@gcc.edu",
+        "phone": "724-458-2122",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:53Z"
+      },
+      {
+        "name": "Ryan Kalbfus",
+        "title": "Assistant Coach",
+        "email": "kalbfusrc@gcc.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:53Z"
+      }
+    ]
   },
   {
     "schoolID": "NC-guilford-college",
@@ -13311,7 +13517,48 @@
     "state": "PA",
     "division": "D3",
     "conference": "Atlantic East Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Joe Brooks",
+        "title": "Head Coach",
+        "email": "brooks.j@gmercyu.edu",
+        "phone": "215-641-5533",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:54Z"
+      },
+      {
+        "name": "Cooper Root",
+        "title": "Assistant Coach",
+        "email": "root.c@gmercyu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:55Z"
+      },
+      {
+        "name": "Joe Sacco",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:54Z"
+      },
+      {
+        "name": "Lucas Rollins",
+        "title": "Assistant Coach",
+        "email": "rollins.l@gmercyu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:54Z"
+      },
+      {
+        "name": "Sean Doherty",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:54Z"
+      }
+    ]
   },
   {
     "schoolID": "MD-hagerstown-community-college",
@@ -14231,7 +14478,40 @@
     "state": "NY",
     "division": "D3",
     "conference": "Empire 8",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Brian Reitnour",
+        "title": "Head Coach",
+        "email": "brian.reitnour@houghton.edu",
+        "phone": "585-567-9623",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:42Z"
+      },
+      {
+        "name": "Brandon Gettig",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:43Z"
+      },
+      {
+        "name": "Nick Pettit",
+        "title": "Assistant Coach",
+        "email": "nicholas.pettit@houghton.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:43Z"
+      },
+      {
+        "name": "Tom Kenney",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:42Z"
+      }
+    ]
   },
   {
     "schoolID": "TX-houston-christian-university",
@@ -14535,7 +14815,32 @@
     "state": "PA",
     "division": "D3",
     "conference": "Atlantic East Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Josh Copskey",
+        "title": "Head Coach",
+        "email": "jcopskey@immaculata.edu",
+        "phone": "484-323-3736",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:55Z"
+      },
+      {
+        "name": "Dave Raifsnider",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:55Z"
+      },
+      {
+        "name": "Justin Konnick",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:55Z"
+      }
+    ]
   },
   {
     "schoolID": "CA-imperial-valley",
@@ -15642,7 +15947,40 @@
     "state": "NY",
     "division": "D3",
     "conference": "Empire 8",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Matt Michalski",
+        "title": "Head Coach",
+        "email": "mmichalski@keuka.edu",
+        "phone": "315-279-5803",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:43Z"
+      },
+      {
+        "name": "Daniel Steve",
+        "title": "Pitching Coach",
+        "email": "dsteve@keuka.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:44Z"
+      },
+      {
+        "name": "Donald Nemeth",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:44Z"
+      },
+      {
+        "name": "Zach Keck",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:44Z"
+      }
+    ]
   },
   {
     "schoolID": "PA-keystone-college",
@@ -16618,7 +16956,48 @@
     "state": "NY",
     "division": "D3",
     "conference": "City University of New York Athletic Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Chris Delgado",
+        "title": "Head Coach",
+        "email": "christopher.delgado1@lehman.cuny.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:44Z"
+      },
+      {
+        "name": "Dionil Paredes",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:45Z"
+      },
+      {
+        "name": "Efrain Madera",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:45Z"
+      },
+      {
+        "name": "Eric Mercado",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:45Z"
+      },
+      {
+        "name": "Fernando Polanco",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:45Z"
+      }
+    ]
   },
   {
     "schoolID": "NC-lenoir-community-college",
@@ -16877,10 +17256,10 @@
       {
         "name": "Grant Reynolds",
         "title": "Head Coach",
-        "email": "",
-        "phone": "",
+        "email": "reynoldsg@lincolnu.edu",
+        "phone": "573-681-5337",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-03T15:30:11Z"
+        "lastVerifiedDate": "2026-10-08T21:14:02Z"
       },
       {
         "name": "Curtis Vaughan",
@@ -16889,6 +17268,14 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": "2026-07-03T15:54:34Z"
+      },
+      {
+        "name": "Derek Nicholson",
+        "title": "Assistant Coach",
+        "email": "nicholsond@lincolnu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:14:03Z"
       }
     ]
   },
@@ -18135,7 +18522,40 @@
     "state": "PA",
     "division": "D3",
     "conference": "Middle Atlantic Conference Freedom",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Jason Thiel",
+        "title": "Head Coach",
+        "email": "jmthiel@marywood.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:56Z"
+      },
+      {
+        "name": "Jonathan Woytach",
+        "title": "Assistant Coach",
+        "email": "jrwoytach@marywood.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:57Z"
+      },
+      {
+        "name": "Rick Clifford",
+        "title": "Assistant Coach",
+        "email": "rclifford@marywood.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:56Z"
+      },
+      {
+        "name": "Vinny D'Auria",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "vadauria@marywood.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:56Z"
+      }
+    ]
   },
   {
     "schoolID": "MA-massachusetts-college-of-liberal-arts",
@@ -19269,7 +19689,40 @@
     "state": "PA",
     "division": "D3",
     "conference": "Middle Atlantic Conference Freedom",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Pete Egbert",
+        "title": "Head Coach",
+        "email": "pegbert@misericordia.edu",
+        "phone": "570-674-6471",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:57Z"
+      },
+      {
+        "name": "Al Reda",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:57Z"
+      },
+      {
+        "name": "Bill Gregory",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:58Z"
+      },
+      {
+        "name": "Steve Homza",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:57Z"
+      }
+    ]
   },
   {
     "schoolID": "MS-mississippi-christian-university",
@@ -19974,7 +20427,40 @@
     "state": "PA",
     "division": "D3",
     "conference": "Landmark Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Douglas Coe",
+        "title": "Head Coach",
+        "email": "coed@moravian.edu",
+        "phone": "610-625-7502",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:58Z"
+      },
+      {
+        "name": "Cole Cherkas",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:59Z"
+      },
+      {
+        "name": "Jake Carr",
+        "title": "Assistant Coach",
+        "email": "carrj@moravian.edu",
+        "phone": "610-625-7502",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:58Z"
+      },
+      {
+        "name": "Matt Snyder",
+        "title": "Assistant Coach",
+        "email": "snyderm07@moravian.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:59Z"
+      }
+    ]
   },
   {
     "schoolID": "KY-morehead-state-university",
@@ -24735,7 +25221,32 @@
     "state": "NY",
     "division": "D3",
     "conference": "Liberty League",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Jason Falcon",
+        "title": "Head Coach",
+        "email": "falcoj2@rpi.edu",
+        "phone": "518-276-6185",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:46Z"
+      },
+      {
+        "name": "Dillon Maxon",
+        "title": "Assistant Coach",
+        "email": "maxond@rpi.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:46Z"
+      },
+      {
+        "name": "Jordan Bernacet",
+        "title": "Assistant Coach",
+        "email": "bernaj10@rpi.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:46Z"
+      }
+    ]
   },
   {
     "schoolID": "RI-rhode-island-college",
@@ -29113,7 +29624,24 @@
     "state": "NY",
     "division": "D3",
     "conference": "Liberty League",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Kenny Collins",
+        "title": "Head Coach",
+        "email": "kccollins@stlawu.edu",
+        "phone": "315-229-5882",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:47Z"
+      },
+      {
+        "name": "Jackson Sattinger",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:47Z"
+      }
+    ]
   },
   {
     "schoolID": "MO-st-louis-community-college",
@@ -32001,25 +32529,25 @@
         "name": "Bill Steven",
         "title": "Recruiting Coordinator / Hitting Coach",
         "email": "was3r@uvawise.edu",
-        "phone": "",
+        "phone": "276-376-4504",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-25T00:50:03Z"
+        "lastVerifiedDate": "2026-10-08T21:14:01Z"
       },
       {
         "name": "Christian Smith",
         "title": "Assistant Coach / Pitching Coach",
-        "email": "",
+        "email": "cjs3jg@uvawise.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-25T00:50:04Z"
+        "lastVerifiedDate": "2026-10-08T21:14:02Z"
       },
       {
         "name": "Devon Moring",
         "title": "Assistant Pitching Coach / Baseball Operations",
-        "email": "",
+        "email": "dtm3e@uvawise.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-07-25T00:50:03Z"
+        "lastVerifiedDate": "2026-10-08T21:14:02Z"
       },
       {
         "name": "Mike Miller",
@@ -37836,7 +38364,48 @@
     "state": "NY",
     "division": "D3",
     "conference": "Empire 8",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Joe Milazzo",
+        "title": "Head Coach",
+        "email": "jmmilazz@utica.edu",
+        "phone": "315-223-2543",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:47Z"
+      },
+      {
+        "name": "Cory Haggerty",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:47Z"
+      },
+      {
+        "name": "Dan Bollana",
+        "title": "Assistant Coach",
+        "email": "dcbollan@utica.edu",
+        "phone": "315-223-2543",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:47Z"
+      },
+      {
+        "name": "Jack Bono",
+        "title": "Assistant Coach",
+        "email": "bonoj225@gmail.com",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:48Z"
+      },
+      {
+        "name": "Rich Diliberto",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-08T21:13:48Z"
+      }
+    ]
   },
   {
     "schoolID": "GA-valdosta-state-university",

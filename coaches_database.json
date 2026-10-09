@@ -2237,7 +2237,16 @@
     "state": "VA",
     "division": "D3",
     "conference": "Old Dominion Athletic Conf.",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Tyler Mays",
+        "title": "Head Coach",
+        "email": "tmays@vwu.edu",
+        "phone": "757-455-3245",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-09T01:01:53Z"
+      }
+    ]
   },
   {
     "schoolID": "TX-baylor-university",

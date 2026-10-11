@@ -465,5 +465,38 @@
     "sortOrder": 15,
     "dateAdded": "2026-10-04",
     "description": "Bat sensor that turns any bat into a precision tool, with instant swing data to train with purpose and track real progress."
+  },
+  {
+    "id": "kinetic-arm",
+    "contact": {
+      "email": null,
+      "linkedInURL": null,
+      "name": "Kinetic Arm",
+      "title": "Dynamic Arm Support Sleeve",
+      "xHandle": null,
+      "phone": null
+    },
+    "offering": {
+      "code": null,
+      "hasOffering": false,
+      "title": null,
+      "details": null,
+      "expiresAt": null
+    },
+    "description": "Dynamic arm support. More support than a sleeve. More mobility than a brace.",
+    "company": {
+      "logoURL": null,
+      "name": "The Kinetic Arm",
+      "categories": [
+        "products"
+      ],
+      "category": "products",
+      "url": "https://thekineticarm.com/pages/shoulder-brace-elbow-compression-sleeve-for-baseball",
+      "logoSourceURL": null
+    },
+    "isActive": true,
+    "featured": true,
+    "dateAdded": "2026-10-11",
+    "sortOrder": 16
   }
 ]

@@ -9,5 +9,6 @@
   "minAppVersion": "1.0.0",
   "lastUpdated": "2026-10-11",
   "forceReimportVersion": 90,
-  "resources": 16
+  "resources": 16,
+  "resourcesForceReimportVersion": 1
 }

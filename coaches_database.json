@@ -18646,7 +18646,40 @@
     "state": "VA",
     "division": "D3",
     "conference": "Atlantic East Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Mike Cassidy",
+        "title": "Head Coach",
+        "email": "mjcassid@marymount.edu",
+        "phone": "703-284-5966",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-13T01:57:59Z"
+      },
+      {
+        "name": "Alec Reilly",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "703-284-5966",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-13T01:58:00Z"
+      },
+      {
+        "name": "Ryan Mariani",
+        "title": "Assistant Coach",
+        "email": "baseball@marymount.edu",
+        "phone": "703-284-5966",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-13T01:58:00Z"
+      },
+      {
+        "name": "Sam Bender",
+        "title": "Assistant Head Coach",
+        "email": "sbender@marymount.edu",
+        "phone": "703-284-5966",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-13T01:57:59Z"
+      }
+    ]
   },
   {
     "schoolID": "TN-maryville-college",
@@ -29572,7 +29605,32 @@
     "state": "VA",
     "division": "D3",
     "conference": "USA South Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Tyler Cox",
+        "title": "Head Coach",
+        "email": "tyler.cox@svu.edu",
+        "phone": "",
+        "twitter": "https://x.com/CoachCox02",
+        "lastVerifiedDate": "2026-10-13T01:58:00Z"
+      },
+      {
+        "name": "Brandon Alexander",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-13T01:58:01Z"
+      },
+      {
+        "name": "Spenser Davis",
+        "title": "Assistant Coach",
+        "email": "spenser.r.davis@svu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-13T01:58:00Z"
+      }
+    ]
   },
   {
     "schoolID": "SC-southern-wesleyan-university",
@@ -34294,7 +34352,16 @@
     "state": "TX",
     "division": "D3",
     "conference": "Southern Collegiate Athletic Conference",
-    "coaches": []
+    "coaches": [
+      {
+        "name": "Jordan Stickler",
+        "title": "Volunteer Coach",
+        "email": "jsstickler@udallas.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-13T01:57:59Z"
+      }
+    ]
   },
   {
     "schoolID": "OH-university-of-dayton",

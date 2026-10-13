@@ -79,6 +79,16 @@
       "stopDate": "2026-10-09",
       "active": true,
       "color": "blue"
+    },
+    {
+      "id": "ann-009",
+      "message": "Ready for the Off Season? Reach out to Amy Goldsmith, who specializes in Sports Nutrition & helps athletes achieve peak performance through nutrition.  ",
+      "linkText": "Learn More",
+      "linkURL": "app://resource-spotlight",
+      "startDate": "2026-10-12",
+      "stopDate": "2026-10-19",
+      "active": true,
+      "color": "blue"
     }
   ]
 }

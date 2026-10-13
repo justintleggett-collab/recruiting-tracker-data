@@ -1,5 +1,5 @@
 {
-  "schools": 53,
+  "schools": 54,
   "coaches": 155,
   "coachesTotal": 3639,
   "camps": 8,
@@ -8,7 +8,7 @@
   "nilVersion": 3,
   "minAppVersion": "1.0.0",
   "lastUpdated": "2026-10-13",
-  "forceReimportVersion": 93,
+  "forceReimportVersion": 94,
   "resources": 16,
   "resourcesForceReimportVersion": 1
 }

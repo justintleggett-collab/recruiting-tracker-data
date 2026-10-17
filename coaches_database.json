@@ -19729,7 +19729,7 @@
         "email": "",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-10-17T22:31:21Z"
+        "lastVerifiedDate": "2026-10-17T22:36:01Z"
       }
     ]
   },
@@ -39950,6 +39950,14 @@
     "conference": "ACC",
     "coaches": [
       {
+        "name": "Eric Niesen",
+        "title": "Interim Head Coach",
+        "email": "niesenem@wfu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": ""
+      },
+      {
         "name": "Tom Walter",
         "title": "Head Coach",
         "email": "waltert@wfu.edu",
@@ -39964,14 +39972,6 @@
         "phone": "",
         "twitter": "",
         "lastVerifiedDate": "2026-08-03T14:17:43Z"
-      },
-      {
-        "name": "Eric Niesen",
-        "title": "Assistant Coach / Pitching",
-        "email": "niesenem@wfu.edu",
-        "phone": "",
-        "twitter": "",
-        "lastVerifiedDate": ""
       },
       {
         "name": "Matt Morales",

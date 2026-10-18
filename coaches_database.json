@@ -5782,18 +5782,18 @@
       {
         "name": "Pat Hall",
         "title": "Head Coach",
-        "email": "",
-        "phone": "",
+        "email": "hallpac@ccsu.edu",
+        "phone": "860-832-3579",
         "twitter": "",
-        "lastVerifiedDate": "2026-08-03T14:17:02Z"
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
       },
       {
         "name": "Bob Nenna",
         "title": "Assistant Coach",
-        "email": "",
+        "email": "ven_robertn@ccsu.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-08-04T00:19:12Z"
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
       },
       {
         "name": "Rob Bono",
@@ -5806,10 +5806,10 @@
       {
         "name": "Trevor Brown",
         "title": "Assistant Coach",
-        "email": "",
+        "email": "browntd@ccsu.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-10-09T15:12:07Z"
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
       }
     ]
   },
@@ -15037,6 +15037,22 @@
         "phone": "914-633-2319",
         "twitter": "",
         "lastVerifiedDate": "2026-07-24T01:32:59Z"
+      },
+      {
+        "name": "Joe Matarazzo",
+        "title": "Assistant Coach / Outfield",
+        "email": "jmatarazzo@iona.edu",
+        "phone": "914-633-2319",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
+      },
+      {
+        "name": "Robert Cruz",
+        "title": "Assistant Coach",
+        "email": "recruz@iona.edu",
+        "phone": "914-633-2319",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
       }
     ]
   },
@@ -15262,34 +15278,42 @@
       {
         "name": "Travis Creel",
         "title": "Head Coach",
-        "email": "",
-        "phone": "",
+        "email": "tcreel@jsu.edu",
+        "phone": "256-782-5367",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
       },
       {
         "name": "Anthony Izzio",
-        "title": "Recruiting Coordinator",
-        "email": "",
+        "title": "Associate Head Coach / Recruiting Coordinator",
+        "email": "aizzio@jsu.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-08-03T14:17:16Z"
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
       },
       {
         "name": "Danny Lynch",
-        "title": "Hitting Coach",
-        "email": "",
+        "title": "Assistant Coach / Hitting",
+        "email": "dlynch@jsu.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-08-03T14:17:17Z"
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
       },
       {
         "name": "Kyle Serrano",
-        "title": "Pitching Coach",
-        "email": "",
+        "title": "Assistant Coach / Pitching",
+        "email": "kserrano@jsu.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-08-03T14:17:16Z"
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
+      },
+      {
+        "name": "Ethan Payne",
+        "title": "Assistant Coach / Catchers",
+        "email": "ecpayne@jsu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
       }
     ]
   },
@@ -25371,6 +25395,30 @@
         "phone": "203-582-6546",
         "twitter": "",
         "lastVerifiedDate": ""
+      },
+      {
+        "name": "Alex Denoyelle",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "alex.denoyelle@quinnipiac.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
+      },
+      {
+        "name": "Robbie Hitt",
+        "title": "Assistant Coach / Pitching Coach",
+        "email": "robert.hitt@qu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
+      },
+      {
+        "name": "Ryan Caulfield",
+        "title": "Assistant Coach",
+        "email": "",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
       }
     ]
   },
@@ -31166,6 +31214,22 @@
         "phone": "931-372-3853",
         "twitter": "",
         "lastVerifiedDate": ""
+      },
+      {
+        "name": "James Sofield",
+        "title": "Assistant Coach",
+        "email": "jsofield@tntech.edu",
+        "phone": "931-372-3853",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
+      },
+      {
+        "name": "Manny Cervantes",
+        "title": "Assistant Coach",
+        "email": "mcervantes@tntech.edu",
+        "phone": "931-372-3853",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
       }
     ]
   },
@@ -33882,6 +33946,46 @@
         "phone": "501-569-3393",
         "twitter": "",
         "lastVerifiedDate": ""
+      },
+      {
+        "name": "Charles Gravett",
+        "title": "Assistant Coach",
+        "email": "cgravett@ualr.edu",
+        "phone": "501-916-3167",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
+      },
+      {
+        "name": "Evan Lee",
+        "title": "Assistant Coach / Pitching Coach",
+        "email": "exlee2@ualr.edu",
+        "phone": "501-916-3167",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
+      },
+      {
+        "name": "Alex Seguine",
+        "title": "Assistant Coach",
+        "email": "aseguine@ualr.edu",
+        "phone": "501-916-3167",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
+      },
+      {
+        "name": "Angel Cano",
+        "title": "Assistant Coach",
+        "email": "adcano@ualr.edu",
+        "phone": "501-916-3167",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
+      },
+      {
+        "name": "Ryan Lumpkin",
+        "title": "Assistant Coach",
+        "email": "rhlumpkin1@ualr.edu",
+        "phone": "501-916-3167",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
       }
     ]
   },
@@ -36257,18 +36361,18 @@
       {
         "name": "Rob Fournier",
         "title": "Head Coach",
-        "email": "",
+        "email": "robertfournier@omavs.com",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": ""
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
       },
       {
         "name": "Cory Wright",
-        "title": "Pitching Coach",
-        "email": "",
+        "title": "Assistant Coach",
+        "email": "corywright@omavs.com",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-08-03T14:17:27Z"
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
       },
       {
         "name": "Dimitri Haan",
@@ -36280,19 +36384,19 @@
       },
       {
         "name": "Jeff Calhoon",
-        "title": "Hitting Coach",
-        "email": "",
+        "title": "Assistant Coach / Recruiting Coordinator",
+        "email": "jeffreycalhoon@omavs.com",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-08-03T14:17:27Z"
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
       },
       {
         "name": "Zach Gerch",
-        "title": "Hitting Coach",
-        "email": "",
+        "title": "Assistant Coach",
+        "email": "zgerch@omavs.com",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-08-03T14:17:27Z"
+        "lastVerifiedDate": "2026-10-18T01:17:47Z"
       }
     ]
   },

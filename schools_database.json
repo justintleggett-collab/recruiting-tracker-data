@@ -12557,7 +12557,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "New Britain",
-    "lastModified": "2026-09-26",
+    "lastModified": "2026-10-18",
     "website": "https://ccsubluedevils.com",
     "aliases": "CCSU, Central Connecticut",
     "academicHighlights": null,
@@ -12567,7 +12567,7 @@
     "campURL": "",
     "stadiumName": "CCSU Baseball Field",
     "graduationRate": 48.9,
-    "rosterURL": null,
+    "rosterURL": "https://ccsubluedevils.com/sports/bsb/2025-26/roster",
     "enrollment": 7822,
     "schoolName": "Central Connecticut State University",
     "outOfStateTuition": 16550,
@@ -32429,7 +32429,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Washington",
-    "lastModified": "2026-09-27",
+    "lastModified": "2026-10-18",
     "website": "",
     "aliases": "Howard, Bison, HU",
     "academicHighlights": "Premier HBCU in Washington, DC. Strong Business, Communications, and Pre-Med programs. Historically significant institution.",
@@ -32485,7 +32485,8 @@
     },
     "headCoachTenureYears": null,
     "draftPicksAllTime": "",
-    "majorLeaguersAllTime": ""
+    "majorLeaguersAllTime": "",
+    "active": false
   },
   {
     "booksAndSupplies": 1500,
@@ -32804,7 +32805,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Indianapolis",
-    "lastModified": "2026-10-08",
+    "lastModified": "2026-10-18",
     "website": "https://iupuijags.com",
     "aliases": "Indiana University-Purdue University Indianapolis",
     "academicHighlights": null,
@@ -32858,7 +32859,8 @@
       "losses": null,
       "rpiRank": null
     },
-    "headCoachTenureYears": null
+    "headCoachTenureYears": null,
+    "active": false
   },
   {
     "booksAndSupplies": 2400,
@@ -33547,7 +33549,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "New Rochelle",
-    "lastModified": "2026-09-26",
+    "lastModified": "2026-10-18",
     "website": "",
     "aliases": "Iona, Gaels",
     "academicHighlights": null,
@@ -33557,7 +33559,7 @@
     "campURL": "https://www.icgaels.com/sports/baseball/camps",
     "stadiumName": "City Park",
     "graduationRate": 56.7,
-    "rosterURL": null,
+    "rosterURL": "https://ionagaels.com/sports/baseball/roster",
     "enrollment": 2951,
     "schoolName": "Iona University",
     "outOfStateTuition": 47260,
@@ -34297,7 +34299,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Jacksonville",
-    "lastModified": "2026-09-26",
+    "lastModified": "2026-10-18",
     "website": "",
     "aliases": "Jacksonville State, Jax State, JSU, Gamecocks",
     "academicHighlights": "Growing C-USA member. Strong Education and Nursing programs. Regional leader in teacher training for northeast Alabama.",
@@ -34307,7 +34309,7 @@
     "campURL": "https://www.jsugamecocksports.com/sports/baseball/camps",
     "stadiumName": "John Sessions Stadium",
     "graduationRate": 52.9,
-    "rosterURL": null,
+    "rosterURL": "https://jaxstatesports.com/sports/baseball/roster",
     "enrollment": 7036,
     "schoolName": "Jacksonville State University",
     "outOfStateTuition": 23334,
@@ -57130,7 +57132,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Hamden",
-    "lastModified": "2026-09-26",
+    "lastModified": "2026-10-18",
     "website": "https://quinnipiacbobcats.com",
     "aliases": "Quinnipiac",
     "academicHighlights": null,
@@ -57140,7 +57142,7 @@
     "campURL": "",
     "stadiumName": "Quinnipiac Baseball Field",
     "graduationRate": 76.5,
-    "rosterURL": null,
+    "rosterURL": "https://gobobcats.com/sports/baseball/roster",
     "enrollment": 6531,
     "schoolName": "Quinnipiac University",
     "outOfStateTuition": 55480,
@@ -61412,7 +61414,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Loretto",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-10-18",
     "website": "",
     "aliases": "Saint Francis PA, SFU, Red Flash",
     "academicHighlights": null,
@@ -61466,7 +61468,8 @@
       "losses": null,
       "rpiRank": null
     },
-    "headCoachTenureYears": null
+    "headCoachTenureYears": null,
+    "active": false
   },
   {
     "booksAndSupplies": 1000,
@@ -67132,7 +67135,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Cedar City",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-10-18",
     "website": "",
     "aliases": "SUU, Southern Utah, Thunderbirds",
     "academicHighlights": "Strong Outdoor Recreation, Business, and Education programs. Located in Cedar City near national parks. Growing WAC member.",
@@ -67186,7 +67189,8 @@
       "losses": null,
       "rpiRank": null
     },
-    "headCoachTenureYears": null
+    "headCoachTenureYears": null,
+    "active": false
   },
   {
     "retentionRate": 69.0,
@@ -71047,7 +71051,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Cookeville",
-    "lastModified": "2026-09-26",
+    "lastModified": "2026-10-18",
     "website": "",
     "aliases": "Tennessee Tech, TTU, Golden Eagles",
     "academicHighlights": null,
@@ -71057,7 +71061,7 @@
     "campURL": "https://www.ttusports.com/sports/baseball/camps",
     "stadiumName": "Bush Stadium at Averitt Express Baseball Complex",
     "graduationRate": 56.0,
-    "rosterURL": null,
+    "rosterURL": "https://www.ttusports.com/sports/bsb/2026-27/roster",
     "enrollment": 8698,
     "schoolName": "Tennessee Tech University",
     "outOfStateTuition": 15576,
@@ -74439,7 +74443,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Charlotte",
-    "lastModified": "2026-09-26",
+    "lastModified": "2026-10-18",
     "website": "https://www.charlotte.edu",
     "aliases": "UNCC, Charlotte, UNC Charlotte, 49ers, Niners, CLT",
     "academicHighlights": "Strong Engineering, Business, and Computer Science programs. Located in Charlotte — strong banking/finance industry ties.",
@@ -74458,27 +74462,60 @@
     "nilPolicyURL": null,
     "pellGrantRate": 33.9,
     "rosterSnapshot": {
-      "asOf": null,
-      "totalRosterSize": null,
-      "byClass": {
-        "fr": null,
-        "so": null,
-        "jr": null,
-        "sr": null,
-        "gr": null,
-        "fifthYear": null
+      "rosterYear": "2026-27",
+      "asOf": "2026-10-17",
+      "totalRosterSize": 38,
+      "pitchers": {
+        "total": 18,
+        "byClass": {
+          "fr": 0,
+          "so": 0,
+          "jr": 5,
+          "sr": 10,
+          "gr": 0,
+          "fifthYear": 3,
+          "leavingAfterSeason": 13
+        },
+        "rhp": 12,
+        "lhp": 6
       },
-      "byPosition": {
-        "infield": null,
-        "outfield": null,
-        "catcher": null,
-        "rhp": null,
-        "lhp": null,
-        "pitcherUnspecified": null,
-        "utility": null,
-        "twoWay": null,
-        "other": null
-      }
+      "infielders": {
+        "total": 10,
+        "byClass": {
+          "fr": 1,
+          "so": 1,
+          "jr": 3,
+          "sr": 4,
+          "gr": 0,
+          "fifthYear": 1,
+          "leavingAfterSeason": 5
+        }
+      },
+      "outfielders": {
+        "total": 5,
+        "byClass": {
+          "fr": 1,
+          "so": 0,
+          "jr": 3,
+          "sr": 1,
+          "gr": 0,
+          "fifthYear": 0,
+          "leavingAfterSeason": 1
+        }
+      },
+      "catchers": {
+        "total": 5,
+        "byClass": {
+          "fr": 2,
+          "so": 1,
+          "jr": 0,
+          "sr": 1,
+          "gr": 0,
+          "fifthYear": 1,
+          "leavingAfterSeason": 2
+        }
+      },
+      "unclassified": 0
     },
     "draftPicksLast10Years": null,
     "draftHistory": [],
@@ -76290,7 +76327,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Fayetteville",
-    "lastModified": "2026-09-26",
+    "lastModified": "2026-10-18",
     "website": "",
     "aliases": "Arkansas, UA, Razorbacks, Hogs, U of A, UArk, Ark",
     "academicHighlights": "Walton College of Business — #5 Supply Chain Management nationally. Strong Architecture program. Top programs in Agriculture, Kinesiology, and Finance.",
@@ -76300,7 +76337,7 @@
     "campURL": "https://www.arkansasrazorbacks.com/sports/baseball/camps",
     "stadiumName": "Hoglund Ballpark",
     "graduationRate": 70.2,
-    "rosterURL": null,
+    "rosterURL": "https://arkansasrazorbacks.com/sport/m-basebl/roster/",
     "enrollment": 28677,
     "schoolName": "University of Arkansas",
     "outOfStateTuition": 29966,
@@ -76366,7 +76403,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Little Rock",
-    "lastModified": "2026-09-26",
+    "lastModified": "2026-10-18",
     "website": "",
     "aliases": "UALR, Little Rock, UA Little Rock, Trojans, Arkansas Little Rock",
     "academicHighlights": null,
@@ -76376,7 +76413,7 @@
     "campURL": "https://www.littlerocktrojans.com/sports/baseball/camps",
     "stadiumName": "Hoglund Ballpark",
     "graduationRate": 41.5,
-    "rosterURL": null,
+    "rosterURL": "https://lrtrojans.com/sports/baseball/roster?view=table",
     "enrollment": 4949,
     "schoolName": "University of Arkansas at Little Rock",
     "outOfStateTuition": 22158,
@@ -81512,7 +81549,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Omaha",
-    "lastModified": "2026-09-26",
+    "lastModified": "2026-10-18",
     "website": "",
     "aliases": "UNO, Nebraska Omaha, Omaha, Mavericks",
     "academicHighlights": "Strong programs in Business, Aviation, and Information Security. Growing research university in the Omaha metro. UNO Mavericks compete in the Summit League.",
@@ -81522,7 +81559,7 @@
     "campURL": "https://www.omavs.com/sports/baseball/camps",
     "stadiumName": "Haymarket Park",
     "graduationRate": 47.3,
-    "rosterURL": null,
+    "rosterURL": "https://omahamavs.com/sports/baseball/roster",
     "enrollment": 11488,
     "schoolName": "University of Nebraska Omaha",
     "outOfStateTuition": 23206,
@@ -82364,7 +82401,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Grand Forks",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-10-18",
     "website": "",
     "aliases": "UND, North Dakota, Fighting Hawks",
     "academicHighlights": "John D. Odegard School of Aerospace Sciences — the world's most comprehensive aerospace education program. Top programs in Aviation, Commercial Pilot Training, and Space Studies.",
@@ -82418,7 +82455,8 @@
       "losses": null,
       "rpiRank": null
     },
-    "headCoachTenureYears": null
+    "headCoachTenureYears": null,
+    "active": false
   },
   {
     "booksAndSupplies": 1200,
@@ -84145,7 +84183,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Vermillion",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-10-18",
     "website": "",
     "aliases": "USD, South Dakota, Coyotes",
     "academicHighlights": "Strong Business, Health Sciences, and Law programs. Beacom School of Business respected. Only law school and medical school in South Dakota.",
@@ -84199,7 +84237,8 @@
       "losses": null,
       "rpiRank": null
     },
-    "headCoachTenureYears": null
+    "headCoachTenureYears": null,
+    "active": false
   },
   {
     "booksAndSupplies": 770,
@@ -85762,7 +85801,7 @@
     "athleticScholarshipLimit": 34,
     "stadiumCapacity": null,
     "city": "Burlington",
-    "lastModified": "2026-07-28",
+    "lastModified": "2026-10-18",
     "website": "",
     "aliases": "UVM, Vermont, Catamounts",
     "academicHighlights": "National leader in sustainability and environmental studies. Larner College of Medicine strong. Top programs in Environmental Science, Nursing, and Business. Beautiful Burlington campus.",
@@ -85816,7 +85855,8 @@
       "losses": null,
       "rpiRank": null
     },
-    "headCoachTenureYears": null
+    "headCoachTenureYears": null,
+    "active": false
   },
   {
     "booksAndSupplies": 1480,

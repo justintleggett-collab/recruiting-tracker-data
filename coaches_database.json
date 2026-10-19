@@ -9272,10 +9272,10 @@
       {
         "name": "Evan Englebrook",
         "title": "Assistant Coach",
-        "email": "",
+        "email": "englebro@dickinson.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-10-18T21:53:34Z"
+        "lastVerifiedDate": "2026-10-19T04:36:26Z"
       },
       {
         "name": "Jake Warner",
@@ -40088,11 +40088,11 @@
       },
       {
         "name": "Dan Hennigan",
-        "title": "Hitting Coach",
-        "email": "",
+        "title": "Assistant Coach (Hitting)",
+        "email": "hennigd@wfu.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-08-03T14:17:43Z"
+        "lastVerifiedDate": "2026-10-19T04:47:33Z"
       },
       {
         "name": "Matt Morales",
@@ -40104,11 +40104,19 @@
       },
       {
         "name": "Terry Rooney",
-        "title": "Recruiting Coach",
-        "email": "",
+        "title": "Recruiting Coordinator",
+        "email": "rooneyt@wfu.edu",
         "phone": "",
         "twitter": "",
-        "lastVerifiedDate": "2026-08-03T14:17:42Z"
+        "lastVerifiedDate": "2026-10-19T04:47:33Z"
+      },
+      {
+        "name": "Tyler Dawson",
+        "title": "Assistant Coach",
+        "email": "dawsonht@wfu.edu",
+        "phone": "",
+        "twitter": "",
+        "lastVerifiedDate": "2026-10-19T04:47:33Z"
       }
     ]
   },

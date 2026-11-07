@@ -89,6 +89,16 @@
       "stopDate": "2026-10-19",
       "active": true,
       "color": "blue"
+    },
+    {
+      "id": "ann-010",
+      "message": "Have you updated your player profile lately?",
+      "linkText": "Update Now",
+      "linkURL": "app://player-profile",
+      "startDate": "2026-11-06",
+      "stopDate": "2026-11-20",
+      "active": true,
+      "color": "blue"
     }
   ]
 }
